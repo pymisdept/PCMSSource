@@ -1,0 +1,240 @@
+2017-02-24 09:44:25: Check Point: Sub Main
+2017-02-24 09:44:30: Check Point: Company DB: PAY800
+2017-02-24 09:44:30: Check Point: Supplier Payment Cert Header Qeuery:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, WddStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_MRNo From [dbo].[ODRF]  WHERE 
+  ( ObjType = '18') 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           ODRF.DocEntry = [CPSFSP].DocEntry And 	
+	           CPSFSP.ObjType  = '112' And	
+	           ODRF.ObjType  = '18'	And 
+	           ODRF.DocStatus = 'O'	And 
+	           [CPSFSP].ReasonCode='M112' 
+	)	
+   And   
+	Exists(Select 1 From [PAY800].[dbo].[OWDD] 	 
+	       Where	 
+	       [ODRF].DocEntry = [OWDD].[DocEntry] And	 
+	       [OWDD].[Status] = 'W'	 
+	)	 
+
+ 
+2017-02-24 09:44:30: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2017-02-24 09:44:30: Check Point: Setup SAP Transaction
+2017-02-24 09:44:30: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:30: Check Point: Start SAP Transaction
+2017-02-24 09:44:30: Check Point: Setup Flex Transaction
+2017-02-24 09:44:30: Check Point: Start Flex Transaction
+2017-02-24 09:44:30: Check Point: setDraftToAPDocument: 69215
+2017-02-24 09:44:30: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\2bfa663a-c494-4b8f-b309-5296bbc0094e.xml
+2017-02-24 09:44:30: Check Point: Validate Quantity
+2017-02-24 09:44:31: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:31: Check Point: Setup SAP Transaction
+2017-02-24 09:44:31: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:31: Check Point: Start SAP Transaction
+2017-02-24 09:44:31: Check Point: Setup Flex Transaction
+2017-02-24 09:44:31: Check Point: Start Flex Transaction
+2017-02-24 09:44:31: Check Point: setDraftToAPDocument: 69216
+2017-02-24 09:44:31: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\ff8d7c6b-60b3-4b22-aaf1-497b69527791.xml
+2017-02-24 09:44:31: Check Point: Validate Quantity
+2017-02-24 09:44:31: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:31: Check Point: Setup SAP Transaction
+2017-02-24 09:44:31: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:31: Check Point: Start SAP Transaction
+2017-02-24 09:44:31: Check Point: Setup Flex Transaction
+2017-02-24 09:44:31: Check Point: Start Flex Transaction
+2017-02-24 09:44:31: Check Point: setDraftToAPDocument: 69218
+2017-02-24 09:44:31: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\c127f573-7ebe-4adc-a7d7-a2bde5941d5a.xml
+2017-02-24 09:44:31: Check Point: Validate Quantity
+2017-02-24 09:44:31: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:31: Check Point: Setup SAP Transaction
+2017-02-24 09:44:31: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:31: Check Point: Start SAP Transaction
+2017-02-24 09:44:31: Check Point: Setup Flex Transaction
+2017-02-24 09:44:31: Check Point: Start Flex Transaction
+2017-02-24 09:44:31: Check Point: setDraftToAPDocument: 69219
+2017-02-24 09:44:31: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\b363b1b2-ffef-40ca-a11d-98c932cd2569.xml
+2017-02-24 09:44:31: Check Point: Validate Quantity
+2017-02-24 09:44:31: Check Point: setDraftToAPDocument: Success
+2017-02-24 09:44:31: Check Point: NewObjKey: 43334
+2017-02-24 09:44:31: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69219', WddStatus = 'P' Where DocEntry = '43334'
+2017-02-24 09:44:33: Check Point: Setup SAP Transaction
+2017-02-24 09:44:33: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:33: Check Point: Start SAP Transaction
+2017-02-24 09:44:33: Check Point: Setup Flex Transaction
+2017-02-24 09:44:33: Check Point: Start Flex Transaction
+2017-02-24 09:44:33: Check Point: setDraftToAPDocument: 69222
+2017-02-24 09:44:33: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\7e78b404-0a74-4b0b-89d7-2f3a0cd4cda2.xml
+2017-02-24 09:44:33: Check Point: Validate Quantity
+2017-02-24 09:44:34: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:34: Check Point: Setup SAP Transaction
+2017-02-24 09:44:34: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:34: Check Point: Start SAP Transaction
+2017-02-24 09:44:34: Check Point: Setup Flex Transaction
+2017-02-24 09:44:34: Check Point: Start Flex Transaction
+2017-02-24 09:44:34: Check Point: setDraftToAPDocument: 69223
+2017-02-24 09:44:34: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\f7b40c4f-b692-4fca-9dc7-21aee31f00f1.xml
+2017-02-24 09:44:34: Check Point: Validate Quantity
+2017-02-24 09:44:34: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:34: Check Point: Setup SAP Transaction
+2017-02-24 09:44:34: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:34: Check Point: Start SAP Transaction
+2017-02-24 09:44:34: Check Point: Setup Flex Transaction
+2017-02-24 09:44:34: Check Point: Start Flex Transaction
+2017-02-24 09:44:34: Check Point: setDraftToAPDocument: 69224
+2017-02-24 09:44:34: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\197cc64a-81c6-4938-807c-cf13d5cd580e.xml
+2017-02-24 09:44:34: Check Point: Validate Quantity
+2017-02-24 09:44:34: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:34: Check Point: Setup SAP Transaction
+2017-02-24 09:44:34: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:34: Check Point: Start SAP Transaction
+2017-02-24 09:44:34: Check Point: Setup Flex Transaction
+2017-02-24 09:44:34: Check Point: Start Flex Transaction
+2017-02-24 09:44:34: Check Point: setDraftToAPDocument: 69225
+2017-02-24 09:44:34: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\9134fbb4-1d92-4f01-b2fb-c7ebc0b4b9fa.xml
+2017-02-24 09:44:35: Check Point: Validate Quantity
+2017-02-24 09:44:35: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:35: Check Point: Setup SAP Transaction
+2017-02-24 09:44:35: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:35: Check Point: Start SAP Transaction
+2017-02-24 09:44:35: Check Point: Setup Flex Transaction
+2017-02-24 09:44:35: Check Point: Start Flex Transaction
+2017-02-24 09:44:35: Check Point: setDraftToAPDocument: 69227
+2017-02-24 09:44:35: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\88e6c79b-c033-43b0-9098-81125d16a133.xml
+2017-02-24 09:44:35: Check Point: Validate Quantity
+2017-02-24 09:44:35: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:35: Check Point: Setup SAP Transaction
+2017-02-24 09:44:35: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:35: Check Point: Start SAP Transaction
+2017-02-24 09:44:35: Check Point: Setup Flex Transaction
+2017-02-24 09:44:35: Check Point: Start Flex Transaction
+2017-02-24 09:44:35: Check Point: setDraftToAPDocument: 69228
+2017-02-24 09:44:35: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\600e54bd-cf60-4950-ba8e-362e44677b8d.xml
+2017-02-24 09:44:35: Check Point: Validate Quantity
+2017-02-24 09:44:35: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:35: Check Point: Setup SAP Transaction
+2017-02-24 09:44:35: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:35: Check Point: Start SAP Transaction
+2017-02-24 09:44:35: Check Point: Setup Flex Transaction
+2017-02-24 09:44:35: Check Point: Start Flex Transaction
+2017-02-24 09:44:35: Check Point: setDraftToAPDocument: 69229
+2017-02-24 09:44:35: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\2195d74c-0cab-4d87-a97e-d612cd1e48ca.xml
+2017-02-24 09:44:36: Check Point: Validate Quantity
+2017-02-24 09:44:36: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:36: Check Point: Setup SAP Transaction
+2017-02-24 09:44:36: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:36: Check Point: Start SAP Transaction
+2017-02-24 09:44:36: Check Point: Setup Flex Transaction
+2017-02-24 09:44:36: Check Point: Start Flex Transaction
+2017-02-24 09:44:36: Check Point: setDraftToAPDocument: 69231
+2017-02-24 09:44:36: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\e217ebf3-4456-485a-919e-3c991f820115.xml
+2017-02-24 09:44:36: Check Point: Validate Quantity
+2017-02-24 09:44:36: Check Point: setDraftToAPDocument: Failure
+2017-02-24 09:44:36: Check Point: Setup SAP Transaction
+2017-02-24 09:44:36: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:36: Check Point: Start SAP Transaction
+2017-02-24 09:44:36: Check Point: Setup Flex Transaction
+2017-02-24 09:44:36: Check Point: Start Flex Transaction
+2017-02-24 09:44:36: Check Point: setDraftToAPDocument: 69232
+2017-02-24 09:44:36: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\16080fd7-2550-407f-b98e-40b70247438a.xml
+2017-02-24 09:44:36: Check Point: Validate Quantity
+2017-02-24 09:44:36: Check Point: setDraftToAPDocument: Success
+2017-02-24 09:44:36: Check Point: NewObjKey: 43334
+2017-02-24 09:44:36: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69232', WddStatus = 'P' Where DocEntry = '43334'
+2017-02-24 09:44:38: Check Point: Setup SAP Transaction
+2017-02-24 09:44:38: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:38: Check Point: Start SAP Transaction
+2017-02-24 09:44:38: Check Point: Setup Flex Transaction
+2017-02-24 09:44:38: Check Point: Start Flex Transaction
+2017-02-24 09:44:38: Check Point: setDraftToAPDocument: 69234
+2017-02-24 09:44:38: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\15d1c0b7-4147-40b9-a008-663b41738aa6.xml
+2017-02-24 09:44:38: Check Point: Validate Quantity
+2017-02-24 09:44:39: Check Point: setDraftToAPDocument: Success
+2017-02-24 09:44:39: Check Point: NewObjKey: 43334
+2017-02-24 09:44:39: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69234', WddStatus = 'P' Where DocEntry = '43334'
+2017-02-24 09:44:41: Check Point: Setup SAP Transaction
+2017-02-24 09:44:41: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:41: Check Point: Start SAP Transaction
+2017-02-24 09:44:41: Check Point: Setup Flex Transaction
+2017-02-24 09:44:41: Check Point: Start Flex Transaction
+2017-02-24 09:44:41: Check Point: setDraftToAPDocument: 69236
+2017-02-24 09:44:41: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\a4b3f74c-7acd-4d18-88d5-c696e307d73c.xml
+2017-02-24 09:44:41: Check Point: Validate Quantity
+2017-02-24 09:44:41: Check Point: setDraftToAPDocument: Success
+2017-02-24 09:44:41: Check Point: NewObjKey: 43334
+2017-02-24 09:44:41: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69236', WddStatus = 'P' Where DocEntry = '43334'
+2017-02-24 09:44:43: Check Point: Setup SAP Transaction
+2017-02-24 09:44:43: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:43: Check Point: Start SAP Transaction
+2017-02-24 09:44:43: Check Point: Setup Flex Transaction
+2017-02-24 09:44:43: Check Point: Start Flex Transaction
+2017-02-24 09:44:43: Check Point: Setup SAP Transaction
+2017-02-24 09:44:43: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:43: Check Point: Start SAP Transaction
+2017-02-24 09:44:43: Check Point: Setup Flex Transaction
+2017-02-24 09:44:43: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Setup SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup StartTransaction:False
+2017-02-24 09:44:44: Check Point: Start SAP Transaction
+2017-02-24 09:44:44: Check Point: Setup Flex Transaction
+2017-02-24 09:44:44: Check Point: Start Flex Transaction
+2017-02-24 09:44:44: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2017-02-24 09:44:44: Check Point: Supplier Payment Cert, Import_Reject SQL Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2017-02-24 09:44:44: Check Point: Export Log To Text Files

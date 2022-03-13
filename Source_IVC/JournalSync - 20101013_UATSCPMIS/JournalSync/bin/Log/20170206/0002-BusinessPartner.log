@@ -1,0 +1,65 @@
+*******************************************************************
+Job name: Business Parnter Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2017-02-06 17:13:17Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[ZUR01Z00S]  - Frozen Module
+
+
+[ZUR01Z00C]  - Frozen Module
+
+2017-02-06 17:13:17Z: Process Record: [ZUR01Z00], Success
+
+[PER99Z00S]  - Update Module
+
+
+[PER99Z00C]  - Update Module
+
+2017-02-06 17:13:17Z: Process Record: [PER99Z00], Success
+
+[CIT21Z00S]  - Update Module
+
+
+[CIT21Z00C]  - Update Module
+
+2017-02-06 17:13:17Z: Process Record: [CIT21Z00], Success
+
+[WAI30Z00S]  - Update Module
+
+
+[WAI30Z00C]  - Update Module
+
+2017-02-06 17:13:17Z: Process Record: [WAI30Z00], Success
+
+[CHI91Z00S]  - Create Module
+
+
+[CHI91Z00C]  - Create Module
+
+2017-02-06 17:13:17Z: Process Record: [CHI91Z00], Success
+
+[CHI91Z00S]  - Update Module
+
+
+[CHI91Z00C]  - Update Module
+
+2017-02-06 17:13:17Z: Process Record: [CHI91Z00], Success
+
+
+
+No of records process: 6
+No of records success: 6
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2017-02-06 17:13:17Z
+Job Complete [Success]
+*******************************************************************
+

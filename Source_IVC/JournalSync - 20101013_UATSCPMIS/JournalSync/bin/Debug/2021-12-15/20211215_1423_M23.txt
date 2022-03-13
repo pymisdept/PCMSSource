@@ -1,0 +1,22 @@
+2021-12-15 14:23:04: Check Point: Setup SAP Transaction
+2021-12-15 14:23:04: Check Point: Setup StartTransaction:False
+2021-12-15 14:23:10: Check Point: Start SAP Transaction
+2021-12-15 14:23:10: Check Point: Setup Flex Transaction
+2021-12-15 14:23:10: Check Point: Project BQ:Docentry
+2021-12-15 14:23:10: Check Point: Project BQ:DocEntry:496
+2021-12-15 14:23:10: Check Point: Project BQ:Create Document
+2021-12-15 14:23:16: Check Point: Sales Quotation: CreateDocument
+2021-12-15 14:23:25: Check Point: Sales Quotation: Execute
+2021-12-15 14:23:30: Check Point: Sales Quotation: Header Level
+2021-12-15 14:23:30: Check Point: Sales Quotation: Line Level
+2021-12-15 14:23:38: Check Point: Sales Quotation: Line Level Counts: 2
+2021-12-15 14:23:38: Check Point: Sales Quotation: Base Document Infomation
+2021-12-15 14:23:38: Check Point: Sales Quotation: BaseEntry: 0
+2021-12-15 14:23:38: Check Point: Sales Quotation: BaseType: 0
+2021-12-15 14:23:38: Check Point: Sales Quotation: BaseLine: 0
+2021-12-15 14:23:56: Check Point: Sales Quotation: Item Information
+2021-12-15 14:23:56: Check Point: Sales Quotation: Ship Date
+2021-12-15 14:23:56: Check Point: Sales Quotation: Account
+2021-12-15 14:23:56: Check Point: Sales Quotation: Currency
+2021-12-15 14:23:56: Check Point: Sales Quotation: Project
+2021-12-15 14:23:56: Check Point: Sales Quotation: User Definded Fields

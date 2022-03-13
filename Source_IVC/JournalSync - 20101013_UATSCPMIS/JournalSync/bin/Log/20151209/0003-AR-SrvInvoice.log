@@ -1,0 +1,69 @@
+*******************************************************************
+Job name: A/R Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2015-12-09 17:03:29Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+2015-12-09 17:03:29Z: Process Record: [[EXPORT]AR 1834], Success
+2015-12-09 17:03:29Z: Process Record: [[EXPORT]AR 1833], Exception
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [[EXPORT]AR 1833]
+Exception Detail: 
+
+System Operation - Process Exception
+System Check Point: PCMS_PROCESS
+System Error code: -999
+System Error message: System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.PTVOU' with unique index 'PTVOU001'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at CPS.DI.Interface.Connection.Process(String pSqlStr)
+
+Detail Description: --------------------
+Unable to Process [Advance] Query
+--------------------------------------------
+INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2015-12-14 00:00:00',N'O',N'2',N'2015-12-14 00:00:00',N'220',N'1',N'GENERAL JOURNAL',N'GJ',N'CR010000',N'94004I1H/48M01Z00001',N'EC1',N'C000001833',N'C',N'HKD',N'220',N'48M01Z00',N'48M01Z00C 94004I1H/48M01Z00/001',N'94004I1H/48M01Z00001',N'94004I1H')--------------------------------------------
+
+----------------------------------------
+-------------------------------------------------------------------
+
+No of records process: 2
+No of records success: 1
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2015-12-09 17:03:29Z
+Job Complete [Failure]
+*******************************************************************
+

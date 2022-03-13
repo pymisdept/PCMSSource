@@ -1,0 +1,196 @@
+2015-12-21 05:17:03: Check Point: Supplier Payment Cert Header Qeuery:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, WddStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_MRNo From [dbo].[ODRF]  WHERE 
+  ( ObjType = '18') 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           ODRF.DocEntry = [CPSFSP].DocEntry And 	
+	           CPSFSP.ObjType  = '112' And	
+	           ODRF.ObjType  = '18'	And 
+	           ODRF.DocStatus = 'O'	And 
+	           [CPSFSP].ReasonCode='M112' 
+	)	
+   And   
+	Exists(Select 1 From [PAY800].[dbo].[OWDD] 	 
+	       Where	 
+	       [ODRF].DocEntry = [OWDD].[DocEntry] And	 
+	       [OWDD].[Status] = 'W'	 
+	)	 
+
+ 
+2015-12-21 05:17:03: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2015-12-21 05:17:03: Check Point: Setup SAP Transaction
+2015-12-21 05:17:03: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:03: Check Point: Start SAP Transaction
+2015-12-21 05:17:03: Check Point: Setup Flex Transaction
+2015-12-21 05:17:03: Check Point: Start Flex Transaction
+2015-12-21 05:17:04: Check Point: setDraftToAPDocument: 66881
+2015-12-21 05:17:04: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\db3066b0-5b6e-4b00-8724-8c08d5ade8ee.xml
+2015-12-21 05:17:06: Check Point: Setup SAP Transaction
+2015-12-21 05:17:06: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:06: Check Point: Start SAP Transaction
+2015-12-21 05:17:06: Check Point: Setup Flex Transaction
+2015-12-21 05:17:06: Check Point: Start Flex Transaction
+2015-12-21 05:17:06: Check Point: Setup SAP Transaction
+2015-12-21 05:17:06: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:06: Check Point: Start SAP Transaction
+2015-12-21 05:17:06: Check Point: Setup Flex Transaction
+2015-12-21 05:17:06: Check Point: Start Flex Transaction
+2015-12-21 05:17:06: Check Point: Setup SAP Transaction
+2015-12-21 05:17:06: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:06: Check Point: Start SAP Transaction
+2015-12-21 05:17:06: Check Point: Setup Flex Transaction
+2015-12-21 05:17:06: Check Point: Start Flex Transaction
+2015-12-21 05:17:07: Check Point: Setup SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:07: Check Point: Start SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup Flex Transaction
+2015-12-21 05:17:07: Check Point: Start Flex Transaction
+2015-12-21 05:17:07: Check Point: Setup SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:07: Check Point: Start SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup Flex Transaction
+2015-12-21 05:17:07: Check Point: Start Flex Transaction
+2015-12-21 05:17:07: Check Point: Setup SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:07: Check Point: Start SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup Flex Transaction
+2015-12-21 05:17:07: Check Point: Start Flex Transaction
+2015-12-21 05:17:07: Check Point: Setup SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:07: Check Point: Start SAP Transaction
+2015-12-21 05:17:07: Check Point: Setup Flex Transaction
+2015-12-21 05:17:07: Check Point: Start Flex Transaction
+2015-12-21 05:17:08: Check Point: Setup SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:08: Check Point: Start SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup Flex Transaction
+2015-12-21 05:17:08: Check Point: Start Flex Transaction
+2015-12-21 05:17:08: Check Point: Setup SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:08: Check Point: Start SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup Flex Transaction
+2015-12-21 05:17:08: Check Point: Start Flex Transaction
+2015-12-21 05:17:08: Check Point: Setup SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:08: Check Point: Start SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup Flex Transaction
+2015-12-21 05:17:08: Check Point: Start Flex Transaction
+2015-12-21 05:17:08: Check Point: Setup SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:08: Check Point: Start SAP Transaction
+2015-12-21 05:17:08: Check Point: Setup Flex Transaction
+2015-12-21 05:17:08: Check Point: Start Flex Transaction
+2015-12-21 05:17:09: Check Point: Setup SAP Transaction
+2015-12-21 05:17:09: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:09: Check Point: Start SAP Transaction
+2015-12-21 05:17:09: Check Point: Setup Flex Transaction
+2015-12-21 05:17:09: Check Point: Start Flex Transaction
+2015-12-21 05:17:09: Check Point: Setup SAP Transaction
+2015-12-21 05:17:09: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:09: Check Point: Start SAP Transaction
+2015-12-21 05:17:09: Check Point: Setup Flex Transaction
+2015-12-21 05:17:09: Check Point: Start Flex Transaction
+2015-12-21 05:17:09: Check Point: Setup SAP Transaction
+2015-12-21 05:17:09: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:09: Check Point: Start SAP Transaction
+2015-12-21 05:17:09: Check Point: Setup Flex Transaction
+2015-12-21 05:17:09: Check Point: Start Flex Transaction
+2015-12-21 05:17:10: Check Point: Setup SAP Transaction
+2015-12-21 05:17:10: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:10: Check Point: Start SAP Transaction
+2015-12-21 05:17:10: Check Point: Setup Flex Transaction
+2015-12-21 05:17:10: Check Point: Start Flex Transaction
+2015-12-21 05:17:10: Check Point: Setup SAP Transaction
+2015-12-21 05:17:10: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:10: Check Point: Start SAP Transaction
+2015-12-21 05:17:10: Check Point: Setup Flex Transaction
+2015-12-21 05:17:10: Check Point: Start Flex Transaction
+2015-12-21 05:17:10: Check Point: Setup SAP Transaction
+2015-12-21 05:17:10: Check Point: Setup StartTransaction:False
+2015-12-21 05:17:10: Check Point: Start SAP Transaction
+2015-12-21 05:17:10: Check Point: Setup Flex Transaction
+2015-12-21 05:17:10: Check Point: Start Flex Transaction
+2015-12-21 05:17:10: Check Point: Export Log To Text Files
+2015-12-21 05:17:41: Check Point: Get SubCOnstInoice Query:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppDAP, U_AppRefundDAP, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag From [dbo].[PRE_OPCH] WHERE 
+  (( ObjType = '18') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+
+	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+
+2015-12-21 05:17:41: Check Point: Sub-Contact Payment Cert Import Posted Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'S%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000020846'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10007/01P01/001
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10007/01P01/001' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000020849'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10007/01P01/003
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10007/01P01/003' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000020854'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10002/SC001/001
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10002/SC001/001' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000020856'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10002/SC001/002
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10002/SC001/002' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000020857'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10002/SC001/003
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10002/SC001/003' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000020858'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10002/SC002/001
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10002/SC002/001' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000020864'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10009/SC004/001
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10009/SC004/001' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Sub-Contact Payment Cert Import Posted Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'T%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000020860'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10002/SC002/001
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10002/SC002/001' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0
+2015-12-21 05:17:41: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000020862'
+2015-12-21 05:17:41: Check Point: SubCon-Temp-1
+2015-12-21 05:17:41: Check Point: SubCon-Temp-2 : SIT10007/01P01/003
+2015-12-21 05:17:41: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10007/01P01/003' and DocStatus = 'PPFA'
+2015-12-21 05:17:41: Check Point: SubCon-Test2 : 0

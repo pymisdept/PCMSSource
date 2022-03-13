@@ -1,0 +1,21 @@
+2019-09-19 19:10:02: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2019-09-19 19:10:02: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2019-09-19 19:10:11: Check Point: Supplier Payment Cert, Import_Reject SQL Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+

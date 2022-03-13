@@ -1,0 +1,378 @@
+2016-09-08 10:52:04: Check Point: Company DB: PAY800
+2016-09-08 10:52:04: Check Point: Supplier Payment Cert Header Qeuery:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, WddStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_MRNo From [dbo].[ODRF]  WHERE 
+  ( ObjType = '18') 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           ODRF.DocEntry = [CPSFSP].DocEntry And 	
+	           CPSFSP.ObjType  = '112' And	
+	           ODRF.ObjType  = '18'	And 
+	           ODRF.DocStatus = 'O'	And 
+	           [CPSFSP].ReasonCode='M112' 
+	)	
+   And   
+	Exists(Select 1 From [PAY800].[dbo].[OWDD] 	 
+	       Where	 
+	       [ODRF].DocEntry = [OWDD].[DocEntry] And	 
+	       [OWDD].[Status] = 'W'	 
+	)	 
+
+ 
+2016-09-08 10:52:04: Check Point: Setup SAP Transaction
+2016-09-08 10:52:04: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:04: Check Point: Start SAP Transaction
+2016-09-08 10:52:04: Check Point: Setup Flex Transaction
+2016-09-08 10:52:04: Check Point: Start Flex Transaction
+2016-09-08 10:52:04: Check Point: Supplier Payment Cert Detail Qeuery:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, INMPrice, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, StockSum, U_RefNum, U_FullDesc From [dbo].[DRF1]  WHERE 
+  (( DocEntry = '69247') 
+ AND ( ObjType = '18')) 
+
+ 
+2016-09-08 10:52:04: Check Point: JournalSync.Interface.Synchronization Start
+2016-09-08 10:52:04: Check Point: JournalSync.Interface.Synchronization End
+2016-09-08 10:52:04: Check Point: CompanyCode
+2016-09-08 10:52:04: Check Point: H91
+2016-09-08 10:52:04: Check Point: pImport.DocumentNo
+2016-09-08 10:52:04: Check Point: SIT10022/001001
+2016-09-08 10:52:04: Check Point: pImport.LineNo
+2016-09-08 10:52:04: Check Point: 2
+2016-09-08 10:52:04: Check Point: pImport.BatchID
+2016-09-08 10:52:04: Check Point: M000069247
+2016-09-08 10:52:04: Check Point: pImport.VoucherType
+2016-09-08 10:52:04: Check Point: GJ
+2016-09-08 10:52:04: Check Point:  pImport.VoucherDate
+2016-09-08 10:52:04: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:04: Check Point: pImport.Description
+2016-09-08 10:52:04: Check Point: GENERAL JOURNAL
+2016-09-08 10:52:04: Check Point: pImport.AcctCode
+2016-09-08 10:52:04: Check Point: CB050000
+2016-09-08 10:52:04: Check Point: PLA04Z00
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: SIT10022
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 24M21000
+2016-09-08 10:52:04: Check Point: AnalysisCode1
+2016-09-08 10:52:04: Check Point: AnalysisCode2
+2016-09-08 10:52:04: Check Point: AnalysisCode3
+2016-09-08 10:52:04: Check Point: AnalysisCode4
+2016-09-08 10:52:04: Check Point: AnalysisCode5
+2016-09-08 10:52:04: Check Point: pImport.DocumentNo
+2016-09-08 10:52:04: Check Point: SIT10022/001001
+2016-09-08 10:52:04: Check Point: pImport.AltDocNumber
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: Length smaller or equal than 20 chars
+2016-09-08 10:52:04: Check Point: pImport.DocType
+2016-09-08 10:52:04: Check Point: O
+2016-09-08 10:52:04: Check Point: pImport.DocDate
+2016-09-08 10:52:04: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:04: Check Point: pImport.DocDueDate
+2016-09-08 10:52:04: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:04: Check Point: pImport.Currency
+2016-09-08 10:52:04: Check Point: HKD
+2016-09-08 10:52:04: Check Point: pImport.Amount
+2016-09-08 10:52:04: Check Point: 60000
+2016-09-08 10:52:04: Check Point: Particular
+2016-09-08 10:52:04: Check Point: Steel H-pile & SSP SSP type KSP-IA
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: ExtendedAnalysis
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: 
+2016-09-08 10:52:04: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'SIT10022/001001', N'2', N'M000069247', N'GJ', '20160908 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'PLA04Z00', N'SIT10022', N'24M21000', N'SIT10022/001001', N'O', '20160908 00:00:00.000', '20160908 00:00:00.000', N'HKD', N'D', N'60000', N'60000', N'1', N'0', N'Steel H-pile & SSP SSP type KSP-IA' ) 
+2016-09-08 10:52:04: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2016-09-08 00:00:00',N'Steel H-pile & SSP SSP type KSP-IA',N'1',N'2',N'M000069247',N'60000',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'SIT10022/001001',N'H91',N'O',N'D',N'2016-09-08 00:00:00',N'HKD',N'60000',N'PLA04Z00',N'SIT10022/001001',N'2016-09-08 00:00:00',N'SIT10022')
+2016-09-08 10:52:04: Check Point: Flex Connection: False
+2016-09-08 10:52:05: Check Point: JournalSync.Interface.Synchronization Start
+2016-09-08 10:52:05: Check Point: JournalSync.Interface.Synchronization End
+2016-09-08 10:52:05: Check Point: CompanyCode
+2016-09-08 10:52:05: Check Point: H91
+2016-09-08 10:52:05: Check Point: pImport.DocumentNo
+2016-09-08 10:52:05: Check Point: SIT10022/001001
+2016-09-08 10:52:05: Check Point: pImport.LineNo
+2016-09-08 10:52:05: Check Point: 3
+2016-09-08 10:52:05: Check Point: pImport.BatchID
+2016-09-08 10:52:05: Check Point: M000069247
+2016-09-08 10:52:05: Check Point: pImport.VoucherType
+2016-09-08 10:52:05: Check Point: GJ
+2016-09-08 10:52:05: Check Point:  pImport.VoucherDate
+2016-09-08 10:52:05: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:05: Check Point: pImport.Description
+2016-09-08 10:52:05: Check Point: GENERAL JOURNAL
+2016-09-08 10:52:05: Check Point: pImport.AcctCode
+2016-09-08 10:52:05: Check Point: TPP
+2016-09-08 10:52:05: Check Point: PLA04Z00
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: SIT10022
+2016-09-08 10:52:05: Check Point: SC026000
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: AnalysisCode1
+2016-09-08 10:52:05: Check Point: AnalysisCode2
+2016-09-08 10:52:05: Check Point: AnalysisCode3
+2016-09-08 10:52:05: Check Point: AnalysisCode4
+2016-09-08 10:52:05: Check Point: AnalysisCode5
+2016-09-08 10:52:05: Check Point: pImport.DocumentNo
+2016-09-08 10:52:05: Check Point: SIT10022/001001
+2016-09-08 10:52:05: Check Point: pImport.AltDocNumber
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: Length smaller or equal than 20 chars
+2016-09-08 10:52:05: Check Point: pImport.DocType
+2016-09-08 10:52:05: Check Point: O
+2016-09-08 10:52:05: Check Point: pImport.DocDate
+2016-09-08 10:52:05: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:05: Check Point: pImport.DocDueDate
+2016-09-08 10:52:05: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:05: Check Point: pImport.Currency
+2016-09-08 10:52:05: Check Point: HKD
+2016-09-08 10:52:05: Check Point: pImport.Amount
+2016-09-08 10:52:05: Check Point: 5640
+2016-09-08 10:52:05: Check Point: Particular
+2016-09-08 10:52:05: Check Point: Steel H-pile & SSP SSP type YSP IV
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: ExtendedAnalysis
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'SIT10022/001001', N'3', N'M000069247', N'GJ', '20160908 00:00:00.000', N'GENERAL JOURNAL', N'TPP', N'PLA04Z00', N'SIT10022', N'SC026000', N'SIT10022/001001', N'O', '20160908 00:00:00.000', '20160908 00:00:00.000', N'HKD', N'D', N'5640', N'5640', N'1', N'0', N'Steel H-pile & SSP SSP type YSP IV' ) 
+2016-09-08 10:52:05: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2016-09-08 00:00:00',N'O',N'3',N'2016-09-08 00:00:00',N'5640',N'1',N'GENERAL JOURNAL',N'GJ',N'TPP',N'SIT10022/001001',N'H91',N'M000069247',N'D',N'SC026000',N'HKD',N'5640',N'PLA04Z00',N'Steel H-pile & SSP SSP type YSP IV',N'SIT10022/001001',N'2016-09-08 00:00:00',N'SIT10022')
+2016-09-08 10:52:05: Check Point: Flex Connection: False
+2016-09-08 10:52:05: Check Point: CompanyCode
+2016-09-08 10:52:05: Check Point: H91
+2016-09-08 10:52:05: Check Point: pImport.DocumentNo
+2016-09-08 10:52:05: Check Point: SIT10022/001001
+2016-09-08 10:52:05: Check Point: pImport.LineNo
+2016-09-08 10:52:05: Check Point: 1
+2016-09-08 10:52:05: Check Point: pImport.BatchID
+2016-09-08 10:52:05: Check Point: M000069247
+2016-09-08 10:52:05: Check Point: pImport.VoucherType
+2016-09-08 10:52:05: Check Point: GJ
+2016-09-08 10:52:05: Check Point:  pImport.VoucherDate
+2016-09-08 10:52:05: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:05: Check Point: pImport.Description
+2016-09-08 10:52:05: Check Point: GENERAL JOURNAL
+2016-09-08 10:52:05: Check Point: pImport.AcctCode
+2016-09-08 10:52:05: Check Point: TPAPLA04
+2016-09-08 10:52:05: Check Point: PLA04Z00
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: SIT10022
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: AnalysisCode1
+2016-09-08 10:52:05: Check Point: AnalysisCode2
+2016-09-08 10:52:05: Check Point: AnalysisCode3
+2016-09-08 10:52:05: Check Point: AnalysisCode4
+2016-09-08 10:52:05: Check Point: AnalysisCode5
+2016-09-08 10:52:05: Check Point: pImport.DocumentNo
+2016-09-08 10:52:05: Check Point: SIT10022/001001
+2016-09-08 10:52:05: Check Point: pImport.AltDocNumber
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: pImport.DocType
+2016-09-08 10:52:05: Check Point: O
+2016-09-08 10:52:05: Check Point: pImport.DocDate
+2016-09-08 10:52:05: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:05: Check Point: pImport.DocDueDate
+2016-09-08 10:52:05: Check Point: 9/8/2016 12:00:00 AM
+2016-09-08 10:52:05: Check Point: pImport.Currency
+2016-09-08 10:52:05: Check Point: HKD
+2016-09-08 10:52:05: Check Point: pImport.Amount
+2016-09-08 10:52:05: Check Point: 65640
+2016-09-08 10:52:05: Check Point: Particular
+2016-09-08 10:52:05: Check Point: PA No. 001
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: ExtendedAnalysis
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: 
+2016-09-08 10:52:05: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'SIT10022/001001', N'1', N'M000069247', N'GJ', '20160908 00:00:00.000', N'GENERAL JOURNAL', N'TPAPLA04', N'PLA04Z00', N'SIT10022', N'SIT10022/001001', N'O', '20160908 00:00:00.000', '20160908 00:00:00.000', N'HKD', N'C', N'65640', N'65640', N'1', N'0', N'PA No. 001' ) 
+2016-09-08 10:52:05: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2016-09-08 00:00:00',N'O',N'1',N'2016-09-08 00:00:00',N'65640',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAPLA04',N'SIT10022/001001',N'H91',N'M000069247',N'C',N'HKD',N'65640',N'PLA04Z00',N'PA No. 001',N'SIT10022/001001',N'2016-09-08 00:00:00',N'SIT10022')
+2016-09-08 10:52:05: Check Point: Flex Connection: False
+2016-09-08 10:52:05: Check Point: Supplier Payment Cert Export
+2016-09-08 10:52:05: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2016-09-08 10:52:05: Check Point: Setup SAP Transaction
+2016-09-08 10:52:05: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:05: Check Point: Start SAP Transaction
+2016-09-08 10:52:05: Check Point: Setup Flex Transaction
+2016-09-08 10:52:05: Check Point: Start Flex Transaction
+2016-09-08 10:52:05: Check Point: setDraftToAPDocument: 69215
+2016-09-08 10:52:05: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\3d8843e2-d397-4f8a-9d0c-0aa965efdd18.xml
+2016-09-08 10:52:05: Check Point: Validate Quantity
+2016-09-08 10:52:05: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:05: Check Point: Setup SAP Transaction
+2016-09-08 10:52:05: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:05: Check Point: Start SAP Transaction
+2016-09-08 10:52:05: Check Point: Setup Flex Transaction
+2016-09-08 10:52:05: Check Point: Start Flex Transaction
+2016-09-08 10:52:05: Check Point: setDraftToAPDocument: 69216
+2016-09-08 10:52:05: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\6b6d5667-b613-4aa4-adb8-b02ed2190563.xml
+2016-09-08 10:52:05: Check Point: Validate Quantity
+2016-09-08 10:52:05: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:06: Check Point: Setup SAP Transaction
+2016-09-08 10:52:06: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:06: Check Point: Start SAP Transaction
+2016-09-08 10:52:06: Check Point: Setup Flex Transaction
+2016-09-08 10:52:06: Check Point: Start Flex Transaction
+2016-09-08 10:52:06: Check Point: setDraftToAPDocument: 69218
+2016-09-08 10:52:06: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\72b68a30-0216-49f2-b60c-3fa088a925e9.xml
+2016-09-08 10:52:06: Check Point: Validate Quantity
+2016-09-08 10:52:06: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:06: Check Point: Setup SAP Transaction
+2016-09-08 10:52:06: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:06: Check Point: Start SAP Transaction
+2016-09-08 10:52:06: Check Point: Setup Flex Transaction
+2016-09-08 10:52:06: Check Point: Start Flex Transaction
+2016-09-08 10:52:06: Check Point: setDraftToAPDocument: 69219
+2016-09-08 10:52:06: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\51422bee-7cbc-42e3-91c8-707753b3b943.xml
+2016-09-08 10:52:06: Check Point: Validate Quantity
+2016-09-08 10:52:06: Check Point: setDraftToAPDocument: Success
+2016-09-08 10:52:06: Check Point: NewObjKey: 43306
+2016-09-08 10:52:06: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69219', WddStatus = 'P' Where DocEntry = '43306'
+2016-09-08 10:52:08: Check Point: Setup SAP Transaction
+2016-09-08 10:52:08: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:08: Check Point: Start SAP Transaction
+2016-09-08 10:52:08: Check Point: Setup Flex Transaction
+2016-09-08 10:52:08: Check Point: Start Flex Transaction
+2016-09-08 10:52:08: Check Point: setDraftToAPDocument: 69222
+2016-09-08 10:52:08: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\4a3784fb-8cf4-4814-afc4-a0af7407cf26.xml
+2016-09-08 10:52:08: Check Point: Validate Quantity
+2016-09-08 10:52:08: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:09: Check Point: Setup SAP Transaction
+2016-09-08 10:52:09: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:09: Check Point: Start SAP Transaction
+2016-09-08 10:52:09: Check Point: Setup Flex Transaction
+2016-09-08 10:52:09: Check Point: Start Flex Transaction
+2016-09-08 10:52:09: Check Point: setDraftToAPDocument: 69223
+2016-09-08 10:52:09: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\4afd553a-c465-4a6a-b7a7-bcb6cdcf101d.xml
+2016-09-08 10:52:09: Check Point: Validate Quantity
+2016-09-08 10:52:09: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:09: Check Point: Setup SAP Transaction
+2016-09-08 10:52:09: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:09: Check Point: Start SAP Transaction
+2016-09-08 10:52:09: Check Point: Setup Flex Transaction
+2016-09-08 10:52:09: Check Point: Start Flex Transaction
+2016-09-08 10:52:09: Check Point: setDraftToAPDocument: 69224
+2016-09-08 10:52:09: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\5a79a2d4-06af-4e24-930a-03a034292b2f.xml
+2016-09-08 10:52:09: Check Point: Validate Quantity
+2016-09-08 10:52:09: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:09: Check Point: Setup SAP Transaction
+2016-09-08 10:52:09: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:09: Check Point: Start SAP Transaction
+2016-09-08 10:52:09: Check Point: Setup Flex Transaction
+2016-09-08 10:52:09: Check Point: Start Flex Transaction
+2016-09-08 10:52:09: Check Point: setDraftToAPDocument: 69225
+2016-09-08 10:52:09: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\73458f44-052d-41d1-99b2-09f58789271a.xml
+2016-09-08 10:52:09: Check Point: Validate Quantity
+2016-09-08 10:52:10: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:10: Check Point: Setup SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:10: Check Point: Start SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup Flex Transaction
+2016-09-08 10:52:10: Check Point: Start Flex Transaction
+2016-09-08 10:52:10: Check Point: setDraftToAPDocument: 69227
+2016-09-08 10:52:10: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\3438ebab-5c48-4bc3-9c50-29bfef3c19c0.xml
+2016-09-08 10:52:10: Check Point: Validate Quantity
+2016-09-08 10:52:10: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:10: Check Point: Setup SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:10: Check Point: Start SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup Flex Transaction
+2016-09-08 10:52:10: Check Point: Start Flex Transaction
+2016-09-08 10:52:10: Check Point: setDraftToAPDocument: 69228
+2016-09-08 10:52:10: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\26c927b5-ea81-4698-991d-0961231cd480.xml
+2016-09-08 10:52:10: Check Point: Validate Quantity
+2016-09-08 10:52:10: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:10: Check Point: Setup SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:10: Check Point: Start SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup Flex Transaction
+2016-09-08 10:52:10: Check Point: Start Flex Transaction
+2016-09-08 10:52:10: Check Point: setDraftToAPDocument: 69229
+2016-09-08 10:52:10: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\d7e4009a-89b4-4e31-8357-57777947a010.xml
+2016-09-08 10:52:10: Check Point: Validate Quantity
+2016-09-08 10:52:10: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:10: Check Point: Setup SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:10: Check Point: Start SAP Transaction
+2016-09-08 10:52:10: Check Point: Setup Flex Transaction
+2016-09-08 10:52:10: Check Point: Start Flex Transaction
+2016-09-08 10:52:11: Check Point: setDraftToAPDocument: 69231
+2016-09-08 10:52:11: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\67602662-3481-4f3d-b3f0-32ca4144f48d.xml
+2016-09-08 10:52:11: Check Point: Validate Quantity
+2016-09-08 10:52:11: Check Point: setDraftToAPDocument: Failure
+2016-09-08 10:52:11: Check Point: Setup SAP Transaction
+2016-09-08 10:52:11: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:11: Check Point: Start SAP Transaction
+2016-09-08 10:52:11: Check Point: Setup Flex Transaction
+2016-09-08 10:52:11: Check Point: Start Flex Transaction
+2016-09-08 10:52:11: Check Point: setDraftToAPDocument: 69232
+2016-09-08 10:52:11: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\b5a51473-8b46-4400-90b7-743c8ecbf2b6.xml
+2016-09-08 10:52:11: Check Point: Validate Quantity
+2016-09-08 10:52:11: Check Point: setDraftToAPDocument: Success
+2016-09-08 10:52:11: Check Point: NewObjKey: 43306
+2016-09-08 10:52:11: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69232', WddStatus = 'P' Where DocEntry = '43306'
+2016-09-08 10:52:13: Check Point: Setup SAP Transaction
+2016-09-08 10:52:13: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:13: Check Point: Start SAP Transaction
+2016-09-08 10:52:13: Check Point: Setup Flex Transaction
+2016-09-08 10:52:13: Check Point: Start Flex Transaction
+2016-09-08 10:52:13: Check Point: setDraftToAPDocument: 69234
+2016-09-08 10:52:13: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\0d610ff1-5df0-498c-86d4-e3f38a0fba23.xml
+2016-09-08 10:52:13: Check Point: Validate Quantity
+2016-09-08 10:52:14: Check Point: setDraftToAPDocument: Success
+2016-09-08 10:52:14: Check Point: NewObjKey: 43306
+2016-09-08 10:52:14: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69234', WddStatus = 'P' Where DocEntry = '43306'
+2016-09-08 10:52:16: Check Point: Setup SAP Transaction
+2016-09-08 10:52:16: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:16: Check Point: Start SAP Transaction
+2016-09-08 10:52:16: Check Point: Setup Flex Transaction
+2016-09-08 10:52:16: Check Point: Start Flex Transaction
+2016-09-08 10:52:16: Check Point: setDraftToAPDocument: 69236
+2016-09-08 10:52:16: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\31978012-db99-4a4a-a29a-6ecaaa960866.xml
+2016-09-08 10:52:16: Check Point: Validate Quantity
+2016-09-08 10:52:16: Check Point: setDraftToAPDocument: Success
+2016-09-08 10:52:16: Check Point: NewObjKey: 43306
+2016-09-08 10:52:16: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69236', WddStatus = 'P' Where DocEntry = '43306'
+2016-09-08 10:52:18: Check Point: Setup SAP Transaction
+2016-09-08 10:52:18: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:18: Check Point: Start SAP Transaction
+2016-09-08 10:52:18: Check Point: Setup Flex Transaction
+2016-09-08 10:52:18: Check Point: Start Flex Transaction
+2016-09-08 10:52:18: Check Point: Setup SAP Transaction
+2016-09-08 10:52:18: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:18: Check Point: Start SAP Transaction
+2016-09-08 10:52:18: Check Point: Setup Flex Transaction
+2016-09-08 10:52:18: Check Point: Start Flex Transaction
+2016-09-08 10:52:18: Check Point: Setup SAP Transaction
+2016-09-08 10:52:18: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:18: Check Point: Start SAP Transaction
+2016-09-08 10:52:18: Check Point: Setup Flex Transaction
+2016-09-08 10:52:18: Check Point: Start Flex Transaction
+2016-09-08 10:52:19: Check Point: Setup SAP Transaction
+2016-09-08 10:52:19: Check Point: Setup StartTransaction:False
+2016-09-08 10:52:19: Check Point: Start SAP Transaction
+2016-09-08 10:52:19: Check Point: Setup Flex Transaction
+2016-09-08 10:52:19: Check Point: Start Flex Transaction
+2016-09-08 10:52:19: Check Point: Export Log To Text Files

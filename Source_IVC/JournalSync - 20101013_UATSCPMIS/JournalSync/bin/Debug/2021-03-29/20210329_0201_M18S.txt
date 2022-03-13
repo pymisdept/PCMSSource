@@ -1,0 +1,6 @@
+2021-03-29 02:01:52: Check Point: Setup SAP Transaction
+2021-03-29 02:01:52: Check Point: Setup StartTransaction:False
+2021-03-29 02:01:52: Check Point: Start SAP Transaction
+2021-03-29 02:01:52: Check Point: Setup Flex Transaction
+2021-03-29 02:01:52: Check Point: Start Flex Transaction
+2021-03-29 02:01:58: Check Point: LN 601, TO Error Table

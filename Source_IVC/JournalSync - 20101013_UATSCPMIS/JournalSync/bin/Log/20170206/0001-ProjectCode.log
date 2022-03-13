@@ -1,0 +1,111 @@
+*******************************************************************
+Job name: Project Code Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2017-02-06 17:08:34Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[10001AAA]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [10001AAA], Success
+
+[10001BBB]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [10001BBB], Success
+
+[10002AAA]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [10002AAA], Success
+
+[19050B3H]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [19050B3H], Success
+
+[SIT10088]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [SIT10088], Success
+
+[XXXXXXXX]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [XXXXXXXX], Success
+
+[11040B3H]  - Create Module
+
+2017-02-06 17:08:34Z: Process Record: [11040B3H], Success
+
+[19047C3H]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [19047C3H], Success
+
+[99977CBH]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [99977CBH], Success
+
+[99977CBH]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [99977CBH], Success
+
+[99978CBH]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [99978CBH], Success
+
+[BLG00001]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [BLG00001], Success
+
+[BLG00001]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [BLG00001], Success
+
+[CVL00005]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [CVL00005], Success
+
+[FDN00001]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [FDN00001], Success
+
+[RIB00001]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [RIB00001], Success
+
+[SIT10024]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [SIT10024], Success
+
+[SIT10025]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [SIT10025], Success
+
+[SIT10099]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [SIT10099], Success
+
+[XXXXXXXX]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [XXXXXXXX], Success
+
+[RIB00002]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [RIB00002], Success
+
+[RIB00003]  - Update Module
+
+2017-02-06 17:08:34Z: Process Record: [RIB00003], Success
+
+
+
+No of records process: 22
+No of records success: 22
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2017-02-06 17:08:34Z
+Job Complete [Success]
+*******************************************************************
+

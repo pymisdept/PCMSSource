@@ -1,0 +1,33 @@
+*******************************************************************
+Job name: Purchase Order (SAP)
+Argument: Server Batch Job
+Start Time: 2018-04-17 14:59:25Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[POSTED] Create New Purchase Order in SAP System.
+
+2018-04-17 14:59:25Z: Process Record: [56384], Failure
+
+Failure Record:
+-------------------------------------------------------------------
+Process Record: [56384]
+Error Reason: 
+Invalid value  [OPOR.DocRate]
+-------------------------------------------------------------------
+
+
+No of records process: 1
+No of records success: 0
+No of records skip: 0
+No of records fail: 1
+
+End Time: 2018-04-17 14:59:25Z
+Job Complete [Failure]
+*******************************************************************
+

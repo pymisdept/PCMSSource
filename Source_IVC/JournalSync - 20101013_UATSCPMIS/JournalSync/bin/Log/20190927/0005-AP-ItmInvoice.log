@@ -1,0 +1,58 @@
+*******************************************************************
+Job name: A/P Item Invoice with Approval Procedure Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2019-09-27 11:05:16Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.52.126
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[ExAcctCode] Get SubConBQ Info (Project Code: 03065B1H, Account Code: CC.SC002)
+
+2019-09-27 11:05:16Z: Process Record: [[EXPORT]AP 88657], Success
+2019-09-27 11:05:16Z: Process Record: [[EXPORT]AP 88658], Success
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Item Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[ERROR] Reject the document draft from backend table in SAP.
+
+
+[ERROR] ----------------------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+
+[REJECT] ----------------------------------------------------
+
+
+[DELETE] Batch Delete Accepted Document by Flex
+
+
+[DELETE] --------------------------------------------------
+
+
+
+
+No of records process: 2
+No of records success: 2
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2019-09-27 11:05:16Z
+Job Complete [Success]
+*******************************************************************
+

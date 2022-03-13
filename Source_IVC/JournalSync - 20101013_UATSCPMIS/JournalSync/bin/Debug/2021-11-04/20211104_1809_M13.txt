@@ -1,0 +1,10 @@
+2021-11-04 18:09:39: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'C%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2021-11-04 18:09:39: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005132'
+2021-11-04 18:09:39: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '03042BCM/048' and DocStatus = 'PPFA'
+2021-11-04 18:09:39: Check Point: Test2 : 1

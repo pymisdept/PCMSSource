@@ -1,0 +1,106 @@
+2016-05-30 12:27:00: Check Point: Sub Main
+2016-05-30 12:27:05: Check Point: Company DB: PAY800
+2016-05-30 12:27:05: Check Point: Client Payment Cert Header:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag From [dbo].[PRE_OINV]  WHERE 
+  (( ObjType = '13') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OINV.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OINV.ObjType  = [CPSFSP].ObjType	
+	)	
+	AND PRE_OINV.DocStatus  = 'O'
+
+
+2016-05-30 12:27:05: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'C%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2016-05-30 12:27:05: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010051'
+2016-05-30 12:27:05: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10009/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010052'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10018/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010053'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10018/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010055'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10022/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010060'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010061'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010063'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010066'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010067'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010070'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010071'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10023/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010072'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '99999CBH/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010075'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010077'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010079'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010081'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/003' and DocStatus = 'PPFA'
+2016-05-30 12:27:06: Check Point: Test2 : 0
+2016-05-30 12:27:06: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'D%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2016-05-30 12:27:06: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000001831'
+2016-05-30 12:27:06: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '94004I1H/JES01Z00/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010054'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10018/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010057'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '13016B3H/010' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010058'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '13016B3H/009' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010062'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010064'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010065'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010068'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010069'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:07: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010078'
+2016-05-30 12:27:07: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/002' and DocStatus = 'PPFA'
+2016-05-30 12:27:07: Check Point: Test2 : 0
+2016-05-30 12:27:56: Check Point: Sub Main

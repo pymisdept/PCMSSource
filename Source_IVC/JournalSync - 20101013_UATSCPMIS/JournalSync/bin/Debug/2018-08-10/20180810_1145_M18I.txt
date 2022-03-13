@@ -1,0 +1,6 @@
+2018-08-10 11:45:29: Check Point: Sub Main
+2018-08-10 11:45:29: Check Point: 0A
+2018-08-10 11:45:29: Check Point: 0B
+2018-08-10 11:45:29: Check Point: 0C
+2018-08-10 11:45:29: Check Point: E:\Source\JournalSync - 20101013\JournalSync\bin\
+2018-08-10 11:45:29: Check Point: 0D

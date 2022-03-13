@@ -1,0 +1,740 @@
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\x86\Debug\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\x86\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\Debug\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\bin\Debug\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090923\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\bin\Debug\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090924\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\bin\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\bin\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\bin\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\bin\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\bin\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090929\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\bin\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\bin\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\bin\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\bin\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\bin\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\bin\JournalSync.exe.config
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\bin\JournalSync.exe
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\bin\JournalSync.pdb
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\bin\JournalSync.xml
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\bin\DI Library (Console).dll
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\bin\Interop.SAPbobsCOM.dll
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\Personal Folder\Jesse\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\bin\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\bin\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\bin\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\bin\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\bin\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091014\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091110\JournalSync\bin\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091110\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091110\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091110\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091110\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091110\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\bin\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\bin\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\bin\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\bin\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\bin\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091111\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\bin\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\bin\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\bin\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\bin\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\bin\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091113\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091201\JournalSync\bin\JournalSync.exe.config
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091201\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091203\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091204\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091212\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20091216\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091216\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091216\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091216\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091216\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091216\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091217\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091218\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091224\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20091228\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100104\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100119\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100120\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100121\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100125\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100127\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100128\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100129\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.exe.config
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.exe
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.pdb
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.xml
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\bin\DI Library (Console).dll
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Personal Folder\Karrson\Project\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.exe.config
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\JournalSync - 20100129_Revised\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.exe
+D:\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.pdb
+D:\JournalSync - 20100129_Revised\JournalSync\bin\JournalSync.xml
+D:\JournalSync - 20100129_Revised\JournalSync\bin\DI Library (Console).dll
+D:\JournalSync - 20100129_Revised\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100204\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100228\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100314\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100324\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100411\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100418\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100419\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100422\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100503\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100509\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100515\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100526\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.exe.config
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.exe
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.pdb
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.xml
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\DI Library (Console).dll
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.exe.config
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.exe
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.pdb
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\JournalSync.xml
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin\DI Library (Console).dll
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\bin\DI Library (Console).dll
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\Project\PaulY\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\DI Library (Console).dll
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+\\10.1.1.125\f$\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+\\10.1.1.125\f$\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+\\10.1.1.125\f$\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+\\10.1.1.125\f$\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+\\10.1.1.125\f$\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+\\10.1.1.125\f$\Programming Source\PaulY_Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+E:\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+E:\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+E:\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+E:\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+E:\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+E:\Program\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+E:\Program\JournalSync - 20101013\JournalSync\bin\DI Library (Console).dll
+E:\Program\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+E:\Program\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+E:\Program\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\Program\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\DI Library (Console).dll
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\PCMS_ProgramSource\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+F:\Temp\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+F:\Temp\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+F:\Temp\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+F:\Temp\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+F:\Temp\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+F:\Temp\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+F:\Temp\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+F:\Temp\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\Program\JournalSync - 20101013_20130123\JournalSync\bin\JournalSync.exe.config
+E:\Program\JournalSync - 20101013_20130123\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\Program\JournalSync - 20101013_20130123\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+E:\Program\JournalSync - 20101013_20130123\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\Program\JournalSync - 20101013_20130123\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\Program\JournalSync - 20101013_20130123\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Source\JournalSync - 20101013_production\JournalSync\bin\JournalSync.exe.config
+D:\Source\JournalSync - 20101013_production\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Source\JournalSync - 20101013_production\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Source\JournalSync - 20101013_production\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Source\JournalSync - 20101013_production\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Source\JournalSync - 20101013_production\JournalSync\obj\x86\Debug\JournalSync.pdb
+D:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+D:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+D:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+D:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+D:\Source\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+D:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+E:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+E:\Source\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+E:\Source\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\Source\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\Source\JournalSync - 20101013\JournalSync\bin\DI Library (Console).dll
+E:\Source\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+E:\Source\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\DI Library (Console).dll
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.exe.config
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.exe
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.pdb
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\JournalSync.xml
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\DI Library (Console).dll
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\Interop.SAPbobsCOM.dll
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\DI Library (Console).pdb
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\DI Library (Console).xml
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\JournalSync.exe.config
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\JournalSync.vbproj.ResolveComReference.cache
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\JournalSync.exe
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\JournalSync.xml
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\JournalSync.pdb
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\JournalSync.exe
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\JournalSync.pdb
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\JournalSync.xml
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\DI Library (Console).dll
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Interop.SAPbobsCOM.dll
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\DI Library (Console).pdb
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\DI Library (Console).xml
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\JournalSync.Resources.resources
+E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\x86\Debug\JournalSync.vbproj.GenerateResource.Cache

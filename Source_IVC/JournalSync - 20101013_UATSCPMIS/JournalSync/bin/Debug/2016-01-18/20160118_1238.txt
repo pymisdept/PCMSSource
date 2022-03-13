@@ -1,0 +1,10 @@
+2016-01-18 12:38:02: Check Point: Test2 : 1
+2016-01-18 12:38:06: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '80922E1H/001' and DocStatus = 'PPFA'
+2016-01-18 12:38:21: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '80922E1H/001' and DocStatus = 'PPFA'
+2016-01-18 12:38:26: Check Point: Setup SAP Transaction
+2016-01-18 12:38:26: Check Point: Setup StartTransaction:False
+2016-01-18 12:38:27: Check Point: Start SAP Transaction
+2016-01-18 12:38:29: Check Point: Setup Flex Transaction
+2016-01-18 12:38:30: Check Point: Start Flex Transaction
+2016-01-18 12:38:38: Check Point: Entry : 1987   N
+2016-01-18 12:38:40: Check Point: Insert CPSFIN End

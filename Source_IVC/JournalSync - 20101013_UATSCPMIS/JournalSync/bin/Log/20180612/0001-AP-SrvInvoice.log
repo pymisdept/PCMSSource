@@ -1,0 +1,53 @@
+*******************************************************************
+Job name: A/P Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2018-06-12 14:55:39Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[ERROR] Error the document draft from backend table in SAP.
+
+
+[ERROR] ----------------------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+
+[REJECT] ----------------------------------------------------
+
+
+
+
+No of records process: 0
+No of records success: 0
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2018-06-12 14:55:39Z
+Job Complete [Success]
+*******************************************************************
+

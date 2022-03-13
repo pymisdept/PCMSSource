@@ -1,0 +1,1688 @@
+2021-03-29 12:24:02: Check Point: Company DB: PAY800
+2021-03-29 12:24:03: Check Point: Get SubCOnstInoice Query:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppDAP, U_AppRefundDAP, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag, U_GSTPrcnt, U_AppGST, U_CumGST From [dbo].[PRE_OPCH] WHERE 
+  (( ObjType = '18') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+ AND PRE_OPCH.DocTotal <> 0
+
+	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+ AND PRE_OPCH.DocTotal <> 0
+
+2021-03-29 12:24:03: Check Point: Setup SAP Transaction
+2021-03-29 12:24:03: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:03: Check Point: Start SAP Transaction
+2021-03-29 12:24:03: Check Point: Setup Flex Transaction
+2021-03-29 12:24:03: Check Point: Start Flex Transaction
+2021-03-29 12:24:03: Check Point: SubCon Detail Count: 6
+2021-03-29 12:24:03: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:03: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:03: Check Point: CompanyCode
+2021-03-29 12:24:03: Check Point: E51
+2021-03-29 12:24:03: Check Point: pImport.DocumentNo
+2021-03-29 12:24:03: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:03: Check Point: pImport.LineNo
+2021-03-29 12:24:03: Check Point: 2
+2021-03-29 12:24:03: Check Point: pImport.BatchID
+2021-03-29 12:24:03: Check Point: S000093006
+2021-03-29 12:24:03: Check Point: pImport.VoucherType
+2021-03-29 12:24:03: Check Point: GJ
+2021-03-29 12:24:03: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:03: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:03: Check Point: pImport.Description
+2021-03-29 12:24:03: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:03: Check Point: pImport.AcctCode
+2021-03-29 12:24:03: Check Point: CB150000
+2021-03-29 12:24:03: Check Point: CHE03Z00
+2021-03-29 12:24:03: Check Point: 
+2021-03-29 12:24:03: Check Point: 12131B3H
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 34S01000
+2021-03-29 12:24:04: Check Point: AnalysisCode1
+2021-03-29 12:24:04: Check Point: AnalysisCode2
+2021-03-29 12:24:04: Check Point: AnalysisCode3
+2021-03-29 12:24:04: Check Point: AnalysisCode4
+2021-03-29 12:24:04: Check Point: AnalysisCode5
+2021-03-29 12:24:04: Check Point: pImport.DocumentNo
+2021-03-29 12:24:04: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:04: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: pImport.DocType
+2021-03-29 12:24:04: Check Point: O
+2021-03-29 12:24:04: Check Point: pImport.DocDate
+2021-03-29 12:24:04: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:04: Check Point: pImport.DocDueDate
+2021-03-29 12:24:04: Check Point: 4/8/2021 12:00:00 AM
+2021-03-29 12:24:04: Check Point: pImport.Currency
+2021-03-29 12:24:04: Check Point: HKD
+2021-03-29 12:24:04: Check Point: pImport.Amount
+2021-03-29 12:24:04: Check Point: 148800
+2021-03-29 12:24:04: Check Point: Particular
+2021-03-29 12:24:04: Check Point: Supply & Install Finishes at 2,3,30F Terrace (VO)
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: ExtendedAnalysis
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'12131B3H/SC071006', N'2', N'S000093006', N'GJ', '20210309 00:00:00.000', N'GENERAL JOURNAL', N'CB150000', N'CHE03Z00', N'12131B3H', N'34S01000', N'12131B3H/SC071006', N'O', '20210309 00:00:00.000', '20210408 00:00:00.000', N'HKD', N'D', N'148800', N'148800', N'1', N'0', N'Supply & Install Finishes at 2,3,30F Terrace (VO)' ) 
+2021-03-29 12:24:04: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-09 00:00:00',N'Supply & Install Finishes at 2,3,30F Terrace (VO)',N'1',N'2',N'S000093006',N'148800',N'34S01000',N'GENERAL JOURNAL',N'GJ',N'CB150000',N'12131B3H/SC071006',N'E51',N'O',N'D',N'2021-03-09 00:00:00',N'HKD',N'148800',N'CHE03Z00',N'12131B3H/SC071006',N'2021-04-08 00:00:00',N'12131B3H')
+2021-03-29 12:24:04: Check Point: Flex Connection: False
+2021-03-29 12:24:04: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:04: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:04: Check Point: CompanyCode
+2021-03-29 12:24:04: Check Point: E51
+2021-03-29 12:24:04: Check Point: pImport.DocumentNo
+2021-03-29 12:24:04: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:04: Check Point: pImport.LineNo
+2021-03-29 12:24:04: Check Point: 3
+2021-03-29 12:24:04: Check Point: pImport.BatchID
+2021-03-29 12:24:04: Check Point: S000093006
+2021-03-29 12:24:04: Check Point: pImport.VoucherType
+2021-03-29 12:24:04: Check Point: GJ
+2021-03-29 12:24:04: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:04: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:04: Check Point: pImport.Description
+2021-03-29 12:24:04: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:04: Check Point: pImport.AcctCode
+2021-03-29 12:24:04: Check Point: CB150000
+2021-03-29 12:24:04: Check Point: CHE03Z00
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 12131B3H
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 34S01000
+2021-03-29 12:24:04: Check Point: AnalysisCode1
+2021-03-29 12:24:04: Check Point: AnalysisCode2
+2021-03-29 12:24:04: Check Point: AnalysisCode3
+2021-03-29 12:24:04: Check Point: AnalysisCode4
+2021-03-29 12:24:04: Check Point: AnalysisCode5
+2021-03-29 12:24:04: Check Point: pImport.DocumentNo
+2021-03-29 12:24:04: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:04: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: pImport.DocType
+2021-03-29 12:24:04: Check Point: O
+2021-03-29 12:24:04: Check Point: pImport.DocDate
+2021-03-29 12:24:04: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:04: Check Point: pImport.DocDueDate
+2021-03-29 12:24:04: Check Point: 4/8/2021 12:00:00 AM
+2021-03-29 12:24:04: Check Point: pImport.Currency
+2021-03-29 12:24:04: Check Point: HKD
+2021-03-29 12:24:04: Check Point: pImport.Amount
+2021-03-29 12:24:04: Check Point: 4338
+2021-03-29 12:24:04: Check Point: Particular
+2021-03-29 12:24:04: Check Point: Supply & Install Finishes at 2,3,30F Terrace (VO)
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: ExtendedAnalysis
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'12131B3H/SC071006', N'3', N'S000093006', N'GJ', '20210309 00:00:00.000', N'GENERAL JOURNAL', N'CB150000', N'CHE03Z00', N'12131B3H', N'34S01000', N'12131B3H/SC071006', N'O', '20210309 00:00:00.000', '20210408 00:00:00.000', N'HKD', N'D', N'4338', N'4338', N'1', N'0', N'Supply & Install Finishes at 2,3,30F Terrace (VO)' ) 
+2021-03-29 12:24:04: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-09 00:00:00',N'Supply & Install Finishes at 2,3,30F Terrace (VO)',N'1',N'3',N'S000093006',N'4338',N'34S01000',N'GENERAL JOURNAL',N'GJ',N'CB150000',N'12131B3H/SC071006',N'E51',N'O',N'D',N'2021-03-09 00:00:00',N'HKD',N'4338',N'CHE03Z00',N'12131B3H/SC071006',N'2021-04-08 00:00:00',N'12131B3H')
+2021-03-29 12:24:04: Check Point: Flex Connection: False
+2021-03-29 12:24:04: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:04: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:04: Check Point: CompanyCode
+2021-03-29 12:24:04: Check Point: E51
+2021-03-29 12:24:04: Check Point: pImport.DocumentNo
+2021-03-29 12:24:04: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:04: Check Point: pImport.LineNo
+2021-03-29 12:24:04: Check Point: 4
+2021-03-29 12:24:04: Check Point: pImport.BatchID
+2021-03-29 12:24:04: Check Point: S000093006
+2021-03-29 12:24:04: Check Point: pImport.VoucherType
+2021-03-29 12:24:04: Check Point: GJ
+2021-03-29 12:24:04: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:04: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:04: Check Point: pImport.Description
+2021-03-29 12:24:04: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:04: Check Point: pImport.AcctCode
+2021-03-29 12:24:04: Check Point: CB150000
+2021-03-29 12:24:04: Check Point: CHE03Z00
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 12131B3H
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: 34S01000
+2021-03-29 12:24:04: Check Point: AnalysisCode1
+2021-03-29 12:24:04: Check Point: AnalysisCode2
+2021-03-29 12:24:04: Check Point: AnalysisCode3
+2021-03-29 12:24:04: Check Point: AnalysisCode4
+2021-03-29 12:24:04: Check Point: AnalysisCode5
+2021-03-29 12:24:04: Check Point: pImport.DocumentNo
+2021-03-29 12:24:04: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:04: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:04: Check Point: 
+2021-03-29 12:24:04: Check Point: pImport.DocType
+2021-03-29 12:24:04: Check Point: O
+2021-03-29 12:24:04: Check Point: pImport.DocDate
+2021-03-29 12:24:04: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:04: Check Point: pImport.DocDueDate
+2021-03-29 12:24:05: Check Point: 4/8/2021 12:00:00 AM
+2021-03-29 12:24:05: Check Point: pImport.Currency
+2021-03-29 12:24:05: Check Point: HKD
+2021-03-29 12:24:05: Check Point: pImport.Amount
+2021-03-29 12:24:05: Check Point: 3958
+2021-03-29 12:24:05: Check Point: Particular
+2021-03-29 12:24:05: Check Point: Supply & Install Finishes at 2,3,30F Terrace (VO)
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: ExtendedAnalysis
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'12131B3H/SC071006', N'4', N'S000093006', N'GJ', '20210309 00:00:00.000', N'GENERAL JOURNAL', N'CB150000', N'CHE03Z00', N'12131B3H', N'34S01000', N'12131B3H/SC071006', N'O', '20210309 00:00:00.000', '20210408 00:00:00.000', N'HKD', N'D', N'3958', N'3958', N'1', N'0', N'Supply & Install Finishes at 2,3,30F Terrace (VO)' ) 
+2021-03-29 12:24:05: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-09 00:00:00',N'Supply & Install Finishes at 2,3,30F Terrace (VO)',N'1',N'4',N'S000093006',N'3958',N'34S01000',N'GENERAL JOURNAL',N'GJ',N'CB150000',N'12131B3H/SC071006',N'E51',N'O',N'D',N'2021-03-09 00:00:00',N'HKD',N'3958',N'CHE03Z00',N'12131B3H/SC071006',N'2021-04-08 00:00:00',N'12131B3H')
+2021-03-29 12:24:05: Check Point: Flex Connection: False
+2021-03-29 12:24:05: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:05: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:05: Check Point: CompanyCode
+2021-03-29 12:24:05: Check Point: E51
+2021-03-29 12:24:05: Check Point: pImport.DocumentNo
+2021-03-29 12:24:05: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:05: Check Point: pImport.LineNo
+2021-03-29 12:24:05: Check Point: 5
+2021-03-29 12:24:05: Check Point: pImport.BatchID
+2021-03-29 12:24:05: Check Point: S000093006
+2021-03-29 12:24:05: Check Point: pImport.VoucherType
+2021-03-29 12:24:05: Check Point: GJ
+2021-03-29 12:24:05: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:05: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:05: Check Point: pImport.Description
+2021-03-29 12:24:05: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:05: Check Point: pImport.AcctCode
+2021-03-29 12:24:05: Check Point: CB150000
+2021-03-29 12:24:05: Check Point: CHE03Z00
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 12131B3H
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 34S01000
+2021-03-29 12:24:05: Check Point: AnalysisCode1
+2021-03-29 12:24:05: Check Point: AnalysisCode2
+2021-03-29 12:24:05: Check Point: AnalysisCode3
+2021-03-29 12:24:05: Check Point: AnalysisCode4
+2021-03-29 12:24:05: Check Point: AnalysisCode5
+2021-03-29 12:24:05: Check Point: pImport.DocumentNo
+2021-03-29 12:24:05: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:05: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: pImport.DocType
+2021-03-29 12:24:05: Check Point: O
+2021-03-29 12:24:05: Check Point: pImport.DocDate
+2021-03-29 12:24:05: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:05: Check Point: pImport.DocDueDate
+2021-03-29 12:24:05: Check Point: 4/8/2021 12:00:00 AM
+2021-03-29 12:24:05: Check Point: pImport.Currency
+2021-03-29 12:24:05: Check Point: HKD
+2021-03-29 12:24:05: Check Point: pImport.Amount
+2021-03-29 12:24:05: Check Point: 39600
+2021-03-29 12:24:05: Check Point: Particular
+2021-03-29 12:24:05: Check Point: Supply & Install Finishes at 2,3,30F Terrace (VO)
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: ExtendedAnalysis
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'12131B3H/SC071006', N'5', N'S000093006', N'GJ', '20210309 00:00:00.000', N'GENERAL JOURNAL', N'CB150000', N'CHE03Z00', N'12131B3H', N'34S01000', N'12131B3H/SC071006', N'O', '20210309 00:00:00.000', '20210408 00:00:00.000', N'HKD', N'D', N'39600', N'39600', N'1', N'0', N'Supply & Install Finishes at 2,3,30F Terrace (VO)' ) 
+2021-03-29 12:24:05: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-09 00:00:00',N'Supply & Install Finishes at 2,3,30F Terrace (VO)',N'1',N'5',N'S000093006',N'39600',N'34S01000',N'GENERAL JOURNAL',N'GJ',N'CB150000',N'12131B3H/SC071006',N'E51',N'O',N'D',N'2021-03-09 00:00:00',N'HKD',N'39600',N'CHE03Z00',N'12131B3H/SC071006',N'2021-04-08 00:00:00',N'12131B3H')
+2021-03-29 12:24:05: Check Point: Flex Connection: False
+2021-03-29 12:24:05: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:05: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:05: Check Point: CompanyCode
+2021-03-29 12:24:05: Check Point: E51
+2021-03-29 12:24:05: Check Point: pImport.DocumentNo
+2021-03-29 12:24:05: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:05: Check Point: pImport.LineNo
+2021-03-29 12:24:05: Check Point: 6
+2021-03-29 12:24:05: Check Point: pImport.BatchID
+2021-03-29 12:24:05: Check Point: S000093006
+2021-03-29 12:24:05: Check Point: pImport.VoucherType
+2021-03-29 12:24:05: Check Point: GJ
+2021-03-29 12:24:05: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:05: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:05: Check Point: pImport.Description
+2021-03-29 12:24:05: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:05: Check Point: pImport.AcctCode
+2021-03-29 12:24:05: Check Point: CB150000
+2021-03-29 12:24:05: Check Point: CHE03Z00
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 12131B3H
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 34S01000
+2021-03-29 12:24:05: Check Point: AnalysisCode1
+2021-03-29 12:24:05: Check Point: AnalysisCode2
+2021-03-29 12:24:05: Check Point: AnalysisCode3
+2021-03-29 12:24:05: Check Point: AnalysisCode4
+2021-03-29 12:24:05: Check Point: AnalysisCode5
+2021-03-29 12:24:05: Check Point: pImport.DocumentNo
+2021-03-29 12:24:05: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:05: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: pImport.DocType
+2021-03-29 12:24:05: Check Point: O
+2021-03-29 12:24:05: Check Point: pImport.DocDate
+2021-03-29 12:24:05: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:05: Check Point: pImport.DocDueDate
+2021-03-29 12:24:05: Check Point: 4/8/2021 12:00:00 AM
+2021-03-29 12:24:05: Check Point: pImport.Currency
+2021-03-29 12:24:05: Check Point: HKD
+2021-03-29 12:24:05: Check Point: pImport.Amount
+2021-03-29 12:24:05: Check Point: -98363.4
+2021-03-29 12:24:05: Check Point: Particular
+2021-03-29 12:24:05: Check Point: Supply & Install Finishes at 2,3,30F Terrace (VO)
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: ExtendedAnalysis
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:05: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'12131B3H/SC071006', N'6', N'S000093006', N'GJ', '20210309 00:00:00.000', N'GENERAL JOURNAL', N'CB150000', N'CHE03Z00', N'12131B3H', N'34S01000', N'12131B3H/SC071006', N'O', '20210309 00:00:00.000', '20210408 00:00:00.000', N'HKD', N'C', N'98363.4', N'98363.4', N'1', N'0', N'Supply & Install Finishes at 2,3,30F Terrace (VO)' ) 
+2021-03-29 12:24:06: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-09 00:00:00',N'Supply & Install Finishes at 2,3,30F Terrace (VO)',N'1',N'6',N'S000093006',N'98363.4',N'34S01000',N'GENERAL JOURNAL',N'GJ',N'CB150000',N'12131B3H/SC071006',N'E51',N'O',N'C',N'2021-03-09 00:00:00',N'HKD',N'98363.4',N'CHE03Z00',N'12131B3H/SC071006',N'2021-04-08 00:00:00',N'12131B3H')
+2021-03-29 12:24:06: Check Point: Flex Connection: False
+2021-03-29 12:24:06: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:06: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:06: Check Point: CompanyCode
+2021-03-29 12:24:06: Check Point: E51
+2021-03-29 12:24:06: Check Point: pImport.DocumentNo
+2021-03-29 12:24:06: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:06: Check Point: pImport.LineNo
+2021-03-29 12:24:06: Check Point: 7
+2021-03-29 12:24:06: Check Point: pImport.BatchID
+2021-03-29 12:24:06: Check Point: S000093006
+2021-03-29 12:24:06: Check Point: pImport.VoucherType
+2021-03-29 12:24:06: Check Point: GJ
+2021-03-29 12:24:06: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:06: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:06: Check Point: pImport.Description
+2021-03-29 12:24:06: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:06: Check Point: pImport.AcctCode
+2021-03-29 12:24:06: Check Point: CB150000
+2021-03-29 12:24:06: Check Point: CHE03Z00
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 12131B3H
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 34S01000
+2021-03-29 12:24:06: Check Point: AnalysisCode1
+2021-03-29 12:24:06: Check Point: AnalysisCode2
+2021-03-29 12:24:06: Check Point: AnalysisCode3
+2021-03-29 12:24:06: Check Point: AnalysisCode4
+2021-03-29 12:24:06: Check Point: AnalysisCode5
+2021-03-29 12:24:06: Check Point: pImport.DocumentNo
+2021-03-29 12:24:06: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:06: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: pImport.DocType
+2021-03-29 12:24:06: Check Point: O
+2021-03-29 12:24:06: Check Point: pImport.DocDate
+2021-03-29 12:24:06: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:06: Check Point: pImport.DocDueDate
+2021-03-29 12:24:06: Check Point: 4/8/2021 12:00:00 AM
+2021-03-29 12:24:06: Check Point: pImport.Currency
+2021-03-29 12:24:06: Check Point: HKD
+2021-03-29 12:24:06: Check Point: pImport.Amount
+2021-03-29 12:24:06: Check Point: 57600
+2021-03-29 12:24:06: Check Point: Particular
+2021-03-29 12:24:06: Check Point: Supply & Install Finishes at 2,3,30F Terrace (VO)
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: ExtendedAnalysis
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'12131B3H/SC071006', N'7', N'S000093006', N'GJ', '20210309 00:00:00.000', N'GENERAL JOURNAL', N'CB150000', N'CHE03Z00', N'12131B3H', N'34S01000', N'12131B3H/SC071006', N'O', '20210309 00:00:00.000', '20210408 00:00:00.000', N'HKD', N'D', N'57600', N'57600', N'1', N'0', N'Supply & Install Finishes at 2,3,30F Terrace (VO)' ) 
+2021-03-29 12:24:06: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-09 00:00:00',N'Supply & Install Finishes at 2,3,30F Terrace (VO)',N'1',N'7',N'S000093006',N'57600',N'34S01000',N'GENERAL JOURNAL',N'GJ',N'CB150000',N'12131B3H/SC071006',N'E51',N'O',N'D',N'2021-03-09 00:00:00',N'HKD',N'57600',N'CHE03Z00',N'12131B3H/SC071006',N'2021-04-08 00:00:00',N'12131B3H')
+2021-03-29 12:24:06: Check Point: Flex Connection: False
+2021-03-29 12:24:06: Check Point: ToFlex
+2021-03-29 12:24:06: Check Point: CompanyCode
+2021-03-29 12:24:06: Check Point: E51
+2021-03-29 12:24:06: Check Point: pImport.DocumentNo
+2021-03-29 12:24:06: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:06: Check Point: pImport.LineNo
+2021-03-29 12:24:06: Check Point: 1
+2021-03-29 12:24:06: Check Point: pImport.BatchID
+2021-03-29 12:24:06: Check Point: S000093006
+2021-03-29 12:24:06: Check Point: pImport.VoucherType
+2021-03-29 12:24:06: Check Point: GJ
+2021-03-29 12:24:06: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:06: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:06: Check Point: pImport.Description
+2021-03-29 12:24:06: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:06: Check Point: pImport.AcctCode
+2021-03-29 12:24:06: Check Point: TPACHE03
+2021-03-29 12:24:06: Check Point: CHE03Z00
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 12131B3H
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: AnalysisCode1
+2021-03-29 12:24:06: Check Point: AnalysisCode2
+2021-03-29 12:24:06: Check Point: AnalysisCode3
+2021-03-29 12:24:06: Check Point: AnalysisCode4
+2021-03-29 12:24:06: Check Point: AnalysisCode5
+2021-03-29 12:24:06: Check Point: pImport.DocumentNo
+2021-03-29 12:24:06: Check Point: 12131B3H/SC071006
+2021-03-29 12:24:06: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:06: Check Point: 
+2021-03-29 12:24:06: Check Point: pImport.DocType
+2021-03-29 12:24:06: Check Point: O
+2021-03-29 12:24:06: Check Point: pImport.DocDate
+2021-03-29 12:24:06: Check Point: 3/9/2021 12:00:00 AM
+2021-03-29 12:24:06: Check Point: pImport.DocDueDate
+2021-03-29 12:24:06: Check Point: 4/8/2021 12:00:00 AM
+2021-03-29 12:24:07: Check Point: pImport.Currency
+2021-03-29 12:24:07: Check Point: HKD
+2021-03-29 12:24:07: Check Point: pImport.Amount
+2021-03-29 12:24:07: Check Point: 155932.6
+2021-03-29 12:24:07: Check Point: Particular
+2021-03-29 12:24:07: Check Point: Supply & Install Finishes at 2,3,30F Terrace (VO)
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: ExtendedAnalysis
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'12131B3H/SC071006', N'1', N'S000093006', N'GJ', '20210309 00:00:00.000', N'GENERAL JOURNAL', N'TPACHE03', N'CHE03Z00', N'12131B3H', N'12131B3H/SC071006', N'O', '20210309 00:00:00.000', '20210408 00:00:00.000', N'HKD', N'C', N'155932.6', N'155932.6', N'1', N'0', N'Supply & Install Finishes at 2,3,30F Terrace (VO)' ) 
+2021-03-29 12:24:07: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-09 00:00:00',N'O',N'1',N'2021-03-09 00:00:00',N'155932.6',N'1',N'GENERAL JOURNAL',N'GJ',N'TPACHE03',N'12131B3H/SC071006',N'E51',N'S000093006',N'C',N'HKD',N'155932.6',N'CHE03Z00',N'Supply & Install Finishes at 2,3,30F Terrace (VO)',N'12131B3H/SC071006',N'2021-04-08 00:00:00',N'12131B3H')
+2021-03-29 12:24:07: Check Point: Flex Connection: False
+2021-03-29 12:24:07: Check Point: SyncHistory
+2021-03-29 12:24:07: Check Point: Setup SAP Transaction
+2021-03-29 12:24:07: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:07: Check Point: Start SAP Transaction
+2021-03-29 12:24:07: Check Point: Setup Flex Transaction
+2021-03-29 12:24:07: Check Point: Start Flex Transaction
+2021-03-29 12:24:07: Check Point: SubCon Detail Count: 1
+2021-03-29 12:24:07: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:07: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:07: Check Point: CompanyCode
+2021-03-29 12:24:07: Check Point: E31
+2021-03-29 12:24:07: Check Point: pImport.DocumentNo
+2021-03-29 12:24:07: Check Point: 17002B1H/SC023022
+2021-03-29 12:24:07: Check Point: pImport.LineNo
+2021-03-29 12:24:07: Check Point: 2
+2021-03-29 12:24:07: Check Point: pImport.BatchID
+2021-03-29 12:24:07: Check Point: S000093153
+2021-03-29 12:24:07: Check Point: pImport.VoucherType
+2021-03-29 12:24:07: Check Point: GJ
+2021-03-29 12:24:07: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:07: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:07: Check Point: pImport.Description
+2021-03-29 12:24:07: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:07: Check Point: pImport.AcctCode
+2021-03-29 12:24:07: Check Point: CB040000
+2021-03-29 12:24:07: Check Point: SHU03Z00
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 17002B1H
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 23S02000
+2021-03-29 12:24:07: Check Point: AnalysisCode1
+2021-03-29 12:24:07: Check Point: AnalysisCode2
+2021-03-29 12:24:07: Check Point: AnalysisCode3
+2021-03-29 12:24:07: Check Point: AnalysisCode4
+2021-03-29 12:24:07: Check Point: AnalysisCode5
+2021-03-29 12:24:07: Check Point: pImport.DocumentNo
+2021-03-29 12:24:07: Check Point: 17002B1H/SC023022
+2021-03-29 12:24:07: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: pImport.DocType
+2021-03-29 12:24:07: Check Point: O
+2021-03-29 12:24:07: Check Point: pImport.DocDate
+2021-03-29 12:24:07: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:07: Check Point: pImport.DocDueDate
+2021-03-29 12:24:07: Check Point: 4/5/2021 12:00:00 AM
+2021-03-29 12:24:07: Check Point: pImport.Currency
+2021-03-29 12:24:07: Check Point: HKD
+2021-03-29 12:24:07: Check Point: pImport.Amount
+2021-03-29 12:24:07: Check Point: 2896195.59
+2021-03-29 12:24:07: Check Point: Particular
+2021-03-29 12:24:07: Check Point: Excavation & U/G Drainage
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: ExtendedAnalysis
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:07: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'17002B1H/SC023022', N'2', N'S000093153', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'CB040000', N'SHU03Z00', N'17002B1H', N'23S02000', N'17002B1H/SC023022', N'O', '20210228 00:00:00.000', '20210405 00:00:00.000', N'HKD', N'D', N'2896195.59', N'2896195.59', N'1', N'0', N'Excavation & U/G Drainage' ) 
+2021-03-29 12:24:08: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'Excavation & U/G Drainage',N'1',N'2',N'S000093153',N'2896195.59',N'23S02000',N'GENERAL JOURNAL',N'GJ',N'CB040000',N'17002B1H/SC023022',N'E31',N'O',N'D',N'2021-02-28 00:00:00',N'HKD',N'2896195.59',N'SHU03Z00',N'17002B1H/SC023022',N'2021-04-05 00:00:00',N'17002B1H')
+2021-03-29 12:24:08: Check Point: Flex Connection: False
+2021-03-29 12:24:08: Check Point: ToFlex
+2021-03-29 12:24:08: Check Point: CompanyCode
+2021-03-29 12:24:08: Check Point: E31
+2021-03-29 12:24:08: Check Point: pImport.DocumentNo
+2021-03-29 12:24:08: Check Point: 17002B1H/SC023022
+2021-03-29 12:24:08: Check Point: pImport.LineNo
+2021-03-29 12:24:08: Check Point: 1
+2021-03-29 12:24:08: Check Point: pImport.BatchID
+2021-03-29 12:24:08: Check Point: S000093153
+2021-03-29 12:24:08: Check Point: pImport.VoucherType
+2021-03-29 12:24:08: Check Point: GJ
+2021-03-29 12:24:08: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:08: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:08: Check Point: pImport.Description
+2021-03-29 12:24:08: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:08: Check Point: pImport.AcctCode
+2021-03-29 12:24:08: Check Point: TPASHU03
+2021-03-29 12:24:08: Check Point: SHU03Z00
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 17002B1H
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: AnalysisCode1
+2021-03-29 12:24:08: Check Point: AnalysisCode2
+2021-03-29 12:24:08: Check Point: AnalysisCode3
+2021-03-29 12:24:08: Check Point: AnalysisCode4
+2021-03-29 12:24:08: Check Point: AnalysisCode5
+2021-03-29 12:24:08: Check Point: pImport.DocumentNo
+2021-03-29 12:24:08: Check Point: 17002B1H/SC023022
+2021-03-29 12:24:08: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: pImport.DocType
+2021-03-29 12:24:08: Check Point: O
+2021-03-29 12:24:08: Check Point: pImport.DocDate
+2021-03-29 12:24:08: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:08: Check Point: pImport.DocDueDate
+2021-03-29 12:24:08: Check Point: 4/5/2021 12:00:00 AM
+2021-03-29 12:24:08: Check Point: pImport.Currency
+2021-03-29 12:24:08: Check Point: HKD
+2021-03-29 12:24:08: Check Point: pImport.Amount
+2021-03-29 12:24:08: Check Point: 2896195.59
+2021-03-29 12:24:08: Check Point: Particular
+2021-03-29 12:24:08: Check Point: Excavation & U/G Drainage
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: ExtendedAnalysis
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'17002B1H/SC023022', N'1', N'S000093153', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'TPASHU03', N'SHU03Z00', N'17002B1H', N'17002B1H/SC023022', N'O', '20210228 00:00:00.000', '20210405 00:00:00.000', N'HKD', N'C', N'2896195.59', N'2896195.59', N'1', N'0', N'Excavation & U/G Drainage' ) 
+2021-03-29 12:24:08: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'O',N'1',N'2021-02-28 00:00:00',N'2896195.59',N'1',N'GENERAL JOURNAL',N'GJ',N'TPASHU03',N'17002B1H/SC023022',N'E31',N'S000093153',N'C',N'HKD',N'2896195.59',N'SHU03Z00',N'Excavation & U/G Drainage',N'17002B1H/SC023022',N'2021-04-05 00:00:00',N'17002B1H')
+2021-03-29 12:24:08: Check Point: Flex Connection: False
+2021-03-29 12:24:08: Check Point: SyncHistory
+2021-03-29 12:24:08: Check Point: Setup SAP Transaction
+2021-03-29 12:24:08: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:08: Check Point: Start SAP Transaction
+2021-03-29 12:24:08: Check Point: Setup Flex Transaction
+2021-03-29 12:24:08: Check Point: Start Flex Transaction
+2021-03-29 12:24:08: Check Point: SubCon Detail Count: 2
+2021-03-29 12:24:08: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:08: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:08: Check Point: CompanyCode
+2021-03-29 12:24:08: Check Point: E71
+2021-03-29 12:24:08: Check Point: pImport.DocumentNo
+2021-03-29 12:24:08: Check Point: 80941E1H/SC001003
+2021-03-29 12:24:08: Check Point: pImport.LineNo
+2021-03-29 12:24:08: Check Point: 2
+2021-03-29 12:24:08: Check Point: pImport.BatchID
+2021-03-29 12:24:08: Check Point: S000093268
+2021-03-29 12:24:08: Check Point: pImport.VoucherType
+2021-03-29 12:24:08: Check Point: GJ
+2021-03-29 12:24:08: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:08: Check Point: 12/31/2020 12:00:00 AM
+2021-03-29 12:24:08: Check Point: pImport.Description
+2021-03-29 12:24:08: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:08: Check Point: pImport.AcctCode
+2021-03-29 12:24:08: Check Point: RMPWIN20
+2021-03-29 12:24:08: Check Point: WIN20Z00
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 80941E1H
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: 
+2021-03-29 12:24:08: Check Point: AnalysisCode1
+2021-03-29 12:24:08: Check Point: AnalysisCode2
+2021-03-29 12:24:08: Check Point: AnalysisCode3
+2021-03-29 12:24:08: Check Point: AnalysisCode4
+2021-03-29 12:24:08: Check Point: AnalysisCode5
+2021-03-29 12:24:09: Check Point: pImport.DocumentNo
+2021-03-29 12:24:09: Check Point: 80941E1H/SC001003
+2021-03-29 12:24:09: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: pImport.DocType
+2021-03-29 12:24:09: Check Point: O
+2021-03-29 12:24:09: Check Point: pImport.DocDate
+2021-03-29 12:24:09: Check Point: 12/31/2020 12:00:00 AM
+2021-03-29 12:24:09: Check Point: pImport.DocDueDate
+2021-03-29 12:24:09: Check Point: 3/31/2021 12:00:00 AM
+2021-03-29 12:24:09: Check Point: pImport.Currency
+2021-03-29 12:24:09: Check Point: HKD
+2021-03-29 12:24:09: Check Point: pImport.Amount
+2021-03-29 12:24:09: Check Point: -108327.86
+2021-03-29 12:24:09: Check Point: Particular
+2021-03-29 12:24:09: Check Point: Fire Services System Installation
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: ExtendedAnalysis
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E71', N'80941E1H/SC001003', N'2', N'S000093268', N'GJ', '20201231 00:00:00.000', N'GENERAL JOURNAL', N'RMPWIN20', N'WIN20Z00', N'80941E1H', N'80941E1H/SC001003', N'O', '20201231 00:00:00.000', '20210331 00:00:00.000', N'HKD', N'C', N'108327.86', N'108327.86', N'1', N'0', N'Fire Services System Installation' ) 
+2021-03-29 12:24:09: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-12-31 00:00:00',N'O',N'2',N'2020-12-31 00:00:00',N'108327.86',N'1',N'GENERAL JOURNAL',N'GJ',N'RMPWIN20',N'80941E1H/SC001003',N'E71',N'S000093268',N'C',N'HKD',N'108327.86',N'WIN20Z00',N'Fire Services System Installation',N'80941E1H/SC001003',N'2021-03-31 00:00:00',N'80941E1H')
+2021-03-29 12:24:09: Check Point: Flex Connection: False
+2021-03-29 12:24:09: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:09: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:09: Check Point: CompanyCode
+2021-03-29 12:24:09: Check Point: E71
+2021-03-29 12:24:09: Check Point: pImport.DocumentNo
+2021-03-29 12:24:09: Check Point: 80941E1H/SC001003
+2021-03-29 12:24:09: Check Point: pImport.LineNo
+2021-03-29 12:24:09: Check Point: 3
+2021-03-29 12:24:09: Check Point: pImport.BatchID
+2021-03-29 12:24:09: Check Point: S000093268
+2021-03-29 12:24:09: Check Point: pImport.VoucherType
+2021-03-29 12:24:09: Check Point: GJ
+2021-03-29 12:24:09: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:09: Check Point: 12/31/2020 12:00:00 AM
+2021-03-29 12:24:09: Check Point: pImport.Description
+2021-03-29 12:24:09: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:09: Check Point: pImport.AcctCode
+2021-03-29 12:24:09: Check Point: CB210000
+2021-03-29 12:24:09: Check Point: WIN20Z00
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 80941E1H
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 40S05000
+2021-03-29 12:24:09: Check Point: AnalysisCode1
+2021-03-29 12:24:09: Check Point: AnalysisCode2
+2021-03-29 12:24:09: Check Point: AnalysisCode3
+2021-03-29 12:24:09: Check Point: AnalysisCode4
+2021-03-29 12:24:09: Check Point: AnalysisCode5
+2021-03-29 12:24:09: Check Point: pImport.DocumentNo
+2021-03-29 12:24:09: Check Point: 80941E1H/SC001003
+2021-03-29 12:24:09: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: pImport.DocType
+2021-03-29 12:24:09: Check Point: O
+2021-03-29 12:24:09: Check Point: pImport.DocDate
+2021-03-29 12:24:09: Check Point: 12/31/2020 12:00:00 AM
+2021-03-29 12:24:09: Check Point: pImport.DocDueDate
+2021-03-29 12:24:09: Check Point: 3/31/2021 12:00:00 AM
+2021-03-29 12:24:09: Check Point: pImport.Currency
+2021-03-29 12:24:09: Check Point: HKD
+2021-03-29 12:24:09: Check Point: pImport.Amount
+2021-03-29 12:24:09: Check Point: 1083278.6
+2021-03-29 12:24:09: Check Point: Particular
+2021-03-29 12:24:09: Check Point: Fire Services System Installation
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: ExtendedAnalysis
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: 
+2021-03-29 12:24:09: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E71', N'80941E1H/SC001003', N'3', N'S000093268', N'GJ', '20201231 00:00:00.000', N'GENERAL JOURNAL', N'CB210000', N'WIN20Z00', N'80941E1H', N'40S05000', N'80941E1H/SC001003', N'O', '20201231 00:00:00.000', '20210331 00:00:00.000', N'HKD', N'D', N'1083278.6', N'1083278.6', N'1', N'0', N'Fire Services System Installation' ) 
+2021-03-29 12:24:09: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-12-31 00:00:00',N'Fire Services System Installation',N'1',N'3',N'S000093268',N'1083278.6',N'40S05000',N'GENERAL JOURNAL',N'GJ',N'CB210000',N'80941E1H/SC001003',N'E71',N'O',N'D',N'2020-12-31 00:00:00',N'HKD',N'1083278.6',N'WIN20Z00',N'80941E1H/SC001003',N'2021-03-31 00:00:00',N'80941E1H')
+2021-03-29 12:24:09: Check Point: Flex Connection: False
+2021-03-29 12:24:10: Check Point: ToFlex
+2021-03-29 12:24:10: Check Point: CompanyCode
+2021-03-29 12:24:10: Check Point: E71
+2021-03-29 12:24:10: Check Point: pImport.DocumentNo
+2021-03-29 12:24:10: Check Point: 80941E1H/SC001003
+2021-03-29 12:24:10: Check Point: pImport.LineNo
+2021-03-29 12:24:10: Check Point: 1
+2021-03-29 12:24:10: Check Point: pImport.BatchID
+2021-03-29 12:24:10: Check Point: S000093268
+2021-03-29 12:24:10: Check Point: pImport.VoucherType
+2021-03-29 12:24:10: Check Point: GJ
+2021-03-29 12:24:10: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:10: Check Point: 12/31/2020 12:00:00 AM
+2021-03-29 12:24:10: Check Point: pImport.Description
+2021-03-29 12:24:10: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:10: Check Point: pImport.AcctCode
+2021-03-29 12:24:10: Check Point: TPAWIN20
+2021-03-29 12:24:10: Check Point: WIN20Z00
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 80941E1H
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: AnalysisCode1
+2021-03-29 12:24:10: Check Point: AnalysisCode2
+2021-03-29 12:24:10: Check Point: AnalysisCode3
+2021-03-29 12:24:10: Check Point: AnalysisCode4
+2021-03-29 12:24:10: Check Point: AnalysisCode5
+2021-03-29 12:24:10: Check Point: pImport.DocumentNo
+2021-03-29 12:24:10: Check Point: 80941E1H/SC001003
+2021-03-29 12:24:10: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: pImport.DocType
+2021-03-29 12:24:10: Check Point: O
+2021-03-29 12:24:10: Check Point: pImport.DocDate
+2021-03-29 12:24:10: Check Point: 12/31/2020 12:00:00 AM
+2021-03-29 12:24:10: Check Point: pImport.DocDueDate
+2021-03-29 12:24:10: Check Point: 3/31/2021 12:00:00 AM
+2021-03-29 12:24:10: Check Point: pImport.Currency
+2021-03-29 12:24:10: Check Point: HKD
+2021-03-29 12:24:10: Check Point: pImport.Amount
+2021-03-29 12:24:10: Check Point: 974950.74
+2021-03-29 12:24:10: Check Point: Particular
+2021-03-29 12:24:10: Check Point: Fire Services System Installation
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: ExtendedAnalysis
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: 
+2021-03-29 12:24:10: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E71', N'80941E1H/SC001003', N'1', N'S000093268', N'GJ', '20201231 00:00:00.000', N'GENERAL JOURNAL', N'TPAWIN20', N'WIN20Z00', N'80941E1H', N'80941E1H/SC001003', N'O', '20201231 00:00:00.000', '20210331 00:00:00.000', N'HKD', N'C', N'974950.74', N'974950.74', N'1', N'0', N'Fire Services System Installation' ) 
+2021-03-29 12:24:10: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-12-31 00:00:00',N'O',N'1',N'2020-12-31 00:00:00',N'974950.74',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAWIN20',N'80941E1H/SC001003',N'E71',N'S000093268',N'C',N'HKD',N'974950.74',N'WIN20Z00',N'Fire Services System Installation',N'80941E1H/SC001003',N'2021-03-31 00:00:00',N'80941E1H')
+2021-03-29 12:24:10: Check Point: Flex Connection: False
+2021-03-29 12:24:10: Check Point: SyncHistory
+2021-03-29 12:24:10: Check Point: Setup SAP Transaction
+2021-03-29 12:24:10: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:10: Check Point: Start SAP Transaction
+2021-03-29 12:24:10: Check Point: Setup Flex Transaction
+2021-03-29 12:24:10: Check Point: Start Flex Transaction
+2021-03-29 12:24:10: Check Point: SubCon Detail Count: 1
+2021-03-29 12:24:10: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:10: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:10: Check Point: CompanyCode
+2021-03-29 12:24:10: Check Point: E31
+2021-03-29 12:24:10: Check Point: pImport.DocumentNo
+2021-03-29 12:24:10: Check Point: 17002B1H/SC072014
+2021-03-29 12:24:11: Check Point: pImport.LineNo
+2021-03-29 12:24:11: Check Point: 2
+2021-03-29 12:24:11: Check Point: pImport.BatchID
+2021-03-29 12:24:11: Check Point: S000093324
+2021-03-29 12:24:11: Check Point: pImport.VoucherType
+2021-03-29 12:24:11: Check Point: GJ
+2021-03-29 12:24:11: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:11: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:11: Check Point: pImport.Description
+2021-03-29 12:24:11: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:11: Check Point: pImport.AcctCode
+2021-03-29 12:24:11: Check Point: CB090000
+2021-03-29 12:24:11: Check Point: MIN36Z00
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 17002B1H
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 28S01000
+2021-03-29 12:24:11: Check Point: AnalysisCode1
+2021-03-29 12:24:11: Check Point: AnalysisCode2
+2021-03-29 12:24:11: Check Point: AnalysisCode3
+2021-03-29 12:24:11: Check Point: AnalysisCode4
+2021-03-29 12:24:11: Check Point: AnalysisCode5
+2021-03-29 12:24:11: Check Point: pImport.DocumentNo
+2021-03-29 12:24:11: Check Point: 17002B1H/SC072014
+2021-03-29 12:24:11: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: pImport.DocType
+2021-03-29 12:24:11: Check Point: O
+2021-03-29 12:24:11: Check Point: pImport.DocDate
+2021-03-29 12:24:11: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:11: Check Point: pImport.DocDueDate
+2021-03-29 12:24:11: Check Point: 4/14/2021 12:00:00 AM
+2021-03-29 12:24:11: Check Point: pImport.Currency
+2021-03-29 12:24:11: Check Point: HKD
+2021-03-29 12:24:11: Check Point: pImport.Amount
+2021-03-29 12:24:11: Check Point: 3000527.18
+2021-03-29 12:24:11: Check Point: Particular
+2021-03-29 12:24:11: Check Point: Steel & Metal Works
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: ExtendedAnalysis
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'17002B1H/SC072014', N'2', N'S000093324', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'CB090000', N'MIN36Z00', N'17002B1H', N'28S01000', N'17002B1H/SC072014', N'O', '20210228 00:00:00.000', '20210414 00:00:00.000', N'HKD', N'D', N'3000527.18', N'3000527.18', N'1', N'0', N'Steel & Metal Works' ) 
+2021-03-29 12:24:11: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'Steel & Metal Works',N'1',N'2',N'S000093324',N'3000527.18',N'28S01000',N'GENERAL JOURNAL',N'GJ',N'CB090000',N'17002B1H/SC072014',N'E31',N'O',N'D',N'2021-02-28 00:00:00',N'HKD',N'3000527.18',N'MIN36Z00',N'17002B1H/SC072014',N'2021-04-14 00:00:00',N'17002B1H')
+2021-03-29 12:24:11: Check Point: Flex Connection: False
+2021-03-29 12:24:11: Check Point: ToFlex
+2021-03-29 12:24:11: Check Point: CompanyCode
+2021-03-29 12:24:11: Check Point: E31
+2021-03-29 12:24:11: Check Point: pImport.DocumentNo
+2021-03-29 12:24:11: Check Point: 17002B1H/SC072014
+2021-03-29 12:24:11: Check Point: pImport.LineNo
+2021-03-29 12:24:11: Check Point: 1
+2021-03-29 12:24:11: Check Point: pImport.BatchID
+2021-03-29 12:24:11: Check Point: S000093324
+2021-03-29 12:24:11: Check Point: pImport.VoucherType
+2021-03-29 12:24:11: Check Point: GJ
+2021-03-29 12:24:11: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:11: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:11: Check Point: pImport.Description
+2021-03-29 12:24:11: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:11: Check Point: pImport.AcctCode
+2021-03-29 12:24:11: Check Point: TPAMIN36
+2021-03-29 12:24:11: Check Point: MIN36Z00
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 17002B1H
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: AnalysisCode1
+2021-03-29 12:24:11: Check Point: AnalysisCode2
+2021-03-29 12:24:11: Check Point: AnalysisCode3
+2021-03-29 12:24:11: Check Point: AnalysisCode4
+2021-03-29 12:24:11: Check Point: AnalysisCode5
+2021-03-29 12:24:11: Check Point: pImport.DocumentNo
+2021-03-29 12:24:11: Check Point: 17002B1H/SC072014
+2021-03-29 12:24:11: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: pImport.DocType
+2021-03-29 12:24:11: Check Point: O
+2021-03-29 12:24:11: Check Point: pImport.DocDate
+2021-03-29 12:24:11: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:11: Check Point: pImport.DocDueDate
+2021-03-29 12:24:11: Check Point: 4/14/2021 12:00:00 AM
+2021-03-29 12:24:11: Check Point: pImport.Currency
+2021-03-29 12:24:11: Check Point: HKD
+2021-03-29 12:24:11: Check Point: pImport.Amount
+2021-03-29 12:24:11: Check Point: 3000527.18
+2021-03-29 12:24:11: Check Point: Particular
+2021-03-29 12:24:11: Check Point: Steel & Metal Works
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: ExtendedAnalysis
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:11: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'17002B1H/SC072014', N'1', N'S000093324', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'TPAMIN36', N'MIN36Z00', N'17002B1H', N'17002B1H/SC072014', N'O', '20210228 00:00:00.000', '20210414 00:00:00.000', N'HKD', N'C', N'3000527.18', N'3000527.18', N'1', N'0', N'Steel & Metal Works' ) 
+2021-03-29 12:24:12: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'O',N'1',N'2021-02-28 00:00:00',N'3000527.18',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAMIN36',N'17002B1H/SC072014',N'E31',N'S000093324',N'C',N'HKD',N'3000527.18',N'MIN36Z00',N'Steel & Metal Works',N'17002B1H/SC072014',N'2021-04-14 00:00:00',N'17002B1H')
+2021-03-29 12:24:12: Check Point: Flex Connection: False
+2021-03-29 12:24:12: Check Point: SyncHistory
+2021-03-29 12:24:12: Check Point: Setup SAP Transaction
+2021-03-29 12:24:12: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:12: Check Point: Start SAP Transaction
+2021-03-29 12:24:12: Check Point: Setup Flex Transaction
+2021-03-29 12:24:12: Check Point: Start Flex Transaction
+2021-03-29 12:24:12: Check Point: SubCon Detail Count: 1
+2021-03-29 12:24:12: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:12: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:12: Check Point: CompanyCode
+2021-03-29 12:24:12: Check Point: K31
+2021-03-29 12:24:12: Check Point: pImport.DocumentNo
+2021-03-29 12:24:12: Check Point: 03081C4H/WO032004
+2021-03-29 12:24:12: Check Point: pImport.LineNo
+2021-03-29 12:24:12: Check Point: 2
+2021-03-29 12:24:12: Check Point: pImport.BatchID
+2021-03-29 12:24:12: Check Point: S000093366
+2021-03-29 12:24:12: Check Point: pImport.VoucherType
+2021-03-29 12:24:12: Check Point: GJ
+2021-03-29 12:24:12: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:12: Check Point: 3/15/2021 12:00:00 AM
+2021-03-29 12:24:12: Check Point: pImport.Description
+2021-03-29 12:24:12: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:12: Check Point: pImport.AcctCode
+2021-03-29 12:24:12: Check Point: CB990000
+2021-03-29 12:24:12: Check Point: CAS02Z00
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 03081C4H
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 98S01000
+2021-03-29 12:24:12: Check Point: AnalysisCode1
+2021-03-29 12:24:12: Check Point: AnalysisCode2
+2021-03-29 12:24:12: Check Point: AnalysisCode3
+2021-03-29 12:24:12: Check Point: AnalysisCode4
+2021-03-29 12:24:12: Check Point: AnalysisCode5
+2021-03-29 12:24:12: Check Point: pImport.DocumentNo
+2021-03-29 12:24:12: Check Point: 03081C4H/WO032004
+2021-03-29 12:24:12: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: pImport.DocType
+2021-03-29 12:24:12: Check Point: O
+2021-03-29 12:24:12: Check Point: pImport.DocDate
+2021-03-29 12:24:12: Check Point: 3/15/2021 12:00:00 AM
+2021-03-29 12:24:12: Check Point: pImport.DocDueDate
+2021-03-29 12:24:12: Check Point: 4/29/2021 12:00:00 AM
+2021-03-29 12:24:12: Check Point: pImport.Currency
+2021-03-29 12:24:12: Check Point: HKD
+2021-03-29 12:24:12: Check Point: pImport.Amount
+2021-03-29 12:24:12: Check Point: 18270
+2021-03-29 12:24:12: Check Point: Particular
+2021-03-29 12:24:12: Check Point: Laboratory of Rebar Testing
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: ExtendedAnalysis
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: 
+2021-03-29 12:24:12: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'K31', N'03081C4H/WO032004', N'2', N'S000093366', N'GJ', '20210315 00:00:00.000', N'GENERAL JOURNAL', N'CB990000', N'CAS02Z00', N'03081C4H', N'98S01000', N'03081C4H/WO032004', N'O', '20210315 00:00:00.000', '20210429 00:00:00.000', N'HKD', N'D', N'18270', N'18270', N'1', N'0', N'Laboratory of Rebar Testing' ) 
+2021-03-29 12:24:12: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-15 00:00:00',N'Laboratory of Rebar Testing',N'1',N'2',N'S000093366',N'18270',N'98S01000',N'GENERAL JOURNAL',N'GJ',N'CB990000',N'03081C4H/WO032004',N'K31',N'O',N'D',N'2021-03-15 00:00:00',N'HKD',N'18270',N'CAS02Z00',N'03081C4H/WO032004',N'2021-04-29 00:00:00',N'03081C4H')
+2021-03-29 12:24:12: Check Point: Flex Connection: False
+2021-03-29 12:24:13: Check Point: ToFlex
+2021-03-29 12:24:13: Check Point: CompanyCode
+2021-03-29 12:24:13: Check Point: K31
+2021-03-29 12:24:13: Check Point: pImport.DocumentNo
+2021-03-29 12:24:13: Check Point: 03081C4H/WO032004
+2021-03-29 12:24:13: Check Point: pImport.LineNo
+2021-03-29 12:24:13: Check Point: 1
+2021-03-29 12:24:13: Check Point: pImport.BatchID
+2021-03-29 12:24:13: Check Point: S000093366
+2021-03-29 12:24:13: Check Point: pImport.VoucherType
+2021-03-29 12:24:13: Check Point: GJ
+2021-03-29 12:24:13: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:13: Check Point: 3/15/2021 12:00:00 AM
+2021-03-29 12:24:13: Check Point: pImport.Description
+2021-03-29 12:24:13: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:13: Check Point: pImport.AcctCode
+2021-03-29 12:24:13: Check Point: TPACAS02
+2021-03-29 12:24:13: Check Point: CAS02Z00
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 03081C4H
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: AnalysisCode1
+2021-03-29 12:24:13: Check Point: AnalysisCode2
+2021-03-29 12:24:13: Check Point: AnalysisCode3
+2021-03-29 12:24:13: Check Point: AnalysisCode4
+2021-03-29 12:24:13: Check Point: AnalysisCode5
+2021-03-29 12:24:13: Check Point: pImport.DocumentNo
+2021-03-29 12:24:13: Check Point: 03081C4H/WO032004
+2021-03-29 12:24:13: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: pImport.DocType
+2021-03-29 12:24:13: Check Point: O
+2021-03-29 12:24:13: Check Point: pImport.DocDate
+2021-03-29 12:24:13: Check Point: 3/15/2021 12:00:00 AM
+2021-03-29 12:24:13: Check Point: pImport.DocDueDate
+2021-03-29 12:24:13: Check Point: 4/29/2021 12:00:00 AM
+2021-03-29 12:24:13: Check Point: pImport.Currency
+2021-03-29 12:24:13: Check Point: HKD
+2021-03-29 12:24:13: Check Point: pImport.Amount
+2021-03-29 12:24:13: Check Point: 18270
+2021-03-29 12:24:13: Check Point: Particular
+2021-03-29 12:24:13: Check Point: Laboratory of Rebar Testing
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: ExtendedAnalysis
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'K31', N'03081C4H/WO032004', N'1', N'S000093366', N'GJ', '20210315 00:00:00.000', N'GENERAL JOURNAL', N'TPACAS02', N'CAS02Z00', N'03081C4H', N'03081C4H/WO032004', N'O', '20210315 00:00:00.000', '20210429 00:00:00.000', N'HKD', N'C', N'18270', N'18270', N'1', N'0', N'Laboratory of Rebar Testing' ) 
+2021-03-29 12:24:13: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-15 00:00:00',N'O',N'1',N'2021-03-15 00:00:00',N'18270',N'1',N'GENERAL JOURNAL',N'GJ',N'TPACAS02',N'03081C4H/WO032004',N'K31',N'S000093366',N'C',N'HKD',N'18270',N'CAS02Z00',N'Laboratory of Rebar Testing',N'03081C4H/WO032004',N'2021-04-29 00:00:00',N'03081C4H')
+2021-03-29 12:24:13: Check Point: Flex Connection: False
+2021-03-29 12:24:13: Check Point: SyncHistory
+2021-03-29 12:24:13: Check Point: Setup SAP Transaction
+2021-03-29 12:24:13: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:13: Check Point: Start SAP Transaction
+2021-03-29 12:24:13: Check Point: Setup Flex Transaction
+2021-03-29 12:24:13: Check Point: Start Flex Transaction
+2021-03-29 12:24:13: Check Point: SubCon Detail Count: 1
+2021-03-29 12:24:13: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:13: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:13: Check Point: CompanyCode
+2021-03-29 12:24:13: Check Point: E31
+2021-03-29 12:24:13: Check Point: pImport.DocumentNo
+2021-03-29 12:24:13: Check Point: 17002B1H/SC016019
+2021-03-29 12:24:13: Check Point: pImport.LineNo
+2021-03-29 12:24:13: Check Point: 2
+2021-03-29 12:24:13: Check Point: pImport.BatchID
+2021-03-29 12:24:13: Check Point: S000093395
+2021-03-29 12:24:13: Check Point: pImport.VoucherType
+2021-03-29 12:24:13: Check Point: GJ
+2021-03-29 12:24:13: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:13: Check Point: 3/2/2021 12:00:00 AM
+2021-03-29 12:24:13: Check Point: pImport.Description
+2021-03-29 12:24:13: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:13: Check Point: pImport.AcctCode
+2021-03-29 12:24:13: Check Point: CA090000
+2021-03-29 12:24:13: Check Point: YIN09Z00
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 17002B1H
+2021-03-29 12:24:13: Check Point: 
+2021-03-29 12:24:13: Check Point: 09P01000
+2021-03-29 12:24:13: Check Point: AnalysisCode1
+2021-03-29 12:24:14: Check Point: AnalysisCode2
+2021-03-29 12:24:14: Check Point: AnalysisCode3
+2021-03-29 12:24:14: Check Point: AnalysisCode4
+2021-03-29 12:24:14: Check Point: AnalysisCode5
+2021-03-29 12:24:14: Check Point: pImport.DocumentNo
+2021-03-29 12:24:14: Check Point: 17002B1H/SC016019
+2021-03-29 12:24:14: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: pImport.DocType
+2021-03-29 12:24:14: Check Point: O
+2021-03-29 12:24:14: Check Point: pImport.DocDate
+2021-03-29 12:24:14: Check Point: 3/2/2021 12:00:00 AM
+2021-03-29 12:24:14: Check Point: pImport.DocDueDate
+2021-03-29 12:24:14: Check Point: 4/26/2021 12:00:00 AM
+2021-03-29 12:24:14: Check Point: pImport.Currency
+2021-03-29 12:24:14: Check Point: HKD
+2021-03-29 12:24:14: Check Point: pImport.Amount
+2021-03-29 12:24:14: Check Point: 442500
+2021-03-29 12:24:14: Check Point: Particular
+2021-03-29 12:24:14: Check Point: Plant&Machinery(Erect.,Dis.&Remov. of Tower Crane)
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: ExtendedAnalysis
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'17002B1H/SC016019', N'2', N'S000093395', N'GJ', '20210302 00:00:00.000', N'GENERAL JOURNAL', N'CA090000', N'YIN09Z00', N'17002B1H', N'09P01000', N'17002B1H/SC016019', N'O', '20210302 00:00:00.000', '20210426 00:00:00.000', N'HKD', N'D', N'442500', N'442500', N'1', N'0', N'Plant&Machinery(Erect.,Dis.&Remov. of Tower Crane)' ) 
+2021-03-29 12:24:14: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-02 00:00:00',N'Plant&Machinery(Erect.,Dis.&Remov. of Tower Crane)',N'1',N'2',N'S000093395',N'442500',N'09P01000',N'GENERAL JOURNAL',N'GJ',N'CA090000',N'17002B1H/SC016019',N'E31',N'O',N'D',N'2021-03-02 00:00:00',N'HKD',N'442500',N'YIN09Z00',N'17002B1H/SC016019',N'2021-04-26 00:00:00',N'17002B1H')
+2021-03-29 12:24:14: Check Point: Flex Connection: False
+2021-03-29 12:24:14: Check Point: ToFlex
+2021-03-29 12:24:14: Check Point: CompanyCode
+2021-03-29 12:24:14: Check Point: E31
+2021-03-29 12:24:14: Check Point: pImport.DocumentNo
+2021-03-29 12:24:14: Check Point: 17002B1H/SC016019
+2021-03-29 12:24:14: Check Point: pImport.LineNo
+2021-03-29 12:24:14: Check Point: 1
+2021-03-29 12:24:14: Check Point: pImport.BatchID
+2021-03-29 12:24:14: Check Point: S000093395
+2021-03-29 12:24:14: Check Point: pImport.VoucherType
+2021-03-29 12:24:14: Check Point: GJ
+2021-03-29 12:24:14: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:14: Check Point: 3/2/2021 12:00:00 AM
+2021-03-29 12:24:14: Check Point: pImport.Description
+2021-03-29 12:24:14: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:14: Check Point: pImport.AcctCode
+2021-03-29 12:24:14: Check Point: TPAYIN09
+2021-03-29 12:24:14: Check Point: YIN09Z00
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 17002B1H
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: AnalysisCode1
+2021-03-29 12:24:14: Check Point: AnalysisCode2
+2021-03-29 12:24:14: Check Point: AnalysisCode3
+2021-03-29 12:24:14: Check Point: AnalysisCode4
+2021-03-29 12:24:14: Check Point: AnalysisCode5
+2021-03-29 12:24:14: Check Point: pImport.DocumentNo
+2021-03-29 12:24:14: Check Point: 17002B1H/SC016019
+2021-03-29 12:24:14: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: pImport.DocType
+2021-03-29 12:24:14: Check Point: O
+2021-03-29 12:24:14: Check Point: pImport.DocDate
+2021-03-29 12:24:14: Check Point: 3/2/2021 12:00:00 AM
+2021-03-29 12:24:14: Check Point: pImport.DocDueDate
+2021-03-29 12:24:14: Check Point: 4/26/2021 12:00:00 AM
+2021-03-29 12:24:14: Check Point: pImport.Currency
+2021-03-29 12:24:14: Check Point: HKD
+2021-03-29 12:24:14: Check Point: pImport.Amount
+2021-03-29 12:24:14: Check Point: 442500
+2021-03-29 12:24:14: Check Point: Particular
+2021-03-29 12:24:14: Check Point: Plant&Machinery(Erect.,Dis.&Remov. of Tower Crane)
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: ExtendedAnalysis
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: 
+2021-03-29 12:24:14: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'17002B1H/SC016019', N'1', N'S000093395', N'GJ', '20210302 00:00:00.000', N'GENERAL JOURNAL', N'TPAYIN09', N'YIN09Z00', N'17002B1H', N'17002B1H/SC016019', N'O', '20210302 00:00:00.000', '20210426 00:00:00.000', N'HKD', N'C', N'442500', N'442500', N'1', N'0', N'Plant&Machinery(Erect.,Dis.&Remov. of Tower Crane)' ) 
+2021-03-29 12:24:14: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-03-02 00:00:00',N'O',N'1',N'2021-03-02 00:00:00',N'442500',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAYIN09',N'17002B1H/SC016019',N'E31',N'S000093395',N'C',N'HKD',N'442500',N'YIN09Z00',N'Plant&Machinery(Erect.,Dis.&Remov. of Tower Crane)',N'17002B1H/SC016019',N'2021-04-26 00:00:00',N'17002B1H')
+2021-03-29 12:24:14: Check Point: Flex Connection: False
+2021-03-29 12:24:14: Check Point: SyncHistory
+2021-03-29 12:24:15: Check Point: Setup SAP Transaction
+2021-03-29 12:24:15: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:15: Check Point: Start SAP Transaction
+2021-03-29 12:24:15: Check Point: Setup Flex Transaction
+2021-03-29 12:24:15: Check Point: Start Flex Transaction
+2021-03-29 12:24:15: Check Point: SubCon Detail Count: 1
+2021-03-29 12:24:15: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:15: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:15: Check Point: CompanyCode
+2021-03-29 12:24:15: Check Point: H91
+2021-03-29 12:24:15: Check Point: pImport.DocumentNo
+2021-03-29 12:24:15: Check Point: 08036CBH/SC003007
+2021-03-29 12:24:15: Check Point: pImport.LineNo
+2021-03-29 12:24:15: Check Point: 2
+2021-03-29 12:24:15: Check Point: pImport.BatchID
+2021-03-29 12:24:15: Check Point: S000093563
+2021-03-29 12:24:15: Check Point: pImport.VoucherType
+2021-03-29 12:24:15: Check Point: GJ
+2021-03-29 12:24:15: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:15: Check Point: 2/16/2021 12:00:00 AM
+2021-03-29 12:24:15: Check Point: pImport.Description
+2021-03-29 12:24:15: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:15: Check Point: pImport.AcctCode
+2021-03-29 12:24:15: Check Point: TPPKIN87
+2021-03-29 12:24:15: Check Point: CON01Z00
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 08036CBH
+2021-03-29 12:24:15: Check Point: SC002000
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: AnalysisCode1
+2021-03-29 12:24:15: Check Point: AnalysisCode2
+2021-03-29 12:24:15: Check Point: AnalysisCode3
+2021-03-29 12:24:15: Check Point: AnalysisCode4
+2021-03-29 12:24:15: Check Point: AnalysisCode5
+2021-03-29 12:24:15: Check Point: pImport.DocumentNo
+2021-03-29 12:24:15: Check Point: 08036CBH/SC003007
+2021-03-29 12:24:15: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: pImport.DocType
+2021-03-29 12:24:15: Check Point: O
+2021-03-29 12:24:15: Check Point: pImport.DocDate
+2021-03-29 12:24:15: Check Point: 2/16/2021 12:00:00 AM
+2021-03-29 12:24:15: Check Point: pImport.DocDueDate
+2021-03-29 12:24:15: Check Point: 4/16/2021 12:00:00 AM
+2021-03-29 12:24:15: Check Point: pImport.Currency
+2021-03-29 12:24:15: Check Point: HKD
+2021-03-29 12:24:15: Check Point: pImport.Amount
+2021-03-29 12:24:15: Check Point: 35101
+2021-03-29 12:24:15: Check Point: Particular
+2021-03-29 12:24:15: Check Point: Levy
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: ExtendedAnalysis
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: 
+2021-03-29 12:24:15: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'08036CBH/SC003007', N'2', N'S000093563', N'GJ', '20210216 00:00:00.000', N'GENERAL JOURNAL', N'TPPKIN87', N'CON01Z00', N'08036CBH', N'SC002000', N'08036CBH/SC003007', N'O', '20210216 00:00:00.000', '20210416 00:00:00.000', N'HKD', N'D', N'35101', N'35101', N'1', N'0', N'Levy' ) 
+2021-03-29 12:24:15: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-16 00:00:00',N'O',N'2',N'2021-02-16 00:00:00',N'35101',N'1',N'GENERAL JOURNAL',N'GJ',N'TPPKIN87',N'08036CBH/SC003007',N'H91',N'S000093563',N'D',N'SC002000',N'HKD',N'35101',N'CON01Z00',N'Levy',N'08036CBH/SC003007',N'2021-04-16 00:00:00',N'08036CBH')
+2021-03-29 12:24:15: Check Point: Flex Connection: False
+2021-03-29 12:24:15: Check Point: ToFlex
+2021-03-29 12:24:15: Check Point: CompanyCode
+2021-03-29 12:24:15: Check Point: H91
+2021-03-29 12:24:15: Check Point: pImport.DocumentNo
+2021-03-29 12:24:15: Check Point: 08036CBH/SC003007
+2021-03-29 12:24:15: Check Point: pImport.LineNo
+2021-03-29 12:24:15: Check Point: 1
+2021-03-29 12:24:15: Check Point: pImport.BatchID
+2021-03-29 12:24:15: Check Point: S000093563
+2021-03-29 12:24:15: Check Point: pImport.VoucherType
+2021-03-29 12:24:15: Check Point: GJ
+2021-03-29 12:24:16: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:16: Check Point: 2/16/2021 12:00:00 AM
+2021-03-29 12:24:16: Check Point: pImport.Description
+2021-03-29 12:24:16: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:16: Check Point: pImport.AcctCode
+2021-03-29 12:24:16: Check Point: TPACON01
+2021-03-29 12:24:16: Check Point: CON01Z00
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 08036CBH
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: AnalysisCode1
+2021-03-29 12:24:16: Check Point: AnalysisCode2
+2021-03-29 12:24:16: Check Point: AnalysisCode3
+2021-03-29 12:24:16: Check Point: AnalysisCode4
+2021-03-29 12:24:16: Check Point: AnalysisCode5
+2021-03-29 12:24:16: Check Point: pImport.DocumentNo
+2021-03-29 12:24:16: Check Point: 08036CBH/SC003007
+2021-03-29 12:24:16: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: pImport.DocType
+2021-03-29 12:24:16: Check Point: O
+2021-03-29 12:24:16: Check Point: pImport.DocDate
+2021-03-29 12:24:16: Check Point: 2/16/2021 12:00:00 AM
+2021-03-29 12:24:16: Check Point: pImport.DocDueDate
+2021-03-29 12:24:16: Check Point: 4/16/2021 12:00:00 AM
+2021-03-29 12:24:16: Check Point: pImport.Currency
+2021-03-29 12:24:16: Check Point: HKD
+2021-03-29 12:24:16: Check Point: pImport.Amount
+2021-03-29 12:24:16: Check Point: 35101
+2021-03-29 12:24:16: Check Point: Particular
+2021-03-29 12:24:16: Check Point: Levy
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: ExtendedAnalysis
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: 
+2021-03-29 12:24:16: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'08036CBH/SC003007', N'1', N'S000093563', N'GJ', '20210216 00:00:00.000', N'GENERAL JOURNAL', N'TPACON01', N'CON01Z00', N'08036CBH', N'08036CBH/SC003007', N'O', '20210216 00:00:00.000', '20210416 00:00:00.000', N'HKD', N'C', N'35101', N'35101', N'1', N'0', N'Levy' ) 
+2021-03-29 12:24:16: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-16 00:00:00',N'O',N'1',N'2021-02-16 00:00:00',N'35101',N'1',N'GENERAL JOURNAL',N'GJ',N'TPACON01',N'08036CBH/SC003007',N'H91',N'S000093563',N'C',N'HKD',N'35101',N'CON01Z00',N'Levy',N'08036CBH/SC003007',N'2021-04-16 00:00:00',N'08036CBH')
+2021-03-29 12:24:16: Check Point: Flex Connection: False
+2021-03-29 12:24:16: Check Point: SyncHistory
+2021-03-29 12:24:16: Check Point: Setup SAP Transaction
+2021-03-29 12:24:16: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:16: Check Point: Start SAP Transaction
+2021-03-29 12:24:16: Check Point: Setup Flex Transaction
+2021-03-29 12:24:16: Check Point: Start Flex Transaction
+2021-03-29 12:24:16: Check Point: SubCon Detail Count: 4
+2021-03-29 12:24:16: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:16: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:16: Check Point: CompanyCode
+2021-03-29 12:24:16: Check Point: H91
+2021-03-29 12:24:16: Check Point: pImport.DocumentNo
+2021-03-29 12:24:16: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:16: Check Point: pImport.LineNo
+2021-03-29 12:24:16: Check Point: 2
+2021-03-29 12:24:16: Check Point: pImport.BatchID
+2021-03-29 12:24:16: Check Point: S000093566
+2021-03-29 12:24:16: Check Point: pImport.VoucherType
+2021-03-29 12:24:16: Check Point: GJ
+2021-03-29 12:24:16: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:17: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:17: Check Point: pImport.Description
+2021-03-29 12:24:17: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:17: Check Point: pImport.AcctCode
+2021-03-29 12:24:17: Check Point: CA060000
+2021-03-29 12:24:17: Check Point: PLA91EE9
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 08034BAH
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 06P04000
+2021-03-29 12:24:17: Check Point: AnalysisCode1
+2021-03-29 12:24:17: Check Point: AnalysisCode2
+2021-03-29 12:24:17: Check Point: AnalysisCode3
+2021-03-29 12:24:17: Check Point: AnalysisCode4
+2021-03-29 12:24:17: Check Point: AnalysisCode5
+2021-03-29 12:24:17: Check Point: pImport.DocumentNo
+2021-03-29 12:24:17: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:17: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: pImport.DocType
+2021-03-29 12:24:17: Check Point: O
+2021-03-29 12:24:17: Check Point: pImport.DocDate
+2021-03-29 12:24:17: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:17: Check Point: pImport.DocDueDate
+2021-03-29 12:24:17: Check Point: 3/30/2021 12:00:00 AM
+2021-03-29 12:24:17: Check Point: pImport.Currency
+2021-03-29 12:24:17: Check Point: HKD
+2021-03-29 12:24:17: Check Point: pImport.Amount
+2021-03-29 12:24:17: Check Point: 1500
+2021-03-29 12:24:17: Check Point: Particular
+2021-03-29 12:24:17: Check Point: Supply of Plant and Machinery
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: ExtendedAnalysis
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: 
+2021-03-29 12:24:17: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'08034BAH/SC007011', N'2', N'S000093566', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'CA060000', N'PLA91EE9', N'08034BAH', N'06P04000', N'08034BAH/SC007011', N'O', '20210228 00:00:00.000', '20210330 00:00:00.000', N'HKD', N'D', N'1500', N'1500', N'1', N'0', N'Supply of Plant and Machinery' ) 
+2021-03-29 12:24:17: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'Supply of Plant and Machinery',N'1',N'2',N'S000093566',N'1500',N'06P04000',N'GENERAL JOURNAL',N'GJ',N'CA060000',N'08034BAH/SC007011',N'H91',N'O',N'D',N'2021-02-28 00:00:00',N'HKD',N'1500',N'PLA91EE9',N'08034BAH/SC007011',N'2021-03-30 00:00:00',N'08034BAH')
+2021-03-29 12:24:17: Check Point: Flex Connection: False
+2021-03-29 12:24:17: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:17: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:17: Check Point: CompanyCode
+2021-03-29 12:24:17: Check Point: H91
+2021-03-29 12:24:17: Check Point: pImport.DocumentNo
+2021-03-29 12:24:17: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:17: Check Point: pImport.LineNo
+2021-03-29 12:24:17: Check Point: 3
+2021-03-29 12:24:18: Check Point: pImport.BatchID
+2021-03-29 12:24:18: Check Point: S000093566
+2021-03-29 12:24:18: Check Point: pImport.VoucherType
+2021-03-29 12:24:18: Check Point: GJ
+2021-03-29 12:24:18: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:18: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:18: Check Point: pImport.Description
+2021-03-29 12:24:18: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:18: Check Point: pImport.AcctCode
+2021-03-29 12:24:18: Check Point: TPPKIN87
+2021-03-29 12:24:18: Check Point: PLA91EE9
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 08034BAH
+2021-03-29 12:24:18: Check Point: SC014000
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: AnalysisCode1
+2021-03-29 12:24:18: Check Point: AnalysisCode2
+2021-03-29 12:24:18: Check Point: AnalysisCode3
+2021-03-29 12:24:18: Check Point: AnalysisCode4
+2021-03-29 12:24:18: Check Point: AnalysisCode5
+2021-03-29 12:24:18: Check Point: pImport.DocumentNo
+2021-03-29 12:24:18: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:18: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: pImport.DocType
+2021-03-29 12:24:18: Check Point: O
+2021-03-29 12:24:18: Check Point: pImport.DocDate
+2021-03-29 12:24:18: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:18: Check Point: pImport.DocDueDate
+2021-03-29 12:24:18: Check Point: 3/30/2021 12:00:00 AM
+2021-03-29 12:24:18: Check Point: pImport.Currency
+2021-03-29 12:24:18: Check Point: HKD
+2021-03-29 12:24:18: Check Point: pImport.Amount
+2021-03-29 12:24:18: Check Point: 1600
+2021-03-29 12:24:18: Check Point: Particular
+2021-03-29 12:24:18: Check Point: Supply of Plant and Machinery
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: ExtendedAnalysis
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'08034BAH/SC007011', N'3', N'S000093566', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'TPPKIN87', N'PLA91EE9', N'08034BAH', N'SC014000', N'08034BAH/SC007011', N'O', '20210228 00:00:00.000', '20210330 00:00:00.000', N'HKD', N'D', N'1600', N'1600', N'1', N'0', N'Supply of Plant and Machinery' ) 
+2021-03-29 12:24:18: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'O',N'3',N'2021-02-28 00:00:00',N'1600',N'1',N'GENERAL JOURNAL',N'GJ',N'TPPKIN87',N'08034BAH/SC007011',N'H91',N'S000093566',N'D',N'SC014000',N'HKD',N'1600',N'PLA91EE9',N'Supply of Plant and Machinery',N'08034BAH/SC007011',N'2021-03-30 00:00:00',N'08034BAH')
+2021-03-29 12:24:18: Check Point: Flex Connection: False
+2021-03-29 12:24:18: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:18: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:18: Check Point: CompanyCode
+2021-03-29 12:24:18: Check Point: H91
+2021-03-29 12:24:18: Check Point: pImport.DocumentNo
+2021-03-29 12:24:18: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:18: Check Point: pImport.LineNo
+2021-03-29 12:24:18: Check Point: 4
+2021-03-29 12:24:18: Check Point: pImport.BatchID
+2021-03-29 12:24:18: Check Point: S000093566
+2021-03-29 12:24:18: Check Point: pImport.VoucherType
+2021-03-29 12:24:18: Check Point: GJ
+2021-03-29 12:24:18: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:18: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:18: Check Point: pImport.Description
+2021-03-29 12:24:18: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:18: Check Point: pImport.AcctCode
+2021-03-29 12:24:18: Check Point: TPPKIN87
+2021-03-29 12:24:18: Check Point: PLA91EE9
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: 08034BAH
+2021-03-29 12:24:18: Check Point: SC014000
+2021-03-29 12:24:18: Check Point: 
+2021-03-29 12:24:18: Check Point: AnalysisCode1
+2021-03-29 12:24:18: Check Point: AnalysisCode2
+2021-03-29 12:24:18: Check Point: AnalysisCode3
+2021-03-29 12:24:18: Check Point: AnalysisCode4
+2021-03-29 12:24:19: Check Point: AnalysisCode5
+2021-03-29 12:24:19: Check Point: pImport.DocumentNo
+2021-03-29 12:24:19: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:19: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: pImport.DocType
+2021-03-29 12:24:19: Check Point: O
+2021-03-29 12:24:19: Check Point: pImport.DocDate
+2021-03-29 12:24:19: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:19: Check Point: pImport.DocDueDate
+2021-03-29 12:24:19: Check Point: 3/30/2021 12:00:00 AM
+2021-03-29 12:24:19: Check Point: pImport.Currency
+2021-03-29 12:24:19: Check Point: HKD
+2021-03-29 12:24:19: Check Point: pImport.Amount
+2021-03-29 12:24:19: Check Point: 6000
+2021-03-29 12:24:19: Check Point: Particular
+2021-03-29 12:24:19: Check Point: Supply of Plant and Machinery
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: ExtendedAnalysis
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'08034BAH/SC007011', N'4', N'S000093566', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'TPPKIN87', N'PLA91EE9', N'08034BAH', N'SC014000', N'08034BAH/SC007011', N'O', '20210228 00:00:00.000', '20210330 00:00:00.000', N'HKD', N'D', N'6000', N'6000', N'1', N'0', N'Supply of Plant and Machinery' ) 
+2021-03-29 12:24:19: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'O',N'4',N'2021-02-28 00:00:00',N'6000',N'1',N'GENERAL JOURNAL',N'GJ',N'TPPKIN87',N'08034BAH/SC007011',N'H91',N'S000093566',N'D',N'SC014000',N'HKD',N'6000',N'PLA91EE9',N'Supply of Plant and Machinery',N'08034BAH/SC007011',N'2021-03-30 00:00:00',N'08034BAH')
+2021-03-29 12:24:19: Check Point: Flex Connection: False
+2021-03-29 12:24:19: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:19: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:19: Check Point: CompanyCode
+2021-03-29 12:24:19: Check Point: H91
+2021-03-29 12:24:19: Check Point: pImport.DocumentNo
+2021-03-29 12:24:19: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:19: Check Point: pImport.LineNo
+2021-03-29 12:24:19: Check Point: 5
+2021-03-29 12:24:19: Check Point: pImport.BatchID
+2021-03-29 12:24:19: Check Point: S000093566
+2021-03-29 12:24:19: Check Point: pImport.VoucherType
+2021-03-29 12:24:19: Check Point: GJ
+2021-03-29 12:24:19: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:19: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:19: Check Point: pImport.Description
+2021-03-29 12:24:19: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:19: Check Point: pImport.AcctCode
+2021-03-29 12:24:19: Check Point: TPPKIN87
+2021-03-29 12:24:19: Check Point: PLA91EE9
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 08034BAH
+2021-03-29 12:24:19: Check Point: SC014000
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: AnalysisCode1
+2021-03-29 12:24:19: Check Point: AnalysisCode2
+2021-03-29 12:24:19: Check Point: AnalysisCode3
+2021-03-29 12:24:19: Check Point: AnalysisCode4
+2021-03-29 12:24:19: Check Point: AnalysisCode5
+2021-03-29 12:24:19: Check Point: pImport.DocumentNo
+2021-03-29 12:24:19: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:19: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: pImport.DocType
+2021-03-29 12:24:19: Check Point: O
+2021-03-29 12:24:19: Check Point: pImport.DocDate
+2021-03-29 12:24:19: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:19: Check Point: pImport.DocDueDate
+2021-03-29 12:24:19: Check Point: 3/30/2021 12:00:00 AM
+2021-03-29 12:24:19: Check Point: pImport.Currency
+2021-03-29 12:24:19: Check Point: HKD
+2021-03-29 12:24:19: Check Point: pImport.Amount
+2021-03-29 12:24:19: Check Point: 3000
+2021-03-29 12:24:19: Check Point: Particular
+2021-03-29 12:24:19: Check Point: Supply of Plant and Machinery
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: ExtendedAnalysis
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:19: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'08034BAH/SC007011', N'5', N'S000093566', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'TPPKIN87', N'PLA91EE9', N'08034BAH', N'SC014000', N'08034BAH/SC007011', N'O', '20210228 00:00:00.000', '20210330 00:00:00.000', N'HKD', N'D', N'3000', N'3000', N'1', N'0', N'Supply of Plant and Machinery' ) 
+2021-03-29 12:24:20: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'O',N'5',N'2021-02-28 00:00:00',N'3000',N'1',N'GENERAL JOURNAL',N'GJ',N'TPPKIN87',N'08034BAH/SC007011',N'H91',N'S000093566',N'D',N'SC014000',N'HKD',N'3000',N'PLA91EE9',N'Supply of Plant and Machinery',N'08034BAH/SC007011',N'2021-03-30 00:00:00',N'08034BAH')
+2021-03-29 12:24:20: Check Point: Flex Connection: False
+2021-03-29 12:24:20: Check Point: ToFlex
+2021-03-29 12:24:20: Check Point: CompanyCode
+2021-03-29 12:24:20: Check Point: H91
+2021-03-29 12:24:20: Check Point: pImport.DocumentNo
+2021-03-29 12:24:20: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:20: Check Point: pImport.LineNo
+2021-03-29 12:24:20: Check Point: 1
+2021-03-29 12:24:20: Check Point: pImport.BatchID
+2021-03-29 12:24:20: Check Point: S000093566
+2021-03-29 12:24:20: Check Point: pImport.VoucherType
+2021-03-29 12:24:20: Check Point: GJ
+2021-03-29 12:24:20: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:20: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:20: Check Point: pImport.Description
+2021-03-29 12:24:20: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:20: Check Point: pImport.AcctCode
+2021-03-29 12:24:20: Check Point: TPAPLA91
+2021-03-29 12:24:20: Check Point: PLA91EE9
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 08034BAH
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: AnalysisCode1
+2021-03-29 12:24:20: Check Point: AnalysisCode2
+2021-03-29 12:24:20: Check Point: AnalysisCode3
+2021-03-29 12:24:20: Check Point: AnalysisCode4
+2021-03-29 12:24:20: Check Point: AnalysisCode5
+2021-03-29 12:24:20: Check Point: pImport.DocumentNo
+2021-03-29 12:24:20: Check Point: 08034BAH/SC007011
+2021-03-29 12:24:20: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: pImport.DocType
+2021-03-29 12:24:20: Check Point: O
+2021-03-29 12:24:20: Check Point: pImport.DocDate
+2021-03-29 12:24:20: Check Point: 2/28/2021 12:00:00 AM
+2021-03-29 12:24:20: Check Point: pImport.DocDueDate
+2021-03-29 12:24:20: Check Point: 3/30/2021 12:00:00 AM
+2021-03-29 12:24:20: Check Point: pImport.Currency
+2021-03-29 12:24:20: Check Point: HKD
+2021-03-29 12:24:20: Check Point: pImport.Amount
+2021-03-29 12:24:20: Check Point: 12100
+2021-03-29 12:24:20: Check Point: Particular
+2021-03-29 12:24:20: Check Point: Supply of Plant and Machinery
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: ExtendedAnalysis
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: 
+2021-03-29 12:24:20: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'08034BAH/SC007011', N'1', N'S000093566', N'GJ', '20210228 00:00:00.000', N'GENERAL JOURNAL', N'TPAPLA91', N'PLA91EE9', N'08034BAH', N'08034BAH/SC007011', N'O', '20210228 00:00:00.000', '20210330 00:00:00.000', N'HKD', N'C', N'12100', N'12100', N'1', N'0', N'Supply of Plant and Machinery' ) 
+2021-03-29 12:24:20: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-02-28 00:00:00',N'O',N'1',N'2021-02-28 00:00:00',N'12100',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAPLA91',N'08034BAH/SC007011',N'H91',N'S000093566',N'C',N'HKD',N'12100',N'PLA91EE9',N'Supply of Plant and Machinery',N'08034BAH/SC007011',N'2021-03-30 00:00:00',N'08034BAH')
+2021-03-29 12:24:20: Check Point: Flex Connection: False
+2021-03-29 12:24:20: Check Point: SyncHistory
+2021-03-29 12:24:20: Check Point: Setup SAP Transaction
+2021-03-29 12:24:21: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:21: Check Point: Start SAP Transaction
+2021-03-29 12:24:21: Check Point: Setup Flex Transaction
+2021-03-29 12:24:21: Check Point: Start Flex Transaction
+2021-03-29 12:24:21: Check Point: SubCon Detail Count: 1
+2021-03-29 12:24:21: Check Point: JournalSync.Interface.Synchronization Start
+2021-03-29 12:24:21: Check Point: JournalSync.Interface.Synchronization End
+2021-03-29 12:24:21: Check Point: CompanyCode
+2021-03-29 12:24:21: Check Point: H91
+2021-03-29 12:24:21: Check Point: pImport.DocumentNo
+2021-03-29 12:24:21: Check Point: 03083CBH/WO008003
+2021-03-29 12:24:21: Check Point: pImport.LineNo
+2021-03-29 12:24:21: Check Point: 2
+2021-03-29 12:24:21: Check Point: pImport.BatchID
+2021-03-29 12:24:21: Check Point: S000093567
+2021-03-29 12:24:21: Check Point: pImport.VoucherType
+2021-03-29 12:24:21: Check Point: GJ
+2021-03-29 12:24:21: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:21: Check Point: 1/31/2021 12:00:00 AM
+2021-03-29 12:24:21: Check Point: pImport.Description
+2021-03-29 12:24:21: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:21: Check Point: pImport.AcctCode
+2021-03-29 12:24:21: Check Point: CA090000
+2021-03-29 12:24:21: Check Point: PLA91EE9
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 03083CBH
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 09P01000
+2021-03-29 12:24:21: Check Point: AnalysisCode1
+2021-03-29 12:24:21: Check Point: AnalysisCode2
+2021-03-29 12:24:21: Check Point: AnalysisCode3
+2021-03-29 12:24:21: Check Point: AnalysisCode4
+2021-03-29 12:24:21: Check Point: AnalysisCode5
+2021-03-29 12:24:21: Check Point: pImport.DocumentNo
+2021-03-29 12:24:21: Check Point: 03083CBH/WO008003
+2021-03-29 12:24:21: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: pImport.DocType
+2021-03-29 12:24:21: Check Point: O
+2021-03-29 12:24:21: Check Point: pImport.DocDate
+2021-03-29 12:24:21: Check Point: 1/31/2021 12:00:00 AM
+2021-03-29 12:24:21: Check Point: pImport.DocDueDate
+2021-03-29 12:24:21: Check Point: 3/17/2021 12:00:00 AM
+2021-03-29 12:24:21: Check Point: pImport.Currency
+2021-03-29 12:24:21: Check Point: HKD
+2021-03-29 12:24:21: Check Point: pImport.Amount
+2021-03-29 12:24:21: Check Point: 6000
+2021-03-29 12:24:21: Check Point: Particular
+2021-03-29 12:24:21: Check Point: Earthing - SIE Building & GRS Area
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: ExtendedAnalysis
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: 
+2021-03-29 12:24:21: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'03083CBH/WO008003', N'2', N'S000093567', N'GJ', '20210131 00:00:00.000', N'GENERAL JOURNAL', N'CA090000', N'PLA91EE9', N'03083CBH', N'09P01000', N'03083CBH/WO008003', N'O', '20210131 00:00:00.000', '20210317 00:00:00.000', N'HKD', N'D', N'6000', N'6000', N'1', N'0', N'Earthing - SIE Building & GRS Area' ) 
+2021-03-29 12:24:21: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-01-31 00:00:00',N'Earthing - SIE Building & GRS Area',N'1',N'2',N'S000093567',N'6000',N'09P01000',N'GENERAL JOURNAL',N'GJ',N'CA090000',N'03083CBH/WO008003',N'H91',N'O',N'D',N'2021-01-31 00:00:00',N'HKD',N'6000',N'PLA91EE9',N'03083CBH/WO008003',N'2021-03-17 00:00:00',N'03083CBH')
+2021-03-29 12:24:21: Check Point: Flex Connection: False
+2021-03-29 12:24:21: Check Point: ToFlex
+2021-03-29 12:24:21: Check Point: CompanyCode
+2021-03-29 12:24:21: Check Point: H91
+2021-03-29 12:24:21: Check Point: pImport.DocumentNo
+2021-03-29 12:24:22: Check Point: 03083CBH/WO008003
+2021-03-29 12:24:22: Check Point: pImport.LineNo
+2021-03-29 12:24:22: Check Point: 1
+2021-03-29 12:24:22: Check Point: pImport.BatchID
+2021-03-29 12:24:22: Check Point: S000093567
+2021-03-29 12:24:22: Check Point: pImport.VoucherType
+2021-03-29 12:24:22: Check Point: GJ
+2021-03-29 12:24:22: Check Point:  pImport.VoucherDate
+2021-03-29 12:24:22: Check Point: 1/31/2021 12:00:00 AM
+2021-03-29 12:24:22: Check Point: pImport.Description
+2021-03-29 12:24:22: Check Point: GENERAL JOURNAL
+2021-03-29 12:24:22: Check Point: pImport.AcctCode
+2021-03-29 12:24:22: Check Point: TPAPLA91
+2021-03-29 12:24:22: Check Point: PLA91EE9
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 03083CBH
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: AnalysisCode1
+2021-03-29 12:24:22: Check Point: AnalysisCode2
+2021-03-29 12:24:22: Check Point: AnalysisCode3
+2021-03-29 12:24:22: Check Point: AnalysisCode4
+2021-03-29 12:24:22: Check Point: AnalysisCode5
+2021-03-29 12:24:22: Check Point: pImport.DocumentNo
+2021-03-29 12:24:22: Check Point: 03083CBH/WO008003
+2021-03-29 12:24:22: Check Point: pImport.AltDocNumber
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: pImport.DocType
+2021-03-29 12:24:22: Check Point: O
+2021-03-29 12:24:22: Check Point: pImport.DocDate
+2021-03-29 12:24:22: Check Point: 1/31/2021 12:00:00 AM
+2021-03-29 12:24:22: Check Point: pImport.DocDueDate
+2021-03-29 12:24:22: Check Point: 3/17/2021 12:00:00 AM
+2021-03-29 12:24:22: Check Point: pImport.Currency
+2021-03-29 12:24:22: Check Point: HKD
+2021-03-29 12:24:22: Check Point: pImport.Amount
+2021-03-29 12:24:22: Check Point: 6000
+2021-03-29 12:24:22: Check Point: Particular
+2021-03-29 12:24:22: Check Point: Earthing - SIE Building & GRS Area
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: ExtendedAnalysis
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: 
+2021-03-29 12:24:22: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'H91', N'03083CBH/WO008003', N'1', N'S000093567', N'GJ', '20210131 00:00:00.000', N'GENERAL JOURNAL', N'TPAPLA91', N'PLA91EE9', N'03083CBH', N'03083CBH/WO008003', N'O', '20210131 00:00:00.000', '20210317 00:00:00.000', N'HKD', N'C', N'6000', N'6000', N'1', N'0', N'Earthing - SIE Building & GRS Area' ) 
+2021-03-29 12:24:22: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-01-31 00:00:00',N'O',N'1',N'2021-01-31 00:00:00',N'6000',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAPLA91',N'03083CBH/WO008003',N'H91',N'S000093567',N'C',N'HKD',N'6000',N'PLA91EE9',N'Earthing - SIE Building & GRS Area',N'03083CBH/WO008003',N'2021-03-17 00:00:00',N'03083CBH')
+2021-03-29 12:24:22: Check Point: Flex Connection: False
+2021-03-29 12:24:22: Check Point: SyncHistory
+2021-03-29 12:24:22: Check Point: Sub-Contact Payment Cert Import Posted Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'S%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2021-03-29 12:24:22: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'S000090756'
+2021-03-29 12:24:22: Check Point: SubCon-Temp-1
+2021-03-29 12:24:22: Check Point: SubCon-Temp-2 : 12133CBH/SC008/026
+2021-03-29 12:24:22: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '12133CBH/SC008/026' and DocStatus = 'PPFA'
+2021-03-29 12:24:22: Check Point: SubCon-Test2 : 1
+2021-03-29 12:24:23: Check Point: SubCon-Test3
+2021-03-29 12:24:23: Check Point: SubCon-Test4
+2021-03-29 12:24:27: Check Point: Setup SAP Transaction
+2021-03-29 12:24:27: Check Point: Setup StartTransaction:False
+2021-03-29 12:24:27: Check Point: Start SAP Transaction
+2021-03-29 12:24:27: Check Point: Setup Flex Transaction
+2021-03-29 12:24:27: Check Point: Start Flex Transaction

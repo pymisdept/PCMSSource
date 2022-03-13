@@ -1,0 +1,42 @@
+*******************************************************************
+Job name: A/R Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2016-05-30 14:48:46Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+2016-05-30 14:48:46Z: Process Record: [C000001866], Success
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+
+
+No of records process: 1
+No of records success: 1
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2016-05-30 14:48:46Z
+Job Complete [Success]
+*******************************************************************
+

@@ -1,0 +1,1885 @@
+2021-11-25 16:42:33: Check Point: Get SubCOnstInoice Query:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppDAP, U_AppRefundDAP, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag, U_GSTPrcnt, U_AppGST, U_CumGST From [dbo].[PRE_OPCH] WHERE 
+  (( ObjType = '18') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+ AND PRE_OPCH.DocTotal = 0
+ AND ((PRE_OPCH.Project <> '19067B3H'
+ AND PRE_OPCH.Project <> '15008B3H')
+ OR (PRE_OPCH.Project IN ('19067B3H','15008B3H')
+ AND PRE_OPCH.DocEntry IN (SELECT A.DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty A where A.DocStatus = 'PPPS' and A.Type = 1012 and exists (select * from PMIS_BE.SPMMLPYE.dbo.[cmdocument] where convert(int, quantity2) = A.ID and cmdocumentstatus IN (21, 147) and alternativeno COLLATE LATIN1_GENERAL_BIN2 = A.DocNum))))
+
+	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+ AND PRE_OPCH.DocTotal = 0
+ AND ((PRE_OPCH.Project <> '19067B3H'
+ AND PRE_OPCH.Project <> '15008B3H')
+ OR (PRE_OPCH.Project IN ('19067B3H','15008B3H')
+ AND PRE_OPCH.DocEntry IN (SELECT A.DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty A where A.DocStatus = 'PPPS' and A.Type = 1012 and exists (select * from PMIS_BE.SPMMLPYE.dbo.[cmdocument] where convert(int, quantity2) = A.ID and cmdocumentstatus IN (21, 147) and alternativeno COLLATE LATIN1_GENERAL_BIN2 = A.DocNum))))
+
+2021-11-25 16:42:33: Check Point: Setup SAP Transaction
+2021-11-25 16:42:33: Check Point: Setup StartTransaction:False
+2021-11-25 16:42:33: Check Point: Start SAP Transaction
+2021-11-25 16:42:33: Check Point: Setup Flex Transaction
+2021-11-25 16:42:33: Check Point: Start Flex Transaction
+2021-11-25 16:42:33: Check Point: SubCon Detail Count: 42
+2021-11-25 16:42:33: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:33: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:33: Check Point: CompanyCode
+2021-11-25 16:42:33: Check Point: E51
+2021-11-25 16:42:33: Check Point: pImport.DocumentNo
+2021-11-25 16:42:33: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:33: Check Point: pImport.LineNo
+2021-11-25 16:42:33: Check Point: 2
+2021-11-25 16:42:33: Check Point: pImport.BatchID
+2021-11-25 16:42:33: Check Point: S000100995
+2021-11-25 16:42:33: Check Point: pImport.VoucherType
+2021-11-25 16:42:33: Check Point: GJ
+2021-11-25 16:42:33: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:33: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:33: Check Point: pImport.Description
+2021-11-25 16:42:33: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:33: Check Point: pImport.AcctCode
+2021-11-25 16:42:33: Check Point: RMPATA01
+2021-11-25 16:42:33: Check Point: ATA01Z00
+2021-11-25 16:42:33: Check Point: 
+2021-11-25 16:42:33: Check Point: 01007B3H
+2021-11-25 16:42:33: Check Point: 
+2021-11-25 16:42:33: Check Point: 
+2021-11-25 16:42:33: Check Point: AnalysisCode1
+2021-11-25 16:42:33: Check Point: AnalysisCode2
+2021-11-25 16:42:33: Check Point: AnalysisCode3
+2021-11-25 16:42:33: Check Point: AnalysisCode4
+2021-11-25 16:42:33: Check Point: AnalysisCode5
+2021-11-25 16:42:33: Check Point: pImport.DocumentNo
+2021-11-25 16:42:33: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:33: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:33: Check Point: 
+2021-11-25 16:42:33: Check Point: pImport.DocType
+2021-11-25 16:42:33: Check Point: O
+2021-11-25 16:42:33: Check Point: pImport.DocDate
+2021-11-25 16:42:33: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:34: Check Point: pImport.DocDueDate
+2021-11-25 16:42:34: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:34: Check Point: pImport.Currency
+2021-11-25 16:42:34: Check Point: HKD
+2021-11-25 16:42:34: Check Point: pImport.Amount
+2021-11-25 16:42:34: Check Point: 337800
+2021-11-25 16:42:34: Check Point: Particular
+2021-11-25 16:42:34: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: ExtendedAnalysis
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'2', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'RMPATA01', N'ATA01Z00', N'01007B3H', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'D', N'337800', N'337800', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:34: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'O',N'2',N'2021-07-20 00:00:00',N'337800',N'1',N'GENERAL JOURNAL',N'GJ',N'RMPATA01',N'01007B3H/NS011009',N'E51',N'S000100995',N'D',N'HKD',N'337800',N'ATA01Z00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:34: Check Point: Flex Connection: False
+2021-11-25 16:42:34: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:34: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:34: Check Point: CompanyCode
+2021-11-25 16:42:34: Check Point: E51
+2021-11-25 16:42:34: Check Point: pImport.DocumentNo
+2021-11-25 16:42:34: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:34: Check Point: pImport.LineNo
+2021-11-25 16:42:34: Check Point: 3
+2021-11-25 16:42:34: Check Point: pImport.BatchID
+2021-11-25 16:42:34: Check Point: S000100995
+2021-11-25 16:42:34: Check Point: pImport.VoucherType
+2021-11-25 16:42:34: Check Point: GJ
+2021-11-25 16:42:34: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:34: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:34: Check Point: pImport.Description
+2021-11-25 16:42:34: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:34: Check Point: pImport.AcctCode
+2021-11-25 16:42:34: Check Point: TPPATA01
+2021-11-25 16:42:34: Check Point: ATA01Z00
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 01007B3H
+2021-11-25 16:42:34: Check Point: NS011000
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: AnalysisCode1
+2021-11-25 16:42:34: Check Point: AnalysisCode2
+2021-11-25 16:42:34: Check Point: AnalysisCode3
+2021-11-25 16:42:34: Check Point: AnalysisCode4
+2021-11-25 16:42:34: Check Point: AnalysisCode5
+2021-11-25 16:42:34: Check Point: pImport.DocumentNo
+2021-11-25 16:42:34: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:34: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: pImport.DocType
+2021-11-25 16:42:34: Check Point: O
+2021-11-25 16:42:34: Check Point: pImport.DocDate
+2021-11-25 16:42:34: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:34: Check Point: pImport.DocDueDate
+2021-11-25 16:42:34: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:34: Check Point: pImport.Currency
+2021-11-25 16:42:34: Check Point: HKD
+2021-11-25 16:42:34: Check Point: pImport.Amount
+2021-11-25 16:42:34: Check Point: -4840
+2021-11-25 16:42:34: Check Point: Particular
+2021-11-25 16:42:34: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: ExtendedAnalysis
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: 
+2021-11-25 16:42:34: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'3', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'TPPATA01', N'ATA01Z00', N'01007B3H', N'NS011000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'4840', N'4840', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:34: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'O',N'3',N'2021-07-20 00:00:00',N'4840',N'1',N'GENERAL JOURNAL',N'GJ',N'TPPATA01',N'01007B3H/NS011009',N'E51',N'S000100995',N'C',N'NS011000',N'HKD',N'4840',N'ATA01Z00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:34: Check Point: Flex Connection: False
+2021-11-25 16:42:34: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:34: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:34: Check Point: CompanyCode
+2021-11-25 16:42:34: Check Point: E51
+2021-11-25 16:42:34: Check Point: pImport.DocumentNo
+2021-11-25 16:42:34: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:34: Check Point: pImport.LineNo
+2021-11-25 16:42:34: Check Point: 4
+2021-11-25 16:42:34: Check Point: pImport.BatchID
+2021-11-25 16:42:34: Check Point: S000100995
+2021-11-25 16:42:34: Check Point: pImport.VoucherType
+2021-11-25 16:42:34: Check Point: GJ
+2021-11-25 16:42:35: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:35: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:35: Check Point: pImport.Description
+2021-11-25 16:42:35: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:35: Check Point: pImport.AcctCode
+2021-11-25 16:42:35: Check Point: TPPATA01
+2021-11-25 16:42:35: Check Point: ATA01Z00
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 01007B3H
+2021-11-25 16:42:35: Check Point: NS011000
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: AnalysisCode1
+2021-11-25 16:42:35: Check Point: AnalysisCode2
+2021-11-25 16:42:35: Check Point: AnalysisCode3
+2021-11-25 16:42:35: Check Point: AnalysisCode4
+2021-11-25 16:42:35: Check Point: AnalysisCode5
+2021-11-25 16:42:35: Check Point: pImport.DocumentNo
+2021-11-25 16:42:35: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:35: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: pImport.DocType
+2021-11-25 16:42:35: Check Point: O
+2021-11-25 16:42:35: Check Point: pImport.DocDate
+2021-11-25 16:42:35: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:35: Check Point: pImport.DocDueDate
+2021-11-25 16:42:35: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:35: Check Point: pImport.Currency
+2021-11-25 16:42:35: Check Point: HKD
+2021-11-25 16:42:35: Check Point: pImport.Amount
+2021-11-25 16:42:35: Check Point: -1210
+2021-11-25 16:42:35: Check Point: Particular
+2021-11-25 16:42:35: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: ExtendedAnalysis
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'4', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'TPPATA01', N'ATA01Z00', N'01007B3H', N'NS011000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'1210', N'1210', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:35: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'O',N'4',N'2021-07-20 00:00:00',N'1210',N'1',N'GENERAL JOURNAL',N'GJ',N'TPPATA01',N'01007B3H/NS011009',N'E51',N'S000100995',N'C',N'NS011000',N'HKD',N'1210',N'ATA01Z00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:35: Check Point: Flex Connection: False
+2021-11-25 16:42:35: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:35: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:35: Check Point: CompanyCode
+2021-11-25 16:42:35: Check Point: E51
+2021-11-25 16:42:35: Check Point: pImport.DocumentNo
+2021-11-25 16:42:35: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:35: Check Point: pImport.LineNo
+2021-11-25 16:42:35: Check Point: 5
+2021-11-25 16:42:35: Check Point: pImport.BatchID
+2021-11-25 16:42:35: Check Point: S000100995
+2021-11-25 16:42:35: Check Point: pImport.VoucherType
+2021-11-25 16:42:35: Check Point: GJ
+2021-11-25 16:42:35: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:35: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:35: Check Point: pImport.Description
+2021-11-25 16:42:35: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:35: Check Point: pImport.AcctCode
+2021-11-25 16:42:35: Check Point: TPPATA01
+2021-11-25 16:42:35: Check Point: ATA01Z00
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: 01007B3H
+2021-11-25 16:42:35: Check Point: NS011000
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: AnalysisCode1
+2021-11-25 16:42:35: Check Point: AnalysisCode2
+2021-11-25 16:42:35: Check Point: AnalysisCode3
+2021-11-25 16:42:35: Check Point: AnalysisCode4
+2021-11-25 16:42:35: Check Point: AnalysisCode5
+2021-11-25 16:42:35: Check Point: pImport.DocumentNo
+2021-11-25 16:42:35: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:35: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:35: Check Point: 
+2021-11-25 16:42:35: Check Point: pImport.DocType
+2021-11-25 16:42:35: Check Point: O
+2021-11-25 16:42:35: Check Point: pImport.DocDate
+2021-11-25 16:42:35: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:35: Check Point: pImport.DocDueDate
+2021-11-25 16:42:35: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:35: Check Point: pImport.Currency
+2021-11-25 16:42:36: Check Point: HKD
+2021-11-25 16:42:36: Check Point: pImport.Amount
+2021-11-25 16:42:36: Check Point: -19789
+2021-11-25 16:42:36: Check Point: Particular
+2021-11-25 16:42:36: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: ExtendedAnalysis
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE4, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'5', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'TPPATA01', N'ATA01Z00', N'01007B3H', N'NS011000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'19789', N'19789', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:36: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_ANA_CDE4,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'O',N'5',N'2021-07-20 00:00:00',N'19789',N'1',N'GENERAL JOURNAL',N'GJ',N'TPPATA01',N'01007B3H/NS011009',N'E51',N'S000100995',N'C',N'NS011000',N'HKD',N'19789',N'ATA01Z00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:36: Check Point: Flex Connection: False
+2021-11-25 16:42:36: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:36: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:36: Check Point: CompanyCode
+2021-11-25 16:42:36: Check Point: E51
+2021-11-25 16:42:36: Check Point: pImport.DocumentNo
+2021-11-25 16:42:36: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:36: Check Point: pImport.LineNo
+2021-11-25 16:42:36: Check Point: 6
+2021-11-25 16:42:36: Check Point: pImport.BatchID
+2021-11-25 16:42:36: Check Point: S000100995
+2021-11-25 16:42:36: Check Point: pImport.VoucherType
+2021-11-25 16:42:36: Check Point: GJ
+2021-11-25 16:42:36: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:36: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:36: Check Point: pImport.Description
+2021-11-25 16:42:36: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:36: Check Point: pImport.AcctCode
+2021-11-25 16:42:36: Check Point: CB170000
+2021-11-25 16:42:36: Check Point: ATA01Z00
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 01007B3H
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 36N03000
+2021-11-25 16:42:36: Check Point: AnalysisCode1
+2021-11-25 16:42:36: Check Point: AnalysisCode2
+2021-11-25 16:42:36: Check Point: AnalysisCode3
+2021-11-25 16:42:36: Check Point: AnalysisCode4
+2021-11-25 16:42:36: Check Point: AnalysisCode5
+2021-11-25 16:42:36: Check Point: pImport.DocumentNo
+2021-11-25 16:42:36: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:36: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: pImport.DocType
+2021-11-25 16:42:36: Check Point: O
+2021-11-25 16:42:36: Check Point: pImport.DocDate
+2021-11-25 16:42:36: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:36: Check Point: pImport.DocDueDate
+2021-11-25 16:42:36: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:36: Check Point: pImport.Currency
+2021-11-25 16:42:36: Check Point: HKD
+2021-11-25 16:42:36: Check Point: pImport.Amount
+2021-11-25 16:42:36: Check Point: -2170
+2021-11-25 16:42:36: Check Point: Particular
+2021-11-25 16:42:36: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: ExtendedAnalysis
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:36: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'6', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'2170', N'2170', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:36: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'6',N'S000100995',N'2170',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'2170',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:36: Check Point: Flex Connection: False
+2021-11-25 16:42:36: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:36: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:36: Check Point: CompanyCode
+2021-11-25 16:42:36: Check Point: E51
+2021-11-25 16:42:36: Check Point: pImport.DocumentNo
+2021-11-25 16:42:36: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:36: Check Point: pImport.LineNo
+2021-11-25 16:42:36: Check Point: 7
+2021-11-25 16:42:36: Check Point: pImport.BatchID
+2021-11-25 16:42:36: Check Point: S000100995
+2021-11-25 16:42:36: Check Point: pImport.VoucherType
+2021-11-25 16:42:36: Check Point: GJ
+2021-11-25 16:42:36: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:36: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:36: Check Point: pImport.Description
+2021-11-25 16:42:36: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:36: Check Point: pImport.AcctCode
+2021-11-25 16:42:36: Check Point: CB170000
+2021-11-25 16:42:36: Check Point: ATA01Z00
+2021-11-25 16:42:36: Check Point: 
+2021-11-25 16:42:37: Check Point: 01007B3H
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 36N03000
+2021-11-25 16:42:37: Check Point: AnalysisCode1
+2021-11-25 16:42:37: Check Point: AnalysisCode2
+2021-11-25 16:42:37: Check Point: AnalysisCode3
+2021-11-25 16:42:37: Check Point: AnalysisCode4
+2021-11-25 16:42:37: Check Point: AnalysisCode5
+2021-11-25 16:42:37: Check Point: pImport.DocumentNo
+2021-11-25 16:42:37: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:37: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: pImport.DocType
+2021-11-25 16:42:37: Check Point: O
+2021-11-25 16:42:37: Check Point: pImport.DocDate
+2021-11-25 16:42:37: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:37: Check Point: pImport.DocDueDate
+2021-11-25 16:42:37: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:37: Check Point: pImport.Currency
+2021-11-25 16:42:37: Check Point: HKD
+2021-11-25 16:42:37: Check Point: pImport.Amount
+2021-11-25 16:42:37: Check Point: -226030
+2021-11-25 16:42:37: Check Point: Particular
+2021-11-25 16:42:37: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: ExtendedAnalysis
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'7', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'226030', N'226030', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:37: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'7',N'S000100995',N'226030',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'226030',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:37: Check Point: Flex Connection: False
+2021-11-25 16:42:37: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:37: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:37: Check Point: CompanyCode
+2021-11-25 16:42:37: Check Point: E51
+2021-11-25 16:42:37: Check Point: pImport.DocumentNo
+2021-11-25 16:42:37: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:37: Check Point: pImport.LineNo
+2021-11-25 16:42:37: Check Point: 8
+2021-11-25 16:42:37: Check Point: pImport.BatchID
+2021-11-25 16:42:37: Check Point: S000100995
+2021-11-25 16:42:37: Check Point: pImport.VoucherType
+2021-11-25 16:42:37: Check Point: GJ
+2021-11-25 16:42:37: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:37: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:37: Check Point: pImport.Description
+2021-11-25 16:42:37: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:37: Check Point: pImport.AcctCode
+2021-11-25 16:42:37: Check Point: CB170000
+2021-11-25 16:42:37: Check Point: ATA01Z00
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 01007B3H
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: 36N03000
+2021-11-25 16:42:37: Check Point: AnalysisCode1
+2021-11-25 16:42:37: Check Point: AnalysisCode2
+2021-11-25 16:42:37: Check Point: AnalysisCode3
+2021-11-25 16:42:37: Check Point: AnalysisCode4
+2021-11-25 16:42:37: Check Point: AnalysisCode5
+2021-11-25 16:42:37: Check Point: pImport.DocumentNo
+2021-11-25 16:42:37: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:37: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:37: Check Point: 
+2021-11-25 16:42:37: Check Point: pImport.DocType
+2021-11-25 16:42:37: Check Point: O
+2021-11-25 16:42:37: Check Point: pImport.DocDate
+2021-11-25 16:42:37: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:37: Check Point: pImport.DocDueDate
+2021-11-25 16:42:37: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:37: Check Point: pImport.Currency
+2021-11-25 16:42:37: Check Point: HKD
+2021-11-25 16:42:37: Check Point: pImport.Amount
+2021-11-25 16:42:37: Check Point: -6930
+2021-11-25 16:42:37: Check Point: Particular
+2021-11-25 16:42:38: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: ExtendedAnalysis
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'8', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'6930', N'6930', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:38: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'8',N'S000100995',N'6930',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'6930',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:38: Check Point: Flex Connection: False
+2021-11-25 16:42:38: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:38: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:38: Check Point: CompanyCode
+2021-11-25 16:42:38: Check Point: E51
+2021-11-25 16:42:38: Check Point: pImport.DocumentNo
+2021-11-25 16:42:38: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:38: Check Point: pImport.LineNo
+2021-11-25 16:42:38: Check Point: 9
+2021-11-25 16:42:38: Check Point: pImport.BatchID
+2021-11-25 16:42:38: Check Point: S000100995
+2021-11-25 16:42:38: Check Point: pImport.VoucherType
+2021-11-25 16:42:38: Check Point: GJ
+2021-11-25 16:42:38: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:38: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:38: Check Point: pImport.Description
+2021-11-25 16:42:38: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:38: Check Point: pImport.AcctCode
+2021-11-25 16:42:38: Check Point: CB170000
+2021-11-25 16:42:38: Check Point: ATA01Z00
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 01007B3H
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 36N03000
+2021-11-25 16:42:38: Check Point: AnalysisCode1
+2021-11-25 16:42:38: Check Point: AnalysisCode2
+2021-11-25 16:42:38: Check Point: AnalysisCode3
+2021-11-25 16:42:38: Check Point: AnalysisCode4
+2021-11-25 16:42:38: Check Point: AnalysisCode5
+2021-11-25 16:42:38: Check Point: pImport.DocumentNo
+2021-11-25 16:42:38: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:38: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: pImport.DocType
+2021-11-25 16:42:38: Check Point: O
+2021-11-25 16:42:38: Check Point: pImport.DocDate
+2021-11-25 16:42:38: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:38: Check Point: pImport.DocDueDate
+2021-11-25 16:42:38: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:38: Check Point: pImport.Currency
+2021-11-25 16:42:38: Check Point: HKD
+2021-11-25 16:42:38: Check Point: pImport.Amount
+2021-11-25 16:42:38: Check Point: -14770
+2021-11-25 16:42:38: Check Point: Particular
+2021-11-25 16:42:38: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: ExtendedAnalysis
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'9', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'14770', N'14770', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:38: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'9',N'S000100995',N'14770',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'14770',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:38: Check Point: Flex Connection: False
+2021-11-25 16:42:38: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:38: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:38: Check Point: CompanyCode
+2021-11-25 16:42:38: Check Point: E51
+2021-11-25 16:42:38: Check Point: pImport.DocumentNo
+2021-11-25 16:42:38: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:38: Check Point: pImport.LineNo
+2021-11-25 16:42:38: Check Point: 10
+2021-11-25 16:42:38: Check Point: pImport.BatchID
+2021-11-25 16:42:38: Check Point: S000100995
+2021-11-25 16:42:38: Check Point: pImport.VoucherType
+2021-11-25 16:42:38: Check Point: GJ
+2021-11-25 16:42:38: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:38: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:38: Check Point: pImport.Description
+2021-11-25 16:42:38: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:38: Check Point: pImport.AcctCode
+2021-11-25 16:42:38: Check Point: CB170000
+2021-11-25 16:42:38: Check Point: ATA01Z00
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 01007B3H
+2021-11-25 16:42:38: Check Point: 
+2021-11-25 16:42:38: Check Point: 36N03000
+2021-11-25 16:42:38: Check Point: AnalysisCode1
+2021-11-25 16:42:38: Check Point: AnalysisCode2
+2021-11-25 16:42:38: Check Point: AnalysisCode3
+2021-11-25 16:42:38: Check Point: AnalysisCode4
+2021-11-25 16:42:38: Check Point: AnalysisCode5
+2021-11-25 16:42:38: Check Point: pImport.DocumentNo
+2021-11-25 16:42:39: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:39: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: pImport.DocType
+2021-11-25 16:42:39: Check Point: O
+2021-11-25 16:42:39: Check Point: pImport.DocDate
+2021-11-25 16:42:39: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:39: Check Point: pImport.DocDueDate
+2021-11-25 16:42:39: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:39: Check Point: pImport.Currency
+2021-11-25 16:42:39: Check Point: HKD
+2021-11-25 16:42:39: Check Point: pImport.Amount
+2021-11-25 16:42:39: Check Point: -4270
+2021-11-25 16:42:39: Check Point: Particular
+2021-11-25 16:42:39: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: ExtendedAnalysis
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'10', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'4270', N'4270', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:39: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'10',N'S000100995',N'4270',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'4270',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:39: Check Point: Flex Connection: False
+2021-11-25 16:42:39: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:39: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:39: Check Point: CompanyCode
+2021-11-25 16:42:39: Check Point: E51
+2021-11-25 16:42:39: Check Point: pImport.DocumentNo
+2021-11-25 16:42:39: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:39: Check Point: pImport.LineNo
+2021-11-25 16:42:39: Check Point: 11
+2021-11-25 16:42:39: Check Point: pImport.BatchID
+2021-11-25 16:42:39: Check Point: S000100995
+2021-11-25 16:42:39: Check Point: pImport.VoucherType
+2021-11-25 16:42:39: Check Point: GJ
+2021-11-25 16:42:39: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:39: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:39: Check Point: pImport.Description
+2021-11-25 16:42:39: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:39: Check Point: pImport.AcctCode
+2021-11-25 16:42:39: Check Point: CB170000
+2021-11-25 16:42:39: Check Point: ATA01Z00
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 01007B3H
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 36N03000
+2021-11-25 16:42:39: Check Point: AnalysisCode1
+2021-11-25 16:42:39: Check Point: AnalysisCode2
+2021-11-25 16:42:39: Check Point: AnalysisCode3
+2021-11-25 16:42:39: Check Point: AnalysisCode4
+2021-11-25 16:42:39: Check Point: AnalysisCode5
+2021-11-25 16:42:39: Check Point: pImport.DocumentNo
+2021-11-25 16:42:39: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:39: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: pImport.DocType
+2021-11-25 16:42:39: Check Point: O
+2021-11-25 16:42:39: Check Point: pImport.DocDate
+2021-11-25 16:42:39: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:39: Check Point: pImport.DocDueDate
+2021-11-25 16:42:39: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:39: Check Point: pImport.Currency
+2021-11-25 16:42:39: Check Point: HKD
+2021-11-25 16:42:39: Check Point: pImport.Amount
+2021-11-25 16:42:39: Check Point: -144550
+2021-11-25 16:42:39: Check Point: Particular
+2021-11-25 16:42:39: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: ExtendedAnalysis
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: 
+2021-11-25 16:42:39: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'11', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'144550', N'144550', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:39: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'11',N'S000100995',N'144550',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'144550',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:39: Check Point: Flex Connection: False
+2021-11-25 16:42:39: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:39: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:39: Check Point: CompanyCode
+2021-11-25 16:42:39: Check Point: E51
+2021-11-25 16:42:39: Check Point: pImport.DocumentNo
+2021-11-25 16:42:40: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:40: Check Point: pImport.LineNo
+2021-11-25 16:42:40: Check Point: 12
+2021-11-25 16:42:40: Check Point: pImport.BatchID
+2021-11-25 16:42:40: Check Point: S000100995
+2021-11-25 16:42:40: Check Point: pImport.VoucherType
+2021-11-25 16:42:40: Check Point: GJ
+2021-11-25 16:42:40: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:40: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:40: Check Point: pImport.Description
+2021-11-25 16:42:40: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:40: Check Point: pImport.AcctCode
+2021-11-25 16:42:40: Check Point: CB170000
+2021-11-25 16:42:40: Check Point: ATA01Z00
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 01007B3H
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 36N03000
+2021-11-25 16:42:40: Check Point: AnalysisCode1
+2021-11-25 16:42:40: Check Point: AnalysisCode2
+2021-11-25 16:42:40: Check Point: AnalysisCode3
+2021-11-25 16:42:40: Check Point: AnalysisCode4
+2021-11-25 16:42:40: Check Point: AnalysisCode5
+2021-11-25 16:42:40: Check Point: pImport.DocumentNo
+2021-11-25 16:42:40: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:40: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: pImport.DocType
+2021-11-25 16:42:40: Check Point: O
+2021-11-25 16:42:40: Check Point: pImport.DocDate
+2021-11-25 16:42:40: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:40: Check Point: pImport.DocDueDate
+2021-11-25 16:42:40: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:40: Check Point: pImport.Currency
+2021-11-25 16:42:40: Check Point: HKD
+2021-11-25 16:42:40: Check Point: pImport.Amount
+2021-11-25 16:42:40: Check Point: -14630
+2021-11-25 16:42:40: Check Point: Particular
+2021-11-25 16:42:40: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: ExtendedAnalysis
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'12', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'14630', N'14630', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:40: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'12',N'S000100995',N'14630',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'14630',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:40: Check Point: Flex Connection: False
+2021-11-25 16:42:40: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:40: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:40: Check Point: CompanyCode
+2021-11-25 16:42:40: Check Point: E51
+2021-11-25 16:42:40: Check Point: pImport.DocumentNo
+2021-11-25 16:42:40: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:40: Check Point: pImport.LineNo
+2021-11-25 16:42:40: Check Point: 13
+2021-11-25 16:42:40: Check Point: pImport.BatchID
+2021-11-25 16:42:40: Check Point: S000100995
+2021-11-25 16:42:40: Check Point: pImport.VoucherType
+2021-11-25 16:42:40: Check Point: GJ
+2021-11-25 16:42:40: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:40: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:40: Check Point: pImport.Description
+2021-11-25 16:42:40: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:40: Check Point: pImport.AcctCode
+2021-11-25 16:42:40: Check Point: CB170000
+2021-11-25 16:42:40: Check Point: ATA01Z00
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 01007B3H
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: 36N03000
+2021-11-25 16:42:40: Check Point: AnalysisCode1
+2021-11-25 16:42:40: Check Point: AnalysisCode2
+2021-11-25 16:42:40: Check Point: AnalysisCode3
+2021-11-25 16:42:40: Check Point: AnalysisCode4
+2021-11-25 16:42:40: Check Point: AnalysisCode5
+2021-11-25 16:42:40: Check Point: pImport.DocumentNo
+2021-11-25 16:42:40: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:40: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:40: Check Point: 
+2021-11-25 16:42:40: Check Point: pImport.DocType
+2021-11-25 16:42:40: Check Point: O
+2021-11-25 16:42:41: Check Point: pImport.DocDate
+2021-11-25 16:42:41: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:41: Check Point: pImport.DocDueDate
+2021-11-25 16:42:41: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:41: Check Point: pImport.Currency
+2021-11-25 16:42:41: Check Point: HKD
+2021-11-25 16:42:41: Check Point: pImport.Amount
+2021-11-25 16:42:41: Check Point: -4270
+2021-11-25 16:42:41: Check Point: Particular
+2021-11-25 16:42:41: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: ExtendedAnalysis
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'13', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'4270', N'4270', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:41: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'13',N'S000100995',N'4270',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'4270',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:41: Check Point: Flex Connection: False
+2021-11-25 16:42:41: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:41: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:41: Check Point: CompanyCode
+2021-11-25 16:42:41: Check Point: E51
+2021-11-25 16:42:41: Check Point: pImport.DocumentNo
+2021-11-25 16:42:41: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:41: Check Point: pImport.LineNo
+2021-11-25 16:42:41: Check Point: 14
+2021-11-25 16:42:41: Check Point: pImport.BatchID
+2021-11-25 16:42:41: Check Point: S000100995
+2021-11-25 16:42:41: Check Point: pImport.VoucherType
+2021-11-25 16:42:41: Check Point: GJ
+2021-11-25 16:42:41: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:41: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:41: Check Point: pImport.Description
+2021-11-25 16:42:41: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:41: Check Point: pImport.AcctCode
+2021-11-25 16:42:41: Check Point: CB170000
+2021-11-25 16:42:41: Check Point: ATA01Z00
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 01007B3H
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: 36N03000
+2021-11-25 16:42:41: Check Point: AnalysisCode1
+2021-11-25 16:42:41: Check Point: AnalysisCode2
+2021-11-25 16:42:41: Check Point: AnalysisCode3
+2021-11-25 16:42:41: Check Point: AnalysisCode4
+2021-11-25 16:42:41: Check Point: AnalysisCode5
+2021-11-25 16:42:41: Check Point: pImport.DocumentNo
+2021-11-25 16:42:41: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:41: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: pImport.DocType
+2021-11-25 16:42:41: Check Point: O
+2021-11-25 16:42:41: Check Point: pImport.DocDate
+2021-11-25 16:42:41: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:41: Check Point: pImport.DocDueDate
+2021-11-25 16:42:41: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:41: Check Point: pImport.Currency
+2021-11-25 16:42:41: Check Point: HKD
+2021-11-25 16:42:41: Check Point: pImport.Amount
+2021-11-25 16:42:41: Check Point: -2170
+2021-11-25 16:42:41: Check Point: Particular
+2021-11-25 16:42:41: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:41: Check Point: 
+2021-11-25 16:42:41: Check Point: ExtendedAnalysis
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'14', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'2170', N'2170', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:42: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'14',N'S000100995',N'2170',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'2170',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:42: Check Point: Flex Connection: False
+2021-11-25 16:42:42: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:42: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:42: Check Point: CompanyCode
+2021-11-25 16:42:42: Check Point: E51
+2021-11-25 16:42:42: Check Point: pImport.DocumentNo
+2021-11-25 16:42:42: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:42: Check Point: pImport.LineNo
+2021-11-25 16:42:42: Check Point: 15
+2021-11-25 16:42:42: Check Point: pImport.BatchID
+2021-11-25 16:42:42: Check Point: S000100995
+2021-11-25 16:42:42: Check Point: pImport.VoucherType
+2021-11-25 16:42:42: Check Point: GJ
+2021-11-25 16:42:42: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:42: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:42: Check Point: pImport.Description
+2021-11-25 16:42:42: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:42: Check Point: pImport.AcctCode
+2021-11-25 16:42:42: Check Point: CB170000
+2021-11-25 16:42:42: Check Point: ATA01Z00
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 01007B3H
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: 36N03000
+2021-11-25 16:42:42: Check Point: AnalysisCode1
+2021-11-25 16:42:42: Check Point: AnalysisCode2
+2021-11-25 16:42:42: Check Point: AnalysisCode3
+2021-11-25 16:42:42: Check Point: AnalysisCode4
+2021-11-25 16:42:42: Check Point: AnalysisCode5
+2021-11-25 16:42:42: Check Point: pImport.DocumentNo
+2021-11-25 16:42:42: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:42: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:42: Check Point: 
+2021-11-25 16:42:42: Check Point: pImport.DocType
+2021-11-25 16:42:42: Check Point: O
+2021-11-25 16:42:42: Check Point: pImport.DocDate
+2021-11-25 16:42:42: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:42: Check Point: pImport.DocDueDate
+2021-11-25 16:42:42: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:42: Check Point: pImport.Currency
+2021-11-25 16:42:42: Check Point: HKD
+2021-11-25 16:42:42: Check Point: pImport.Amount
+2021-11-25 16:42:43: Check Point: -13510
+2021-11-25 16:42:43: Check Point: Particular
+2021-11-25 16:42:43: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: ExtendedAnalysis
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'15', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'13510', N'13510', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:43: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'15',N'S000100995',N'13510',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'13510',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:43: Check Point: Flex Connection: False
+2021-11-25 16:42:43: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:43: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:43: Check Point: CompanyCode
+2021-11-25 16:42:43: Check Point: E51
+2021-11-25 16:42:43: Check Point: pImport.DocumentNo
+2021-11-25 16:42:43: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:43: Check Point: pImport.LineNo
+2021-11-25 16:42:43: Check Point: 16
+2021-11-25 16:42:43: Check Point: pImport.BatchID
+2021-11-25 16:42:43: Check Point: S000100995
+2021-11-25 16:42:43: Check Point: pImport.VoucherType
+2021-11-25 16:42:43: Check Point: GJ
+2021-11-25 16:42:43: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:43: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:43: Check Point: pImport.Description
+2021-11-25 16:42:43: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:43: Check Point: pImport.AcctCode
+2021-11-25 16:42:43: Check Point: CB170000
+2021-11-25 16:42:43: Check Point: ATA01Z00
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 01007B3H
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: 36N03000
+2021-11-25 16:42:43: Check Point: AnalysisCode1
+2021-11-25 16:42:43: Check Point: AnalysisCode2
+2021-11-25 16:42:43: Check Point: AnalysisCode3
+2021-11-25 16:42:43: Check Point: AnalysisCode4
+2021-11-25 16:42:43: Check Point: AnalysisCode5
+2021-11-25 16:42:43: Check Point: pImport.DocumentNo
+2021-11-25 16:42:43: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:43: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:43: Check Point: 
+2021-11-25 16:42:43: Check Point: pImport.DocType
+2021-11-25 16:42:43: Check Point: O
+2021-11-25 16:42:43: Check Point: pImport.DocDate
+2021-11-25 16:42:43: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:43: Check Point: pImport.DocDueDate
+2021-11-25 16:42:43: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:43: Check Point: pImport.Currency
+2021-11-25 16:42:43: Check Point: HKD
+2021-11-25 16:42:43: Check Point: pImport.Amount
+2021-11-25 16:42:44: Check Point: -9590
+2021-11-25 16:42:44: Check Point: Particular
+2021-11-25 16:42:44: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: ExtendedAnalysis
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'16', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'9590', N'9590', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:44: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'16',N'S000100995',N'9590',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'9590',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:44: Check Point: Flex Connection: False
+2021-11-25 16:42:44: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:44: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:44: Check Point: CompanyCode
+2021-11-25 16:42:44: Check Point: E51
+2021-11-25 16:42:44: Check Point: pImport.DocumentNo
+2021-11-25 16:42:44: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:44: Check Point: pImport.LineNo
+2021-11-25 16:42:44: Check Point: 17
+2021-11-25 16:42:44: Check Point: pImport.BatchID
+2021-11-25 16:42:44: Check Point: S000100995
+2021-11-25 16:42:44: Check Point: pImport.VoucherType
+2021-11-25 16:42:44: Check Point: GJ
+2021-11-25 16:42:44: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:44: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:44: Check Point: pImport.Description
+2021-11-25 16:42:44: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:44: Check Point: pImport.AcctCode
+2021-11-25 16:42:44: Check Point: CB170000
+2021-11-25 16:42:44: Check Point: ATA01Z00
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 01007B3H
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 36N03000
+2021-11-25 16:42:44: Check Point: AnalysisCode1
+2021-11-25 16:42:44: Check Point: AnalysisCode2
+2021-11-25 16:42:44: Check Point: AnalysisCode3
+2021-11-25 16:42:44: Check Point: AnalysisCode4
+2021-11-25 16:42:44: Check Point: AnalysisCode5
+2021-11-25 16:42:44: Check Point: pImport.DocumentNo
+2021-11-25 16:42:44: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:44: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: pImport.DocType
+2021-11-25 16:42:44: Check Point: O
+2021-11-25 16:42:44: Check Point: pImport.DocDate
+2021-11-25 16:42:44: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:44: Check Point: pImport.DocDueDate
+2021-11-25 16:42:44: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:44: Check Point: pImport.Currency
+2021-11-25 16:42:44: Check Point: HKD
+2021-11-25 16:42:44: Check Point: pImport.Amount
+2021-11-25 16:42:44: Check Point: -8540
+2021-11-25 16:42:44: Check Point: Particular
+2021-11-25 16:42:44: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: ExtendedAnalysis
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: 
+2021-11-25 16:42:44: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'17', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'8540', N'8540', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:44: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'17',N'S000100995',N'8540',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'8540',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:44: Check Point: Flex Connection: False
+2021-11-25 16:42:44: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:44: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:45: Check Point: CompanyCode
+2021-11-25 16:42:45: Check Point: E51
+2021-11-25 16:42:45: Check Point: pImport.DocumentNo
+2021-11-25 16:42:45: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:45: Check Point: pImport.LineNo
+2021-11-25 16:42:45: Check Point: 18
+2021-11-25 16:42:45: Check Point: pImport.BatchID
+2021-11-25 16:42:45: Check Point: S000100995
+2021-11-25 16:42:45: Check Point: pImport.VoucherType
+2021-11-25 16:42:45: Check Point: GJ
+2021-11-25 16:42:45: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:45: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:45: Check Point: pImport.Description
+2021-11-25 16:42:45: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:45: Check Point: pImport.AcctCode
+2021-11-25 16:42:45: Check Point: CB170000
+2021-11-25 16:42:45: Check Point: ATA01Z00
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 01007B3H
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 36N03000
+2021-11-25 16:42:45: Check Point: AnalysisCode1
+2021-11-25 16:42:45: Check Point: AnalysisCode2
+2021-11-25 16:42:45: Check Point: AnalysisCode3
+2021-11-25 16:42:45: Check Point: AnalysisCode4
+2021-11-25 16:42:45: Check Point: AnalysisCode5
+2021-11-25 16:42:45: Check Point: pImport.DocumentNo
+2021-11-25 16:42:45: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:45: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: pImport.DocType
+2021-11-25 16:42:45: Check Point: O
+2021-11-25 16:42:45: Check Point: pImport.DocDate
+2021-11-25 16:42:45: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:45: Check Point: pImport.DocDueDate
+2021-11-25 16:42:45: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:45: Check Point: pImport.Currency
+2021-11-25 16:42:45: Check Point: HKD
+2021-11-25 16:42:45: Check Point: pImport.Amount
+2021-11-25 16:42:45: Check Point: -28840
+2021-11-25 16:42:45: Check Point: Particular
+2021-11-25 16:42:45: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: ExtendedAnalysis
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'18', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'28840', N'28840', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:45: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'18',N'S000100995',N'28840',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'28840',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:45: Check Point: Flex Connection: False
+2021-11-25 16:42:45: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:45: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:45: Check Point: CompanyCode
+2021-11-25 16:42:45: Check Point: E51
+2021-11-25 16:42:45: Check Point: pImport.DocumentNo
+2021-11-25 16:42:45: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:45: Check Point: pImport.LineNo
+2021-11-25 16:42:45: Check Point: 19
+2021-11-25 16:42:45: Check Point: pImport.BatchID
+2021-11-25 16:42:45: Check Point: S000100995
+2021-11-25 16:42:45: Check Point: pImport.VoucherType
+2021-11-25 16:42:45: Check Point: GJ
+2021-11-25 16:42:45: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:45: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:45: Check Point: pImport.Description
+2021-11-25 16:42:45: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:45: Check Point: pImport.AcctCode
+2021-11-25 16:42:45: Check Point: CB170000
+2021-11-25 16:42:45: Check Point: ATA01Z00
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 01007B3H
+2021-11-25 16:42:45: Check Point: 
+2021-11-25 16:42:45: Check Point: 36N03000
+2021-11-25 16:42:45: Check Point: AnalysisCode1
+2021-11-25 16:42:45: Check Point: AnalysisCode2
+2021-11-25 16:42:45: Check Point: AnalysisCode3
+2021-11-25 16:42:46: Check Point: AnalysisCode4
+2021-11-25 16:42:46: Check Point: AnalysisCode5
+2021-11-25 16:42:46: Check Point: pImport.DocumentNo
+2021-11-25 16:42:46: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:46: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: pImport.DocType
+2021-11-25 16:42:46: Check Point: O
+2021-11-25 16:42:46: Check Point: pImport.DocDate
+2021-11-25 16:42:46: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:46: Check Point: pImport.DocDueDate
+2021-11-25 16:42:46: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:46: Check Point: pImport.Currency
+2021-11-25 16:42:46: Check Point: HKD
+2021-11-25 16:42:46: Check Point: pImport.Amount
+2021-11-25 16:42:46: Check Point: -7000
+2021-11-25 16:42:46: Check Point: Particular
+2021-11-25 16:42:46: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: ExtendedAnalysis
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'19', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'7000', N'7000', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:46: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'19',N'S000100995',N'7000',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'7000',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:46: Check Point: Flex Connection: False
+2021-11-25 16:42:46: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:46: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:46: Check Point: CompanyCode
+2021-11-25 16:42:46: Check Point: E51
+2021-11-25 16:42:46: Check Point: pImport.DocumentNo
+2021-11-25 16:42:46: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:46: Check Point: pImport.LineNo
+2021-11-25 16:42:46: Check Point: 20
+2021-11-25 16:42:46: Check Point: pImport.BatchID
+2021-11-25 16:42:46: Check Point: S000100995
+2021-11-25 16:42:46: Check Point: pImport.VoucherType
+2021-11-25 16:42:46: Check Point: GJ
+2021-11-25 16:42:46: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:46: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:46: Check Point: pImport.Description
+2021-11-25 16:42:46: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:46: Check Point: pImport.AcctCode
+2021-11-25 16:42:46: Check Point: CB170000
+2021-11-25 16:42:46: Check Point: ATA01Z00
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 01007B3H
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: 36N03000
+2021-11-25 16:42:46: Check Point: AnalysisCode1
+2021-11-25 16:42:46: Check Point: AnalysisCode2
+2021-11-25 16:42:46: Check Point: AnalysisCode3
+2021-11-25 16:42:46: Check Point: AnalysisCode4
+2021-11-25 16:42:46: Check Point: AnalysisCode5
+2021-11-25 16:42:46: Check Point: pImport.DocumentNo
+2021-11-25 16:42:46: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:46: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:46: Check Point: 
+2021-11-25 16:42:46: Check Point: pImport.DocType
+2021-11-25 16:42:46: Check Point: O
+2021-11-25 16:42:46: Check Point: pImport.DocDate
+2021-11-25 16:42:46: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:46: Check Point: pImport.DocDueDate
+2021-11-25 16:42:46: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:46: Check Point: pImport.Currency
+2021-11-25 16:42:47: Check Point: HKD
+2021-11-25 16:42:47: Check Point: pImport.Amount
+2021-11-25 16:42:47: Check Point: -8050
+2021-11-25 16:42:47: Check Point: Particular
+2021-11-25 16:42:47: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: ExtendedAnalysis
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'20', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'8050', N'8050', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:47: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'20',N'S000100995',N'8050',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'8050',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:47: Check Point: Flex Connection: False
+2021-11-25 16:42:47: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:47: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:47: Check Point: CompanyCode
+2021-11-25 16:42:47: Check Point: E51
+2021-11-25 16:42:47: Check Point: pImport.DocumentNo
+2021-11-25 16:42:47: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:47: Check Point: pImport.LineNo
+2021-11-25 16:42:47: Check Point: 21
+2021-11-25 16:42:47: Check Point: pImport.BatchID
+2021-11-25 16:42:47: Check Point: S000100995
+2021-11-25 16:42:47: Check Point: pImport.VoucherType
+2021-11-25 16:42:47: Check Point: GJ
+2021-11-25 16:42:47: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:47: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:47: Check Point: pImport.Description
+2021-11-25 16:42:47: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:47: Check Point: pImport.AcctCode
+2021-11-25 16:42:47: Check Point: CB170000
+2021-11-25 16:42:47: Check Point: ATA01Z00
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 01007B3H
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 36N03000
+2021-11-25 16:42:47: Check Point: AnalysisCode1
+2021-11-25 16:42:47: Check Point: AnalysisCode2
+2021-11-25 16:42:47: Check Point: AnalysisCode3
+2021-11-25 16:42:47: Check Point: AnalysisCode4
+2021-11-25 16:42:47: Check Point: AnalysisCode5
+2021-11-25 16:42:47: Check Point: pImport.DocumentNo
+2021-11-25 16:42:47: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:47: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: pImport.DocType
+2021-11-25 16:42:47: Check Point: O
+2021-11-25 16:42:47: Check Point: pImport.DocDate
+2021-11-25 16:42:47: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:47: Check Point: pImport.DocDueDate
+2021-11-25 16:42:47: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:47: Check Point: pImport.Currency
+2021-11-25 16:42:47: Check Point: HKD
+2021-11-25 16:42:47: Check Point: pImport.Amount
+2021-11-25 16:42:47: Check Point: -12250
+2021-11-25 16:42:47: Check Point: Particular
+2021-11-25 16:42:47: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: ExtendedAnalysis
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:47: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'21', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'12250', N'12250', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:48: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'21',N'S000100995',N'12250',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'12250',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:48: Check Point: Flex Connection: False
+2021-11-25 16:42:48: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:48: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:48: Check Point: CompanyCode
+2021-11-25 16:42:48: Check Point: E51
+2021-11-25 16:42:48: Check Point: pImport.DocumentNo
+2021-11-25 16:42:48: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:48: Check Point: pImport.LineNo
+2021-11-25 16:42:48: Check Point: 22
+2021-11-25 16:42:48: Check Point: pImport.BatchID
+2021-11-25 16:42:48: Check Point: S000100995
+2021-11-25 16:42:48: Check Point: pImport.VoucherType
+2021-11-25 16:42:48: Check Point: GJ
+2021-11-25 16:42:48: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:48: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:48: Check Point: pImport.Description
+2021-11-25 16:42:48: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:48: Check Point: pImport.AcctCode
+2021-11-25 16:42:48: Check Point: CB170000
+2021-11-25 16:42:48: Check Point: ATA01Z00
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 01007B3H
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 36N03000
+2021-11-25 16:42:48: Check Point: AnalysisCode1
+2021-11-25 16:42:48: Check Point: AnalysisCode2
+2021-11-25 16:42:48: Check Point: AnalysisCode3
+2021-11-25 16:42:48: Check Point: AnalysisCode4
+2021-11-25 16:42:48: Check Point: AnalysisCode5
+2021-11-25 16:42:48: Check Point: pImport.DocumentNo
+2021-11-25 16:42:48: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:48: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: pImport.DocType
+2021-11-25 16:42:48: Check Point: O
+2021-11-25 16:42:48: Check Point: pImport.DocDate
+2021-11-25 16:42:48: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:48: Check Point: pImport.DocDueDate
+2021-11-25 16:42:48: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:48: Check Point: pImport.Currency
+2021-11-25 16:42:48: Check Point: HKD
+2021-11-25 16:42:48: Check Point: pImport.Amount
+2021-11-25 16:42:48: Check Point: -59710
+2021-11-25 16:42:48: Check Point: Particular
+2021-11-25 16:42:48: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: ExtendedAnalysis
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:48: Check Point: 
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'22', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'59710', N'59710', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:49: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'22',N'S000100995',N'59710',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'59710',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:49: Check Point: Flex Connection: False
+2021-11-25 16:42:49: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:49: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:49: Check Point: CompanyCode
+2021-11-25 16:42:49: Check Point: E51
+2021-11-25 16:42:49: Check Point: pImport.DocumentNo
+2021-11-25 16:42:49: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:49: Check Point: pImport.LineNo
+2021-11-25 16:42:49: Check Point: 23
+2021-11-25 16:42:49: Check Point: pImport.BatchID
+2021-11-25 16:42:49: Check Point: S000100995
+2021-11-25 16:42:49: Check Point: pImport.VoucherType
+2021-11-25 16:42:49: Check Point: GJ
+2021-11-25 16:42:49: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:49: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:49: Check Point: pImport.Description
+2021-11-25 16:42:49: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:49: Check Point: pImport.AcctCode
+2021-11-25 16:42:49: Check Point: CB170000
+2021-11-25 16:42:49: Check Point: ATA01Z00
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: 01007B3H
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: 36N03000
+2021-11-25 16:42:49: Check Point: AnalysisCode1
+2021-11-25 16:42:49: Check Point: AnalysisCode2
+2021-11-25 16:42:49: Check Point: AnalysisCode3
+2021-11-25 16:42:49: Check Point: AnalysisCode4
+2021-11-25 16:42:49: Check Point: AnalysisCode5
+2021-11-25 16:42:49: Check Point: pImport.DocumentNo
+2021-11-25 16:42:49: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:49: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: pImport.DocType
+2021-11-25 16:42:49: Check Point: O
+2021-11-25 16:42:49: Check Point: pImport.DocDate
+2021-11-25 16:42:49: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:49: Check Point: pImport.DocDueDate
+2021-11-25 16:42:49: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:49: Check Point: pImport.Currency
+2021-11-25 16:42:49: Check Point: HKD
+2021-11-25 16:42:49: Check Point: pImport.Amount
+2021-11-25 16:42:49: Check Point: -573020
+2021-11-25 16:42:49: Check Point: Particular
+2021-11-25 16:42:49: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: ExtendedAnalysis
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:49: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'23', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'573020', N'573020', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:50: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'23',N'S000100995',N'573020',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'573020',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:50: Check Point: Flex Connection: False
+2021-11-25 16:42:50: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:50: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:50: Check Point: CompanyCode
+2021-11-25 16:42:50: Check Point: E51
+2021-11-25 16:42:50: Check Point: pImport.DocumentNo
+2021-11-25 16:42:50: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:50: Check Point: pImport.LineNo
+2021-11-25 16:42:50: Check Point: 24
+2021-11-25 16:42:50: Check Point: pImport.BatchID
+2021-11-25 16:42:50: Check Point: S000100995
+2021-11-25 16:42:50: Check Point: pImport.VoucherType
+2021-11-25 16:42:50: Check Point: GJ
+2021-11-25 16:42:50: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:50: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:50: Check Point: pImport.Description
+2021-11-25 16:42:50: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:50: Check Point: pImport.AcctCode
+2021-11-25 16:42:50: Check Point: CB170000
+2021-11-25 16:42:50: Check Point: ATA01Z00
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 01007B3H
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 36N03000
+2021-11-25 16:42:50: Check Point: AnalysisCode1
+2021-11-25 16:42:50: Check Point: AnalysisCode2
+2021-11-25 16:42:50: Check Point: AnalysisCode3
+2021-11-25 16:42:50: Check Point: AnalysisCode4
+2021-11-25 16:42:50: Check Point: AnalysisCode5
+2021-11-25 16:42:50: Check Point: pImport.DocumentNo
+2021-11-25 16:42:50: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:50: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: pImport.DocType
+2021-11-25 16:42:50: Check Point: O
+2021-11-25 16:42:50: Check Point: pImport.DocDate
+2021-11-25 16:42:50: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:50: Check Point: pImport.DocDueDate
+2021-11-25 16:42:50: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:50: Check Point: pImport.Currency
+2021-11-25 16:42:50: Check Point: HKD
+2021-11-25 16:42:50: Check Point: pImport.Amount
+2021-11-25 16:42:50: Check Point: -121392
+2021-11-25 16:42:50: Check Point: Particular
+2021-11-25 16:42:50: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: ExtendedAnalysis
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:50: Check Point: 
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'24', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'121392', N'121392', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:51: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'24',N'S000100995',N'121392',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'121392',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:51: Check Point: Flex Connection: False
+2021-11-25 16:42:51: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:51: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:51: Check Point: CompanyCode
+2021-11-25 16:42:51: Check Point: E51
+2021-11-25 16:42:51: Check Point: pImport.DocumentNo
+2021-11-25 16:42:51: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:51: Check Point: pImport.LineNo
+2021-11-25 16:42:51: Check Point: 25
+2021-11-25 16:42:51: Check Point: pImport.BatchID
+2021-11-25 16:42:51: Check Point: S000100995
+2021-11-25 16:42:51: Check Point: pImport.VoucherType
+2021-11-25 16:42:51: Check Point: GJ
+2021-11-25 16:42:51: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:51: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:51: Check Point: pImport.Description
+2021-11-25 16:42:51: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:51: Check Point: pImport.AcctCode
+2021-11-25 16:42:51: Check Point: CB170000
+2021-11-25 16:42:51: Check Point: ATA01Z00
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 01007B3H
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 36N03000
+2021-11-25 16:42:51: Check Point: AnalysisCode1
+2021-11-25 16:42:51: Check Point: AnalysisCode2
+2021-11-25 16:42:51: Check Point: AnalysisCode3
+2021-11-25 16:42:51: Check Point: AnalysisCode4
+2021-11-25 16:42:51: Check Point: AnalysisCode5
+2021-11-25 16:42:51: Check Point: pImport.DocumentNo
+2021-11-25 16:42:51: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:51: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: pImport.DocType
+2021-11-25 16:42:51: Check Point: O
+2021-11-25 16:42:51: Check Point: pImport.DocDate
+2021-11-25 16:42:51: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:51: Check Point: pImport.DocDueDate
+2021-11-25 16:42:51: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:51: Check Point: pImport.Currency
+2021-11-25 16:42:51: Check Point: HKD
+2021-11-25 16:42:51: Check Point: pImport.Amount
+2021-11-25 16:42:51: Check Point: -161783
+2021-11-25 16:42:51: Check Point: Particular
+2021-11-25 16:42:51: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: ExtendedAnalysis
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:51: Check Point: 
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'25', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'161783', N'161783', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:52: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'25',N'S000100995',N'161783',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'161783',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:52: Check Point: Flex Connection: False
+2021-11-25 16:42:52: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:52: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:52: Check Point: CompanyCode
+2021-11-25 16:42:52: Check Point: E51
+2021-11-25 16:42:52: Check Point: pImport.DocumentNo
+2021-11-25 16:42:52: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:52: Check Point: pImport.LineNo
+2021-11-25 16:42:52: Check Point: 26
+2021-11-25 16:42:52: Check Point: pImport.BatchID
+2021-11-25 16:42:52: Check Point: S000100995
+2021-11-25 16:42:52: Check Point: pImport.VoucherType
+2021-11-25 16:42:52: Check Point: GJ
+2021-11-25 16:42:52: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:52: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:52: Check Point: pImport.Description
+2021-11-25 16:42:52: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:52: Check Point: pImport.AcctCode
+2021-11-25 16:42:52: Check Point: CB170000
+2021-11-25 16:42:52: Check Point: ATA01Z00
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 01007B3H
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 36N03000
+2021-11-25 16:42:52: Check Point: AnalysisCode1
+2021-11-25 16:42:52: Check Point: AnalysisCode2
+2021-11-25 16:42:52: Check Point: AnalysisCode3
+2021-11-25 16:42:52: Check Point: AnalysisCode4
+2021-11-25 16:42:52: Check Point: AnalysisCode5
+2021-11-25 16:42:52: Check Point: pImport.DocumentNo
+2021-11-25 16:42:52: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:52: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: pImport.DocType
+2021-11-25 16:42:52: Check Point: O
+2021-11-25 16:42:52: Check Point: pImport.DocDate
+2021-11-25 16:42:52: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:52: Check Point: pImport.DocDueDate
+2021-11-25 16:42:52: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:52: Check Point: pImport.Currency
+2021-11-25 16:42:52: Check Point: HKD
+2021-11-25 16:42:52: Check Point: pImport.Amount
+2021-11-25 16:42:52: Check Point: -1065896
+2021-11-25 16:42:52: Check Point: Particular
+2021-11-25 16:42:52: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: ExtendedAnalysis
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:52: Check Point: 
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'26', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'1065896', N'1065896', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:53: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'26',N'S000100995',N'1065896',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'1065896',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:53: Check Point: Flex Connection: False
+2021-11-25 16:42:53: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:53: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:53: Check Point: CompanyCode
+2021-11-25 16:42:53: Check Point: E51
+2021-11-25 16:42:53: Check Point: pImport.DocumentNo
+2021-11-25 16:42:53: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:53: Check Point: pImport.LineNo
+2021-11-25 16:42:53: Check Point: 27
+2021-11-25 16:42:53: Check Point: pImport.BatchID
+2021-11-25 16:42:53: Check Point: S000100995
+2021-11-25 16:42:53: Check Point: pImport.VoucherType
+2021-11-25 16:42:53: Check Point: GJ
+2021-11-25 16:42:53: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:53: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:53: Check Point: pImport.Description
+2021-11-25 16:42:53: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:53: Check Point: pImport.AcctCode
+2021-11-25 16:42:53: Check Point: CB170000
+2021-11-25 16:42:53: Check Point: ATA01Z00
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 01007B3H
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: 36N03000
+2021-11-25 16:42:53: Check Point: AnalysisCode1
+2021-11-25 16:42:53: Check Point: AnalysisCode2
+2021-11-25 16:42:53: Check Point: AnalysisCode3
+2021-11-25 16:42:53: Check Point: AnalysisCode4
+2021-11-25 16:42:53: Check Point: AnalysisCode5
+2021-11-25 16:42:53: Check Point: pImport.DocumentNo
+2021-11-25 16:42:53: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:53: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:53: Check Point: pImport.DocType
+2021-11-25 16:42:53: Check Point: O
+2021-11-25 16:42:53: Check Point: pImport.DocDate
+2021-11-25 16:42:53: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:53: Check Point: pImport.DocDueDate
+2021-11-25 16:42:53: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:53: Check Point: pImport.Currency
+2021-11-25 16:42:53: Check Point: HKD
+2021-11-25 16:42:53: Check Point: pImport.Amount
+2021-11-25 16:42:53: Check Point: -129324
+2021-11-25 16:42:53: Check Point: Particular
+2021-11-25 16:42:53: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:53: Check Point: 
+2021-11-25 16:42:54: Check Point: ExtendedAnalysis
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'27', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'129324', N'129324', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:54: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'27',N'S000100995',N'129324',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'129324',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:54: Check Point: Flex Connection: False
+2021-11-25 16:42:54: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:54: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:54: Check Point: CompanyCode
+2021-11-25 16:42:54: Check Point: E51
+2021-11-25 16:42:54: Check Point: pImport.DocumentNo
+2021-11-25 16:42:54: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:54: Check Point: pImport.LineNo
+2021-11-25 16:42:54: Check Point: 28
+2021-11-25 16:42:54: Check Point: pImport.BatchID
+2021-11-25 16:42:54: Check Point: S000100995
+2021-11-25 16:42:54: Check Point: pImport.VoucherType
+2021-11-25 16:42:54: Check Point: GJ
+2021-11-25 16:42:54: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:54: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:54: Check Point: pImport.Description
+2021-11-25 16:42:54: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:54: Check Point: pImport.AcctCode
+2021-11-25 16:42:54: Check Point: CB170000
+2021-11-25 16:42:54: Check Point: ATA01Z00
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 01007B3H
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: 36N03000
+2021-11-25 16:42:54: Check Point: AnalysisCode1
+2021-11-25 16:42:54: Check Point: AnalysisCode2
+2021-11-25 16:42:54: Check Point: AnalysisCode3
+2021-11-25 16:42:54: Check Point: AnalysisCode4
+2021-11-25 16:42:54: Check Point: AnalysisCode5
+2021-11-25 16:42:54: Check Point: pImport.DocumentNo
+2021-11-25 16:42:54: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:54: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:54: Check Point: pImport.DocType
+2021-11-25 16:42:54: Check Point: O
+2021-11-25 16:42:54: Check Point: pImport.DocDate
+2021-11-25 16:42:54: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:54: Check Point: pImport.DocDueDate
+2021-11-25 16:42:54: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:54: Check Point: pImport.Currency
+2021-11-25 16:42:54: Check Point: HKD
+2021-11-25 16:42:54: Check Point: pImport.Amount
+2021-11-25 16:42:54: Check Point: -122248
+2021-11-25 16:42:54: Check Point: Particular
+2021-11-25 16:42:54: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:54: Check Point: 
+2021-11-25 16:42:55: Check Point: ExtendedAnalysis
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'28', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'122248', N'122248', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:55: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'28',N'S000100995',N'122248',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'122248',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:55: Check Point: Flex Connection: False
+2021-11-25 16:42:55: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:55: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:55: Check Point: CompanyCode
+2021-11-25 16:42:55: Check Point: E51
+2021-11-25 16:42:55: Check Point: pImport.DocumentNo
+2021-11-25 16:42:55: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:55: Check Point: pImport.LineNo
+2021-11-25 16:42:55: Check Point: 29
+2021-11-25 16:42:55: Check Point: pImport.BatchID
+2021-11-25 16:42:55: Check Point: S000100995
+2021-11-25 16:42:55: Check Point: pImport.VoucherType
+2021-11-25 16:42:55: Check Point: GJ
+2021-11-25 16:42:55: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:55: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:55: Check Point: pImport.Description
+2021-11-25 16:42:55: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:55: Check Point: pImport.AcctCode
+2021-11-25 16:42:55: Check Point: CB170000
+2021-11-25 16:42:55: Check Point: ATA01Z00
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 01007B3H
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: 36N03000
+2021-11-25 16:42:55: Check Point: AnalysisCode1
+2021-11-25 16:42:55: Check Point: AnalysisCode2
+2021-11-25 16:42:55: Check Point: AnalysisCode3
+2021-11-25 16:42:55: Check Point: AnalysisCode4
+2021-11-25 16:42:55: Check Point: AnalysisCode5
+2021-11-25 16:42:55: Check Point: pImport.DocumentNo
+2021-11-25 16:42:55: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:55: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:55: Check Point: pImport.DocType
+2021-11-25 16:42:55: Check Point: O
+2021-11-25 16:42:55: Check Point: pImport.DocDate
+2021-11-25 16:42:55: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:55: Check Point: pImport.DocDueDate
+2021-11-25 16:42:55: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:55: Check Point: pImport.Currency
+2021-11-25 16:42:55: Check Point: HKD
+2021-11-25 16:42:55: Check Point: pImport.Amount
+2021-11-25 16:42:55: Check Point: -39785
+2021-11-25 16:42:55: Check Point: Particular
+2021-11-25 16:42:55: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:55: Check Point: 
+2021-11-25 16:42:56: Check Point: ExtendedAnalysis
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'29', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'39785', N'39785', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:56: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'29',N'S000100995',N'39785',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'39785',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:56: Check Point: Flex Connection: False
+2021-11-25 16:42:56: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:56: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:56: Check Point: CompanyCode
+2021-11-25 16:42:56: Check Point: E51
+2021-11-25 16:42:56: Check Point: pImport.DocumentNo
+2021-11-25 16:42:56: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:56: Check Point: pImport.LineNo
+2021-11-25 16:42:56: Check Point: 30
+2021-11-25 16:42:56: Check Point: pImport.BatchID
+2021-11-25 16:42:56: Check Point: S000100995
+2021-11-25 16:42:56: Check Point: pImport.VoucherType
+2021-11-25 16:42:56: Check Point: GJ
+2021-11-25 16:42:56: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:56: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:56: Check Point: pImport.Description
+2021-11-25 16:42:56: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:56: Check Point: pImport.AcctCode
+2021-11-25 16:42:56: Check Point: CB170000
+2021-11-25 16:42:56: Check Point: ATA01Z00
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 01007B3H
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: 36N03000
+2021-11-25 16:42:56: Check Point: AnalysisCode1
+2021-11-25 16:42:56: Check Point: AnalysisCode2
+2021-11-25 16:42:56: Check Point: AnalysisCode3
+2021-11-25 16:42:56: Check Point: AnalysisCode4
+2021-11-25 16:42:56: Check Point: AnalysisCode5
+2021-11-25 16:42:56: Check Point: pImport.DocumentNo
+2021-11-25 16:42:56: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:56: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:56: Check Point: 
+2021-11-25 16:42:56: Check Point: pImport.DocType
+2021-11-25 16:42:56: Check Point: O
+2021-11-25 16:42:56: Check Point: pImport.DocDate
+2021-11-25 16:42:56: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:56: Check Point: pImport.DocDueDate
+2021-11-25 16:42:56: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:56: Check Point: pImport.Currency
+2021-11-25 16:42:56: Check Point: HKD
+2021-11-25 16:42:56: Check Point: pImport.Amount
+2021-11-25 16:42:56: Check Point: -48126
+2021-11-25 16:42:56: Check Point: Particular
+2021-11-25 16:42:56: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: ExtendedAnalysis
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'30', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'48126', N'48126', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:57: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'30',N'S000100995',N'48126',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'48126',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:57: Check Point: Flex Connection: False
+2021-11-25 16:42:57: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:57: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:57: Check Point: CompanyCode
+2021-11-25 16:42:57: Check Point: E51
+2021-11-25 16:42:57: Check Point: pImport.DocumentNo
+2021-11-25 16:42:57: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:57: Check Point: pImport.LineNo
+2021-11-25 16:42:57: Check Point: 31
+2021-11-25 16:42:57: Check Point: pImport.BatchID
+2021-11-25 16:42:57: Check Point: S000100995
+2021-11-25 16:42:57: Check Point: pImport.VoucherType
+2021-11-25 16:42:57: Check Point: GJ
+2021-11-25 16:42:57: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:57: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:57: Check Point: pImport.Description
+2021-11-25 16:42:57: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:57: Check Point: pImport.AcctCode
+2021-11-25 16:42:57: Check Point: CB170000
+2021-11-25 16:42:57: Check Point: ATA01Z00
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 01007B3H
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: 36N03000
+2021-11-25 16:42:57: Check Point: AnalysisCode1
+2021-11-25 16:42:57: Check Point: AnalysisCode2
+2021-11-25 16:42:57: Check Point: AnalysisCode3
+2021-11-25 16:42:57: Check Point: AnalysisCode4
+2021-11-25 16:42:57: Check Point: AnalysisCode5
+2021-11-25 16:42:57: Check Point: pImport.DocumentNo
+2021-11-25 16:42:57: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:57: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:57: Check Point: 
+2021-11-25 16:42:57: Check Point: pImport.DocType
+2021-11-25 16:42:57: Check Point: O
+2021-11-25 16:42:57: Check Point: pImport.DocDate
+2021-11-25 16:42:57: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:57: Check Point: pImport.DocDueDate
+2021-11-25 16:42:57: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:58: Check Point: pImport.Currency
+2021-11-25 16:42:58: Check Point: HKD
+2021-11-25 16:42:58: Check Point: pImport.Amount
+2021-11-25 16:42:58: Check Point: -72922
+2021-11-25 16:42:58: Check Point: Particular
+2021-11-25 16:42:58: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: ExtendedAnalysis
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'31', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'72922', N'72922', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:58: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'31',N'S000100995',N'72922',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'72922',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:58: Check Point: Flex Connection: False
+2021-11-25 16:42:58: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:58: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:58: Check Point: CompanyCode
+2021-11-25 16:42:58: Check Point: E51
+2021-11-25 16:42:58: Check Point: pImport.DocumentNo
+2021-11-25 16:42:58: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:58: Check Point: pImport.LineNo
+2021-11-25 16:42:58: Check Point: 32
+2021-11-25 16:42:58: Check Point: pImport.BatchID
+2021-11-25 16:42:58: Check Point: S000100995
+2021-11-25 16:42:58: Check Point: pImport.VoucherType
+2021-11-25 16:42:58: Check Point: GJ
+2021-11-25 16:42:58: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:58: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:58: Check Point: pImport.Description
+2021-11-25 16:42:58: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:58: Check Point: pImport.AcctCode
+2021-11-25 16:42:58: Check Point: CB170000
+2021-11-25 16:42:58: Check Point: ATA01Z00
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 01007B3H
+2021-11-25 16:42:58: Check Point: 
+2021-11-25 16:42:58: Check Point: 36N03000
+2021-11-25 16:42:58: Check Point: AnalysisCode1
+2021-11-25 16:42:58: Check Point: AnalysisCode2
+2021-11-25 16:42:58: Check Point: AnalysisCode3
+2021-11-25 16:42:58: Check Point: AnalysisCode4
+2021-11-25 16:42:58: Check Point: AnalysisCode5
+2021-11-25 16:42:58: Check Point: pImport.DocumentNo
+2021-11-25 16:42:58: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:59: Check Point: pImport.AltDocNumber
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: pImport.DocType
+2021-11-25 16:42:59: Check Point: O
+2021-11-25 16:42:59: Check Point: pImport.DocDate
+2021-11-25 16:42:59: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:59: Check Point: pImport.DocDueDate
+2021-11-25 16:42:59: Check Point: 9/20/2021 12:00:00 AM
+2021-11-25 16:42:59: Check Point: pImport.Currency
+2021-11-25 16:42:59: Check Point: HKD
+2021-11-25 16:42:59: Check Point: pImport.Amount
+2021-11-25 16:42:59: Check Point: -57764
+2021-11-25 16:42:59: Check Point: Particular
+2021-11-25 16:42:59: Check Point: 1/F & 2/F MVAC & Electrical Fit Out Works
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: ExtendedAnalysis
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'01007B3H/NS011009', N'32', N'S000100995', N'GJ', '20210720 00:00:00.000', N'GENERAL JOURNAL', N'CB170000', N'ATA01Z00', N'01007B3H', N'36N03000', N'01007B3H/NS011009', N'O', '20210720 00:00:00.000', '20210920 00:00:00.000', N'HKD', N'C', N'57764', N'57764', N'1', N'0', N'1/F & 2/F MVAC & Electrical Fit Out Works' ) 
+2021-11-25 16:42:59: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2021-07-20 00:00:00',N'1/F & 2/F MVAC & Electrical Fit Out Works',N'1',N'32',N'S000100995',N'57764',N'36N03000',N'GENERAL JOURNAL',N'GJ',N'CB170000',N'01007B3H/NS011009',N'E51',N'O',N'C',N'2021-07-20 00:00:00',N'HKD',N'57764',N'ATA01Z00',N'01007B3H/NS011009',N'2021-09-20 00:00:00',N'01007B3H')
+2021-11-25 16:42:59: Check Point: Flex Connection: False
+2021-11-25 16:42:59: Check Point: JournalSync.Interface.Synchronization Start
+2021-11-25 16:42:59: Check Point: JournalSync.Interface.Synchronization End
+2021-11-25 16:42:59: Check Point: CompanyCode
+2021-11-25 16:42:59: Check Point: E51
+2021-11-25 16:42:59: Check Point: pImport.DocumentNo
+2021-11-25 16:42:59: Check Point: 01007B3H/NS011009
+2021-11-25 16:42:59: Check Point: pImport.LineNo
+2021-11-25 16:42:59: Check Point: 33
+2021-11-25 16:42:59: Check Point: pImport.BatchID
+2021-11-25 16:42:59: Check Point: S000100995
+2021-11-25 16:42:59: Check Point: pImport.VoucherType
+2021-11-25 16:42:59: Check Point: GJ
+2021-11-25 16:42:59: Check Point:  pImport.VoucherDate
+2021-11-25 16:42:59: Check Point: 7/20/2021 12:00:00 AM
+2021-11-25 16:42:59: Check Point: pImport.Description
+2021-11-25 16:42:59: Check Point: GENERAL JOURNAL
+2021-11-25 16:42:59: Check Point: pImport.AcctCode
+2021-11-25 16:42:59: Check Point: CB170000
+2021-11-25 16:42:59: Check Point: ATA01Z00
+2021-11-25 16:42:59: Check Point: 
+2021-11-25 16:42:59: Check Point: 01007B3H

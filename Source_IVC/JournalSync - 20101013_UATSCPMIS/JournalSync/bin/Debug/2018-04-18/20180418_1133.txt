@@ -1,0 +1,172 @@
+2018-04-18 11:33:21: Check Point: Sub Main
+2018-04-18 11:33:26: Check Point: Company DB: PAY800
+2018-04-18 11:33:26: Check Point: Project BQ:Define
+2018-04-18 11:33:26: Check Point: Project BQ:Export
+2018-04-18 11:33:26: Check Point: Project BQ:Import
+2018-04-18 11:33:26: Check Point: Project BQ: Start Import
+2018-04-18 11:33:26: Check Point: Project BQ:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt From [dbo].[PRE_OQUT] WHERE 
+  (( ObjType = '23') 
+ AND ( DocStatus = 'O')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OQUT.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OQUT.ObjType  = [CPSFSP].ObjType	
+	)	
+ AND PRE_OQUT.DocStatus  = 'O'
+
+
+2018-04-18 11:33:26: Check Point: Project BQ:Start Transaction
+2018-04-18 11:33:26: Check Point: Setup SAP Transaction
+2018-04-18 11:33:26: Check Point: Setup StartTransaction:False
+2018-04-18 11:33:26: Check Point: Start SAP Transaction
+2018-04-18 11:33:26: Check Point: Setup Flex Transaction
+2018-04-18 11:33:26: Check Point: Project BQ:Docentry
+2018-04-18 11:33:26: Check Point: Project BQ:DocEntry:228
+2018-04-18 11:33:26: Check Point: Project BQ:Create Document
+2018-04-18 11:33:26: Check Point: Sales Quotation: CreateDocument
+2018-04-18 11:33:26: Check Point: Sales Quotation: Execute
+2018-04-18 11:33:27: Check Point: Sales Quotation: Header Level
+2018-04-18 11:33:27: Check Point: Sales Quotation: Line Level
+2018-04-18 11:33:27: Check Point: Sales Quotation: Line Level Counts: 12
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Base Document Infomation
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseEntry: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseType: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: BaseLine: 0
+2018-04-18 11:33:27: Check Point: Sales Quotation: Item Information
+2018-04-18 11:33:27: Check Point: Sales Quotation: Ship Date
+2018-04-18 11:33:27: Check Point: Sales Quotation: Account
+2018-04-18 11:33:27: Check Point: Sales Quotation: Currency
+2018-04-18 11:33:27: Check Point: Sales Quotation: Project
+2018-04-18 11:33:27: Check Point: Sales Quotation: User Definded Fields
+2018-04-18 11:33:27: Check Point: Sales Quotation: Move Next
+2018-04-18 11:33:27: Check Point: Sales Quotation: Freight Charge Table
+2018-04-18 11:33:27: Check Point: Sales Quotation: Document add
+2018-04-18 11:33:27: Check Point: Project BQ:oNewObjectKey: 193
+2018-04-18 11:33:27: Check Point: Project BQ:Close Draft
+2018-04-18 11:33:27: Check Point: Project BQ:Add_Posted
+2018-04-18 11:33:28: Check Point: Project BQ:End Transaction
+2018-04-18 11:33:28: Check Point: Project BQ:AdSuccessLine
+2018-04-18 11:33:28: Check Point: Project BQ:Next Record
+2018-04-18 11:33:28: Check Point: Project BQ:ExporttoText
+2018-04-18 11:33:28: Check Point: Project BQ:Finished

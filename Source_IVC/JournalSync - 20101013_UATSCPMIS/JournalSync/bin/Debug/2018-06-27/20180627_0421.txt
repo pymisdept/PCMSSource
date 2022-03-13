@@ -1,0 +1,5 @@
+2018-06-27 04:21:10: Check Point: Setup SAP Transaction
+2018-06-27 04:21:10: Check Point: Setup StartTransaction:False
+2018-06-27 04:21:10: Check Point: Start SAP Transaction
+2018-06-27 04:21:10: Check Point: Setup Flex Transaction
+2018-06-27 04:21:10: Check Point: Start Flex Transaction

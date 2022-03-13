@@ -1,0 +1,21 @@
+2016-09-08 11:00:01: Check Point: Setup SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup StartTransaction:False
+2016-09-08 11:00:01: Check Point: Start SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup Flex Transaction
+2016-09-08 11:00:01: Check Point: Start Flex Transaction
+2016-09-08 11:00:01: Check Point: Setup SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup StartTransaction:False
+2016-09-08 11:00:01: Check Point: Start SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup Flex Transaction
+2016-09-08 11:00:01: Check Point: Start Flex Transaction
+2016-09-08 11:00:01: Check Point: Setup SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup StartTransaction:False
+2016-09-08 11:00:01: Check Point: Start SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup Flex Transaction
+2016-09-08 11:00:01: Check Point: Start Flex Transaction
+2016-09-08 11:00:01: Check Point: Setup SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup StartTransaction:False
+2016-09-08 11:00:01: Check Point: Start SAP Transaction
+2016-09-08 11:00:01: Check Point: Setup Flex Transaction
+2016-09-08 11:00:01: Check Point: Start Flex Transaction
+2016-09-08 11:00:01: Check Point: Export Log To Text Files

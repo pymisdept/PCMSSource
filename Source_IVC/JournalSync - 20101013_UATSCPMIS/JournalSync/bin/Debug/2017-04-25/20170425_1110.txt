@@ -1,0 +1,30 @@
+2017-04-25 11:10:14: Check Point: Sub Main
+2017-04-25 11:10:19: Check Point: Company DB: PAY800
+2017-04-25 11:10:19: Check Point: Purchase Query: 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPOR.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OPOR.ObjType  = [CPSFSP].ObjType And	
+	           [CPSFSP].ReasonCode = 'D112' 
+	)	
+	AND PRE_OPOR.DocStatus  = 'O'
+
+2017-04-25 11:10:19: Check Point: Setup SAP Transaction
+2017-04-25 11:10:19: Check Point: Setup StartTransaction:False
+2017-04-25 11:10:19: Check Point: Start SAP Transaction
+2017-04-25 11:10:19: Check Point: Setup Flex Transaction
+2017-04-25 11:10:19: Check Point: Purchase Query: 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPOR.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OPOR.ObjType  = [CPSFSP].ObjType And	
+	           [CPSFSP].ReasonCode = 'D112' 
+	)	
+	AND PRE_OPOR.DocStatus  = 'O'
+
+2017-04-25 11:10:20: Check Point: Purchase Query: 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPOR.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OPOR.ObjType  = [CPSFSP].ObjType And	
+	           [CPSFSP].ReasonCode = 'D112' 
+	)	
+	AND PRE_OPOR.DocStatus  = 'O'
+

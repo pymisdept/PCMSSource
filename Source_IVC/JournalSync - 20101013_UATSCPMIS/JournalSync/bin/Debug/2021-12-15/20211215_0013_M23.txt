@@ -1,0 +1,5 @@
+2021-12-15 00:13:09: Check Point: Start SAP Transaction
+2021-12-15 00:13:22: Check Point: Setup Flex Transaction
+2021-12-15 00:13:22: Check Point: Project BQ:Docentry
+2021-12-15 00:13:22: Check Point: Project BQ:DocEntry:495
+2021-12-15 00:13:22: Check Point: Project BQ:Create Document

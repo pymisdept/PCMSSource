@@ -1,0 +1,18 @@
+2019-09-13 16:22:01: Check Point: SaveXML Path: F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\TEMP\bb2e7ff3-609d-482b-84b4-887fca8bc7ac.xml
+2019-09-13 16:22:07: Check Point: Validate Quantity
+2019-09-13 16:22:35: Check Point: setDraftToAPDocument: Failure
+2019-09-13 16:22:35: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2019-09-13 16:22:35: Check Point: Supplier Payment Cert, Import_Reject SQL Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2019-09-13 16:22:36: Check Point: Export Log To Text Files

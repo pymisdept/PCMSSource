@@ -1,0 +1,2 @@
+2021-12-15 01:40:07: Check Point: Sales Quotation: Move Next
+2021-12-15 01:40:18: Check Point: Sales Quotation: Freight Charge Table

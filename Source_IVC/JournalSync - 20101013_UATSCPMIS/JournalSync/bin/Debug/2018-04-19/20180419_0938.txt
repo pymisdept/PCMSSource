@@ -1,0 +1,14 @@
+2018-04-19 09:38:02: Check Point: Sub Main
+2018-04-19 09:38:06: Check Point: Company DB: PAY800
+2018-04-19 09:38:07: Check Point: Setup SAP Transaction
+2018-04-19 09:38:07: Check Point: Setup StartTransaction:False
+2018-04-19 09:38:07: Check Point: Start SAP Transaction
+2018-04-19 09:38:07: Check Point: Setup Flex Transaction
+2018-04-19 09:38:07: Check Point: Start Flex Transaction
+2018-04-19 09:38:51: Check Point: Sub Main
+2018-04-19 09:38:56: Check Point: Company DB: PAY800
+2018-04-19 09:38:57: Check Point: Setup SAP Transaction
+2018-04-19 09:38:57: Check Point: Setup StartTransaction:False
+2018-04-19 09:38:57: Check Point: Start SAP Transaction
+2018-04-19 09:38:57: Check Point: Setup Flex Transaction
+2018-04-19 09:38:57: Check Point: Start Flex Transaction

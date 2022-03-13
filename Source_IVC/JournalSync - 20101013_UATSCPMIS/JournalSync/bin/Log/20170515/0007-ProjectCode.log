@@ -1,0 +1,87 @@
+*******************************************************************
+Job name: Project Code Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2017-05-15 11:09:53Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[12345END]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [12345END], Success
+
+[17306TRN]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [17306TRN], Success
+
+[SIT10066]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [SIT10066], Success
+
+[SIT10066]  - Frozen Module
+
+2017-05-15 11:09:53Z: Process Record: [SIT10066], Success
+
+[SIT10066]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [SIT10066], Success
+
+[10001UAT]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [10001UAT], Success
+
+[10001UAT]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [10001UAT], Success
+
+[10002UAT]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [10002UAT], Success
+
+[10002UAT]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [10002UAT], Success
+
+[11040B3H]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [11040B3H], Success
+
+[12102CBH]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [12102CBH], Success
+
+[17306TRN]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [17306TRN], Success
+
+[19047C3H]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [19047C3H], Success
+
+[12345END]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [12345END], Success
+
+[16019B3H]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [16019B3H], Success
+
+[SIT10039]  - Update Module
+
+2017-05-15 11:09:53Z: Process Record: [SIT10039], Success
+
+
+
+No of records process: 16
+No of records success: 16
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2017-05-15 11:09:53Z
+Job Complete [Success]
+*******************************************************************
+

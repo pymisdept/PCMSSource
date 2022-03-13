@@ -1,0 +1,37 @@
+2017-04-28 04:28:16: Check Point: Sub Main
+2017-04-28 04:28:22: Check Point: Company DB: PAY800
+2017-04-28 04:28:23: Check Point: Setup SAP Transaction
+2017-04-28 04:28:23: Check Point: Setup StartTransaction:False
+2017-04-28 04:28:23: Check Point: Start SAP Transaction
+2017-04-28 04:28:23: Check Point: Setup Flex Transaction
+2017-04-28 04:28:23: Check Point: Start Flex Transaction
+2017-04-28 04:28:24: Check Point: Setup SAP Transaction
+2017-04-28 04:28:24: Check Point: Setup StartTransaction:False
+2017-04-28 04:28:24: Check Point: Start SAP Transaction
+2017-04-28 04:28:24: Check Point: Setup Flex Transaction
+2017-04-28 04:28:24: Check Point: Start Flex Transaction
+2017-04-28 04:28:25: Check Point: Setup SAP Transaction
+2017-04-28 04:28:25: Check Point: Setup StartTransaction:False
+2017-04-28 04:28:25: Check Point: Start SAP Transaction
+2017-04-28 04:28:25: Check Point: Setup Flex Transaction
+2017-04-28 04:28:25: Check Point: Start Flex Transaction
+2017-04-28 04:28:25: Check Point: Setup SAP Transaction
+2017-04-28 04:28:25: Check Point: Setup StartTransaction:False
+2017-04-28 04:28:25: Check Point: Start SAP Transaction
+2017-04-28 04:28:25: Check Point: Setup Flex Transaction
+2017-04-28 04:28:25: Check Point: Start Flex Transaction
+2017-04-28 04:28:26: Check Point: Setup SAP Transaction
+2017-04-28 04:28:26: Check Point: Setup StartTransaction:False
+2017-04-28 04:28:26: Check Point: Start SAP Transaction
+2017-04-28 04:28:26: Check Point: Setup Flex Transaction
+2017-04-28 04:28:26: Check Point: Start Flex Transaction
+2017-04-28 04:28:26: Check Point: Setup SAP Transaction
+2017-04-28 04:28:26: Check Point: Setup StartTransaction:False
+2017-04-28 04:28:26: Check Point: Start SAP Transaction
+2017-04-28 04:28:26: Check Point: Setup Flex Transaction
+2017-04-28 04:28:26: Check Point: Start Flex Transaction
+2017-04-28 04:28:26: Check Point: Setup SAP Transaction
+2017-04-28 04:28:26: Check Point: Setup StartTransaction:False
+2017-04-28 04:28:26: Check Point: Start SAP Transaction
+2017-04-28 04:28:26: Check Point: Setup Flex Transaction
+2017-04-28 04:28:26: Check Point: Start Flex Transaction

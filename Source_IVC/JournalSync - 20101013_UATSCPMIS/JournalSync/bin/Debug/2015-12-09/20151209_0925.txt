@@ -1,0 +1,29 @@
+2015-12-09 09:25:01: Check Point: pImport.DocumentNo
+2015-12-09 09:25:04: Check Point: 94004I1H/WWF01Z00001
+2015-12-09 09:25:10: Check Point: pImport.LineNo
+2015-12-09 09:25:11: Check Point: 2
+2015-12-09 09:25:13: Check Point: pImport.BatchID
+2015-12-09 09:25:14: Check Point: C000001824
+2015-12-09 09:25:17: Check Point: pImport.VoucherType
+2015-12-09 09:25:19: Check Point: GJ
+2015-12-09 09:25:21: Check Point:  pImport.VoucherDate
+2015-12-09 09:25:21: Check Point: 12/9/2015 12:00:00 AM
+2015-12-09 09:25:28: Check Point: pImport.Description
+2015-12-09 09:25:28: Check Point: GENERAL JOURNAL
+2015-12-09 09:25:31: Check Point: pImport.AcctCode
+2015-12-09 09:25:32: Check Point: CR010000
+2015-12-09 09:25:42: Check Point: WWF01Z00
+2015-12-09 09:25:42: Check Point: 
+2015-12-09 09:25:42: Check Point: 94004I1H
+2015-12-09 09:25:42: Check Point: 
+2015-12-09 09:25:42: Check Point: 
+2015-12-09 09:25:42: Check Point: AnalysisCode1
+2015-12-09 09:25:42: Check Point: AnalysisCode2
+2015-12-09 09:25:42: Check Point: AnalysisCode3
+2015-12-09 09:25:42: Check Point: AnalysisCode4
+2015-12-09 09:25:42: Check Point: AnalysisCode5
+2015-12-09 09:25:42: Check Point: pImport.DocumentNo
+2015-12-09 09:25:42: Check Point: 94004I1H/WWF01Z00001
+2015-12-09 09:25:42: Check Point: pImport.AltDocNumber
+2015-12-09 09:25:42: Check Point: 
+2015-12-09 09:25:53: Check Point: pImport.DocType

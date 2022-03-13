@@ -1,0 +1,30 @@
+*******************************************************************
+Job name: Business Parnter Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2012-10-18 11:00:54Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[TEA05Z00S]  - Create Module
+
+
+[TEA05Z00C]  - Create Module
+
+2012-10-18 11:00:54Z: Process Record: [TEA05Z00], Success
+
+
+
+No of records process: 1
+No of records success: 1
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2012-10-18 11:00:54Z
+Job Complete [Success]
+*******************************************************************
+

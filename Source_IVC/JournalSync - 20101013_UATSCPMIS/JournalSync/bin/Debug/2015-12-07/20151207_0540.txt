@@ -1,0 +1,2 @@
+2015-12-07 05:40:16: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '94004I1H/RAI11ET1/001' and DocStatus = 'PPFA'
+2015-12-07 05:40:18: Check Point: Test2 : 0

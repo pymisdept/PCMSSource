@@ -1,0 +1,84 @@
+2021-07-20 14:21:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005618'
+2021-07-20 14:21:00: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '11048B3H/021' and DocStatus = 'PPFA'
+2021-07-20 14:21:00: Check Point: Test2 : 1
+2021-07-20 14:21:00: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '11048B3H/021' and DocStatus = 'PPFA'
+2021-07-20 14:21:00: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '11048B3H/021' and DocStatus = 'PPFA'
+2021-07-20 14:21:00: Check Point: Setup SAP Transaction
+2021-07-20 14:21:00: Check Point: Setup StartTransaction:False
+2021-07-20 14:21:00: Check Point: Start SAP Transaction
+2021-07-20 14:21:00: Check Point: Setup Flex Transaction
+2021-07-20 14:21:00: Check Point: Start Flex Transaction
+2021-07-20 14:21:00: Check Point: Entry : 5618   N
+2021-07-20 14:21:00: Check Point: Insert CPSFIN End
+2021-07-20 14:21:31: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005622'
+2021-07-20 14:21:31: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '16020B3H/036' and DocStatus = 'PPFA'
+2021-07-20 14:21:31: Check Point: Test2 : 1
+2021-07-20 14:21:31: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '16020B3H/036' and DocStatus = 'PPFA'
+2021-07-20 14:21:31: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '16020B3H/036' and DocStatus = 'PPFA'
+2021-07-20 14:21:31: Check Point: Setup SAP Transaction
+2021-07-20 14:21:31: Check Point: Setup StartTransaction:False
+2021-07-20 14:21:31: Check Point: Start SAP Transaction
+2021-07-20 14:21:31: Check Point: Setup Flex Transaction
+2021-07-20 14:21:31: Check Point: Start Flex Transaction
+2021-07-20 14:21:31: Check Point: Entry : 5622   N
+2021-07-20 14:21:31: Check Point: Insert CPSFIN End
+2021-07-20 14:21:31: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005623'
+2021-07-20 14:21:31: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '02017B3H/034' and DocStatus = 'PPFA'
+2021-07-20 14:21:31: Check Point: Test2 : 1
+2021-07-20 14:21:31: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '02017B3H/034' and DocStatus = 'PPFA'
+2021-07-20 14:21:31: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '02017B3H/034' and DocStatus = 'PPFA'
+2021-07-20 14:21:32: Check Point: Setup SAP Transaction
+2021-07-20 14:21:32: Check Point: Setup StartTransaction:False
+2021-07-20 14:21:32: Check Point: Start SAP Transaction
+2021-07-20 14:21:32: Check Point: Setup Flex Transaction
+2021-07-20 14:21:32: Check Point: Start Flex Transaction
+2021-07-20 14:21:32: Check Point: Entry : 5623   N
+2021-07-20 14:21:32: Check Point: Insert CPSFIN End
+2021-07-20 14:21:32: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005624'
+2021-07-20 14:21:32: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '16026B3H/008' and DocStatus = 'PPFA'
+2021-07-20 14:21:33: Check Point: Test2 : 1
+2021-07-20 14:21:33: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '16026B3H/008' and DocStatus = 'PPFA'
+2021-07-20 14:21:33: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '16026B3H/008' and DocStatus = 'PPFA'
+2021-07-20 14:21:33: Check Point: Setup SAP Transaction
+2021-07-20 14:21:33: Check Point: Setup StartTransaction:False
+2021-07-20 14:21:33: Check Point: Start SAP Transaction
+2021-07-20 14:21:33: Check Point: Setup Flex Transaction
+2021-07-20 14:21:33: Check Point: Start Flex Transaction
+2021-07-20 14:21:33: Check Point: Entry : 5624   N
+2021-07-20 14:21:33: Check Point: Insert CPSFIN End
+2021-07-20 14:21:33: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005629'
+2021-07-20 14:21:33: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '20089C3H/004' and DocStatus = 'PPFA'
+2021-07-20 14:21:33: Check Point: Test2 : 1
+2021-07-20 14:21:33: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '20089C3H/004' and DocStatus = 'PPFA'
+2021-07-20 14:21:33: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '20089C3H/004' and DocStatus = 'PPFA'
+2021-07-20 14:21:33: Check Point: Setup SAP Transaction
+2021-07-20 14:21:33: Check Point: Setup StartTransaction:False
+2021-07-20 14:21:33: Check Point: Start SAP Transaction
+2021-07-20 14:21:33: Check Point: Setup Flex Transaction
+2021-07-20 14:21:33: Check Point: Start Flex Transaction
+2021-07-20 14:21:33: Check Point: Entry : 5629   N
+2021-07-20 14:21:33: Check Point: Insert CPSFIN End
+2021-07-20 14:21:34: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005633'
+2021-07-20 14:21:34: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '14013C3H/014' and DocStatus = 'PPFA'
+2021-07-20 14:21:34: Check Point: Test2 : 1
+2021-07-20 14:21:34: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '14013C3H/014' and DocStatus = 'PPFA'
+2021-07-20 14:21:34: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '14013C3H/014' and DocStatus = 'PPFA'
+2021-07-20 14:21:34: Check Point: Setup SAP Transaction
+2021-07-20 14:21:34: Check Point: Setup StartTransaction:False
+2021-07-20 14:21:34: Check Point: Start SAP Transaction
+2021-07-20 14:21:34: Check Point: Setup Flex Transaction
+2021-07-20 14:21:34: Check Point: Start Flex Transaction
+2021-07-20 14:21:34: Check Point: Entry : 5633   N
+2021-07-20 14:21:34: Check Point: Insert CPSFIN End
+2021-07-20 14:21:34: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000005635'
+2021-07-20 14:21:34: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '11047B3H/017' and DocStatus = 'PPFA'
+2021-07-20 14:21:34: Check Point: Test2 : 1
+2021-07-20 14:21:34: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '11047B3H/017' and DocStatus = 'PPFA'
+2021-07-20 14:21:34: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '11047B3H/017' and DocStatus = 'PPFA'
+2021-07-20 14:21:34: Check Point: Setup SAP Transaction
+2021-07-20 14:21:34: Check Point: Setup StartTransaction:False
+2021-07-20 14:21:34: Check Point: Start SAP Transaction
+2021-07-20 14:21:34: Check Point: Setup Flex Transaction
+2021-07-20 14:21:34: Check Point: Start Flex Transaction
+2021-07-20 14:21:34: Check Point: Entry : 5635   N
+2021-07-20 14:21:34: Check Point: Insert CPSFIN End

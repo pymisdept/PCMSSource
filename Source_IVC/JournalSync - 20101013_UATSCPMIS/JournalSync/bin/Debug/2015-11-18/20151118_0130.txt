@@ -1,0 +1,9 @@
+2015-11-18 01:30:09: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '20065B1H/ADE01Z0/001' and DocStatus = 'PPFA'
+2015-11-18 01:30:12: Check Point: Test2 : 0
+2015-11-18 01:30:27: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'D%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+

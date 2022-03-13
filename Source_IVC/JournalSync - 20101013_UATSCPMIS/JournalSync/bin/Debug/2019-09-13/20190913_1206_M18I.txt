@@ -1,0 +1,3 @@
+2019-09-13 12:06:47: Check Point: Sub Main
+2019-09-13 12:06:47: Check Point: F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\
+2019-09-13 12:06:55: Check Point: Company DB: PAY800

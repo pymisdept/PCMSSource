@@ -1,0 +1,5 @@
+2014-01-20 11:33:09: Check Point: JournalSync.Interface.Synchronization Start
+2014-01-20 11:33:09: Check Point: JournalSync.Interface.Synchronization End
+2014-01-20 11:33:20: Check Point: CompanyCode
+2014-01-20 11:33:24: Check Point: E51
+2014-01-20 11:33:59: Check Point: pImport.DocumentNo

@@ -1,0 +1,405 @@
+2016-05-30 12:56:46: Check Point: Sub Main
+2016-05-30 12:56:52: Check Point: Company DB: PAY800
+2016-05-30 12:56:52: Check Point: Client Payment Cert Header:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag From [dbo].[PRE_OINV]  WHERE 
+  (( ObjType = '13') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OINV.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OINV.ObjType  = [CPSFSP].ObjType	
+	)	
+	AND PRE_OINV.DocStatus  = 'O'
+
+
+2016-05-30 12:56:52: Check Point: Setup SAP Transaction
+2016-05-30 12:56:52: Check Point: Setup StartTransaction:False
+2016-05-30 12:56:52: Check Point: Start SAP Transaction
+2016-05-30 12:56:52: Check Point: Setup Flex Transaction
+2016-05-30 12:56:52: Check Point: Start Flex Transaction
+2016-05-30 12:56:52: Check Point: Payment Cert Export Query:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, StockSum, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, U_RefNum From [dbo].[CPS_VIEW_FLEXC]  WHERE 
+  (( DocEntry = '1866') 
+ AND ( ObjType = '13')) 
+
+ 
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocEntry
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocCur
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_SubsiCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: TaxDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: AcctCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: CardCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: Project
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_PCMSDocNum
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: TaxDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocDueDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_RefCardCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: LineTotal
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DiscPrcnt
+2016-05-30 12:56:52: Check Point: DocTotal: 6000
+2016-05-30 12:56:52: Check Point: oDisPercent: 0
+2016-05-30 12:56:52: Check Point: TotalBefDis: 6000
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocEntry
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocCur
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_SubsiCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: TaxDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: AcctCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: CardCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: Project
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_PCMSDocNum
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: TaxDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocDueDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_RefCardCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: LineTotal
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DiscPrcnt
+2016-05-30 12:56:52: Check Point: DocTotal: 5000
+2016-05-30 12:56:52: Check Point: oDisPercent: 0
+2016-05-30 12:56:52: Check Point: TotalBefDis: 5000
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocEntry
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocCur
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_SubsiCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: TaxDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: AcctCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: CardCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: Project
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_PCMSDocNum
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: TaxDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DocDueDate
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: U_RefCardCode
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: LineTotal
+2016-05-30 12:56:52: Check Point: AR Invoice: Fields: DiscPrcnt
+2016-05-30 12:56:52: Check Point: DocTotal: 15004
+2016-05-30 12:56:52: Check Point: oDisPercent: 0
+2016-05-30 12:56:52: Check Point: TotalBefDis: 15004
+2016-05-30 12:56:52: Check Point: JournalSync.Interface.Synchronization Start
+2016-05-30 12:56:52: Check Point: JournalSync.Interface.Synchronization End
+2016-05-30 12:56:52: Check Point: CompanyCode
+2016-05-30 12:56:52: Check Point: EC1
+2016-05-30 12:56:52: Check Point: pImport.DocumentNo
+2016-05-30 12:56:52: Check Point: 94004I1H/001
+2016-05-30 12:56:52: Check Point: pImport.LineNo
+2016-05-30 12:56:52: Check Point: 2
+2016-05-30 12:56:52: Check Point: pImport.BatchID
+2016-05-30 12:56:52: Check Point: C000001866
+2016-05-30 12:56:52: Check Point: pImport.VoucherType
+2016-05-30 12:56:52: Check Point: GJ
+2016-05-30 12:56:52: Check Point:  pImport.VoucherDate
+2016-05-30 12:56:52: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:52: Check Point: pImport.Description
+2016-05-30 12:56:52: Check Point: GENERAL JOURNAL
+2016-05-30 12:56:52: Check Point: pImport.AcctCode
+2016-05-30 12:56:52: Check Point: CA140000
+2016-05-30 12:56:52: Check Point: SIN13Z00
+2016-05-30 12:56:52: Check Point: 
+2016-05-30 12:56:52: Check Point: 94004I1H
+2016-05-30 12:56:52: Check Point: 
+2016-05-30 12:56:52: Check Point: 14P01000
+2016-05-30 12:56:52: Check Point: AnalysisCode1
+2016-05-30 12:56:52: Check Point: AnalysisCode2
+2016-05-30 12:56:52: Check Point: AnalysisCode3
+2016-05-30 12:56:52: Check Point: AnalysisCode4
+2016-05-30 12:56:52: Check Point: AnalysisCode5
+2016-05-30 12:56:52: Check Point: pImport.DocumentNo
+2016-05-30 12:56:52: Check Point: 94004I1H/001
+2016-05-30 12:56:52: Check Point: pImport.AltDocNumber
+2016-05-30 12:56:52: Check Point: 
+2016-05-30 12:56:53: Check Point: pImport.DocType
+2016-05-30 12:56:53: Check Point: O
+2016-05-30 12:56:53: Check Point: pImport.DocDate
+2016-05-30 12:56:53: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.DocDueDate
+2016-05-30 12:56:53: Check Point: 1/1/0001 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.Currency
+2016-05-30 12:56:53: Check Point: HKD
+2016-05-30 12:56:53: Check Point: pImport.Amount
+2016-05-30 12:56:53: Check Point: 6000
+2016-05-30 12:56:53: Check Point: Particular
+2016-05-30 12:56:53: Check Point: SIN13Z00C 94004I1H/001
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: ExtendedAnalysis
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EC1', N'94004I1H/001', N'2', N'C000001866', N'GJ', '20160530 00:00:00.000', N'GENERAL JOURNAL', N'CA140000', N'SIN13Z00', N'94004I1H', N'14P01000', N'94004I1H/001', N'O', '20160530 00:00:00.000', N'HKD', N'C', N'6000', N'6000', N'1', N'0', N'SIN13Z00C 94004I1H/001' ) 
+2016-05-30 12:56:53: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2016-05-30 00:00:00',N'SIN13Z00C 94004I1H/001',N'1',N'2',N'C000001866',N'6000',N'14P01000',N'GENERAL JOURNAL',N'GJ',N'CA140000',N'94004I1H/001',N'EC1',N'O',N'C',N'2016-05-30 00:00:00',N'HKD',N'6000',N'SIN13Z00',N'94004I1H/001',N'94004I1H')
+2016-05-30 12:56:53: Check Point: Flex Connection: False
+2016-05-30 12:56:53: Check Point: JournalSync.Interface.Synchronization Start
+2016-05-30 12:56:53: Check Point: JournalSync.Interface.Synchronization End
+2016-05-30 12:56:53: Check Point: CompanyCode
+2016-05-30 12:56:53: Check Point: EC1
+2016-05-30 12:56:53: Check Point: pImport.DocumentNo
+2016-05-30 12:56:53: Check Point: 94004I1H/001
+2016-05-30 12:56:53: Check Point: pImport.LineNo
+2016-05-30 12:56:53: Check Point: 3
+2016-05-30 12:56:53: Check Point: pImport.BatchID
+2016-05-30 12:56:53: Check Point: C000001866
+2016-05-30 12:56:53: Check Point: pImport.VoucherType
+2016-05-30 12:56:53: Check Point: GJ
+2016-05-30 12:56:53: Check Point:  pImport.VoucherDate
+2016-05-30 12:56:53: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.Description
+2016-05-30 12:56:53: Check Point: GENERAL JOURNAL
+2016-05-30 12:56:53: Check Point: pImport.AcctCode
+2016-05-30 12:56:53: Check Point: CA140000
+2016-05-30 12:56:53: Check Point: SIN13Z00
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 94004I1H
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 14P02000
+2016-05-30 12:56:53: Check Point: AnalysisCode1
+2016-05-30 12:56:53: Check Point: AnalysisCode2
+2016-05-30 12:56:53: Check Point: AnalysisCode3
+2016-05-30 12:56:53: Check Point: AnalysisCode4
+2016-05-30 12:56:53: Check Point: AnalysisCode5
+2016-05-30 12:56:53: Check Point: pImport.DocumentNo
+2016-05-30 12:56:53: Check Point: 94004I1H/001
+2016-05-30 12:56:53: Check Point: pImport.AltDocNumber
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: pImport.DocType
+2016-05-30 12:56:53: Check Point: O
+2016-05-30 12:56:53: Check Point: pImport.DocDate
+2016-05-30 12:56:53: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.DocDueDate
+2016-05-30 12:56:53: Check Point: 1/1/0001 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.Currency
+2016-05-30 12:56:53: Check Point: HKD
+2016-05-30 12:56:53: Check Point: pImport.Amount
+2016-05-30 12:56:53: Check Point: 5000
+2016-05-30 12:56:53: Check Point: Particular
+2016-05-30 12:56:53: Check Point: SIN13Z00C 94004I1H/001
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: ExtendedAnalysis
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EC1', N'94004I1H/001', N'3', N'C000001866', N'GJ', '20160530 00:00:00.000', N'GENERAL JOURNAL', N'CA140000', N'SIN13Z00', N'94004I1H', N'14P02000', N'94004I1H/001', N'O', '20160530 00:00:00.000', N'HKD', N'C', N'5000', N'5000', N'1', N'0', N'SIN13Z00C 94004I1H/001' ) 
+2016-05-30 12:56:53: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2016-05-30 00:00:00',N'SIN13Z00C 94004I1H/001',N'1',N'3',N'C000001866',N'5000',N'14P02000',N'GENERAL JOURNAL',N'GJ',N'CA140000',N'94004I1H/001',N'EC1',N'O',N'C',N'2016-05-30 00:00:00',N'HKD',N'5000',N'SIN13Z00',N'94004I1H/001',N'94004I1H')
+2016-05-30 12:56:53: Check Point: Flex Connection: False
+2016-05-30 12:56:53: Check Point: JournalSync.Interface.Synchronization Start
+2016-05-30 12:56:53: Check Point: JournalSync.Interface.Synchronization End
+2016-05-30 12:56:53: Check Point: CompanyCode
+2016-05-30 12:56:53: Check Point: EC1
+2016-05-30 12:56:53: Check Point: pImport.DocumentNo
+2016-05-30 12:56:53: Check Point: 94004I1H/001
+2016-05-30 12:56:53: Check Point: pImport.LineNo
+2016-05-30 12:56:53: Check Point: 4
+2016-05-30 12:56:53: Check Point: pImport.BatchID
+2016-05-30 12:56:53: Check Point: C000001866
+2016-05-30 12:56:53: Check Point: pImport.VoucherType
+2016-05-30 12:56:53: Check Point: GJ
+2016-05-30 12:56:53: Check Point:  pImport.VoucherDate
+2016-05-30 12:56:53: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.Description
+2016-05-30 12:56:53: Check Point: GENERAL JOURNAL
+2016-05-30 12:56:53: Check Point: pImport.AcctCode
+2016-05-30 12:56:53: Check Point: CR010000
+2016-05-30 12:56:53: Check Point: SIN13Z00
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 94004I1H
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: AnalysisCode1
+2016-05-30 12:56:53: Check Point: AnalysisCode2
+2016-05-30 12:56:53: Check Point: AnalysisCode3
+2016-05-30 12:56:53: Check Point: AnalysisCode4
+2016-05-30 12:56:53: Check Point: AnalysisCode5
+2016-05-30 12:56:53: Check Point: pImport.DocumentNo
+2016-05-30 12:56:53: Check Point: 94004I1H/001
+2016-05-30 12:56:53: Check Point: pImport.AltDocNumber
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: pImport.DocType
+2016-05-30 12:56:53: Check Point: O
+2016-05-30 12:56:53: Check Point: pImport.DocDate
+2016-05-30 12:56:53: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.DocDueDate
+2016-05-30 12:56:53: Check Point: 1/1/0001 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.Currency
+2016-05-30 12:56:53: Check Point: HKD
+2016-05-30 12:56:53: Check Point: pImport.Amount
+2016-05-30 12:56:53: Check Point: 15004
+2016-05-30 12:56:53: Check Point: Particular
+2016-05-30 12:56:53: Check Point: SIN13Z00C 94004I1H/001
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: ExtendedAnalysis
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EC1', N'94004I1H/001', N'4', N'C000001866', N'GJ', '20160530 00:00:00.000', N'GENERAL JOURNAL', N'CR010000', N'SIN13Z00', N'94004I1H', N'94004I1H/001', N'O', '20160530 00:00:00.000', N'HKD', N'C', N'15004', N'15004', N'1', N'0', N'SIN13Z00C 94004I1H/001' ) 
+2016-05-30 12:56:53: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2016-05-30 00:00:00',N'O',N'4',N'2016-05-30 00:00:00',N'15004',N'1',N'GENERAL JOURNAL',N'GJ',N'CR010000',N'94004I1H/001',N'EC1',N'C000001866',N'C',N'HKD',N'15004',N'SIN13Z00',N'SIN13Z00C 94004I1H/001',N'94004I1H/001',N'94004I1H')
+2016-05-30 12:56:53: Check Point: Flex Connection: False
+2016-05-30 12:56:53: Check Point: DebtorResult Local Currency: HKD
+2016-05-30 12:56:53: Check Point: DebtorResult Doc Currency: HKD
+2016-05-30 12:56:53: Check Point: DebtorResult DocTotal: 26004
+2016-05-30 12:56:53: Check Point: DebtorResult DocTotalFC: 0
+2016-05-30 12:56:53: Check Point: DebtorResult DisPercent: 0
+2016-05-30 12:56:53: Check Point: DebtorResult DocRate: 1
+2016-05-30 12:56:53: Check Point: fDebitor.TotalBefDis: 26004
+2016-05-30 12:56:53: Check Point: fDebitor.EquvAmount: 26004
+2016-05-30 12:56:53: Check Point: CompanyCode
+2016-05-30 12:56:53: Check Point: EC1
+2016-05-30 12:56:53: Check Point: pImport.DocumentNo
+2016-05-30 12:56:53: Check Point: 94004I1H/001
+2016-05-30 12:56:53: Check Point: pImport.LineNo
+2016-05-30 12:56:53: Check Point: 1
+2016-05-30 12:56:53: Check Point: pImport.BatchID
+2016-05-30 12:56:53: Check Point: C000001866
+2016-05-30 12:56:53: Check Point: pImport.VoucherType
+2016-05-30 12:56:53: Check Point: GJ
+2016-05-30 12:56:53: Check Point:  pImport.VoucherDate
+2016-05-30 12:56:53: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.Description
+2016-05-30 12:56:53: Check Point: GENERAL JOURNAL
+2016-05-30 12:56:53: Check Point: pImport.AcctCode
+2016-05-30 12:56:53: Check Point: TRCSIN13
+2016-05-30 12:56:53: Check Point: SIN13Z00
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 94004I1H
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: AnalysisCode1
+2016-05-30 12:56:53: Check Point: AnalysisCode2
+2016-05-30 12:56:53: Check Point: AnalysisCode3
+2016-05-30 12:56:53: Check Point: AnalysisCode4
+2016-05-30 12:56:53: Check Point: AnalysisCode5
+2016-05-30 12:56:53: Check Point: pImport.DocumentNo
+2016-05-30 12:56:53: Check Point: 94004I1H/001
+2016-05-30 12:56:53: Check Point: pImport.AltDocNumber
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: pImport.DocType
+2016-05-30 12:56:53: Check Point: O
+2016-05-30 12:56:53: Check Point: pImport.DocDate
+2016-05-30 12:56:53: Check Point: 5/30/2016 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.DocDueDate
+2016-05-30 12:56:53: Check Point: 1/1/0001 12:00:00 AM
+2016-05-30 12:56:53: Check Point: pImport.Currency
+2016-05-30 12:56:53: Check Point: HKD
+2016-05-30 12:56:53: Check Point: pImport.Amount
+2016-05-30 12:56:53: Check Point: 26004
+2016-05-30 12:56:53: Check Point: Particular
+2016-05-30 12:56:53: Check Point: SIN13Z00C 94004I1H/001
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: ExtendedAnalysis
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: 
+2016-05-30 12:56:53: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EC1', N'94004I1H/001', N'1', N'C000001866', N'GJ', '20160530 00:00:00.000', N'GENERAL JOURNAL', N'TRCSIN13', N'SIN13Z00', N'94004I1H', N'94004I1H/001', N'O', '20160530 00:00:00.000', N'HKD', N'D', N'26004', N'26004', N'1', N'0', N'SIN13Z00C 94004I1H/001' ) 
+2016-05-30 12:56:53: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2016-05-30 00:00:00',N'O',N'1',N'2016-05-30 00:00:00',N'26004',N'1',N'GENERAL JOURNAL',N'GJ',N'TRCSIN13',N'94004I1H/001',N'EC1',N'C000001866',N'D',N'HKD',N'26004',N'SIN13Z00',N'SIN13Z00C 94004I1H/001',N'94004I1H/001',N'94004I1H')
+2016-05-30 12:56:53: Check Point: Flex Connection: False
+2016-05-30 12:56:53: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'C%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2016-05-30 12:56:53: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010051'
+2016-05-30 12:56:53: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10009/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:53: Check Point: Test2 : 0
+2016-05-30 12:56:53: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010052'
+2016-05-30 12:56:53: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10018/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:53: Check Point: Test2 : 0
+2016-05-30 12:56:53: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010053'
+2016-05-30 12:56:53: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10018/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:53: Check Point: Test2 : 0
+2016-05-30 12:56:53: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010055'
+2016-05-30 12:56:53: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10022/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:53: Check Point: Test2 : 0
+2016-05-30 12:56:53: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010060'
+2016-05-30 12:56:53: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:53: Check Point: Test2 : 0
+2016-05-30 12:56:53: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010061'
+2016-05-30 12:56:53: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010063'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010066'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010067'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010070'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010071'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10023/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010072'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '99999CBH/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010075'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010077'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010079'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000010081'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/003' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'D%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000001831'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '94004I1H/JES01Z00/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010054'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10018/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010057'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '13016B3H/010' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010058'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '13016B3H/009' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010062'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010064'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010065'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010068'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010069'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '19033C4H/001' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0
+2016-05-30 12:56:54: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000010078'
+2016-05-30 12:56:54: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10005/002' and DocStatus = 'PPFA'
+2016-05-30 12:56:54: Check Point: Test2 : 0

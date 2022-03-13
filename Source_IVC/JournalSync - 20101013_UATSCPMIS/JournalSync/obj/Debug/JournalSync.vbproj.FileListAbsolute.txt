@@ -1,0 +1,106 @@
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\bin\Debug\JournalSync.exe
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\bin\Debug\JournalSync.pdb
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\bin\Debug\JournalSync.xml
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\bin\Debug\DI Library (Console).dll
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.exe
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.xml
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090827\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090901\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.exe
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.xml
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.pdb
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\JournalSync.exe
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\JournalSync.pdb
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\JournalSync.xml
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\DI Library (Console).dll
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090902\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\bin\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\bin\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\bin\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\bin\Debug\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090904\JournalSync\obj\Debug\JournalSync.pdb
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.exe
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.xml
+D:\Personal Folder\Jesse\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090907\JournalSync\obj\Debug\JournalSync.pdb
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\JournalSync.exe
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\JournalSync.xml
+D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\JournalSync.pdb

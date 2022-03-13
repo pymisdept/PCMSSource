@@ -1,0 +1,28 @@
+*******************************************************************
+Job name: Purchase Order (SAP)
+Argument: Server Batch Job
+Start Time: 2016-12-07 10:58:17Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[POSTED] Create New Purchase Order in SAP System.
+
+2016-12-07 10:58:17Z: Process Record: [56316], Success
+2016-12-07 10:58:17Z: Process Record: [56315], Success
+
+
+
+No of records process: 2
+No of records success: 2
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2016-12-07 10:58:17Z
+Job Complete [Success]
+*******************************************************************
+

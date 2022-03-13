@@ -1,0 +1,54 @@
+2021-12-14 19:27:36: Check Point: Project BQ:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt From [dbo].[PRE_OQUT] WHERE 
+  (( ObjType = '23') 
+ AND ( DocStatus = 'O')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OQUT.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OQUT.ObjType  = [CPSFSP].ObjType	
+	)	
+ AND PRE_OQUT.DocStatus  = 'O'
+
+
+2021-12-14 19:27:36: Check Point: Project BQ:Start Transaction
+2021-12-14 19:27:36: Check Point: Setup SAP Transaction
+2021-12-14 19:27:36: Check Point: Setup StartTransaction:False
+2021-12-14 19:27:36: Check Point: Start SAP Transaction
+2021-12-14 19:27:36: Check Point: Setup Flex Transaction
+2021-12-14 19:27:36: Check Point: Project BQ:Docentry
+2021-12-14 19:27:36: Check Point: Project BQ:DocEntry:495
+2021-12-14 19:27:36: Check Point: Project BQ:Create Document
+2021-12-14 19:27:43: Check Point: Sales Quotation: CreateDocument
+2021-12-14 19:27:43: Check Point: Sales Quotation: Execute
+2021-12-14 19:27:43: Check Point: Sales Quotation: Header Level
+2021-12-14 19:27:43: Check Point: Sales Quotation: Line Level
+2021-12-14 19:27:43: Check Point: Sales Quotation: Line Level Counts: 2
+2021-12-14 19:27:43: Check Point: Sales Quotation: Base Document Infomation
+2021-12-14 19:27:43: Check Point: Sales Quotation: BaseEntry: 0
+2021-12-14 19:27:43: Check Point: Sales Quotation: BaseType: 0
+2021-12-14 19:27:43: Check Point: Sales Quotation: BaseLine: 0
+2021-12-14 19:27:43: Check Point: Sales Quotation: Item Information
+2021-12-14 19:27:43: Check Point: Sales Quotation: Ship Date
+2021-12-14 19:27:43: Check Point: Sales Quotation: Account
+2021-12-14 19:27:43: Check Point: Sales Quotation: Currency
+2021-12-14 19:27:43: Check Point: Sales Quotation: Project
+2021-12-14 19:27:43: Check Point: Sales Quotation: User Definded Fields
+2021-12-14 19:27:43: Check Point: Sales Quotation: Move Next
+2021-12-14 19:27:43: Check Point: Sales Quotation: Base Document Infomation
+2021-12-14 19:27:43: Check Point: Sales Quotation: BaseEntry: 0
+2021-12-14 19:27:43: Check Point: Sales Quotation: BaseType: 0
+2021-12-14 19:27:43: Check Point: Sales Quotation: BaseLine: 0
+2021-12-14 19:27:43: Check Point: Sales Quotation: Item Information
+2021-12-14 19:27:43: Check Point: Sales Quotation: Ship Date
+2021-12-14 19:27:43: Check Point: Sales Quotation: Account
+2021-12-14 19:27:43: Check Point: Sales Quotation: Currency
+2021-12-14 19:27:43: Check Point: Sales Quotation: Project
+2021-12-14 19:27:43: Check Point: Sales Quotation: User Definded Fields
+2021-12-14 19:27:43: Check Point: Sales Quotation: Move Next
+2021-12-14 19:27:43: Check Point: Sales Quotation: Freight Charge Table
+2021-12-14 19:27:43: Check Point: Sales Quotation: Document add
+2021-12-14 19:27:43: Check Point: Unable to Create Sales Quotation when DI add
+2021-12-14 19:27:43: Check Point: Project BQ:oNewObjectKey: 0
+2021-12-14 19:27:43: Check Point: Project BQ:Fail And Rollback
+2021-12-14 19:27:43: Check Point: Project BQ:Next Record
+2021-12-14 19:27:43: Check Point: Project BQ:ExporttoText
+2021-12-14 19:27:43: Check Point: Project BQ:Finished

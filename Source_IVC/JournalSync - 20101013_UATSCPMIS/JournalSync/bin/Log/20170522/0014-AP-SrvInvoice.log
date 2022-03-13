@@ -1,0 +1,63 @@
+*******************************************************************
+Job name: A/P Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2017-05-22 14:31:35Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+2017-05-22 14:31:35Z: Process Record: [S000024492], Exception
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[ERROR] Error the document draft from backend table in SAP.
+
+
+[ERROR] ----------------------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+
+[REJECT] ----------------------------------------------------
+
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [S000024492]
+Exception Detail: 
+System.Runtime.InteropServices.COMException (0xFFFFFBA4): (-1) Stored procedure SBO_SP_TransactionNotification must return a value
+   at SAPbobsCOM.CompanyClass.EndTransaction(BoWfTransOpt endType)
+   at JournalSync.Interface.Synchronization.EndTransaction(TransStatus pStatus) in D:\Source\JournalSync - 20101013\JournalSync\Synchronization\Interface\Synchronization.vb:line 641
+   at JournalSync.SyncMainClass.P_SrvInvoice.Import_Posted() in D:\Source\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase 1\Sub Contractor Payment Certificate Data.vb:line 672
+-------------------------------------------------------------------
+
+No of records process: 1
+No of records success: 0
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2017-05-22 14:31:35Z
+Job Complete [Failure]
+*******************************************************************
+

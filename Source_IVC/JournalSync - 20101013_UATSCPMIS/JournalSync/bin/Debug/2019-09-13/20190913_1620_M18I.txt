@@ -1,0 +1,2 @@
+2019-09-13 16:20:57: Check Point: Sub Main
+2019-09-13 16:20:57: Check Point: F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\

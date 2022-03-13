@@ -1,0 +1,40 @@
+*******************************************************************
+Job name: Journal Entry Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2014-06-26 16:32:00Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[POSTED] Create New Journal Entry in SAP System.
+
+2014-06-26 16:32:00Z: Process Record: [EE1GJB3110003], Exception
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [EE1GJB3110003]
+Exception Detail: 
+System.InvalidCastException: Conversion from string "CR010000  " to type 'Double' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Operators.MultiplyObject(Object Left, Object Right)
+   at JournalSync.SyncMainClass.Direct_Expense.CreateJournalEntry(String pCompanyCode, String pVoucherNo) in E:\Program\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase 4\Direct Expense.vb:line 353
+   at JournalSync.SyncMainClass.Direct_Expense.Import() in E:\Program\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase 4\Direct Expense.vb:line 97
+-------------------------------------------------------------------
+
+No of records process: 1
+No of records success: 0
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2014-06-26 16:32:00Z
+Job Complete [Failure]
+*******************************************************************
+

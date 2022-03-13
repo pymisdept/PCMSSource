@@ -1,0 +1,93 @@
+*******************************************************************
+Job name: A/P Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2018-08-06 09:33:01Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.180
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+2018-08-06 09:33:01Z: Process Record: [[EXPORT]AP 0], Exception
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[ERROR] Error the document draft from backend table in SAP.
+
+2018-08-06 09:33:01Z: Process Record: [S000050505], Success
+
+[ERROR] ----------------------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+
+[REJECT] ----------------------------------------------------
+
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [[EXPORT]AP 0]
+Exception Detail: 
+
+System Operation - Process Exception
+System Check Point: EXC0001
+System Error code: 
+System Error message: 
+
+Detail Description: --------------------
+
+[SQLs Server] Unable to Process query (Select Query)
+******************************************
+ Select top 3, DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppDAP, U_AppRefundDAP, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag, U_GSTPrcnt, U_AppGST, U_CumGST From [dbo].[PRE_OPCH]  WHERE 
+  (( ObjType = '18') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+ AND PRE_OPCH.DocTotal > 0
+
+
+******************************************
+Error Description:
+System.Runtime.InteropServices.COMException (0xFFFFF830): 1). [Microsoft][SQL Native Client][SQL Server]Incorrect syntax near ','.
+2). [Microsoft][SQL Native Client][SQL Server]Incorrect syntax near the keyword 'AND'.
+3). [Microsoft][SQL Native Client][SQL Server]Statement(s) could not be prepared.
+
+   at SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   at CPS.SQL.Interface.RecordSet.Execute() in E:\Source\DILibrary - 1.1.3\DILibrary\Interface\RecordSet.vb:line 349
+******************************************
+----------------------------------------
+-------------------------------------------------------------------
+
+No of records process: 2
+No of records success: 1
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2018-08-06 09:33:01Z
+Job Complete [Failure]
+*******************************************************************
+

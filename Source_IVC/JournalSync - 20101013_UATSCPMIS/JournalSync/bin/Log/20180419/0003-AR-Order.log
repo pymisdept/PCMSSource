@@ -1,0 +1,36 @@
+*******************************************************************
+Job name: Sales Order (SAP)
+Argument: Server Batch Job
+Start Time: 2018-04-19 09:25:54Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[POSTED] Create New Sales Order in SAP System.
+
+2018-04-19 09:25:54Z: Process Record: [1839], Exception
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [1839]
+Exception Detail: 
+System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.FieldsClass.Item(Object Index)
+   at JournalSync.SyncMainClass.Sales_Order.CreateDocument(Int32 pDocEntry) in D:\Source\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase Addition\Sales Order.vb:line 173
+   at JournalSync.SyncMainClass.Sales_Order.Import() in D:\Source\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase Addition\Sales Order.vb:line 41
+-------------------------------------------------------------------
+
+No of records process: 1
+No of records success: 0
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2018-04-19 09:25:54Z
+Job Complete [Failure]
+*******************************************************************
+

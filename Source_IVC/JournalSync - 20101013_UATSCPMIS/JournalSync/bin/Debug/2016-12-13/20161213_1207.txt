@@ -1,0 +1,65 @@
+2016-12-13 12:07:17: Check Point: Sub Main
+2016-12-13 12:07:27: Check Point: Company DB: PAY800
+2016-12-13 12:07:54: Check Point: Supplier Payment Cert Header Qeuery:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, WddStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_MRNo From [dbo].[ODRF]  WHERE 
+  ( ObjType = '18') 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           ODRF.DocEntry = [CPSFSP].DocEntry And 	
+	           CPSFSP.ObjType  = '112' And	
+	           ODRF.ObjType  = '18'	And 
+	           ODRF.DocStatus = 'O'	And 
+	           [CPSFSP].ReasonCode='M112' 
+	)	
+   And   
+	Exists(Select 1 From [PAY800].[dbo].[OWDD] 	 
+	       Where	 
+	       [ODRF].DocEntry = [OWDD].[DocEntry] And	 
+	       [OWDD].[Status] = 'W'	 
+	)	 
+
+ 
+2016-12-13 12:07:54: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2016-12-13 12:07:54: Check Point: Setup SAP Transaction
+2016-12-13 12:07:54: Check Point: Setup StartTransaction:False
+2016-12-13 12:07:54: Check Point: Start SAP Transaction
+2016-12-13 12:07:54: Check Point: Setup Flex Transaction
+2016-12-13 12:07:54: Check Point: Start Flex Transaction
+2016-12-13 12:07:54: Check Point: setDraftToAPDocument: 69215
+2016-12-13 12:07:55: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\b898c028-322f-4e48-aacf-8d2ecd891337.xml
+2016-12-13 12:07:55: Check Point: Validate Quantity
+2016-12-13 12:07:56: Check Point: setDraftToAPDocument: Failure
+2016-12-13 12:07:56: Check Point: Setup SAP Transaction
+2016-12-13 12:07:56: Check Point: Setup StartTransaction:False
+2016-12-13 12:07:56: Check Point: Start SAP Transaction
+2016-12-13 12:07:56: Check Point: Setup Flex Transaction
+2016-12-13 12:07:56: Check Point: Start Flex Transaction
+2016-12-13 12:07:56: Check Point: setDraftToAPDocument: 69216
+2016-12-13 12:07:56: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\724b7808-dc35-434e-9fde-e2af01e070ac.xml
+2016-12-13 12:07:56: Check Point: Validate Quantity
+2016-12-13 12:07:56: Check Point: setDraftToAPDocument: Failure
+2016-12-13 12:07:56: Check Point: Setup SAP Transaction
+2016-12-13 12:07:56: Check Point: Setup StartTransaction:False
+2016-12-13 12:07:56: Check Point: Start SAP Transaction
+2016-12-13 12:07:56: Check Point: Setup Flex Transaction
+2016-12-13 12:07:56: Check Point: Start Flex Transaction
+2016-12-13 12:07:56: Check Point: setDraftToAPDocument: 69218
+2016-12-13 12:07:56: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\0c6acd91-348d-448c-9ed9-4334145e6456.xml
+2016-12-13 12:07:56: Check Point: Validate Quantity
+2016-12-13 12:07:56: Check Point: setDraftToAPDocument: Failure
+2016-12-13 12:07:56: Check Point: Setup SAP Transaction
+2016-12-13 12:07:56: Check Point: Setup StartTransaction:False
+2016-12-13 12:07:56: Check Point: Start SAP Transaction
+2016-12-13 12:07:56: Check Point: Setup Flex Transaction
+2016-12-13 12:07:56: Check Point: Start Flex Transaction
+2016-12-13 12:07:56: Check Point: setDraftToAPDocument: 69219
+2016-12-13 12:07:57: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\68d1c9a1-1b4b-4493-9d2f-9cfbe08a536b.xml
+2016-12-13 12:07:57: Check Point: Validate Quantity
+2016-12-13 12:07:58: Check Point: setDraftToAPDocument: Success
+2016-12-13 12:07:58: Check Point: NewObjKey: 43313
+2016-12-13 12:07:59: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69219', WddStatus = 'P' Where DocEntry = '43313'

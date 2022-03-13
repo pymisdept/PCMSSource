@@ -1,0 +1,14 @@
+2021-12-15 14:24:05: Check Point: Sales Quotation: Move Next
+2021-12-15 14:24:05: Check Point: Sales Quotation: Base Document Infomation
+2021-12-15 14:24:05: Check Point: Sales Quotation: BaseEntry: 0
+2021-12-15 14:24:05: Check Point: Sales Quotation: BaseType: 0
+2021-12-15 14:24:05: Check Point: Sales Quotation: BaseLine: 0
+2021-12-15 14:24:05: Check Point: Sales Quotation: Item Information
+2021-12-15 14:24:05: Check Point: Sales Quotation: Ship Date
+2021-12-15 14:24:05: Check Point: Sales Quotation: Account
+2021-12-15 14:24:05: Check Point: Sales Quotation: Currency
+2021-12-15 14:24:05: Check Point: Sales Quotation: Project
+2021-12-15 14:24:05: Check Point: Sales Quotation: User Definded Fields
+2021-12-15 14:24:05: Check Point: Sales Quotation: Move Next
+2021-12-15 14:24:18: Check Point: Sales Quotation: Freight Charge Table
+2021-12-15 14:24:51: Check Point: Sales Quotation: Document add

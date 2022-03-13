@@ -1,0 +1,27 @@
+*******************************************************************
+Job name: Project Code Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2016-05-30 15:30:32Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[99998B3H]  - Update Module
+
+2016-05-30 15:30:32Z: Process Record: [99998B3H], Success
+
+
+
+No of records process: 1
+No of records success: 1
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2016-05-30 15:30:32Z
+Job Complete [Success]
+*******************************************************************
+

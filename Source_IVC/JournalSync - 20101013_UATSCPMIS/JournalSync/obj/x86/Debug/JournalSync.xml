@@ -1,0 +1,695 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JournalSync
+</name>
+</assembly>
+<members>
+<member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.OPOR_Hdr.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:JournalSync.Datatable.Flex.PTVOU">
+	<summary>
+ Transitory voucher DB [PTVOU]
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.Draft.Freight.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.AR.OQUT_Frg.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.A_ItmInvoice.fDataMapping(JournalSync.Interface.Synchronization.ExportPCMS)">
+	<summary>
+ Import data from PCMS to Flex structure
+ </summary>
+	<param name="pExportPCMS">Collection data from PCMS Structure</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.A_ItmInvoice.getPONum(System.Int32,System.Int32)">
+	<summary>
+ Get the Purchase Order PCMS Number
+ </summary>
+	<param name="pDocEntry">A/P Invoice Document Key</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:JournalSync.SyncMainClass.A_ItmInvoice">
+	<summary>
+ Supplier Payment Certificate Data, Inherits Snchronization Class
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SQL.RecordSet.execute(System.String)">
+	<summary>
+ Handling the select statement [SELECT * FROM DATATABLE]
+ </summary>
+	<returns>Success: return currenct recordset, Catch exception: return nothing</returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SQL.RecordSet.process(System.String)">
+	<summary>
+ Handling the advance query [INSERT, UPDATE, DELETE, ...]
+ </summary>
+	<returns>Success: return true, Catch exception: return false</returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.AP.OPOR_Frg.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.AP.Supplier_Frg.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.SubCon_Hdr.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Interface.Synchronization.ExportPCMS.CertEntry">
+	<summary>
+ C######### = Client Payment Certificate Data
+ M######### = Supplier Payment Certificate Data
+ S######### = Sub-Contractor Payment Certificate
+ CM######### = AP Credit Memo Data
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Interface.Synchronization.ExportPCMS.BPCode">
+	<summary>
+ Customer / Vendor Code in SAP
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Interface.Synchronization.ExportPCMS.ProjectCode">
+	<summary>
+ Project code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Interface.Synchronization.ExportPCMS.SubCon_No">
+	<summary>
+ Client Payment Certificate Data: Nothing
+ Supplier Payment Certificate Data: Nothing
+ Sub-Contractor Payment Certificate: Last 6 digits of Sub-Contractor No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Interface.Synchronization.ExportPCMS.CostCode">
+	<summary>
+ Client Payment Certificate Data: Nothing 
+ Supplier Payment Certificate Data: Cost Code
+ Sub-Contractor Payment Certificate: Cost Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Interface.Synchronization.ExportPCMS.Allocation">
+	<summary>
+ D for Debit, C for Credit
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Interface.Synchronization.ExportPCMS.RevNo">
+Added by Ken, 20181102
+
+</member><member name="F:JournalSync.Interface.Synchronization.ImportFLEX.RevNo">
+Added by Ken, 20181102
+
+</member><member name="M:JournalSync.Interface.Synchronization.MapAcctCode(System.String)">
+	<summary>
+ MapAcctCode
+ Map AcctCode to OACT.AccntntCod
+ </summary>
+	<param name="pAcctCode"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Interface.Synchronization.ExAcctcode(System.String,JournalSync.Interface.Synchronization.ExportPCMS)">
+	<summary>
+ Account Code mapping from Flex to SAP
+ If SAP Account Code = 'CC' then 
+ return [External Code] + Left(Customer Code, 5)
+ Else
+ return [External Code]
+ End If
+ </summary>
+	<param name="pAcctCode">SAP Account Code</param>
+	<returns>Flex Account Code</returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Interface.Synchronization.ControlAcct(System.String)">
+	<summary>
+ Sub Ledger record for flex account 
+ </summary>
+	<param name="pCardCode"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.S_Invoice.fDataMapping(JournalSync.Interface.Synchronization.ExportPCMS)">
+	<summary>
+ Import data from PCMS to Flex structure
+ </summary>
+	<param name="pExportPCMS">Collection data from PCMS Structure</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:JournalSync.SyncMainClass.S_Invoice">
+	<summary>
+ Client Payment Certificate Data, Inherits Snchronization Class
+ </summary>
+	<remarks></remarks>
+</member><member name="T:JournalSync.Datatable.Flex.PIVOU">
+	<summary>
+ Interface voucher DB [PIVOU]
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.ORDR_Hdr.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.OQUT_Hdr.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.AP.SubCon_Frg.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:JournalSync.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:JournalSync.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:JournalSync.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AR.Client_Hdr.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.AR.Client_Frg.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.CMHeader.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.Draft.Header.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.APCreditMemo.fDataMapping(JournalSync.Interface.Synchronization.ExportPCMS)">
+	<summary>
+ Import data from PCMS to Flex structure
+ </summary>
+	<param name="pExportPCMS">Collection data from PCMS Structure</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.APCreditMemo.getPONum(System.Int32,System.Int32)">
+	<summary>
+ Get the Purchase Order PCMS Number
+ </summary>
+	<param name="pDocEntry">A/P Invoice Document Key</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:JournalSync.SyncMainClass.APCreditMemo">
+	<summary>
+ Supplier Payment Certificate Data, Inherits Snchronization Class
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.P_SrvInvoice.fDataMapping(JournalSync.Interface.Synchronization.ExportPCMS)">
+	<summary>
+ Import data from PCMS to Flex structure
+ </summary>
+	<param name="pExportPCMS">Collection data from PCMS Structure</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:JournalSync.SyncMainClass.P_SrvInvoice">
+	<summary>
+ Sub Contractor Payment Certificate Data, Inherits Snchronization Class
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.AR.ORDR_Frg.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.DelIns">
+	<summary>
+ Delivery Instruction
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.CntctName">
+	<summary>
+ Contact Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.CntctTel">
+	<summary>
+ Contact Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.PCMSDocNum">
+	<summary>
+ PCMS Document No.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.DocSubject">
+	<summary>
+ Document Subject
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.RefDate1">
+	<summary>
+ Ref Date 1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.RefDate2">
+	<summary>
+ Ref Date 2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.PayTermDesc">
+	<summary>
+ Payment Term Desc
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.SubsiCode">
+	<summary>
+ Subsidiary Code
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.SlpName">
+	<summary>
+ Sales Employee Name
+ </summary>
+	<remarks></remarks>
+</member><member name="F:JournalSync.Datatable.SAP.AP.Supplier_Hdr.SlpTel">
+	<summary>
+ Sales Employee Tel No.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.Direct_Expense.INSERTCPSVOU(System.String,System.String)">
+	<summary>
+ Change: Karrson: Generate Insert Query manully. Execute when original faile.
+ </summary>
+	<param name="pCompanyCode"></param>
+	<param name="pVoucherNo"></param>
+	<remarks></remarks>
+</member><member name="M:JournalSync.SyncMainClass.Direct_Expense.UpdateFlex(System.String,System.String,System.Int32)">
+	<summary>
+ Karrson New Function: Update JE's Object Key to Flex Common Table for remark.
+ </summary>
+	<param name="oCompanyCode"></param>
+	<param name="oVoucherCode"></param>
+	<param name="oNewObjectKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:JournalSync.SyncMainClass.Direct_Expense">
+	<summary>
+ Direct Expense
+ </summary>
+	<remarks></remarks>
+</member><member name="M:JournalSync.Datatable.SAP.Draft.CMFreight.getAcctCode(System.String)">
+	<summary>
+ Get SAP Freight Account Code
+ </summary>
+	<param name="IntrnalKey"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

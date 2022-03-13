@@ -1,0 +1,51 @@
+*******************************************************************
+Job name: A/R Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2018-04-20 14:44:05Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+2018-04-20 14:44:05Z: Process Record: [C000001891], Exception
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [C000001891]
+Exception Detail: 
+System.Runtime.InteropServices.COMException (0xFFFFFBAE): Invalid field name
+   at SAPbobsCOM.FieldsClass.Item(Object Index)
+   at JournalSync.SyncMainClass.S_Invoice.CreateDocument(String oBatchID) in D:\Source\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase 1\Client Payment Certificate Data.vb:line 1159
+   at JournalSync.SyncMainClass.S_Invoice.Import_Posted() in D:\Source\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase 1\Client Payment Certificate Data.vb:line 642
+-------------------------------------------------------------------
+
+No of records process: 1
+No of records success: 0
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2018-04-20 14:44:05Z
+Job Complete [Failure]
+*******************************************************************
+

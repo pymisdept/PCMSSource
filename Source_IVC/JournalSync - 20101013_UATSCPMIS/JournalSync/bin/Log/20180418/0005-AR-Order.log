@@ -1,0 +1,33 @@
+*******************************************************************
+Job name: Sales Order (SAP)
+Argument: Server Batch Job
+Start Time: 2018-04-18 16:58:01Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[POSTED] Create New Sales Order in SAP System.
+
+2018-04-18 16:58:01Z: Process Record: [1836], Failure
+
+Failure Record:
+-------------------------------------------------------------------
+Process Record: [1836]
+Error Reason: 
+Enter valid currency code  [ORDR.DocCur][line: 20] , 'SGD'
+-------------------------------------------------------------------
+
+
+No of records process: 1
+No of records success: 0
+No of records skip: 0
+No of records fail: 1
+
+End Time: 2018-04-18 16:58:01Z
+Job Complete [Failure]
+*******************************************************************
+

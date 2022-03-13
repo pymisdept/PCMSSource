@@ -1,0 +1,29 @@
+2015-12-09 05:13:13: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'C%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2015-12-09 05:13:20: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'C000001834'
+2015-12-09 05:13:20: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '94004I1H/48M01Z00/001' and DocStatus = 'PPFA'
+2015-12-09 05:13:20: Check Point: Test2 : 1
+2015-12-09 05:13:20: Check Point: Test3 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '94004I1H/48M01Z00/001' and DocStatus = 'PPFA'
+2015-12-09 05:13:20: Check Point: Test4 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '94004I1H/48M01Z00/001' and DocStatus = 'PPFA'
+2015-12-09 05:13:20: Check Point: Setup SAP Transaction
+2015-12-09 05:13:20: Check Point: Setup StartTransaction:False
+2015-12-09 05:13:20: Check Point: Start SAP Transaction
+2015-12-09 05:13:20: Check Point: Setup Flex Transaction
+2015-12-09 05:13:20: Check Point: Start Flex Transaction
+2015-12-09 05:13:20: Check Point: Entry : 1834   N
+2015-12-09 05:13:20: Check Point: Insert CPSFIN End
+2015-12-09 05:13:21: Check Point: Payment Cert Import Posted: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'D%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2015-12-09 05:13:21: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'D000001831'
+2015-12-09 05:13:21: Check Point: Test1 : select ISNULL(DocEntry, 0) as DOCENTRY, ISNULL(Rev_DocEntry,0) as REV_DOCENTRY from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '94004I1H/JES01Z00/001' and DocStatus = 'PPFA'
+2015-12-09 05:13:21: Check Point: Test2 : 0

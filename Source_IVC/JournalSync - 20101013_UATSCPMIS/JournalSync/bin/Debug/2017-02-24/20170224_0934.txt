@@ -1,0 +1,76 @@
+2017-02-24 09:34:00: Check Point: Setup SAP Transaction
+2017-02-24 09:34:00: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:00: Check Point: Start SAP Transaction
+2017-02-24 09:34:00: Check Point: Setup Flex Transaction
+2017-02-24 09:34:00: Check Point: Start Flex Transaction
+2017-02-24 09:34:00: Check Point: setDraftToAPDocument: 69236
+2017-02-24 09:34:00: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\3226e57d-cd8d-4e26-9390-151472d3697b.xml
+2017-02-24 09:34:00: Check Point: Validate Quantity
+2017-02-24 09:34:00: Check Point: setDraftToAPDocument: Success
+2017-02-24 09:34:00: Check Point: NewObjKey: 43333
+2017-02-24 09:34:00: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69236', WddStatus = 'P' Where DocEntry = '43333'
+2017-02-24 09:34:02: Check Point: Setup SAP Transaction
+2017-02-24 09:34:02: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:02: Check Point: Start SAP Transaction
+2017-02-24 09:34:02: Check Point: Setup Flex Transaction
+2017-02-24 09:34:02: Check Point: Start Flex Transaction
+2017-02-24 09:34:03: Check Point: Setup SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:03: Check Point: Start SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup Flex Transaction
+2017-02-24 09:34:03: Check Point: Start Flex Transaction
+2017-02-24 09:34:03: Check Point: Setup SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:03: Check Point: Start SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup Flex Transaction
+2017-02-24 09:34:03: Check Point: Start Flex Transaction
+2017-02-24 09:34:03: Check Point: Setup SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:03: Check Point: Start SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup Flex Transaction
+2017-02-24 09:34:03: Check Point: Start Flex Transaction
+2017-02-24 09:34:03: Check Point: Setup SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:03: Check Point: Start SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup Flex Transaction
+2017-02-24 09:34:03: Check Point: Start Flex Transaction
+2017-02-24 09:34:03: Check Point: Setup SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:03: Check Point: Start SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup Flex Transaction
+2017-02-24 09:34:03: Check Point: Start Flex Transaction
+2017-02-24 09:34:03: Check Point: Setup SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:03: Check Point: Start SAP Transaction
+2017-02-24 09:34:03: Check Point: Setup Flex Transaction
+2017-02-24 09:34:03: Check Point: Start Flex Transaction
+2017-02-24 09:34:04: Check Point: Setup SAP Transaction
+2017-02-24 09:34:04: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:04: Check Point: Start SAP Transaction
+2017-02-24 09:34:04: Check Point: Setup Flex Transaction
+2017-02-24 09:34:04: Check Point: Start Flex Transaction
+2017-02-24 09:34:04: Check Point: Setup SAP Transaction
+2017-02-24 09:34:04: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:04: Check Point: Start SAP Transaction
+2017-02-24 09:34:04: Check Point: Setup Flex Transaction
+2017-02-24 09:34:04: Check Point: Start Flex Transaction
+2017-02-24 09:34:04: Check Point: Setup SAP Transaction
+2017-02-24 09:34:04: Check Point: Setup StartTransaction:False
+2017-02-24 09:34:04: Check Point: Start SAP Transaction
+2017-02-24 09:34:04: Check Point: Setup Flex Transaction
+2017-02-24 09:34:04: Check Point: Start Flex Transaction
+2017-02-24 09:34:04: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2017-02-24 09:34:04: Check Point: Supplier Payment Cert, Import_Reject SQL Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2017-02-24 09:34:04: Check Point: Export Log To Text Files

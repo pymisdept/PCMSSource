@@ -1,0 +1,30 @@
+*******************************************************************
+Job name: Business Parnter Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2013-07-05 15:42:35Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[ADA01Z00S]  - Create Module
+
+
+[ADA01Z00C]  - Create Module
+
+2013-07-05 15:42:35Z: Process Record: [ADA01Z00], Success
+
+
+
+No of records process: 1
+No of records success: 1
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2013-07-05 15:42:35Z
+Job Complete [Success]
+*******************************************************************
+

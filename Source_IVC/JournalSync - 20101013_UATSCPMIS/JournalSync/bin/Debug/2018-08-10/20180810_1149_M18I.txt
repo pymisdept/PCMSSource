@@ -1,0 +1,6 @@
+2018-08-10 11:49:08: Check Point: Sub Main
+2018-08-10 11:49:08: Check Point: 0A
+2018-08-10 11:49:08: Check Point: 0B
+2018-08-10 11:49:08: Check Point: 0C
+2018-08-10 11:49:08: Check Point: E:\SAP\PCMS800\FlexSync\Log
+2018-08-10 11:49:08: Check Point: 0D

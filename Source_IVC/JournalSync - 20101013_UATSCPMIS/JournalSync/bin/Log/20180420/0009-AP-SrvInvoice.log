@@ -1,0 +1,80 @@
+*******************************************************************
+Job name: A/P Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2018-04-20 15:12:49Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+2018-04-20 15:12:49Z: Process Record: [[EXPORT]AP 24602], Exception
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[ERROR] Error the document draft from backend table in SAP.
+
+
+[ERROR] ----------------------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+
+[REJECT] ----------------------------------------------------
+
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [[EXPORT]AP 24602]
+Exception Detail: 
+
+System Operation - Process Exception
+System Check Point: PCMS_PROCESS
+System Error code: -999
+System Error message: System.Data.SqlClient.SqlException: String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at CPS.DI.Interface.Connection.Process(String pSqlStr)
+
+Detail Description: --------------------
+Unable to Process [Advance] Query
+--------------------------------------------
+INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2018-06-16 00:00:00',N'O',N'1',N'2018-06-16 00:00:00',N'55877.5',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAPLA06',N'SGP00001/SC002001',N'EE1',N'S000024602',N'C',N'2018-08-15 00:00:00',N'55877.5',N'PLA06Z00',N'Main Work',N'SGP00001/SC002001',N'2018-08-15 00:00:00',N'SGP00001')--------------------------------------------
+
+----------------------------------------
+-------------------------------------------------------------------
+
+No of records process: 1
+No of records success: 0
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2018-04-20 15:12:49Z
+Job Complete [Failure]
+*******************************************************************
+

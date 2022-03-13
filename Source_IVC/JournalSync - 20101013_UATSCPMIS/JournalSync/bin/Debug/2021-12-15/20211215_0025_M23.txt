@@ -1,0 +1,3 @@
+2021-12-15 00:25:15: Check Point: Sales Quotation: BaseEntry: 0
+2021-12-15 00:25:41: Check Point: Sales Quotation: BaseType: 0
+2021-12-15 00:25:41: Check Point: Sales Quotation: BaseLine: 0

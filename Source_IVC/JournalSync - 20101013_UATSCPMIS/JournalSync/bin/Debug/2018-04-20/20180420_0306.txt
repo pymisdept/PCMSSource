@@ -1,0 +1,16 @@
+2018-04-20 03:06:03: Check Point: pImport.AcctCode
+2018-04-20 03:06:03: Check Point: TPAPLA06
+2018-04-20 03:06:04: Check Point: PLA06Z00
+2018-04-20 03:06:05: Check Point: 
+2018-04-20 03:06:05: Check Point: SGP00001
+2018-04-20 03:06:06: Check Point: 
+2018-04-20 03:06:06: Check Point: 
+2018-04-20 03:06:06: Check Point: AnalysisCode1
+2018-04-20 03:06:11: Check Point: AnalysisCode2
+2018-04-20 03:06:12: Check Point: AnalysisCode3
+2018-04-20 03:06:20: Check Point: AnalysisCode4
+2018-04-20 03:06:21: Check Point: AnalysisCode5
+2018-04-20 03:06:23: Check Point: pImport.DocumentNo
+2018-04-20 03:06:24: Check Point: SGP00001/SC002001
+2018-04-20 03:06:34: Check Point: pImport.AltDocNumber
+2018-04-20 03:06:35: Check Point: 

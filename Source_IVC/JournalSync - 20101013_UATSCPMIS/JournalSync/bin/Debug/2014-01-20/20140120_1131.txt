@@ -1,0 +1,10 @@
+2014-01-20 11:31:25: Check Point: Setup SAP Transaction
+2014-01-20 11:31:25: Check Point: Setup StartTransaction:False
+2014-01-20 11:31:25: Check Point: Start SAP Transaction
+2014-01-20 11:31:25: Check Point: Setup Flex Transaction
+2014-01-20 11:31:25: Check Point: Start Flex Transaction
+2014-01-20 11:31:28: Check Point: Payment Cert Export Query:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, StockSum, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, U_RefNum From [dbo].[CPS_VIEW_FLEXC]  WHERE 
+  (( DocEntry = '835') 
+ AND ( ObjType = '13')) 
+
+ 

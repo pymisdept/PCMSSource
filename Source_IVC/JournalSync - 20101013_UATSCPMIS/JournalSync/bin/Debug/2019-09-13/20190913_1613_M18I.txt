@@ -1,0 +1,1 @@
+2019-09-13 16:13:06: Check Point: SaveXML Path: F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\bin\TEMP\9e6c2649-c434-4780-b30a-f79a84f1c742.xml

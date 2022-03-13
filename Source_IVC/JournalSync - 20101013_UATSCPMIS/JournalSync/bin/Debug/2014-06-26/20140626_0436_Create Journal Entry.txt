@@ -1,0 +1,4 @@
+2014-06-26 04:36:27: Check Point: SGD
+2014-06-26 04:36:31: Check Point: SGD
+2014-06-26 04:36:32: Check Point: SGD
+2014-06-26 04:36:39: Check Point: SGD

@@ -1,0 +1,16 @@
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: DocEntry
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: DocCur
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: U_SubsiCode
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: TaxDate
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: AcctCode
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: CardCode
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: Project
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: U_PCMSDocNum
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: TaxDate
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: DocDueDate
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: U_RefCardCode
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: LineTotal
+2014-01-20 11:32:19: Check Point: AR Invoice: Fields: DiscPrcnt
+2014-01-20 11:32:19: Check Point: DocTotal: -1526000
+2014-01-20 11:32:19: Check Point: oDisPercent: 0
+2014-01-20 11:32:19: Check Point: TotalBefDis: -1526000

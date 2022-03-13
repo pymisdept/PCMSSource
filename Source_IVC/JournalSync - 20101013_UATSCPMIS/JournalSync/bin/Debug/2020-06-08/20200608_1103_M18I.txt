@@ -1,0 +1,1140 @@
+2020-06-08 11:03:03: Check Point: CompanyCode
+2020-06-08 11:03:03: Check Point: E51
+2020-06-08 11:03:03: Check Point: pImport.DocumentNo
+2020-06-08 11:03:03: Check Point: 19057B3H/00020001
+2020-06-08 11:03:03: Check Point: pImport.LineNo
+2020-06-08 11:03:03: Check Point: 1
+2020-06-08 11:03:03: Check Point: pImport.BatchID
+2020-06-08 11:03:03: Check Point: M000088714
+2020-06-08 11:03:03: Check Point: pImport.VoucherType
+2020-06-08 11:03:03: Check Point: GJ
+2020-06-08 11:03:03: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:03: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:03: Check Point: pImport.Description
+2020-06-08 11:03:03: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:03: Check Point: pImport.AcctCode
+2020-06-08 11:03:03: Check Point: TPAGOL23
+2020-06-08 11:03:03: Check Point: GOL23Z00
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 19057B3H
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: AnalysisCode1
+2020-06-08 11:03:03: Check Point: AnalysisCode2
+2020-06-08 11:03:03: Check Point: AnalysisCode3
+2020-06-08 11:03:03: Check Point: AnalysisCode4
+2020-06-08 11:03:03: Check Point: AnalysisCode5
+2020-06-08 11:03:03: Check Point: pImport.DocumentNo
+2020-06-08 11:03:03: Check Point: 19057B3H/00020001
+2020-06-08 11:03:03: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: pImport.DocType
+2020-06-08 11:03:03: Check Point: O
+2020-06-08 11:03:03: Check Point: pImport.DocDate
+2020-06-08 11:03:03: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:03: Check Point: pImport.DocDueDate
+2020-06-08 11:03:03: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:03: Check Point: pImport.Currency
+2020-06-08 11:03:03: Check Point: HKD
+2020-06-08 11:03:03: Check Point: pImport.Amount
+2020-06-08 11:03:03: Check Point: 6000000
+2020-06-08 11:03:03: Check Point: Particular
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: ExtendedAnalysis
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: 
+2020-06-08 11:03:03: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY ) Values ( N'E51', N'19057B3H/00020001', N'1', N'M000088714', N'GJ', '20200603 00:00:00.000', N'GENERAL JOURNAL', N'TPAGOL23', N'GOL23Z00', N'19057B3H', N'19057B3H/00020001', N'O', '20200603 00:00:00.000', '20200603 00:00:00.000', N'HKD', N'C', N'6000000', N'6000000', N'1', N'0' ) 
+2020-06-08 11:03:03: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-06-03 00:00:00',N'O',N'1',N'2020-06-03 00:00:00',N'6000000',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAGOL23',N'19057B3H/00020001',N'E51',N'M000088714',N'C',N'HKD',N'6000000',N'GOL23Z00',N'19057B3H/00020001',N'2020-06-03 00:00:00',N'19057B3H')
+2020-06-08 11:03:03: Check Point: Flex Connection: False
+2020-06-08 11:03:06: Check Point: Supplier Payment Cert Export
+2020-06-08 11:03:17: Check Point: Setup SAP Transaction
+2020-06-08 11:03:17: Check Point: Setup StartTransaction:False
+2020-06-08 11:03:17: Check Point: Start SAP Transaction
+2020-06-08 11:03:17: Check Point: Setup Flex Transaction
+2020-06-08 11:03:17: Check Point: Start Flex Transaction
+2020-06-08 11:03:19: Check Point: Supplier Payment Cert Detail Qeuery:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, INMPrice, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, StockSum, U_RefNum, U_FullDesc From [dbo].[DRF1]  WHERE 
+  (( DocEntry = '88709') 
+ AND ( ObjType = '18')) 
+
+ 
+2020-06-08 11:03:19: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:19: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:19: Check Point: CompanyCode
+2020-06-08 11:03:19: Check Point: E31
+2020-06-08 11:03:19: Check Point: pImport.DocumentNo
+2020-06-08 11:03:19: Check Point: 03065B1H/01497031
+2020-06-08 11:03:19: Check Point: pImport.LineNo
+2020-06-08 11:03:19: Check Point: 2
+2020-06-08 11:03:19: Check Point: pImport.BatchID
+2020-06-08 11:03:19: Check Point: M000088709
+2020-06-08 11:03:19: Check Point: pImport.VoucherType
+2020-06-08 11:03:19: Check Point: GJ
+2020-06-08 11:03:19: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:19: Check Point: 1/31/2020 12:00:00 AM
+2020-06-08 11:03:19: Check Point: pImport.Description
+2020-06-08 11:03:19: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:19: Check Point: pImport.AcctCode
+2020-06-08 11:03:19: Check Point: CA080000
+2020-06-08 11:03:19: Check Point: YAU05Z00
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 03065B1H
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 08P99000
+2020-06-08 11:03:19: Check Point: AnalysisCode1
+2020-06-08 11:03:19: Check Point: AnalysisCode2
+2020-06-08 11:03:19: Check Point: AnalysisCode3
+2020-06-08 11:03:19: Check Point: AnalysisCode4
+2020-06-08 11:03:19: Check Point: AnalysisCode5
+2020-06-08 11:03:19: Check Point: pImport.DocumentNo
+2020-06-08 11:03:19: Check Point: 03065B1H/01497031
+2020-06-08 11:03:19: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:19: Check Point: 31-1-2020
+2020-06-08 11:03:19: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:19: Check Point: pImport.DocType
+2020-06-08 11:03:19: Check Point: O
+2020-06-08 11:03:19: Check Point: pImport.DocDate
+2020-06-08 11:03:19: Check Point: 1/31/2020 12:00:00 AM
+2020-06-08 11:03:19: Check Point: pImport.DocDueDate
+2020-06-08 11:03:19: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:19: Check Point: pImport.Currency
+2020-06-08 11:03:19: Check Point: HKD
+2020-06-08 11:03:19: Check Point: pImport.Amount
+2020-06-08 11:03:19: Check Point: 30450
+2020-06-08 11:03:19: Check Point: Particular
+2020-06-08 11:03:19: Check Point: Permanent Sundries Material
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: ExtendedAnalysis
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: 
+2020-06-08 11:03:19: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_ALT_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'03065B1H/01497031', N'2', N'M000088709', N'GJ', '20200131 00:00:00.000', N'GENERAL JOURNAL', N'CA080000', N'YAU05Z00', N'03065B1H', N'08P99000', N'03065B1H/01497031', N'31-1-2020', N'O', '20200131 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'30450', N'30450', N'1', N'0', N'Permanent Sundries Material' ) 
+2020-06-08 11:03:19: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ALT_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2020-01-31 00:00:00',N'Permanent Sundries Material',N'1',N'2',N'M000088709',N'30450',N'08P99000',N'GENERAL JOURNAL',N'GJ',N'CA080000',N'03065B1H/01497031',N'E31',N'O',N'D',N'2020-01-31 00:00:00',N'HKD',N'30450',N'YAU05Z00',N'03065B1H/01497031',N'2020-03-09 00:00:00',N'31-1-2020',N'03065B1H')
+2020-06-08 11:03:19: Check Point: Flex Connection: False
+2020-06-08 11:03:20: Check Point: CompanyCode
+2020-06-08 11:03:20: Check Point: E31
+2020-06-08 11:03:20: Check Point: pImport.DocumentNo
+2020-06-08 11:03:20: Check Point: 03065B1H/01497031
+2020-06-08 11:03:20: Check Point: pImport.LineNo
+2020-06-08 11:03:20: Check Point: 1
+2020-06-08 11:03:20: Check Point: pImport.BatchID
+2020-06-08 11:03:20: Check Point: M000088709
+2020-06-08 11:03:20: Check Point: pImport.VoucherType
+2020-06-08 11:03:20: Check Point: GJ
+2020-06-08 11:03:20: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:20: Check Point: 1/31/2020 12:00:00 AM
+2020-06-08 11:03:20: Check Point: pImport.Description
+2020-06-08 11:03:20: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:20: Check Point: pImport.AcctCode
+2020-06-08 11:03:20: Check Point: TPAYAU05
+2020-06-08 11:03:20: Check Point: YAU05Z00
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 03065B1H
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: AnalysisCode1
+2020-06-08 11:03:20: Check Point: AnalysisCode2
+2020-06-08 11:03:20: Check Point: AnalysisCode3
+2020-06-08 11:03:20: Check Point: AnalysisCode4
+2020-06-08 11:03:20: Check Point: AnalysisCode5
+2020-06-08 11:03:20: Check Point: pImport.DocumentNo
+2020-06-08 11:03:20: Check Point: 03065B1H/01497031
+2020-06-08 11:03:20: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: pImport.DocType
+2020-06-08 11:03:20: Check Point: O
+2020-06-08 11:03:20: Check Point: pImport.DocDate
+2020-06-08 11:03:20: Check Point: 1/31/2020 12:00:00 AM
+2020-06-08 11:03:20: Check Point: pImport.DocDueDate
+2020-06-08 11:03:20: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:20: Check Point: pImport.Currency
+2020-06-08 11:03:20: Check Point: HKD
+2020-06-08 11:03:20: Check Point: pImport.Amount
+2020-06-08 11:03:20: Check Point: 30450
+2020-06-08 11:03:20: Check Point: Particular
+2020-06-08 11:03:20: Check Point: PO No. 03065B1H/0001
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: ExtendedAnalysis
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: 
+2020-06-08 11:03:20: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'03065B1H/01497031', N'1', N'M000088709', N'GJ', '20200131 00:00:00.000', N'GENERAL JOURNAL', N'TPAYAU05', N'YAU05Z00', N'03065B1H', N'03065B1H/01497031', N'O', '20200131 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'C', N'30450', N'30450', N'1', N'0', N'PO No. 03065B1H/0001' ) 
+2020-06-08 11:03:20: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-01-31 00:00:00',N'O',N'1',N'2020-01-31 00:00:00',N'30450',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAYAU05',N'03065B1H/01497031',N'E31',N'M000088709',N'C',N'HKD',N'30450',N'YAU05Z00',N'PO No. 03065B1H/0001',N'03065B1H/01497031',N'2020-03-09 00:00:00',N'03065B1H')
+2020-06-08 11:03:20: Check Point: Flex Connection: False
+2020-06-08 11:03:20: Check Point: Supplier Payment Cert Export
+2020-06-08 11:03:22: Check Point: Setup SAP Transaction
+2020-06-08 11:03:22: Check Point: Setup StartTransaction:False
+2020-06-08 11:03:22: Check Point: Start SAP Transaction
+2020-06-08 11:03:22: Check Point: Setup Flex Transaction
+2020-06-08 11:03:22: Check Point: Start Flex Transaction
+2020-06-08 11:03:22: Check Point: Supplier Payment Cert Detail Qeuery:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, INMPrice, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, StockSum, U_RefNum, U_FullDesc From [dbo].[DRF1]  WHERE 
+  (( DocEntry = '88698') 
+ AND ( ObjType = '18')) 
+
+ 
+2020-06-08 11:03:22: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:22: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:22: Check Point: CompanyCode
+2020-06-08 11:03:22: Check Point: E51
+2020-06-08 11:03:22: Check Point: pImport.DocumentNo
+2020-06-08 11:03:22: Check Point: 19057B3H/00950011
+2020-06-08 11:03:22: Check Point: pImport.LineNo
+2020-06-08 11:03:22: Check Point: 2
+2020-06-08 11:03:22: Check Point: pImport.BatchID
+2020-06-08 11:03:22: Check Point: M000088698
+2020-06-08 11:03:22: Check Point: pImport.VoucherType
+2020-06-08 11:03:22: Check Point: GJ
+2020-06-08 11:03:22: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:22: Check Point: 12/27/2019 12:00:00 AM
+2020-06-08 11:03:22: Check Point: pImport.Description
+2020-06-08 11:03:22: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:22: Check Point: pImport.AcctCode
+2020-06-08 11:03:22: Check Point: CB050000
+2020-06-08 11:03:22: Check Point: WEL33Z00
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 19057B3H
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 24M21000
+2020-06-08 11:03:22: Check Point: AnalysisCode1
+2020-06-08 11:03:22: Check Point: AnalysisCode2
+2020-06-08 11:03:22: Check Point: AnalysisCode3
+2020-06-08 11:03:22: Check Point: AnalysisCode4
+2020-06-08 11:03:22: Check Point: AnalysisCode5
+2020-06-08 11:03:22: Check Point: pImport.DocumentNo
+2020-06-08 11:03:22: Check Point: 19057B3H/00950011
+2020-06-08 11:03:22: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:22: Check Point: INV-R19340
+2020-06-08 11:03:22: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:22: Check Point: pImport.DocType
+2020-06-08 11:03:22: Check Point: O
+2020-06-08 11:03:22: Check Point: pImport.DocDate
+2020-06-08 11:03:22: Check Point: 12/27/2019 12:00:00 AM
+2020-06-08 11:03:22: Check Point: pImport.DocDueDate
+2020-06-08 11:03:22: Check Point: 12/27/2019 12:00:00 AM
+2020-06-08 11:03:22: Check Point: pImport.Currency
+2020-06-08 11:03:22: Check Point: HKD
+2020-06-08 11:03:22: Check Point: pImport.Amount
+2020-06-08 11:03:22: Check Point: 4450
+2020-06-08 11:03:22: Check Point: Particular
+2020-06-08 11:03:22: Check Point: Steel reinforcement high yield steel rebar dia. 40mm x 12m
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: ExtendedAnalysis
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_ALT_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00950011', N'2', N'M000088698', N'GJ', '20191227 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00950011', N'INV-R19340', N'O', '20191227 00:00:00.000', '20191227 00:00:00.000', N'HKD', N'D', N'4450', N'4450', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 40mm x 12m' ) 
+2020-06-08 11:03:22: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ALT_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2019-12-27 00:00:00',N'Steel reinforcement high yield steel rebar dia. 40mm x 12m',N'1',N'2',N'M000088698',N'4450',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00950011',N'E51',N'O',N'D',N'2019-12-27 00:00:00',N'HKD',N'4450',N'WEL33Z00',N'19057B3H/00950011',N'2019-12-27 00:00:00',N'INV-R19340',N'19057B3H')
+2020-06-08 11:03:22: Check Point: Flex Connection: False
+2020-06-08 11:03:22: Check Point: CompanyCode
+2020-06-08 11:03:22: Check Point: E51
+2020-06-08 11:03:22: Check Point: pImport.DocumentNo
+2020-06-08 11:03:22: Check Point: 19057B3H/00950011
+2020-06-08 11:03:22: Check Point: pImport.LineNo
+2020-06-08 11:03:22: Check Point: 1
+2020-06-08 11:03:22: Check Point: pImport.BatchID
+2020-06-08 11:03:22: Check Point: M000088698
+2020-06-08 11:03:22: Check Point: pImport.VoucherType
+2020-06-08 11:03:22: Check Point: GJ
+2020-06-08 11:03:22: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:22: Check Point: 12/27/2019 12:00:00 AM
+2020-06-08 11:03:22: Check Point: pImport.Description
+2020-06-08 11:03:22: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:22: Check Point: pImport.AcctCode
+2020-06-08 11:03:22: Check Point: TPAWEL33
+2020-06-08 11:03:22: Check Point: WEL33Z00
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 19057B3H
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: AnalysisCode1
+2020-06-08 11:03:22: Check Point: AnalysisCode2
+2020-06-08 11:03:22: Check Point: AnalysisCode3
+2020-06-08 11:03:22: Check Point: AnalysisCode4
+2020-06-08 11:03:22: Check Point: AnalysisCode5
+2020-06-08 11:03:22: Check Point: pImport.DocumentNo
+2020-06-08 11:03:22: Check Point: 19057B3H/00950011
+2020-06-08 11:03:22: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: pImport.DocType
+2020-06-08 11:03:22: Check Point: O
+2020-06-08 11:03:22: Check Point: pImport.DocDate
+2020-06-08 11:03:22: Check Point: 12/27/2019 12:00:00 AM
+2020-06-08 11:03:22: Check Point: pImport.DocDueDate
+2020-06-08 11:03:22: Check Point: 12/27/2019 12:00:00 AM
+2020-06-08 11:03:22: Check Point: pImport.Currency
+2020-06-08 11:03:22: Check Point: HKD
+2020-06-08 11:03:22: Check Point: pImport.Amount
+2020-06-08 11:03:22: Check Point: 4450
+2020-06-08 11:03:22: Check Point: Particular
+2020-06-08 11:03:22: Check Point: PA No. 17
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: ExtendedAnalysis
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: 
+2020-06-08 11:03:22: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00950011', N'1', N'M000088698', N'GJ', '20191227 00:00:00.000', N'GENERAL JOURNAL', N'TPAWEL33', N'WEL33Z00', N'19057B3H', N'19057B3H/00950011', N'O', '20191227 00:00:00.000', '20191227 00:00:00.000', N'HKD', N'C', N'4450', N'4450', N'1', N'0', N'PA No. 17' ) 
+2020-06-08 11:03:22: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2019-12-27 00:00:00',N'O',N'1',N'2019-12-27 00:00:00',N'4450',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAWEL33',N'19057B3H/00950011',N'E51',N'M000088698',N'C',N'HKD',N'4450',N'WEL33Z00',N'PA No. 17',N'19057B3H/00950011',N'2019-12-27 00:00:00',N'19057B3H')
+2020-06-08 11:03:22: Check Point: Flex Connection: False
+2020-06-08 11:03:22: Check Point: Supplier Payment Cert Export
+2020-06-08 11:03:24: Check Point: Setup SAP Transaction
+2020-06-08 11:03:24: Check Point: Setup StartTransaction:False
+2020-06-08 11:03:24: Check Point: Start SAP Transaction
+2020-06-08 11:03:24: Check Point: Setup Flex Transaction
+2020-06-08 11:03:24: Check Point: Start Flex Transaction
+2020-06-08 11:03:24: Check Point: Supplier Payment Cert Detail Qeuery:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, INMPrice, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, StockSum, U_RefNum, U_FullDesc From [dbo].[DRF1]  WHERE 
+  (( DocEntry = '88711') 
+ AND ( ObjType = '18')) 
+
+ 
+2020-06-08 11:03:24: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:24: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:24: Check Point: CompanyCode
+2020-06-08 11:03:24: Check Point: E31
+2020-06-08 11:03:24: Check Point: pImport.DocumentNo
+2020-06-08 11:03:24: Check Point: 20047B1H/00002002
+2020-06-08 11:03:24: Check Point: pImport.LineNo
+2020-06-08 11:03:24: Check Point: 2
+2020-06-08 11:03:24: Check Point: pImport.BatchID
+2020-06-08 11:03:24: Check Point: M000088711
+2020-06-08 11:03:24: Check Point: pImport.VoucherType
+2020-06-08 11:03:24: Check Point: GJ
+2020-06-08 11:03:24: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:24: Check Point: 5/22/2020 12:00:00 AM
+2020-06-08 11:03:24: Check Point: pImport.Description
+2020-06-08 11:03:24: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:24: Check Point: pImport.AcctCode
+2020-06-08 11:03:24: Check Point: CB050000
+2020-06-08 11:03:24: Check Point: GOL23Z00
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 20047B1H
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 24M49000
+2020-06-08 11:03:24: Check Point: AnalysisCode1
+2020-06-08 11:03:24: Check Point: AnalysisCode2
+2020-06-08 11:03:24: Check Point: AnalysisCode3
+2020-06-08 11:03:24: Check Point: AnalysisCode4
+2020-06-08 11:03:24: Check Point: AnalysisCode5
+2020-06-08 11:03:24: Check Point: pImport.DocumentNo
+2020-06-08 11:03:24: Check Point: 20047B1H/00002002
+2020-06-08 11:03:24: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:24: Check Point: pImport.DocType
+2020-06-08 11:03:24: Check Point: O
+2020-06-08 11:03:24: Check Point: pImport.DocDate
+2020-06-08 11:03:24: Check Point: 5/22/2020 12:00:00 AM
+2020-06-08 11:03:24: Check Point: pImport.DocDueDate
+2020-06-08 11:03:24: Check Point: 5/22/2020 12:00:00 AM
+2020-06-08 11:03:24: Check Point: pImport.Currency
+2020-06-08 11:03:24: Check Point: HKD
+2020-06-08 11:03:24: Check Point: pImport.Amount
+2020-06-08 11:03:24: Check Point: 102000
+2020-06-08 11:03:24: Check Point: Particular
+2020-06-08 11:03:24: Check Point: Concrete - Concrete
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: ExtendedAnalysis
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'20047B1H/00002002', N'2', N'M000088711', N'GJ', '20200522 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'GOL23Z00', N'20047B1H', N'24M49000', N'20047B1H/00002002', N'O', '20200522 00:00:00.000', '20200522 00:00:00.000', N'HKD', N'D', N'102000', N'102000', N'1', N'0', N'Concrete - Concrete' ) 
+2020-06-08 11:03:24: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-05-22 00:00:00',N'Concrete - Concrete',N'1',N'2',N'M000088711',N'102000',N'24M49000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'20047B1H/00002002',N'E31',N'O',N'D',N'2020-05-22 00:00:00',N'HKD',N'102000',N'GOL23Z00',N'20047B1H/00002002',N'2020-05-22 00:00:00',N'20047B1H')
+2020-06-08 11:03:24: Check Point: Flex Connection: False
+2020-06-08 11:03:24: Check Point: CompanyCode
+2020-06-08 11:03:24: Check Point: E31
+2020-06-08 11:03:24: Check Point: pImport.DocumentNo
+2020-06-08 11:03:24: Check Point: 20047B1H/00002002
+2020-06-08 11:03:24: Check Point: pImport.LineNo
+2020-06-08 11:03:24: Check Point: 1
+2020-06-08 11:03:24: Check Point: pImport.BatchID
+2020-06-08 11:03:24: Check Point: M000088711
+2020-06-08 11:03:24: Check Point: pImport.VoucherType
+2020-06-08 11:03:24: Check Point: GJ
+2020-06-08 11:03:24: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:24: Check Point: 5/22/2020 12:00:00 AM
+2020-06-08 11:03:24: Check Point: pImport.Description
+2020-06-08 11:03:24: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:24: Check Point: pImport.AcctCode
+2020-06-08 11:03:24: Check Point: TPAGOL23
+2020-06-08 11:03:24: Check Point: GOL23Z00
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 20047B1H
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: AnalysisCode1
+2020-06-08 11:03:24: Check Point: AnalysisCode2
+2020-06-08 11:03:24: Check Point: AnalysisCode3
+2020-06-08 11:03:24: Check Point: AnalysisCode4
+2020-06-08 11:03:24: Check Point: AnalysisCode5
+2020-06-08 11:03:24: Check Point: pImport.DocumentNo
+2020-06-08 11:03:24: Check Point: 20047B1H/00002002
+2020-06-08 11:03:24: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: pImport.DocType
+2020-06-08 11:03:24: Check Point: O
+2020-06-08 11:03:24: Check Point: pImport.DocDate
+2020-06-08 11:03:24: Check Point: 5/22/2020 12:00:00 AM
+2020-06-08 11:03:24: Check Point: pImport.DocDueDate
+2020-06-08 11:03:24: Check Point: 5/22/2020 12:00:00 AM
+2020-06-08 11:03:24: Check Point: pImport.Currency
+2020-06-08 11:03:24: Check Point: HKD
+2020-06-08 11:03:24: Check Point: pImport.Amount
+2020-06-08 11:03:24: Check Point: 102000
+2020-06-08 11:03:24: Check Point: Particular
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: ExtendedAnalysis
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: 
+2020-06-08 11:03:24: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY ) Values ( N'E31', N'20047B1H/00002002', N'1', N'M000088711', N'GJ', '20200522 00:00:00.000', N'GENERAL JOURNAL', N'TPAGOL23', N'GOL23Z00', N'20047B1H', N'20047B1H/00002002', N'O', '20200522 00:00:00.000', '20200522 00:00:00.000', N'HKD', N'C', N'102000', N'102000', N'1', N'0' ) 
+2020-06-08 11:03:24: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-05-22 00:00:00',N'O',N'1',N'2020-05-22 00:00:00',N'102000',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAGOL23',N'20047B1H/00002002',N'E31',N'M000088711',N'C',N'HKD',N'102000',N'GOL23Z00',N'20047B1H/00002002',N'2020-05-22 00:00:00',N'20047B1H')
+2020-06-08 11:03:24: Check Point: Flex Connection: False
+2020-06-08 11:03:24: Check Point: Supplier Payment Cert Export
+2020-06-08 11:03:26: Check Point: Setup SAP Transaction
+2020-06-08 11:03:26: Check Point: Setup StartTransaction:False
+2020-06-08 11:03:26: Check Point: Start SAP Transaction
+2020-06-08 11:03:26: Check Point: Setup Flex Transaction
+2020-06-08 11:03:26: Check Point: Start Flex Transaction
+2020-06-08 11:03:26: Check Point: Supplier Payment Cert Detail Qeuery:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, INMPrice, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, StockSum, U_RefNum, U_FullDesc From [dbo].[DRF1]  WHERE 
+  (( DocEntry = '88708') 
+ AND ( ObjType = '18')) 
+
+ 
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:26: Check Point: CompanyCode
+2020-06-08 11:03:26: Check Point: E51
+2020-06-08 11:03:26: Check Point: pImport.DocumentNo
+2020-06-08 11:03:26: Check Point: 19057B3H/00059001
+2020-06-08 11:03:26: Check Point: pImport.LineNo
+2020-06-08 11:03:26: Check Point: 2
+2020-06-08 11:03:26: Check Point: pImport.BatchID
+2020-06-08 11:03:26: Check Point: M000088708
+2020-06-08 11:03:26: Check Point: pImport.VoucherType
+2020-06-08 11:03:26: Check Point: GJ
+2020-06-08 11:03:26: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.Description
+2020-06-08 11:03:26: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:26: Check Point: pImport.AcctCode
+2020-06-08 11:03:26: Check Point: CB050000
+2020-06-08 11:03:26: Check Point: WEL33Z00
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 19057B3H
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 24M21000
+2020-06-08 11:03:26: Check Point: AnalysisCode1
+2020-06-08 11:03:26: Check Point: AnalysisCode2
+2020-06-08 11:03:26: Check Point: AnalysisCode3
+2020-06-08 11:03:26: Check Point: AnalysisCode4
+2020-06-08 11:03:26: Check Point: AnalysisCode5
+2020-06-08 11:03:26: Check Point: pImport.DocumentNo
+2020-06-08 11:03:26: Check Point: 19057B3H/00059001
+2020-06-08 11:03:26: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:26: Check Point: pImport.DocType
+2020-06-08 11:03:26: Check Point: O
+2020-06-08 11:03:26: Check Point: pImport.DocDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.DocDueDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.Currency
+2020-06-08 11:03:26: Check Point: HKD
+2020-06-08 11:03:26: Check Point: pImport.Amount
+2020-06-08 11:03:26: Check Point: 4550
+2020-06-08 11:03:26: Check Point: Particular
+2020-06-08 11:03:26: Check Point: Steel reinforcement high yield steel rebar dia. 10mm x 12m
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: ExtendedAnalysis
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'2', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4550', N'4550', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 10mm x 12m' ) 
+2020-06-08 11:03:26: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 10mm x 12m',N'1',N'2',N'M000088708',N'4550',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4550',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:26: Check Point: Flex Connection: False
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:26: Check Point: CompanyCode
+2020-06-08 11:03:26: Check Point: E51
+2020-06-08 11:03:26: Check Point: pImport.DocumentNo
+2020-06-08 11:03:26: Check Point: 19057B3H/00059001
+2020-06-08 11:03:26: Check Point: pImport.LineNo
+2020-06-08 11:03:26: Check Point: 3
+2020-06-08 11:03:26: Check Point: pImport.BatchID
+2020-06-08 11:03:26: Check Point: M000088708
+2020-06-08 11:03:26: Check Point: pImport.VoucherType
+2020-06-08 11:03:26: Check Point: GJ
+2020-06-08 11:03:26: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.Description
+2020-06-08 11:03:26: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:26: Check Point: pImport.AcctCode
+2020-06-08 11:03:26: Check Point: CB050000
+2020-06-08 11:03:26: Check Point: WEL33Z00
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 19057B3H
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 24M21000
+2020-06-08 11:03:26: Check Point: AnalysisCode1
+2020-06-08 11:03:26: Check Point: AnalysisCode2
+2020-06-08 11:03:26: Check Point: AnalysisCode3
+2020-06-08 11:03:26: Check Point: AnalysisCode4
+2020-06-08 11:03:26: Check Point: AnalysisCode5
+2020-06-08 11:03:26: Check Point: pImport.DocumentNo
+2020-06-08 11:03:26: Check Point: 19057B3H/00059001
+2020-06-08 11:03:26: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:26: Check Point: pImport.DocType
+2020-06-08 11:03:26: Check Point: O
+2020-06-08 11:03:26: Check Point: pImport.DocDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.DocDueDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.Currency
+2020-06-08 11:03:26: Check Point: HKD
+2020-06-08 11:03:26: Check Point: pImport.Amount
+2020-06-08 11:03:26: Check Point: 4250
+2020-06-08 11:03:26: Check Point: Particular
+2020-06-08 11:03:26: Check Point: Steel reinforcement high yield steel rebar dia. 12mm x 12m
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: ExtendedAnalysis
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'3', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4250', N'4250', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 12mm x 12m' ) 
+2020-06-08 11:03:26: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 12mm x 12m',N'1',N'3',N'M000088708',N'4250',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4250',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:26: Check Point: Flex Connection: False
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:26: Check Point: CompanyCode
+2020-06-08 11:03:26: Check Point: E51
+2020-06-08 11:03:26: Check Point: pImport.DocumentNo
+2020-06-08 11:03:26: Check Point: 19057B3H/00059001
+2020-06-08 11:03:26: Check Point: pImport.LineNo
+2020-06-08 11:03:26: Check Point: 4
+2020-06-08 11:03:26: Check Point: pImport.BatchID
+2020-06-08 11:03:26: Check Point: M000088708
+2020-06-08 11:03:26: Check Point: pImport.VoucherType
+2020-06-08 11:03:26: Check Point: GJ
+2020-06-08 11:03:26: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.Description
+2020-06-08 11:03:26: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:26: Check Point: pImport.AcctCode
+2020-06-08 11:03:26: Check Point: CB050000
+2020-06-08 11:03:26: Check Point: WEL33Z00
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 19057B3H
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 24M21000
+2020-06-08 11:03:26: Check Point: AnalysisCode1
+2020-06-08 11:03:26: Check Point: AnalysisCode2
+2020-06-08 11:03:26: Check Point: AnalysisCode3
+2020-06-08 11:03:26: Check Point: AnalysisCode4
+2020-06-08 11:03:26: Check Point: AnalysisCode5
+2020-06-08 11:03:26: Check Point: pImport.DocumentNo
+2020-06-08 11:03:26: Check Point: 19057B3H/00059001
+2020-06-08 11:03:26: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:26: Check Point: pImport.DocType
+2020-06-08 11:03:26: Check Point: O
+2020-06-08 11:03:26: Check Point: pImport.DocDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.DocDueDate
+2020-06-08 11:03:26: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:26: Check Point: pImport.Currency
+2020-06-08 11:03:26: Check Point: HKD
+2020-06-08 11:03:26: Check Point: pImport.Amount
+2020-06-08 11:03:26: Check Point: 4250
+2020-06-08 11:03:26: Check Point: Particular
+2020-06-08 11:03:26: Check Point: Steel reinforcement high yield steel rebar dia. 16mm x 12m
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: ExtendedAnalysis
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: 
+2020-06-08 11:03:26: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'4', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4250', N'4250', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 16mm x 12m' ) 
+2020-06-08 11:03:26: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 16mm x 12m',N'1',N'4',N'M000088708',N'4250',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4250',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:26: Check Point: Flex Connection: False
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:26: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:26: Check Point: CompanyCode
+2020-06-08 11:03:27: Check Point: E51
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.LineNo
+2020-06-08 11:03:27: Check Point: 5
+2020-06-08 11:03:27: Check Point: pImport.BatchID
+2020-06-08 11:03:27: Check Point: M000088708
+2020-06-08 11:03:27: Check Point: pImport.VoucherType
+2020-06-08 11:03:27: Check Point: GJ
+2020-06-08 11:03:27: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Description
+2020-06-08 11:03:27: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:27: Check Point: pImport.AcctCode
+2020-06-08 11:03:27: Check Point: CB050000
+2020-06-08 11:03:27: Check Point: WEL33Z00
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 19057B3H
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 24M21000
+2020-06-08 11:03:27: Check Point: AnalysisCode1
+2020-06-08 11:03:27: Check Point: AnalysisCode2
+2020-06-08 11:03:27: Check Point: AnalysisCode3
+2020-06-08 11:03:27: Check Point: AnalysisCode4
+2020-06-08 11:03:27: Check Point: AnalysisCode5
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:27: Check Point: pImport.DocType
+2020-06-08 11:03:27: Check Point: O
+2020-06-08 11:03:27: Check Point: pImport.DocDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.DocDueDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Currency
+2020-06-08 11:03:27: Check Point: HKD
+2020-06-08 11:03:27: Check Point: pImport.Amount
+2020-06-08 11:03:27: Check Point: 4250
+2020-06-08 11:03:27: Check Point: Particular
+2020-06-08 11:03:27: Check Point: Steel reinforcement high yield steel rebar dia. 20mm x 12m
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: ExtendedAnalysis
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'5', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4250', N'4250', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 20mm x 12m' ) 
+2020-06-08 11:03:27: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 20mm x 12m',N'1',N'5',N'M000088708',N'4250',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4250',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:27: Check Point: Flex Connection: False
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:27: Check Point: CompanyCode
+2020-06-08 11:03:27: Check Point: E51
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.LineNo
+2020-06-08 11:03:27: Check Point: 6
+2020-06-08 11:03:27: Check Point: pImport.BatchID
+2020-06-08 11:03:27: Check Point: M000088708
+2020-06-08 11:03:27: Check Point: pImport.VoucherType
+2020-06-08 11:03:27: Check Point: GJ
+2020-06-08 11:03:27: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Description
+2020-06-08 11:03:27: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:27: Check Point: pImport.AcctCode
+2020-06-08 11:03:27: Check Point: CB050000
+2020-06-08 11:03:27: Check Point: WEL33Z00
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 19057B3H
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 24M21000
+2020-06-08 11:03:27: Check Point: AnalysisCode1
+2020-06-08 11:03:27: Check Point: AnalysisCode2
+2020-06-08 11:03:27: Check Point: AnalysisCode3
+2020-06-08 11:03:27: Check Point: AnalysisCode4
+2020-06-08 11:03:27: Check Point: AnalysisCode5
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:27: Check Point: pImport.DocType
+2020-06-08 11:03:27: Check Point: O
+2020-06-08 11:03:27: Check Point: pImport.DocDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.DocDueDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Currency
+2020-06-08 11:03:27: Check Point: HKD
+2020-06-08 11:03:27: Check Point: pImport.Amount
+2020-06-08 11:03:27: Check Point: 4250
+2020-06-08 11:03:27: Check Point: Particular
+2020-06-08 11:03:27: Check Point: Steel reinforcement high yield steel rebar dia. 25mm x 12m
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: ExtendedAnalysis
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'6', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4250', N'4250', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 25mm x 12m' ) 
+2020-06-08 11:03:27: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 25mm x 12m',N'1',N'6',N'M000088708',N'4250',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4250',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:27: Check Point: Flex Connection: False
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:27: Check Point: CompanyCode
+2020-06-08 11:03:27: Check Point: E51
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.LineNo
+2020-06-08 11:03:27: Check Point: 7
+2020-06-08 11:03:27: Check Point: pImport.BatchID
+2020-06-08 11:03:27: Check Point: M000088708
+2020-06-08 11:03:27: Check Point: pImport.VoucherType
+2020-06-08 11:03:27: Check Point: GJ
+2020-06-08 11:03:27: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Description
+2020-06-08 11:03:27: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:27: Check Point: pImport.AcctCode
+2020-06-08 11:03:27: Check Point: CB050000
+2020-06-08 11:03:27: Check Point: WEL33Z00
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 19057B3H
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 24M21000
+2020-06-08 11:03:27: Check Point: AnalysisCode1
+2020-06-08 11:03:27: Check Point: AnalysisCode2
+2020-06-08 11:03:27: Check Point: AnalysisCode3
+2020-06-08 11:03:27: Check Point: AnalysisCode4
+2020-06-08 11:03:27: Check Point: AnalysisCode5
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:27: Check Point: pImport.DocType
+2020-06-08 11:03:27: Check Point: O
+2020-06-08 11:03:27: Check Point: pImport.DocDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.DocDueDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Currency
+2020-06-08 11:03:27: Check Point: HKD
+2020-06-08 11:03:27: Check Point: pImport.Amount
+2020-06-08 11:03:27: Check Point: 4250
+2020-06-08 11:03:27: Check Point: Particular
+2020-06-08 11:03:27: Check Point: Steel reinforcement high yield steel rebar dia. 32mm x 12m
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: ExtendedAnalysis
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'7', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4250', N'4250', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 32mm x 12m' ) 
+2020-06-08 11:03:27: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 32mm x 12m',N'1',N'7',N'M000088708',N'4250',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4250',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:27: Check Point: Flex Connection: False
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:27: Check Point: CompanyCode
+2020-06-08 11:03:27: Check Point: E51
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.LineNo
+2020-06-08 11:03:27: Check Point: 8
+2020-06-08 11:03:27: Check Point: pImport.BatchID
+2020-06-08 11:03:27: Check Point: M000088708
+2020-06-08 11:03:27: Check Point: pImport.VoucherType
+2020-06-08 11:03:27: Check Point: GJ
+2020-06-08 11:03:27: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Description
+2020-06-08 11:03:27: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:27: Check Point: pImport.AcctCode
+2020-06-08 11:03:27: Check Point: CB050000
+2020-06-08 11:03:27: Check Point: WEL33Z00
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 19057B3H
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 24M21000
+2020-06-08 11:03:27: Check Point: AnalysisCode1
+2020-06-08 11:03:27: Check Point: AnalysisCode2
+2020-06-08 11:03:27: Check Point: AnalysisCode3
+2020-06-08 11:03:27: Check Point: AnalysisCode4
+2020-06-08 11:03:27: Check Point: AnalysisCode5
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:27: Check Point: pImport.DocType
+2020-06-08 11:03:27: Check Point: O
+2020-06-08 11:03:27: Check Point: pImport.DocDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.DocDueDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Currency
+2020-06-08 11:03:27: Check Point: HKD
+2020-06-08 11:03:27: Check Point: pImport.Amount
+2020-06-08 11:03:27: Check Point: 4450
+2020-06-08 11:03:27: Check Point: Particular
+2020-06-08 11:03:27: Check Point: Steel reinforcement high yield steel rebar dia. 40mm x 12m
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: ExtendedAnalysis
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'8', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4450', N'4450', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 40mm x 12m' ) 
+2020-06-08 11:03:27: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 40mm x 12m',N'1',N'8',N'M000088708',N'4450',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4450',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:27: Check Point: Flex Connection: False
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:27: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:27: Check Point: CompanyCode
+2020-06-08 11:03:27: Check Point: E51
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.LineNo
+2020-06-08 11:03:27: Check Point: 9
+2020-06-08 11:03:27: Check Point: pImport.BatchID
+2020-06-08 11:03:27: Check Point: M000088708
+2020-06-08 11:03:27: Check Point: pImport.VoucherType
+2020-06-08 11:03:27: Check Point: GJ
+2020-06-08 11:03:27: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Description
+2020-06-08 11:03:27: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:27: Check Point: pImport.AcctCode
+2020-06-08 11:03:27: Check Point: CB050000
+2020-06-08 11:03:27: Check Point: WEL33Z00
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 19057B3H
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 24M21000
+2020-06-08 11:03:27: Check Point: AnalysisCode1
+2020-06-08 11:03:27: Check Point: AnalysisCode2
+2020-06-08 11:03:27: Check Point: AnalysisCode3
+2020-06-08 11:03:27: Check Point: AnalysisCode4
+2020-06-08 11:03:27: Check Point: AnalysisCode5
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:27: Check Point: pImport.DocType
+2020-06-08 11:03:27: Check Point: O
+2020-06-08 11:03:27: Check Point: pImport.DocDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.DocDueDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Currency
+2020-06-08 11:03:27: Check Point: HKD
+2020-06-08 11:03:27: Check Point: pImport.Amount
+2020-06-08 11:03:27: Check Point: 4600
+2020-06-08 11:03:27: Check Point: Particular
+2020-06-08 11:03:27: Check Point: Steel reinforcement high yield steel rebar dia. 50mm x 12m
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: ExtendedAnalysis
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'9', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'CB050000', N'WEL33Z00', N'19057B3H', N'24M21000', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'D', N'4600', N'4600', N'1', N'0', N'Steel reinforcement high yield steel rebar dia. 50mm x 12m' ) 
+2020-06-08 11:03:27: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'Steel reinforcement high yield steel rebar dia. 50mm x 12m',N'1',N'9',N'M000088708',N'4600',N'24M21000',N'GENERAL JOURNAL',N'GJ',N'CB050000',N'19057B3H/00059001',N'E51',N'O',N'D',N'2020-03-09 00:00:00',N'HKD',N'4600',N'WEL33Z00',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:27: Check Point: Flex Connection: False
+2020-06-08 11:03:27: Check Point: CompanyCode
+2020-06-08 11:03:27: Check Point: E51
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.LineNo
+2020-06-08 11:03:27: Check Point: 1
+2020-06-08 11:03:27: Check Point: pImport.BatchID
+2020-06-08 11:03:27: Check Point: M000088708
+2020-06-08 11:03:27: Check Point: pImport.VoucherType
+2020-06-08 11:03:27: Check Point: GJ
+2020-06-08 11:03:27: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Description
+2020-06-08 11:03:27: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:27: Check Point: pImport.AcctCode
+2020-06-08 11:03:27: Check Point: TPAWEL33
+2020-06-08 11:03:27: Check Point: WEL33Z00
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 19057B3H
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: AnalysisCode1
+2020-06-08 11:03:27: Check Point: AnalysisCode2
+2020-06-08 11:03:27: Check Point: AnalysisCode3
+2020-06-08 11:03:27: Check Point: AnalysisCode4
+2020-06-08 11:03:27: Check Point: AnalysisCode5
+2020-06-08 11:03:27: Check Point: pImport.DocumentNo
+2020-06-08 11:03:27: Check Point: 19057B3H/00059001
+2020-06-08 11:03:27: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: pImport.DocType
+2020-06-08 11:03:27: Check Point: O
+2020-06-08 11:03:27: Check Point: pImport.DocDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.DocDueDate
+2020-06-08 11:03:27: Check Point: 3/9/2020 12:00:00 AM
+2020-06-08 11:03:27: Check Point: pImport.Currency
+2020-06-08 11:03:27: Check Point: HKD
+2020-06-08 11:03:27: Check Point: pImport.Amount
+2020-06-08 11:03:27: Check Point: 34850
+2020-06-08 11:03:27: Check Point: Particular
+2020-06-08 11:03:27: Check Point: PA No. 17
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: ExtendedAnalysis
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: 
+2020-06-08 11:03:27: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19057B3H/00059001', N'1', N'M000088708', N'GJ', '20200309 00:00:00.000', N'GENERAL JOURNAL', N'TPAWEL33', N'WEL33Z00', N'19057B3H', N'19057B3H/00059001', N'O', '20200309 00:00:00.000', '20200309 00:00:00.000', N'HKD', N'C', N'34850', N'34850', N'1', N'0', N'PA No. 17' ) 
+2020-06-08 11:03:27: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-03-09 00:00:00',N'O',N'1',N'2020-03-09 00:00:00',N'34850',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAWEL33',N'19057B3H/00059001',N'E51',N'M000088708',N'C',N'HKD',N'34850',N'WEL33Z00',N'PA No. 17',N'19057B3H/00059001',N'2020-03-09 00:00:00',N'19057B3H')
+2020-06-08 11:03:27: Check Point: Flex Connection: False
+2020-06-08 11:03:27: Check Point: Supplier Payment Cert Export
+2020-06-08 11:03:29: Check Point: Setup SAP Transaction
+2020-06-08 11:03:29: Check Point: Setup StartTransaction:False
+2020-06-08 11:03:29: Check Point: Start SAP Transaction
+2020-06-08 11:03:29: Check Point: Setup Flex Transaction
+2020-06-08 11:03:29: Check Point: Start Flex Transaction
+2020-06-08 11:03:29: Check Point: Supplier Payment Cert Detail Qeuery:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, INMPrice, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, StockSum, U_RefNum, U_FullDesc From [dbo].[DRF1]  WHERE 
+  (( DocEntry = '88712') 
+ AND ( ObjType = '18')) 
+
+ 
+2020-06-08 11:03:29: Check Point: JournalSync.Interface.Synchronization Start
+2020-06-08 11:03:29: Check Point: JournalSync.Interface.Synchronization End
+2020-06-08 11:03:29: Check Point: CompanyCode
+2020-06-08 11:03:29: Check Point: E31
+2020-06-08 11:03:29: Check Point: pImport.DocumentNo
+2020-06-08 11:03:29: Check Point: 20047B1H/00010002
+2020-06-08 11:03:29: Check Point: pImport.LineNo
+2020-06-08 11:03:29: Check Point: 2
+2020-06-08 11:03:29: Check Point: pImport.BatchID
+2020-06-08 11:03:29: Check Point: M000088712
+2020-06-08 11:03:29: Check Point: pImport.VoucherType
+2020-06-08 11:03:29: Check Point: GJ
+2020-06-08 11:03:29: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:29: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:29: Check Point: pImport.Description
+2020-06-08 11:03:29: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:29: Check Point: pImport.AcctCode
+2020-06-08 11:03:29: Check Point: CB090000
+2020-06-08 11:03:29: Check Point: GOL23Z00
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 20047B1H
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 28M07000
+2020-06-08 11:03:29: Check Point: AnalysisCode1
+2020-06-08 11:03:29: Check Point: AnalysisCode2
+2020-06-08 11:03:29: Check Point: AnalysisCode3
+2020-06-08 11:03:29: Check Point: AnalysisCode4
+2020-06-08 11:03:29: Check Point: AnalysisCode5
+2020-06-08 11:03:29: Check Point: pImport.DocumentNo
+2020-06-08 11:03:29: Check Point: 20047B1H/00010002
+2020-06-08 11:03:29: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: Length smaller or equal than 20 chars
+2020-06-08 11:03:29: Check Point: pImport.DocType
+2020-06-08 11:03:29: Check Point: O
+2020-06-08 11:03:29: Check Point: pImport.DocDate
+2020-06-08 11:03:29: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:29: Check Point: pImport.DocDueDate
+2020-06-08 11:03:29: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:29: Check Point: pImport.Currency
+2020-06-08 11:03:29: Check Point: HKD
+2020-06-08 11:03:29: Check Point: pImport.Amount
+2020-06-08 11:03:29: Check Point: 2468000
+2020-06-08 11:03:29: Check Point: Particular
+2020-06-08 11:03:29: Check Point: Electrical fittings & equipment Electrical fittings & equipm
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: ExtendedAnalysis
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E31', N'20047B1H/00010002', N'2', N'M000088712', N'GJ', '20200603 00:00:00.000', N'GENERAL JOURNAL', N'CB090000', N'GOL23Z00', N'20047B1H', N'28M07000', N'20047B1H/00010002', N'O', '20200603 00:00:00.000', '20200603 00:00:00.000', N'HKD', N'D', N'2468000', N'2468000', N'1', N'0', N'Electrical fittings & equipment Electrical fittings & equipm' ) 
+2020-06-08 11:03:29: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-06-03 00:00:00',N'Electrical fittings & equipment Electrical fittings & equipm',N'1',N'2',N'M000088712',N'2468000',N'28M07000',N'GENERAL JOURNAL',N'GJ',N'CB090000',N'20047B1H/00010002',N'E31',N'O',N'D',N'2020-06-03 00:00:00',N'HKD',N'2468000',N'GOL23Z00',N'20047B1H/00010002',N'2020-06-03 00:00:00',N'20047B1H')
+2020-06-08 11:03:29: Check Point: Flex Connection: False
+2020-06-08 11:03:29: Check Point: CompanyCode
+2020-06-08 11:03:29: Check Point: E31
+2020-06-08 11:03:29: Check Point: pImport.DocumentNo
+2020-06-08 11:03:29: Check Point: 20047B1H/00010002
+2020-06-08 11:03:29: Check Point: pImport.LineNo
+2020-06-08 11:03:29: Check Point: 1
+2020-06-08 11:03:29: Check Point: pImport.BatchID
+2020-06-08 11:03:29: Check Point: M000088712
+2020-06-08 11:03:29: Check Point: pImport.VoucherType
+2020-06-08 11:03:29: Check Point: GJ
+2020-06-08 11:03:29: Check Point:  pImport.VoucherDate
+2020-06-08 11:03:29: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:29: Check Point: pImport.Description
+2020-06-08 11:03:29: Check Point: GENERAL JOURNAL
+2020-06-08 11:03:29: Check Point: pImport.AcctCode
+2020-06-08 11:03:29: Check Point: TPAGOL23
+2020-06-08 11:03:29: Check Point: GOL23Z00
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 20047B1H
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: AnalysisCode1
+2020-06-08 11:03:29: Check Point: AnalysisCode2
+2020-06-08 11:03:29: Check Point: AnalysisCode3
+2020-06-08 11:03:29: Check Point: AnalysisCode4
+2020-06-08 11:03:29: Check Point: AnalysisCode5
+2020-06-08 11:03:29: Check Point: pImport.DocumentNo
+2020-06-08 11:03:29: Check Point: 20047B1H/00010002
+2020-06-08 11:03:29: Check Point: pImport.AltDocNumber
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: pImport.DocType
+2020-06-08 11:03:29: Check Point: O
+2020-06-08 11:03:29: Check Point: pImport.DocDate
+2020-06-08 11:03:29: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:29: Check Point: pImport.DocDueDate
+2020-06-08 11:03:29: Check Point: 6/3/2020 12:00:00 AM
+2020-06-08 11:03:29: Check Point: pImport.Currency
+2020-06-08 11:03:29: Check Point: HKD
+2020-06-08 11:03:29: Check Point: pImport.Amount
+2020-06-08 11:03:29: Check Point: 2468000
+2020-06-08 11:03:29: Check Point: Particular
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: ExtendedAnalysis
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: 
+2020-06-08 11:03:29: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY ) Values ( N'E31', N'20047B1H/00010002', N'1', N'M000088712', N'GJ', '20200603 00:00:00.000', N'GENERAL JOURNAL', N'TPAGOL23', N'GOL23Z00', N'20047B1H', N'20047B1H/00010002', N'O', '20200603 00:00:00.000', '20200603 00:00:00.000', N'HKD', N'C', N'2468000', N'2468000', N'1', N'0' ) 
+2020-06-08 11:03:29: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2020-06-03 00:00:00',N'O',N'1',N'2020-06-03 00:00:00',N'2468000',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAGOL23',N'20047B1H/00010002',N'E31',N'M000088712',N'C',N'HKD',N'2468000',N'GOL23Z00',N'20047B1H/00010002',N'2020-06-03 00:00:00',N'20047B1H')
+2020-06-08 11:03:29: Check Point: Flex Connection: False
+2020-06-08 11:03:29: Check Point: Supplier Payment Cert Export
+2020-06-08 11:03:31: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2020-06-08 11:03:31: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2020-06-08 11:03:33: Check Point: Supplier Payment Cert, Import_Reject SQL Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2020-06-08 11:03:34: Check Point: Export Log To Text Files

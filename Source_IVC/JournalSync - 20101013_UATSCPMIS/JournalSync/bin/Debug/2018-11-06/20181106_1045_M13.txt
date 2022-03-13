@@ -1,0 +1,2 @@
+2018-11-06 10:45:49: Check Point: Sub Main
+2018-11-06 10:45:49: Check Point: E:\Source\JournalSync - 20101013\JournalSync\bin\

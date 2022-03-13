@@ -1,0 +1,48 @@
+*******************************************************************
+Job name: A/R Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2016-01-18 12:39:15Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.126
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+2016-01-18 12:39:15Z: Process Record: [C000001987], Failure
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/R Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+Failure Record:
+-------------------------------------------------------------------
+Process Record: [C000001987]
+Error Reason: 
+10000156 - Posting Date deviates from the defined range. To complete the operation, define the posting period to match the entered Posting Date.
+-------------------------------------------------------------------
+
+
+No of records process: 1
+No of records success: 0
+No of records skip: 0
+No of records fail: 1
+
+End Time: 2016-01-18 12:39:15Z
+Job Complete [Failure]
+*******************************************************************
+

@@ -1,0 +1,58 @@
+*******************************************************************
+Job name: A/P Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2017-04-25 10:08:07Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[ExAcctCode] Get SubConBQ Info (Project Code: 19042B1H, Account Code: CC.SC124)
+
+2017-04-25 10:08:07Z: Process Record: [[EXPORT]AP 24444], Success
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+2017-04-25 10:08:07Z: Process Record: [S000028161], Success
+2017-04-25 10:08:07Z: Process Record: [S000028183], Success
+2017-04-25 10:08:07Z: Process Record: [S000028202], Success
+2017-04-25 10:08:07Z: Process Record: [S000028209], Success
+2017-04-25 10:08:07Z: Process Record: [S000028211], Success
+2017-04-25 10:08:07Z: Process Record: [S000028212], Success
+2017-04-25 10:08:07Z: Process Record: [S000028216], Success
+
+[REJECT] ----------------------------------------------------
+
+
+
+
+No of records process: 8
+No of records success: 8
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2017-04-25 10:08:07Z
+Job Complete [Success]
+*******************************************************************
+

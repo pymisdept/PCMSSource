@@ -1,0 +1,5 @@
+2013-11-20 11:14:14: Check Point: Setup SAP Transaction
+2013-11-20 11:14:14: Check Point: Setup StartTransaction:False
+2013-11-20 11:14:14: Check Point: Start SAP Transaction
+2013-11-20 11:14:14: Check Point: Setup Flex Transaction
+2013-11-20 11:14:14: Check Point: Start Flex Transaction

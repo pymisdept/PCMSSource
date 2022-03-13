@@ -1,0 +1,6 @@
+2016-01-22 11:13:27: Check Point: Sub Main
+2016-01-22 11:13:35: Check Point: Company DB: PAY800
+2016-01-22 11:13:45: Check Point: Project BQ:Define
+2016-01-22 11:13:50: Check Point: Project BQ:Export
+2016-01-22 11:13:54: Check Point: Project BQ:Import
+2016-01-22 11:13:57: Check Point: Project BQ: Start Import

@@ -1,0 +1,73 @@
+*******************************************************************
+Job name: A/P Service Invoice Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2016-12-13 12:18:49Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[POSTED] Create New A/P Service Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+2016-12-13 12:18:49Z: Process Record: [S000020853], Success
+2016-12-13 12:18:49Z: Process Record: [S000020861], Success
+2016-12-13 12:18:49Z: Process Record: [S000020863], Success
+2016-12-13 12:18:49Z: Process Record: [S000024383], Success
+2016-12-13 12:18:49Z: Process Record: [S000027842], Success
+2016-12-13 12:18:49Z: Process Record: [S000027843], Success
+2016-12-13 12:18:49Z: Process Record: [S000027902], Success
+2016-12-13 12:18:49Z: Process Record: [S000027972], Success
+2016-12-13 12:18:49Z: Process Record: [S000027979], Success
+2016-12-13 12:18:49Z: Process Record: [S000027980], Success
+2016-12-13 12:18:49Z: Process Record: [S000027981], Success
+2016-12-13 12:18:49Z: Process Record: [S000027985], Success
+2016-12-13 12:18:49Z: Process Record: [S000027992], Success
+2016-12-13 12:18:49Z: Process Record: [S000027995], Success
+2016-12-13 12:18:49Z: Process Record: [S000028003], Success
+2016-12-13 12:18:49Z: Process Record: [S000028004], Success
+2016-12-13 12:18:49Z: Process Record: [S000028009], Success
+2016-12-13 12:18:49Z: Process Record: [S000028018], Success
+2016-12-13 12:18:49Z: Process Record: [S000028030], Success
+2016-12-13 12:18:49Z: Process Record: [S000028035], Success
+2016-12-13 12:18:49Z: Process Record: [S000028039], Success
+2016-12-13 12:18:49Z: Process Record: [S000028041], Success
+2016-12-13 12:18:49Z: Process Record: [S000028045], Success
+2016-12-13 12:18:49Z: Process Record: [S000028051], Success
+2016-12-13 12:18:49Z: Process Record: [S000028077], Success
+2016-12-13 12:18:49Z: Process Record: [S000028079], Success
+
+[REJECT] ----------------------------------------------------
+
+
+
+
+No of records process: 26
+No of records success: 26
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2016-12-13 12:18:49Z
+Job Complete [Success]
+*******************************************************************
+

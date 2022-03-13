@@ -1,0 +1,7 @@
+2012-10-18 10:57:46: Check Point: Sub Main
+2012-10-18 10:57:50: Check Point: Company DB: PAY800
+2012-10-18 10:57:59: Check Point: Setup SAP Transaction
+2012-10-18 10:57:59: Check Point: Setup StartTransaction:False
+2012-10-18 10:57:59: Check Point: Start SAP Transaction
+2012-10-18 10:57:59: Check Point: Setup Flex Transaction
+2012-10-18 10:57:59: Check Point: Start Flex Transaction

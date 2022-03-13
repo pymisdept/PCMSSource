@@ -1,0 +1,2 @@
+2021-07-20 17:20:09: Check Point: Sub Main
+2021-07-20 17:20:09: Check Point: E:\SAP\PCMS800\FlexSync\Log

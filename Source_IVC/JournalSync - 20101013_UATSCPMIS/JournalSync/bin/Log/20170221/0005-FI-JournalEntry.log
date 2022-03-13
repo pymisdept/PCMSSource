@@ -1,0 +1,65 @@
+*******************************************************************
+Job name: Journal Entry Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2017-02-21 17:39:25Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[POSTED] Create New Journal Entry in SAP System.
+
+2017-02-21 17:39:25Z: Process Record: [GJB6030003], Success
+2017-02-21 17:39:25Z: Process Record: [GJB6030004], Success
+2017-02-21 17:39:25Z: Process Record: [BPB5030002], Success
+2017-02-21 17:39:25Z: Process Record: [BPB5070003], Success
+2017-02-21 17:39:25Z: Process Record: [BPB5070004], Success
+2017-02-21 17:39:25Z: Process Record: [BPB6090001], Success
+2017-02-21 17:39:25Z: Process Record: [BRB5040001], Success
+2017-02-21 17:39:25Z: Process Record: [BRB5060002], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5040010], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5040011], Failure
+2017-02-21 17:39:25Z: Process Record: [GJB5040012], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5040013], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5040014], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5040015], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5050010], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5050011], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5050012], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5050013], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5060009], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5060010], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5090012], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5090013], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5100015], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5100016], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5100017], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5100018], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5110004], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5110005], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5110006], Success
+2017-02-21 17:39:25Z: Process Record: [GJB5120014], Success
+2017-02-21 17:39:25Z: Process Record: [GJB6030025], Success
+2017-02-21 17:39:25Z: Process Record: [GJB6040003], Success
+2017-02-21 17:39:25Z: Process Record: [GJB6050001], Success
+
+Failure Record:
+-------------------------------------------------------------------
+Process Record: [GJB5040011]
+Error Reason: 
+Invalid Account Code
+-------------------------------------------------------------------
+
+
+No of records process: 33
+No of records success: 32
+No of records skip: 0
+No of records fail: 1
+
+End Time: 2017-02-21 17:39:25Z
+Job Complete [Failure]
+*******************************************************************
+

@@ -1,0 +1,27 @@
+*******************************************************************
+Job name: Journal Entry Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2018-04-17 16:35:30Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[POSTED] Create New Journal Entry in SAP System.
+
+2018-04-17 16:35:30Z: Process Record: [GJB8010001], Success
+
+
+
+No of records process: 1
+No of records success: 1
+No of records skip: 0
+No of records fail: 0
+
+End Time: 2018-04-17 16:35:30Z
+Job Complete [Success]
+*******************************************************************
+

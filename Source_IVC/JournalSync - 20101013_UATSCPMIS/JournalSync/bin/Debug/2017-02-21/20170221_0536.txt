@@ -1,0 +1,10 @@
+2017-02-21 05:36:34: Check Point: Sub Main
+2017-02-21 05:36:39: Check Point: Company DB: PAY800
+2017-02-21 05:36:39: Check Point: Purchase Query: 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPOR.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OPOR.ObjType  = [CPSFSP].ObjType And	
+	           [CPSFSP].ReasonCode = 'D112' 
+	)	
+	AND PRE_OPOR.DocStatus  = 'O'
+

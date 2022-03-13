@@ -1,0 +1,6 @@
+2021-12-15 01:57:28: Check Point: Sub Main
+2021-12-15 01:57:28: Check Point: E:\SAP\PCMS800\FlexSync\Log
+2021-12-15 01:57:47: Check Point: Company DB: PAY800
+2021-12-15 01:57:51: Check Point: Project BQ:Define
+2021-12-15 01:57:54: Check Point: Project BQ:Export
+2021-12-15 01:57:54: Check Point: Project BQ:Import

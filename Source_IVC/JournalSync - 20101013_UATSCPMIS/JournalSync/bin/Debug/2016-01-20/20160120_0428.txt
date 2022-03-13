@@ -1,0 +1,12 @@
+2016-01-20 04:28:26: Check Point: Sub Main
+2016-01-20 04:28:46: Check Point: Company DB: PAY800
+2016-01-20 04:28:47: Check Point: Module: Direct_Expense: Sql String: Select Distinct
+PXVOU_LEG_CDE, 
+PXVOU_VOU_NUM
+From 
+[COM].[dbo].[PXVOU]
+ WHERE 
+  (( PXVOU_STA = '') 
+ OR ( PXVOU_STA Is Null )) 
+
+

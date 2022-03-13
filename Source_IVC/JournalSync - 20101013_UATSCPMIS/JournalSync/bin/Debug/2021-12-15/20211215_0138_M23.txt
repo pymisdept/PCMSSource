@@ -1,0 +1,5 @@
+2021-12-15 01:38:05: Check Point: Sales Quotation: Line Level Counts: 2
+2021-12-15 01:38:48: Check Point: Sales Quotation: Base Document Infomation
+2021-12-15 01:38:48: Check Point: Sales Quotation: BaseEntry: 0
+2021-12-15 01:38:48: Check Point: Sales Quotation: BaseType: 0
+2021-12-15 01:38:48: Check Point: Sales Quotation: BaseLine: 0

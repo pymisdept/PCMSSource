@@ -1,0 +1,96 @@
+*******************************************************************
+Job name: A/P Item Invoice with Approval Procedure Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2016-05-30 15:21:51Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Item Invoice in SAP System.
+
+2016-05-30 15:21:51Z: Process Record: [69215], Failure
+2016-05-30 15:21:51Z: Process Record: [69216], Failure
+2016-05-30 15:21:51Z: Process Record: [M000069218], Exception
+2016-05-30 15:21:51Z: Process Record: [M000069219], Exception
+2016-05-30 15:21:51Z: Process Record: [M000069220], Success
+
+[POSTED] -----------------------------------------
+
+
+Failure Record:
+-------------------------------------------------------------------
+Process Record: [69215]
+Error Reason: 
+One of the base documents has already been closed  [PCH1.BaseEntry][line: 1]
+Process Record: [69216]
+Error Reason: 
+One of the base documents has already been closed  [PCH1.BaseEntry][line: 1]
+-------------------------------------------------------------------
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [M000069218]
+Exception Detail: 
+
+System Operation - Process Exception
+System Check Point: PRS0001
+System Error code: 
+System Error message: 
+
+Detail Description: --------------------
+
+[SQLs Server] Unable to Process query (Insert Query)
+******************************************
+ Insert Into [dbo].[CPSFIN] ( COM_CDE, REF_NUM, LIN_NUM, REVTRANS, DOCENTRY, BCH_ID, VOU_TYP, VOU_DTE, DES, ACC_CDE, ANA_CDE1, ANA_CDE2, ANA_CDE3, ANA_CDE4, ANA_CDE5, DOC_NUM, ALT_DOC_NUM, DOC_TYP, DOC_DTE, DOC_DUE_DTE, CCY_CDE, AMT, EXC_RAT, AMT_BAS, D_C, DOC_PAY_TRM, QTY, UNI, DES1, DES2, ANA_CDE01, ANA_CDE02, ANA_CDE03, ANA_CDE04, ANA_CDE05, ANA_CDE06, ANA_CDE07, ANA_CDE08, ANA_CDE09, ANA_CDE10, RMK, FLX_BCH_ID, FLX_VOU_NUM, FLX_STA, FLX_UPD_DTE ) Values ( N'H91', N'SIT10005/11001', N'1', N'N', N'0', N'M000069218', N'GJ', '20160523 00:00:00.000', N'GENERAL JOURNAL', N'TPAA&A01', N'', N'', N'', N'', N'', N'SIT10005/11001', N'', N'O', '20160523 00:00:00.000', '20160523 00:00:00.000', N'HKD', N'800.00', N'1.000000', N'800.00', N'C', N'', N'0.00', N'', N'PA No. 11/PO No. 1', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'T2', N'GJB6020010', N'P', '20160524 00:00:00.000' ) 
+******************************************
+Error Description:
+System.Runtime.InteropServices.COMException (0xFFFFF830): 1). [Microsoft][SQL Native Client][SQL Server]Violation of PRIMARY KEY constraint 'PK_CPSFIN'. Cannot insert duplicate key in object 'dbo.CPSFIN'.
+2). [Microsoft][SQL Native Client][SQL Server]The statement has been terminated.
+
+   at SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   at CPS.SQL.Interface.RecordSet.Process(Status pStatus)
+******************************************
+----------------------------------------
+Process Record: [M000069219]
+Exception Detail: 
+
+System Operation - Process Exception
+System Check Point: PRS0001
+System Error code: 
+System Error message: 
+
+Detail Description: --------------------
+
+[SQLs Server] Unable to Process query (Insert Query)
+******************************************
+ Insert Into [dbo].[CPSFIN] ( COM_CDE, REF_NUM, LIN_NUM, REVTRANS, DOCENTRY, BCH_ID, VOU_TYP, VOU_DTE, DES, ACC_CDE, ANA_CDE1, ANA_CDE2, ANA_CDE3, ANA_CDE4, ANA_CDE5, DOC_NUM, ALT_DOC_NUM, DOC_TYP, DOC_DTE, DOC_DUE_DTE, CCY_CDE, AMT, EXC_RAT, AMT_BAS, D_C, DOC_PAY_TRM, QTY, UNI, DES1, DES2, ANA_CDE01, ANA_CDE02, ANA_CDE03, ANA_CDE04, ANA_CDE05, ANA_CDE06, ANA_CDE07, ANA_CDE08, ANA_CDE09, ANA_CDE10, RMK, FLX_BCH_ID, FLX_VOU_NUM, FLX_STA, FLX_UPD_DTE ) Values ( N'H91', N'SIT10005/KAB01Z00001', N'1', N'N', N'0', N'M000069219', N'GJ', '20160527 00:00:00.000', N'GENERAL JOURNAL', N'TPAKAB01', N'', N'', N'', N'', N'', N'SIT10005/KAB01Z00001', N'', N'O', '20160527 00:00:00.000', '20160527 00:00:00.000', N'HKD', N'14388.00', N'1.000000', N'14388.00', N'C', N'', N'0.00', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'T1', N'GJB6020014', N'P', '20160527 00:00:00.000' ) 
+******************************************
+Error Description:
+System.Runtime.InteropServices.COMException (0xFFFFF830): 1). [Microsoft][SQL Native Client][SQL Server]Violation of PRIMARY KEY constraint 'PK_CPSFIN'. Cannot insert duplicate key in object 'dbo.CPSFIN'.
+2). [Microsoft][SQL Native Client][SQL Server]The statement has been terminated.
+
+   at SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   at CPS.SQL.Interface.RecordSet.Process(Status pStatus)
+******************************************
+----------------------------------------
+-------------------------------------------------------------------
+
+No of records process: 5
+No of records success: 1
+No of records skip: 2
+No of records fail: 2
+
+End Time: 2016-05-30 15:21:51Z
+Job Complete [Failure]
+*******************************************************************
+

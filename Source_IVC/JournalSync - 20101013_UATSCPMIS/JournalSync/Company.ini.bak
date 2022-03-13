@@ -1,0 +1,12 @@
+[System Information]
+Server Name=192.168.11.109
+DB UserName=sa
+DB Password=sbo2008china
+DB Server Type=MSSQL2005
+[Company connect information]
+SAP Licence=192.168.11.114:30000
+Database Name=PAY400
+SAP UserName=manager
+SAP Password=1234
+[Message Log Information]
+Path=D:\Project\PaulY\Program\JournalSync - 20100630\JournalSync\bin

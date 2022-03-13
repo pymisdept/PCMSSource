@@ -1,0 +1,63 @@
+*******************************************************************
+Job name: A/P Item Invoice with Approval Procedure Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2016-01-22 10:28:42Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+2016-01-22 10:28:42Z: Process Record: [[EXPORT]AP 69202], Exception
+2016-01-22 10:28:42Z: Process Record: [[EXPORT]AP 69212], Success
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Item Invoice in SAP System.
+
+
+[POSTED] -----------------------------------------
+
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [[EXPORT]AP 69202]
+Exception Detail: 
+
+System Operation - Process Exception
+System Check Point: PCMS_PROCESS
+System Error code: -999
+System Error message: System.Data.SqlClient.SqlException: String or binary data would be truncated.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at CPS.DI.Interface.Connection.Process(String pSqlStr)
+
+Detail Description: --------------------
+Unable to Process [Advance] Query
+--------------------------------------------
+INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ALT_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2016-01-13 00:00:00',N'Concrete Cement Mortar',N'1',N'2',N'M000069202',N'935',N'29M04000',N'GENERAL JOURNAL',N'GJ',N'CB100000',N'13016B3H/CON/13000/VC001',N'E51',N'O',N'D',N'2016-01-13 00:00:00',N'HKD',N'935',N'GOL24Z00',N'13016B3H/CON/13000/VC001',N'2016-01-13 00:00:00',N'PY/13000/57',N'13016B3H')--------------------------------------------
+
+----------------------------------------
+-------------------------------------------------------------------
+
+No of records process: 2
+No of records success: 1
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2016-01-22 10:28:42Z
+Job Complete [Failure]
+*******************************************************************
+

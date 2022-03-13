@@ -1,0 +1,10 @@
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\bin\PaymentCertApproval.exe
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\bin\.xml
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\bin\Interop.SAPbobsCOM.dll
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\bin\Interop.SAPbouiCOM.dll
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\obj\Release\ResolveAssemblyReference.cache
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\obj\Release\Interop.SAPbobsCOM.dll
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\obj\Release\Interop.SAPbouiCOM.dll
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\obj\Release\PaymentCertApproval.vbproj.ResolveComReference.cache
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\obj\Release\PaymentCertApproval.exe
+F:\ProgramSource\Source_IVC\PaymentCertApprovalVB\PaymentCertApproval\PaymentCertApproval\obj\Release\.xml

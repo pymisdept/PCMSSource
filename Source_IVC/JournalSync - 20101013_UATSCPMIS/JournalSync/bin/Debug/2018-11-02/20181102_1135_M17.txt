@@ -1,0 +1,8 @@
+2018-11-02 11:35:13: Check Point: Sub Main
+2018-11-02 11:35:13: Check Point: E:\Source\JournalSync - 20101013\JournalSync\bin\
+2018-11-02 11:35:27: Check Point: Company DB: PAY800
+2018-11-02 11:35:27: Check Point: Setup SAP Transaction
+2018-11-02 11:35:27: Check Point: Setup StartTransaction:False
+2018-11-02 11:35:27: Check Point: Start SAP Transaction
+2018-11-02 11:35:27: Check Point: Setup Flex Transaction
+2018-11-02 11:35:27: Check Point: Start Flex Transaction

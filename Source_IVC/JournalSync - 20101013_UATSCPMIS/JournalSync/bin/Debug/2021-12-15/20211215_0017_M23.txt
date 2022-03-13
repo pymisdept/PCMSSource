@@ -1,0 +1,2 @@
+2021-12-15 00:17:28: Check Point: Sales Quotation: Header Level
+2021-12-15 00:17:28: Check Point: Sales Quotation: Line Level

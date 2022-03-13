@@ -1,0 +1,408 @@
+2018-04-20 02:58:31: Check Point: Sub Main
+2018-04-20 02:58:37: Check Point: Company DB: PAY800
+2018-04-20 02:58:37: Check Point: Get SubCOnstInoice Query:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppDAP, U_AppRefundDAP, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag, U_GSTPrcnt, U_AppGST, U_CumGST From [dbo].[PRE_OPCH] WHERE 
+  (( ObjType = '18') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+
+	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OPCH.DocEntry = [CPSFSP].DocEntry And 
+	           PRE_OPCH.ObjType  = [CPSFSP].ObjType And 
+	           [CPSFSP].ReasonCode='S18' 
+	)	
+ AND PRE_OPCH.DocStatus  = 'O'
+
+2018-04-20 02:58:37: Check Point: Setup SAP Transaction
+2018-04-20 02:58:37: Check Point: Setup StartTransaction:False
+2018-04-20 02:58:37: Check Point: Start SAP Transaction
+2018-04-20 02:58:37: Check Point: Setup Flex Transaction
+2018-04-20 02:58:37: Check Point: Start Flex Transaction
+2018-04-20 02:58:37: Check Point: SubCon Detail Count: 5
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization Start
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization End
+2018-04-20 02:58:37: Check Point: CompanyCode
+2018-04-20 02:58:37: Check Point: EE1
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.LineNo
+2018-04-20 02:58:37: Check Point: 2
+2018-04-20 02:58:37: Check Point: pImport.BatchID
+2018-04-20 02:58:37: Check Point: S000024602
+2018-04-20 02:58:37: Check Point: pImport.VoucherType
+2018-04-20 02:58:37: Check Point: GJ
+2018-04-20 02:58:37: Check Point:  pImport.VoucherDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Description
+2018-04-20 02:58:37: Check Point: GENERAL JOURNAL
+2018-04-20 02:58:37: Check Point: pImport.AcctCode
+2018-04-20 02:58:37: Check Point: RMPPLA06
+2018-04-20 02:58:37: Check Point: PLA06Z00
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: SGP00001
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: AnalysisCode1
+2018-04-20 02:58:37: Check Point: AnalysisCode2
+2018-04-20 02:58:37: Check Point: AnalysisCode3
+2018-04-20 02:58:37: Check Point: AnalysisCode4
+2018-04-20 02:58:37: Check Point: AnalysisCode5
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.AltDocNumber
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: pImport.DocType
+2018-04-20 02:58:37: Check Point: O
+2018-04-20 02:58:37: Check Point: pImport.DocDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.DocDueDate
+2018-04-20 02:58:37: Check Point: 8/15/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Currency
+2018-04-20 02:58:37: Check Point: HKD
+2018-04-20 02:58:37: Check Point: pImport.Amount
+2018-04-20 02:58:37: Check Point: -2750
+2018-04-20 02:58:37: Check Point: Particular
+2018-04-20 02:58:37: Check Point: Main Work
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: ExtendedAnalysis
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EE1', N'SGP00001/SC002001', N'2', N'S000024602', N'GJ', '20180616 00:00:00.000', N'GENERAL JOURNAL', N'RMPPLA06', N'PLA06Z00', N'SGP00001', N'SGP00001/SC002001', N'O', '20180616 00:00:00.000', '20180815 00:00:00.000', N'HKD', N'C', N'2750', N'2750', N'1', N'0', N'Main Work' ) 
+2018-04-20 02:58:37: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2018-06-16 00:00:00',N'O',N'2',N'2018-06-16 00:00:00',N'2750',N'1',N'GENERAL JOURNAL',N'GJ',N'RMPPLA06',N'SGP00001/SC002001',N'EE1',N'S000024602',N'C',N'HKD',N'2750',N'PLA06Z00',N'Main Work',N'SGP00001/SC002001',N'2018-08-15 00:00:00',N'SGP00001')
+2018-04-20 02:58:37: Check Point: Flex Connection: False
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization Start
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization End
+2018-04-20 02:58:37: Check Point: CompanyCode
+2018-04-20 02:58:37: Check Point: EE1
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.LineNo
+2018-04-20 02:58:37: Check Point: 3
+2018-04-20 02:58:37: Check Point: pImport.BatchID
+2018-04-20 02:58:37: Check Point: S000024602
+2018-04-20 02:58:37: Check Point: pImport.VoucherType
+2018-04-20 02:58:37: Check Point: GJ
+2018-04-20 02:58:37: Check Point:  pImport.VoucherDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Description
+2018-04-20 02:58:37: Check Point: GENERAL JOURNAL
+2018-04-20 02:58:37: Check Point: pImport.AcctCode
+2018-04-20 02:58:37: Check Point: 26630010
+2018-04-20 02:58:37: Check Point: PLA06Z00
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: SGP00001
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: AnalysisCode1
+2018-04-20 02:58:37: Check Point: AnalysisCode2
+2018-04-20 02:58:37: Check Point: AnalysisCode3
+2018-04-20 02:58:37: Check Point: AnalysisCode4
+2018-04-20 02:58:37: Check Point: AnalysisCode5
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.AltDocNumber
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: pImport.DocType
+2018-04-20 02:58:37: Check Point: O
+2018-04-20 02:58:37: Check Point: pImport.DocDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.DocDueDate
+2018-04-20 02:58:37: Check Point: 8/15/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Currency
+2018-04-20 02:58:37: Check Point: HKD
+2018-04-20 02:58:37: Check Point: pImport.Amount
+2018-04-20 02:58:37: Check Point: 1627.5
+2018-04-20 02:58:37: Check Point: Particular
+2018-04-20 02:58:37: Check Point: Main Work
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: ExtendedAnalysis
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EE1', N'SGP00001/SC002001', N'3', N'S000024602', N'GJ', '20180616 00:00:00.000', N'GENERAL JOURNAL', N'26630010', N'PLA06Z00', N'SGP00001', N'SGP00001/SC002001', N'O', '20180616 00:00:00.000', '20180815 00:00:00.000', N'HKD', N'D', N'1627.5', N'1627.5', N'1', N'0', N'Main Work' ) 
+2018-04-20 02:58:37: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2018-06-16 00:00:00',N'O',N'3',N'2018-06-16 00:00:00',N'1627.5',N'1',N'GENERAL JOURNAL',N'GJ',N'26630010',N'SGP00001/SC002001',N'EE1',N'S000024602',N'D',N'HKD',N'1627.5',N'PLA06Z00',N'Main Work',N'SGP00001/SC002001',N'2018-08-15 00:00:00',N'SGP00001')
+2018-04-20 02:58:37: Check Point: Flex Connection: False
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization Start
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization End
+2018-04-20 02:58:37: Check Point: CompanyCode
+2018-04-20 02:58:37: Check Point: EE1
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.LineNo
+2018-04-20 02:58:37: Check Point: 4
+2018-04-20 02:58:37: Check Point: pImport.BatchID
+2018-04-20 02:58:37: Check Point: S000024602
+2018-04-20 02:58:37: Check Point: pImport.VoucherType
+2018-04-20 02:58:37: Check Point: GJ
+2018-04-20 02:58:37: Check Point:  pImport.VoucherDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Description
+2018-04-20 02:58:37: Check Point: GENERAL JOURNAL
+2018-04-20 02:58:37: Check Point: pImport.AcctCode
+2018-04-20 02:58:37: Check Point: CB160000
+2018-04-20 02:58:37: Check Point: PLA06Z00
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: SGP00001
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 35S17000
+2018-04-20 02:58:37: Check Point: AnalysisCode1
+2018-04-20 02:58:37: Check Point: AnalysisCode2
+2018-04-20 02:58:37: Check Point: AnalysisCode3
+2018-04-20 02:58:37: Check Point: AnalysisCode4
+2018-04-20 02:58:37: Check Point: AnalysisCode5
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.AltDocNumber
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: pImport.DocType
+2018-04-20 02:58:37: Check Point: O
+2018-04-20 02:58:37: Check Point: pImport.DocDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.DocDueDate
+2018-04-20 02:58:37: Check Point: 8/15/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Currency
+2018-04-20 02:58:37: Check Point: HKD
+2018-04-20 02:58:37: Check Point: pImport.Amount
+2018-04-20 02:58:37: Check Point: 25000
+2018-04-20 02:58:37: Check Point: Particular
+2018-04-20 02:58:37: Check Point: Main Work
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: ExtendedAnalysis
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EE1', N'SGP00001/SC002001', N'4', N'S000024602', N'GJ', '20180616 00:00:00.000', N'GENERAL JOURNAL', N'CB160000', N'PLA06Z00', N'SGP00001', N'35S17000', N'SGP00001/SC002001', N'O', '20180616 00:00:00.000', '20180815 00:00:00.000', N'HKD', N'D', N'25000', N'25000', N'1', N'0', N'Main Work' ) 
+2018-04-20 02:58:37: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2018-06-16 00:00:00',N'Main Work',N'1',N'4',N'S000024602',N'25000',N'35S17000',N'GENERAL JOURNAL',N'GJ',N'CB160000',N'SGP00001/SC002001',N'EE1',N'O',N'D',N'2018-06-16 00:00:00',N'HKD',N'25000',N'PLA06Z00',N'SGP00001/SC002001',N'2018-08-15 00:00:00',N'SGP00001')
+2018-04-20 02:58:37: Check Point: Flex Connection: False
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization Start
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization End
+2018-04-20 02:58:37: Check Point: CompanyCode
+2018-04-20 02:58:37: Check Point: EE1
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.LineNo
+2018-04-20 02:58:37: Check Point: 5
+2018-04-20 02:58:37: Check Point: pImport.BatchID
+2018-04-20 02:58:37: Check Point: S000024602
+2018-04-20 02:58:37: Check Point: pImport.VoucherType
+2018-04-20 02:58:37: Check Point: GJ
+2018-04-20 02:58:37: Check Point:  pImport.VoucherDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Description
+2018-04-20 02:58:37: Check Point: GENERAL JOURNAL
+2018-04-20 02:58:37: Check Point: pImport.AcctCode
+2018-04-20 02:58:37: Check Point: CB030000
+2018-04-20 02:58:37: Check Point: PLA06Z00
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: SGP00001
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 22S02000
+2018-04-20 02:58:37: Check Point: AnalysisCode1
+2018-04-20 02:58:37: Check Point: AnalysisCode2
+2018-04-20 02:58:37: Check Point: AnalysisCode3
+2018-04-20 02:58:37: Check Point: AnalysisCode4
+2018-04-20 02:58:37: Check Point: AnalysisCode5
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.AltDocNumber
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: pImport.DocType
+2018-04-20 02:58:37: Check Point: O
+2018-04-20 02:58:37: Check Point: pImport.DocDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.DocDueDate
+2018-04-20 02:58:37: Check Point: 8/15/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Currency
+2018-04-20 02:58:37: Check Point: HKD
+2018-04-20 02:58:37: Check Point: pImport.Amount
+2018-04-20 02:58:37: Check Point: 30000
+2018-04-20 02:58:37: Check Point: Particular
+2018-04-20 02:58:37: Check Point: Main Work
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: ExtendedAnalysis
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EE1', N'SGP00001/SC002001', N'5', N'S000024602', N'GJ', '20180616 00:00:00.000', N'GENERAL JOURNAL', N'CB030000', N'PLA06Z00', N'SGP00001', N'22S02000', N'SGP00001/SC002001', N'O', '20180616 00:00:00.000', '20180815 00:00:00.000', N'HKD', N'D', N'30000', N'30000', N'1', N'0', N'Main Work' ) 
+2018-04-20 02:58:37: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2018-06-16 00:00:00',N'Main Work',N'1',N'5',N'S000024602',N'30000',N'22S02000',N'GENERAL JOURNAL',N'GJ',N'CB030000',N'SGP00001/SC002001',N'EE1',N'O',N'D',N'2018-06-16 00:00:00',N'HKD',N'30000',N'PLA06Z00',N'SGP00001/SC002001',N'2018-08-15 00:00:00',N'SGP00001')
+2018-04-20 02:58:37: Check Point: Flex Connection: False
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization Start
+2018-04-20 02:58:37: Check Point: JournalSync.Interface.Synchronization End
+2018-04-20 02:58:37: Check Point: CompanyCode
+2018-04-20 02:58:37: Check Point: EE1
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.LineNo
+2018-04-20 02:58:37: Check Point: 6
+2018-04-20 02:58:37: Check Point: pImport.BatchID
+2018-04-20 02:58:37: Check Point: S000024602
+2018-04-20 02:58:37: Check Point: pImport.VoucherType
+2018-04-20 02:58:37: Check Point: GJ
+2018-04-20 02:58:37: Check Point:  pImport.VoucherDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Description
+2018-04-20 02:58:37: Check Point: GENERAL JOURNAL
+2018-04-20 02:58:37: Check Point: pImport.AcctCode
+2018-04-20 02:58:37: Check Point: CA120000
+2018-04-20 02:58:37: Check Point: PLA06Z00
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: SGP00001
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 12P09000
+2018-04-20 02:58:37: Check Point: AnalysisCode1
+2018-04-20 02:58:37: Check Point: AnalysisCode2
+2018-04-20 02:58:37: Check Point: AnalysisCode3
+2018-04-20 02:58:37: Check Point: AnalysisCode4
+2018-04-20 02:58:37: Check Point: AnalysisCode5
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.AltDocNumber
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: pImport.DocType
+2018-04-20 02:58:37: Check Point: O
+2018-04-20 02:58:37: Check Point: pImport.DocDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.DocDueDate
+2018-04-20 02:58:37: Check Point: 8/15/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Currency
+2018-04-20 02:58:37: Check Point: HKD
+2018-04-20 02:58:37: Check Point: pImport.Amount
+2018-04-20 02:58:37: Check Point: 2000
+2018-04-20 02:58:37: Check Point: Particular
+2018-04-20 02:58:37: Check Point: Main Work
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: ExtendedAnalysis
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EE1', N'SGP00001/SC002001', N'6', N'S000024602', N'GJ', '20180616 00:00:00.000', N'GENERAL JOURNAL', N'CA120000', N'PLA06Z00', N'SGP00001', N'12P09000', N'SGP00001/SC002001', N'O', '20180616 00:00:00.000', '20180815 00:00:00.000', N'HKD', N'D', N'2000', N'2000', N'1', N'0', N'Main Work' ) 
+2018-04-20 02:58:37: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2018-06-16 00:00:00',N'Main Work',N'1',N'6',N'S000024602',N'2000',N'12P09000',N'GENERAL JOURNAL',N'GJ',N'CA120000',N'SGP00001/SC002001',N'EE1',N'O',N'D',N'2018-06-16 00:00:00',N'HKD',N'2000',N'PLA06Z00',N'SGP00001/SC002001',N'2018-08-15 00:00:00',N'SGP00001')
+2018-04-20 02:58:37: Check Point: Flex Connection: False
+2018-04-20 02:58:37: Check Point: ToFlex
+2018-04-20 02:58:37: Check Point: CompanyCode
+2018-04-20 02:58:37: Check Point: EE1
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.LineNo
+2018-04-20 02:58:37: Check Point: 1
+2018-04-20 02:58:37: Check Point: pImport.BatchID
+2018-04-20 02:58:37: Check Point: S000024602
+2018-04-20 02:58:37: Check Point: pImport.VoucherType
+2018-04-20 02:58:37: Check Point: GJ
+2018-04-20 02:58:37: Check Point:  pImport.VoucherDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Description
+2018-04-20 02:58:37: Check Point: GENERAL JOURNAL
+2018-04-20 02:58:37: Check Point: pImport.AcctCode
+2018-04-20 02:58:37: Check Point: TPAPLA06
+2018-04-20 02:58:37: Check Point: PLA06Z00
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: SGP00001
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: AnalysisCode1
+2018-04-20 02:58:37: Check Point: AnalysisCode2
+2018-04-20 02:58:37: Check Point: AnalysisCode3
+2018-04-20 02:58:37: Check Point: AnalysisCode4
+2018-04-20 02:58:37: Check Point: AnalysisCode5
+2018-04-20 02:58:37: Check Point: pImport.DocumentNo
+2018-04-20 02:58:37: Check Point: SGP00001/SC002001
+2018-04-20 02:58:37: Check Point: pImport.AltDocNumber
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: pImport.DocType
+2018-04-20 02:58:37: Check Point: O
+2018-04-20 02:58:37: Check Point: pImport.DocDate
+2018-04-20 02:58:37: Check Point: 6/16/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.DocDueDate
+2018-04-20 02:58:37: Check Point: 8/15/2018 12:00:00 AM
+2018-04-20 02:58:37: Check Point: pImport.Currency
+2018-04-20 02:58:37: Check Point: 8/15/2018
+2018-04-20 02:58:37: Check Point: pImport.Amount
+2018-04-20 02:58:37: Check Point: 55877.5
+2018-04-20 02:58:37: Check Point: Particular
+2018-04-20 02:58:37: Check Point: Main Work
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: ExtendedAnalysis
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: 
+2018-04-20 02:58:37: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EE1', N'SGP00001/SC002001', N'1', N'S000024602', N'GJ', '20180616 00:00:00.000', N'GENERAL JOURNAL', N'TPAPLA06', N'PLA06Z00', N'SGP00001', N'SGP00001/SC002001', N'O', '20180616 00:00:00.000', '20180815 00:00:00.000', N'8/15/2018', N'C', N'55877.5', N'55877.5', N'1', N'0', N'Main Work' ) 
+2018-04-20 02:58:37: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2018-06-16 00:00:00',N'O',N'1',N'2018-06-16 00:00:00',N'55877.5',N'1',N'GENERAL JOURNAL',N'GJ',N'TPAPLA06',N'SGP00001/SC002001',N'EE1',N'S000024602',N'C',N'2018-08-15 00:00:00',N'55877.5',N'PLA06Z00',N'Main Work',N'SGP00001/SC002001',N'2018-08-15 00:00:00',N'SGP00001')
+2018-04-20 02:58:37: Check Point: Flex Connection: False
+2018-04-20 02:58:38: Check Point: Sub-Contact Payment Cert Import Posted Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'S%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2018-04-20 02:58:38: Check Point: Sub-Contact Payment Cert Import Posted Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'T%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2018-04-20 02:58:38: Check Point: Sub-Contact Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'S%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2018-04-20 02:58:38: Check Point: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'S%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+

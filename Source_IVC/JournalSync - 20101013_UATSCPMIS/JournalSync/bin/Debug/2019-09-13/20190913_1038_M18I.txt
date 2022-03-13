@@ -1,0 +1,210 @@
+2019-09-13 10:38:05: Check Point: Setup SAP Transaction
+2019-09-13 10:38:05: Check Point: Setup StartTransaction:False
+2019-09-13 10:38:05: Check Point: Start SAP Transaction
+2019-09-13 10:38:05: Check Point: Setup Flex Transaction
+2019-09-13 10:38:05: Check Point: Start Flex Transaction
+2019-09-13 10:38:05: Check Point: Supplier Payment Cert Detail Qeuery:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, INMPrice, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, StockSum, U_RefNum, U_FullDesc From [dbo].[DRF1]  WHERE 
+  (( DocEntry = '88654') 
+ AND ( ObjType = '18')) 
+
+ 
+2019-09-13 10:38:05: Check Point: JournalSync.Interface.Synchronization Start
+2019-09-13 10:38:05: Check Point: JournalSync.Interface.Synchronization End
+2019-09-13 10:38:05: Check Point: CompanyCode
+2019-09-13 10:38:05: Check Point: E51
+2019-09-13 10:38:05: Check Point: pImport.DocumentNo
+2019-09-13 10:38:05: Check Point: 19055B3H/00900100
+2019-09-13 10:38:05: Check Point: pImport.LineNo
+2019-09-13 10:38:05: Check Point: 2
+2019-09-13 10:38:05: Check Point: pImport.BatchID
+2019-09-13 10:38:05: Check Point: M000088654
+2019-09-13 10:38:05: Check Point: pImport.VoucherType
+2019-09-13 10:38:05: Check Point: GJ
+2019-09-13 10:38:05: Check Point:  pImport.VoucherDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.Description
+2019-09-13 10:38:05: Check Point: GENERAL JOURNAL
+2019-09-13 10:38:05: Check Point: pImport.AcctCode
+2019-09-13 10:38:05: Check Point: CA070000
+2019-09-13 10:38:05: Check Point: SUR01Z00
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 19055B3H
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 07P05000
+2019-09-13 10:38:05: Check Point: AnalysisCode1
+2019-09-13 10:38:05: Check Point: AnalysisCode2
+2019-09-13 10:38:05: Check Point: AnalysisCode3
+2019-09-13 10:38:05: Check Point: AnalysisCode4
+2019-09-13 10:38:05: Check Point: AnalysisCode5
+2019-09-13 10:38:05: Check Point: pImport.DocumentNo
+2019-09-13 10:38:05: Check Point: 19055B3H/00900100
+2019-09-13 10:38:05: Check Point: pImport.AltDocNumber
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: Length smaller or equal than 20 chars
+2019-09-13 10:38:05: Check Point: pImport.DocType
+2019-09-13 10:38:05: Check Point: O
+2019-09-13 10:38:05: Check Point: pImport.DocDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.DocDueDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.Currency
+2019-09-13 10:38:05: Check Point: HKD
+2019-09-13 10:38:05: Check Point: pImport.Amount
+2019-09-13 10:38:05: Check Point: 5455
+2019-09-13 10:38:05: Check Point: Particular
+2019-09-13 10:38:05: Check Point: Finishing tiles Finishing tiles
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: ExtendedAnalysis
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19055B3H/00900100', N'2', N'M000088654', N'GJ', '20190913 00:00:00.000', N'GENERAL JOURNAL', N'CA070000', N'SUR01Z00', N'19055B3H', N'07P05000', N'19055B3H/00900100', N'O', '20190913 00:00:00.000', '20190913 00:00:00.000', N'HKD', N'D', N'5455', N'5455', N'1', N'0', N'Finishing tiles Finishing tiles' ) 
+2019-09-13 10:38:05: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2019-09-13 00:00:00',N'Finishing tiles Finishing tiles',N'1',N'2',N'M000088654',N'5455',N'07P05000',N'GENERAL JOURNAL',N'GJ',N'CA070000',N'19055B3H/00900100',N'E51',N'O',N'D',N'2019-09-13 00:00:00',N'HKD',N'5455',N'SUR01Z00',N'19055B3H/00900100',N'2019-09-13 00:00:00',N'19055B3H')
+2019-09-13 10:38:05: Check Point: Flex Connection: False
+2019-09-13 10:38:05: Check Point: JournalSync.Interface.Synchronization Start
+2019-09-13 10:38:05: Check Point: JournalSync.Interface.Synchronization End
+2019-09-13 10:38:05: Check Point: CompanyCode
+2019-09-13 10:38:05: Check Point: E51
+2019-09-13 10:38:05: Check Point: pImport.DocumentNo
+2019-09-13 10:38:05: Check Point: 19055B3H/00900100
+2019-09-13 10:38:05: Check Point: pImport.LineNo
+2019-09-13 10:38:05: Check Point: 3
+2019-09-13 10:38:05: Check Point: pImport.BatchID
+2019-09-13 10:38:05: Check Point: M000088654
+2019-09-13 10:38:05: Check Point: pImport.VoucherType
+2019-09-13 10:38:05: Check Point: GJ
+2019-09-13 10:38:05: Check Point:  pImport.VoucherDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.Description
+2019-09-13 10:38:05: Check Point: GENERAL JOURNAL
+2019-09-13 10:38:05: Check Point: pImport.AcctCode
+2019-09-13 10:38:05: Check Point: CA070000
+2019-09-13 10:38:05: Check Point: SUR01Z00
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 19055B3H
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 07P05000
+2019-09-13 10:38:05: Check Point: AnalysisCode1
+2019-09-13 10:38:05: Check Point: AnalysisCode2
+2019-09-13 10:38:05: Check Point: AnalysisCode3
+2019-09-13 10:38:05: Check Point: AnalysisCode4
+2019-09-13 10:38:05: Check Point: AnalysisCode5
+2019-09-13 10:38:05: Check Point: pImport.DocumentNo
+2019-09-13 10:38:05: Check Point: 19055B3H/00900100
+2019-09-13 10:38:05: Check Point: pImport.AltDocNumber
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: Length smaller or equal than 20 chars
+2019-09-13 10:38:05: Check Point: pImport.DocType
+2019-09-13 10:38:05: Check Point: O
+2019-09-13 10:38:05: Check Point: pImport.DocDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.DocDueDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.Currency
+2019-09-13 10:38:05: Check Point: HKD
+2019-09-13 10:38:05: Check Point: pImport.Amount
+2019-09-13 10:38:05: Check Point: 776
+2019-09-13 10:38:05: Check Point: Particular
+2019-09-13 10:38:05: Check Point: Sanitary wares and fittings wash basin
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: ExtendedAnalysis
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_ANA_CDE5, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'E51', N'19055B3H/00900100', N'3', N'M000088654', N'GJ', '20190913 00:00:00.000', N'GENERAL JOURNAL', N'CA070000', N'SUR01Z00', N'19055B3H', N'07P05000', N'19055B3H/00900100', N'O', '20190913 00:00:00.000', '20190913 00:00:00.000', N'HKD', N'D', N'776', N'776', N'1', N'0', N'Sanitary wares and fittings wash basin' ) 
+2019-09-13 10:38:05: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DES1,PTVOU_EXC_RAT,PTVOU_LIN_NUM,PTVOU_BCH_ID,PTVOU_AMT_BAS,PTVOU_ANA_CDE5,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_DOC_TYP,PTVOU_D_C,PTVOU_DOC_DTE,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2019-09-13 00:00:00',N'Sanitary wares and fittings wash basin',N'1',N'3',N'M000088654',N'776',N'07P05000',N'GENERAL JOURNAL',N'GJ',N'CA070000',N'19055B3H/00900100',N'E51',N'O',N'D',N'2019-09-13 00:00:00',N'HKD',N'776',N'SUR01Z00',N'19055B3H/00900100',N'2019-09-13 00:00:00',N'19055B3H')
+2019-09-13 10:38:05: Check Point: Flex Connection: False
+2019-09-13 10:38:05: Check Point: CompanyCode
+2019-09-13 10:38:05: Check Point: E51
+2019-09-13 10:38:05: Check Point: pImport.DocumentNo
+2019-09-13 10:38:05: Check Point: 19055B3H/00900100
+2019-09-13 10:38:05: Check Point: pImport.LineNo
+2019-09-13 10:38:05: Check Point: 1
+2019-09-13 10:38:05: Check Point: pImport.BatchID
+2019-09-13 10:38:05: Check Point: M000088654
+2019-09-13 10:38:05: Check Point: pImport.VoucherType
+2019-09-13 10:38:05: Check Point: GJ
+2019-09-13 10:38:05: Check Point:  pImport.VoucherDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.Description
+2019-09-13 10:38:05: Check Point: GENERAL JOURNAL
+2019-09-13 10:38:05: Check Point: pImport.AcctCode
+2019-09-13 10:38:05: Check Point: TPASUR01
+2019-09-13 10:38:05: Check Point: SUR01Z00
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 19055B3H
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: AnalysisCode1
+2019-09-13 10:38:05: Check Point: AnalysisCode2
+2019-09-13 10:38:05: Check Point: AnalysisCode3
+2019-09-13 10:38:05: Check Point: AnalysisCode4
+2019-09-13 10:38:05: Check Point: AnalysisCode5
+2019-09-13 10:38:05: Check Point: pImport.DocumentNo
+2019-09-13 10:38:05: Check Point: 19055B3H/00900100
+2019-09-13 10:38:05: Check Point: pImport.AltDocNumber
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: pImport.DocType
+2019-09-13 10:38:05: Check Point: O
+2019-09-13 10:38:05: Check Point: pImport.DocDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.DocDueDate
+2019-09-13 10:38:05: Check Point: 9/13/2019 12:00:00 AM
+2019-09-13 10:38:05: Check Point: pImport.Currency
+2019-09-13 10:38:05: Check Point: HKD
+2019-09-13 10:38:05: Check Point: pImport.Amount
+2019-09-13 10:38:05: Check Point: 6231
+2019-09-13 10:38:05: Check Point: Particular
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: ExtendedAnalysis
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: 
+2019-09-13 10:38:05: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_DOC_DUE_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY ) Values ( N'E51', N'19055B3H/00900100', N'1', N'M000088654', N'GJ', '20190913 00:00:00.000', N'GENERAL JOURNAL', N'TPASUR01', N'SUR01Z00', N'19055B3H', N'19055B3H/00900100', N'O', '20190913 00:00:00.000', '20190913 00:00:00.000', N'HKD', N'C', N'6231', N'6231', N'1', N'0' ) 
+2019-09-13 10:38:05: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DOC_NUM,PTVOU_DOC_DUE_DTE,PTVOU_ANA_CDE3) VALUES (N'2019-09-13 00:00:00',N'O',N'1',N'2019-09-13 00:00:00',N'6231',N'1',N'GENERAL JOURNAL',N'GJ',N'TPASUR01',N'19055B3H/00900100',N'E51',N'M000088654',N'C',N'HKD',N'6231',N'SUR01Z00',N'19055B3H/00900100',N'2019-09-13 00:00:00',N'19055B3H')
+2019-09-13 10:38:05: Check Point: Flex Connection: False
+2019-09-13 10:38:05: Check Point: Supplier Payment Cert Export
+2019-09-13 10:38:12: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2019-09-13 10:38:12: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2019-09-13 10:38:12: Check Point: Supplier Payment Cert, Import_Reject SQL Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2019-09-13 10:38:12: Check Point: Export Log To Text Files

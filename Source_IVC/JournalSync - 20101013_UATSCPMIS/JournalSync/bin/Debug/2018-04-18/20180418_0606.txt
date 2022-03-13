@@ -1,0 +1,2 @@
+2018-04-18 06:06:27: Check Point: Sub Main
+2018-04-18 06:06:32: Check Point: Company DB: PAY800

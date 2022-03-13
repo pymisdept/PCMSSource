@@ -1,0 +1,72 @@
+*******************************************************************
+Job name: A/P Credit Memo with Approval Procedure Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2017-02-21 17:33:56Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.1.13
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Credit Memo in SAP System.
+
+2017-02-21 17:33:56Z: Process Record: [69233], Failure
+2017-02-21 17:33:56Z: Process Record: [69235], Failure
+2017-02-21 17:33:56Z: Process Record: [R000069237], Exception
+
+[POSTED] -----------------------------------------
+
+
+Failure Record:
+-------------------------------------------------------------------
+Process Record: [69233]
+Error Reason: 
+One of the base documents has already been closed  [RPC1.BaseEntry][line: 1]
+Process Record: [69235]
+Error Reason: 
+One of the base documents has already been closed  [RPC1.BaseEntry][line: 1]
+-------------------------------------------------------------------
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [R000069237]
+Exception Detail: 
+
+System Operation - Process Exception
+System Check Point: PRS0001
+System Error code: 
+System Error message: 
+
+Detail Description: --------------------
+
+[SQLs Server] Unable to Process query (Insert Query)
+******************************************
+ Insert Into [dbo].[CPSFIN] ( COM_CDE, REF_NUM, LIN_NUM, REVTRANS, DOCENTRY, BCH_ID, VOU_TYP, VOU_DTE, DES, ACC_CDE, ANA_CDE1, ANA_CDE2, ANA_CDE3, ANA_CDE4, ANA_CDE5, DOC_NUM, ALT_DOC_NUM, DOC_TYP, DOC_DTE, DOC_DUE_DTE, CCY_CDE, AMT, EXC_RAT, AMT_BAS, D_C, DOC_PAY_TRM, QTY, UNI, DES1, DES2, ANA_CDE01, ANA_CDE02, ANA_CDE03, ANA_CDE04, ANA_CDE05, ANA_CDE06, ANA_CDE07, ANA_CDE08, ANA_CDE09, ANA_CDE10, RMK, FLX_BCH_ID, FLX_VOU_NUM, FLX_STA, FLX_UPD_DTE ) Values ( N'H91', N'08026CBH/10301Z00003', N'1', N'N', N'0', N'R000069237', N'GJ', '20160714 00:00:00.000', N'GENERAL JOURNAL', N'TPA10301', N'', N'', N'', N'', N'', N'08026CBH/10301Z00003', N'', N'O', '20160714 00:00:00.000', '20160714 00:00:00.000', N'HKD', N'8233.00', N'1.000000', N'8233.00', N'D', N'', N'0.00', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'', N'QB', N'GJB6040010', N'P', '20160714 00:00:00.000' ) 
+******************************************
+Error Description:
+System.Runtime.InteropServices.COMException (0xFFFFF830): 1). [Microsoft][SQL Native Client][SQL Server]Violation of PRIMARY KEY constraint 'PK_CPSFIN'. Cannot insert duplicate key in object 'dbo.CPSFIN'.
+2). [Microsoft][SQL Native Client][SQL Server]The statement has been terminated.
+
+   at SAPbobsCOM.IRecordset.DoQuery(String QueryStr)
+   at CPS.SQL.Interface.RecordSet.Process(Status pStatus)
+******************************************
+----------------------------------------
+-------------------------------------------------------------------
+
+No of records process: 3
+No of records success: 0
+No of records skip: 1
+No of records fail: 2
+
+End Time: 2017-02-21 17:33:56Z
+Job Complete [Failure]
+*******************************************************************
+

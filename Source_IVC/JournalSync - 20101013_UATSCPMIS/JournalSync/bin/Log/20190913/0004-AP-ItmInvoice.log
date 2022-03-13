@@ -1,0 +1,64 @@
+*******************************************************************
+Job name: A/P Item Invoice with Approval Procedure Synchronization (Fiex & SAP)
+Argument: Server Batch Job
+Start Time: 2019-09-13 16:16:45Z
+Login to SAP Success, The following is the login information:
+-------------------------------------------------------------------
+SAP Database: PAY800
+Login Server: 10.1.52.126
+Login User  : manager
+-------------------------------------------------------------------
+
+
+[EXPORT] Export Data To Flex Environment.
+
+
+[EXPORT] --------------------------------
+
+
+[POSTED] Create New A/P Item Invoice in SAP System.
+
+2019-09-13 16:16:45Z: Process Record: [M000088653], Exception
+
+[POSTED] -----------------------------------------
+
+
+[ERROR] Reject the document draft from backend table in SAP.
+
+
+[ERROR] ----------------------------------------------------
+
+
+[REJECT] Reject the document draft from backend table in SAP.
+
+
+[REJECT] ----------------------------------------------------
+
+
+[DELETE] Batch Delete Accepted Document by Flex
+
+
+[DELETE] --------------------------------------------------
+
+
+
+Exception Skip Record:
+-------------------------------------------------------------------
+Process Record: [M000088653]
+Exception Detail: 
+System.Runtime.InteropServices.COMException (0xFFFFFC14): 'A' is not a valid value for property 'U_CertStatus'. The valid values are: 'S' - 'Submit',  'R' - 'Reject',  'P' - 'Pending'
+   at SAPbobsCOM.FieldClass.set_Value(Object pVal)
+   at JournalSync.Interface.Synchronization.setDraftToAPDocument(Int32 pDocEntry) in F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\Synchronization\Interface\Synchronization.vb:line 881
+   at JournalSync.SyncMainClass.A_ItmInvoice.CreateDocument(String oBatchID) in F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase 1\Supplier Payment Certificate Data (Approval).vb:line 1000
+   at JournalSync.SyncMainClass.A_ItmInvoice.Import_Posted() in F:\ProgramSource\Source_IVC\JournalSync - 20101013\JournalSync\Synchronization\Process Class\Phase 1\Supplier Payment Certificate Data (Approval).vb:line 710
+-------------------------------------------------------------------
+
+No of records process: 1
+No of records success: 0
+No of records skip: 1
+No of records fail: 0
+
+End Time: 2019-09-13 16:16:45Z
+Job Complete [Failure]
+*******************************************************************
+

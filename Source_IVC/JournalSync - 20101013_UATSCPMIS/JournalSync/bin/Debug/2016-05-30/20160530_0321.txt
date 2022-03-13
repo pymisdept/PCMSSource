@@ -1,0 +1,67 @@
+2016-05-30 03:21:40: Check Point: Sub Main
+2016-05-30 03:21:44: Check Point: Company DB: PAY800
+2016-05-30 03:21:44: Check Point: Supplier Payment Cert Header Qeuery:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, WddStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_MRNo From [dbo].[ODRF]  WHERE 
+  ( ObjType = '18') 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           ODRF.DocEntry = [CPSFSP].DocEntry And 	
+	           CPSFSP.ObjType  = '112' And	
+	           ODRF.ObjType  = '18'	And 
+	           ODRF.DocStatus = 'O'	And 
+	           [CPSFSP].ReasonCode='M112' 
+	)	
+   And   
+	Exists(Select 1 From [PAY800].[dbo].[OWDD] 	 
+	       Where	 
+	       [ODRF].DocEntry = [OWDD].[DocEntry] And	 
+	       [OWDD].[Status] = 'W'	 
+	)	 
+
+ 
+2016-05-30 03:21:44: Check Point: Supplier Payment Cert, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2016-05-30 03:21:44: Check Point: Setup SAP Transaction
+2016-05-30 03:21:44: Check Point: Setup StartTransaction:False
+2016-05-30 03:21:44: Check Point: Start SAP Transaction
+2016-05-30 03:21:44: Check Point: Setup Flex Transaction
+2016-05-30 03:21:44: Check Point: Start Flex Transaction
+2016-05-30 03:21:45: Check Point: setDraftToAPDocument: 69215
+2016-05-30 03:21:45: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\c37f2130-7ce1-4c76-80a4-28d2fac6b2fc.xml
+2016-05-30 03:21:45: Check Point: Validate Quantity
+2016-05-30 03:21:45: Check Point: setDraftToAPDocument: Failure
+2016-05-30 03:21:45: Check Point: Setup SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup StartTransaction:False
+2016-05-30 03:21:45: Check Point: Start SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup Flex Transaction
+2016-05-30 03:21:45: Check Point: Start Flex Transaction
+2016-05-30 03:21:45: Check Point: setDraftToAPDocument: 69216
+2016-05-30 03:21:45: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\94a92c4d-afc5-47fb-b384-a5c2e01faac6.xml
+2016-05-30 03:21:45: Check Point: Validate Quantity
+2016-05-30 03:21:45: Check Point: setDraftToAPDocument: Failure
+2016-05-30 03:21:45: Check Point: Setup SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup StartTransaction:False
+2016-05-30 03:21:45: Check Point: Start SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup Flex Transaction
+2016-05-30 03:21:45: Check Point: Start Flex Transaction
+2016-05-30 03:21:45: Check Point: Setup SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup StartTransaction:False
+2016-05-30 03:21:45: Check Point: Start SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup Flex Transaction
+2016-05-30 03:21:45: Check Point: Start Flex Transaction
+2016-05-30 03:21:45: Check Point: Setup SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup StartTransaction:False
+2016-05-30 03:21:45: Check Point: Start SAP Transaction
+2016-05-30 03:21:45: Check Point: Setup Flex Transaction
+2016-05-30 03:21:45: Check Point: Start Flex Transaction
+2016-05-30 03:21:45: Check Point: setDraftToAPDocument: 69220
+2016-05-30 03:21:45: Check Point: SaveXML Path: D:\Source\JournalSync - 20101013\JournalSync\bin\TEMP\3c539446-305b-4da5-828b-22a048dcdd68.xml
+2016-05-30 03:21:46: Check Point: Validate Quantity
+2016-05-30 03:21:47: Check Point: setDraftToAPDocument: Success
+2016-05-30 03:21:47: Check Point: NewObjKey: 43288
+2016-05-30 03:21:47: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '69220', WddStatus = 'P' Where DocEntry = '43288'
+2016-05-30 03:21:51: Check Point: Export Log To Text Files

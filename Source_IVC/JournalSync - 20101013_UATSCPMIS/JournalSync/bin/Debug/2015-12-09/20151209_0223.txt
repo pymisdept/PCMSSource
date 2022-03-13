@@ -1,0 +1,145 @@
+2015-12-09 02:23:13: Check Point: Payment Cert Export Query:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, StockSum, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, U_RefNum From [dbo].[CPS_VIEW_FLEXC]  WHERE 
+  (( DocEntry = '1830') 
+ AND ( ObjType = '13')) 
+
+ 
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: DocEntry
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: DocCur
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: U_SubsiCode
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: TaxDate
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: AcctCode
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: CardCode
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: Project
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: U_PCMSDocNum
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: TaxDate
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: DocDueDate
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: U_RefCardCode
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: LineTotal
+2015-12-09 02:23:13: Check Point: AR Invoice: Fields: DiscPrcnt
+2015-12-09 02:23:13: Check Point: DocTotal: 20
+2015-12-09 02:23:13: Check Point: oDisPercent: 0
+2015-12-09 02:23:13: Check Point: TotalBefDis: 20
+2015-12-09 02:23:13: Check Point: JournalSync.Interface.Synchronization Start
+2015-12-09 02:23:13: Check Point: JournalSync.Interface.Synchronization End
+2015-12-09 02:23:13: Check Point: CompanyCode
+2015-12-09 02:23:13: Check Point: EC1
+2015-12-09 02:23:13: Check Point: pImport.DocumentNo
+2015-12-09 02:23:13: Check Point: 94004I1H/JES01Z00001
+2015-12-09 02:23:13: Check Point: pImport.LineNo
+2015-12-09 02:23:13: Check Point: 2
+2015-12-09 02:23:13: Check Point: pImport.BatchID
+2015-12-09 02:23:13: Check Point: C000001830
+2015-12-09 02:23:13: Check Point: pImport.VoucherType
+2015-12-09 02:23:13: Check Point: GJ
+2015-12-09 02:23:13: Check Point:  pImport.VoucherDate
+2015-12-09 02:23:13: Check Point: 12/10/2015 12:00:00 AM
+2015-12-09 02:23:13: Check Point: pImport.Description
+2015-12-09 02:23:13: Check Point: GENERAL JOURNAL
+2015-12-09 02:23:13: Check Point: pImport.AcctCode
+2015-12-09 02:23:13: Check Point: CR010000
+2015-12-09 02:23:13: Check Point: JES01Z00
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 94004I1H
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: AnalysisCode1
+2015-12-09 02:23:13: Check Point: AnalysisCode2
+2015-12-09 02:23:13: Check Point: AnalysisCode3
+2015-12-09 02:23:13: Check Point: AnalysisCode4
+2015-12-09 02:23:13: Check Point: AnalysisCode5
+2015-12-09 02:23:13: Check Point: pImport.DocumentNo
+2015-12-09 02:23:13: Check Point: 94004I1H/JES01Z00001
+2015-12-09 02:23:13: Check Point: pImport.AltDocNumber
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: pImport.DocType
+2015-12-09 02:23:13: Check Point: O
+2015-12-09 02:23:13: Check Point: pImport.DocDate
+2015-12-09 02:23:13: Check Point: 12/10/2015 12:00:00 AM
+2015-12-09 02:23:13: Check Point: pImport.DocDueDate
+2015-12-09 02:23:13: Check Point: 1/1/0001 12:00:00 AM
+2015-12-09 02:23:13: Check Point: pImport.Currency
+2015-12-09 02:23:13: Check Point: HKD
+2015-12-09 02:23:13: Check Point: pImport.Amount
+2015-12-09 02:23:13: Check Point: 20
+2015-12-09 02:23:13: Check Point: Particular
+2015-12-09 02:23:13: Check Point: JES01Z00C 94004I1H/JES01Z00/001
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: ExtendedAnalysis
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: 
+2015-12-09 02:23:13: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EC1', N'94004I1H/JES01Z00001', N'2', N'C000001830', N'GJ', '20151210 00:00:00.000', N'GENERAL JOURNAL', N'CR010000', N'JES01Z00', N'94004I1H', N'94004I1H/JES01Z00001', N'O', '20151210 00:00:00.000', N'HKD', N'C', N'20', N'20', N'1', N'0', N'JES01Z00C 94004I1H/JES01Z00/001' ) 
+2015-12-09 02:23:13: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2015-12-10 00:00:00',N'O',N'2',N'2015-12-10 00:00:00',N'20',N'1',N'GENERAL JOURNAL',N'GJ',N'CR010000',N'94004I1H/JES01Z00001',N'EC1',N'C000001830',N'C',N'HKD',N'20',N'JES01Z00',N'JES01Z00C 94004I1H/JES01Z00/001',N'94004I1H/JES01Z00001',N'94004I1H')
+2015-12-09 02:23:13: Check Point: Flex Connection: False
+2015-12-09 02:23:13: Check Point: DebtorResult Local Currency: HKD
+2015-12-09 02:23:13: Check Point: DebtorResult Doc Currency: HKD
+2015-12-09 02:23:13: Check Point: DebtorResult DocTotal: 20
+2015-12-09 02:23:13: Check Point: DebtorResult DocTotalFC: 20
+2015-12-09 02:23:13: Check Point: DebtorResult DisPercent: 0
+2015-12-09 02:23:13: Check Point: DebtorResult DocRate: 1
+2015-12-09 02:23:13: Check Point: fDebitor.TotalBefDis: 20
+2015-12-09 02:23:13: Check Point: fDebitor.EquvAmount: 20
+2015-12-09 02:23:15: Check Point: CompanyCode
+2015-12-09 02:23:15: Check Point: EC1
+2015-12-09 02:23:15: Check Point: pImport.DocumentNo
+2015-12-09 02:23:15: Check Point: 94004I1H/JES01Z00001
+2015-12-09 02:23:15: Check Point: pImport.LineNo
+2015-12-09 02:23:15: Check Point: 1
+2015-12-09 02:23:15: Check Point: pImport.BatchID
+2015-12-09 02:23:15: Check Point: C000001830
+2015-12-09 02:23:15: Check Point: pImport.VoucherType
+2015-12-09 02:23:15: Check Point: GJ
+2015-12-09 02:23:15: Check Point:  pImport.VoucherDate
+2015-12-09 02:23:15: Check Point: 12/10/2015 12:00:00 AM
+2015-12-09 02:23:15: Check Point: pImport.Description
+2015-12-09 02:23:15: Check Point: GENERAL JOURNAL
+2015-12-09 02:23:15: Check Point: pImport.AcctCode
+2015-12-09 02:23:15: Check Point: TRCJES01
+2015-12-09 02:23:15: Check Point: JES01Z00
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 94004I1H
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: AnalysisCode1
+2015-12-09 02:23:15: Check Point: AnalysisCode2
+2015-12-09 02:23:15: Check Point: AnalysisCode3
+2015-12-09 02:23:15: Check Point: AnalysisCode4
+2015-12-09 02:23:15: Check Point: AnalysisCode5
+2015-12-09 02:23:15: Check Point: pImport.DocumentNo
+2015-12-09 02:23:15: Check Point: 94004I1H/JES01Z00001
+2015-12-09 02:23:15: Check Point: pImport.AltDocNumber
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: pImport.DocType
+2015-12-09 02:23:15: Check Point: O
+2015-12-09 02:23:15: Check Point: pImport.DocDate
+2015-12-09 02:23:15: Check Point: 12/10/2015 12:00:00 AM
+2015-12-09 02:23:15: Check Point: pImport.DocDueDate
+2015-12-09 02:23:15: Check Point: 1/1/0001 12:00:00 AM
+2015-12-09 02:23:15: Check Point: pImport.Currency
+2015-12-09 02:23:15: Check Point: HKD
+2015-12-09 02:23:15: Check Point: pImport.Amount
+2015-12-09 02:23:15: Check Point: 20
+2015-12-09 02:23:15: Check Point: Particular
+2015-12-09 02:23:15: Check Point: JES01Z00C 94004I1H/JES01Z00/001
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: ExtendedAnalysis
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: 
+2015-12-09 02:23:15: Check Point: Insert Query:  Insert Into [COM].[dbo].[PTVOU] ( PTVOU_COM_CDE, PTVOU_REF_NUM, PTVOU_LIN_NUM, PTVOU_BCH_ID, PTVOU_VOU_TYP, PTVOU_VOU_DTE, PTVOU_DES, PTVOU_ACC_CDE, PTVOU_ANA_CDE1, PTVOU_ANA_CDE3, PTVOU_DOC_NUM, PTVOU_DOC_TYP, PTVOU_DOC_DTE, PTVOU_CCY_CDE, PTVOU_D_C, PTVOU_AMT, PTVOU_AMT_BAS, PTVOU_EXC_RAT, PTVOU_QTY, PTVOU_DES1 ) Values ( N'EC1', N'94004I1H/JES01Z00001', N'1', N'C000001830', N'GJ', '20151210 00:00:00.000', N'GENERAL JOURNAL', N'TRCJES01', N'JES01Z00', N'94004I1H', N'94004I1H/JES01Z00001', N'O', '20151210 00:00:00.000', N'HKD', N'D', N'20', N'20', N'1', N'0', N'JES01Z00C 94004I1H/JES01Z00/001' ) 
+2015-12-09 02:23:15: Check Point: Manual Insert Query: INSERT INTO [COM].dbo.[PTVOU] (PTVOU_VOU_DTE,PTVOU_DOC_TYP,PTVOU_LIN_NUM,PTVOU_DOC_DTE,PTVOU_AMT_BAS,PTVOU_EXC_RAT,PTVOU_DES,PTVOU_VOU_TYP,PTVOU_ACC_CDE,PTVOU_REF_NUM,PTVOU_COM_CDE,PTVOU_BCH_ID,PTVOU_D_C,PTVOU_CCY_CDE,PTVOU_AMT,PTVOU_ANA_CDE1,PTVOU_DES1,PTVOU_DOC_NUM,PTVOU_ANA_CDE3) VALUES (N'2015-12-10 00:00:00',N'O',N'1',N'2015-12-10 00:00:00',N'20',N'1',N'GENERAL JOURNAL',N'GJ',N'TRCJES01',N'94004I1H/JES01Z00001',N'EC1',N'C000001830',N'D',N'HKD',N'20',N'JES01Z00',N'JES01Z00C 94004I1H/JES01Z00/001',N'94004I1H/JES01Z00001',N'94004I1H')
+2015-12-09 02:23:15: Check Point: Flex Connection: False

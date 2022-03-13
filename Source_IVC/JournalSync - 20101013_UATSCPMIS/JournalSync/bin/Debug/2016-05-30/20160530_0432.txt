@@ -1,0 +1,1222 @@
+2016-05-30 04:32:37: Check Point: Sub Main
+2016-05-30 04:32:45: Check Point: Company DB: PAY800
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:52: Check Point: Setup SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:52: Check Point: Start SAP Transaction
+2016-05-30 04:32:52: Check Point: Setup Flex Transaction
+2016-05-30 04:32:52: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:53: Check Point: Setup SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:53: Check Point: Start SAP Transaction
+2016-05-30 04:32:53: Check Point: Setup Flex Transaction
+2016-05-30 04:32:53: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:54: Check Point: Setup SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:54: Check Point: Start SAP Transaction
+2016-05-30 04:32:54: Check Point: Setup Flex Transaction
+2016-05-30 04:32:54: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:55: Check Point: Setup SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:55: Check Point: Start SAP Transaction
+2016-05-30 04:32:55: Check Point: Setup Flex Transaction
+2016-05-30 04:32:55: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:56: Check Point: Setup SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:56: Check Point: Start SAP Transaction
+2016-05-30 04:32:56: Check Point: Setup Flex Transaction
+2016-05-30 04:32:56: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:57: Check Point: Setup SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:57: Check Point: Start SAP Transaction
+2016-05-30 04:32:57: Check Point: Setup Flex Transaction
+2016-05-30 04:32:57: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:58: Check Point: Setup SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:58: Check Point: Start SAP Transaction
+2016-05-30 04:32:58: Check Point: Setup Flex Transaction
+2016-05-30 04:32:58: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction
+2016-05-30 04:32:59: Check Point: Setup SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup StartTransaction:False
+2016-05-30 04:32:59: Check Point: Start SAP Transaction
+2016-05-30 04:32:59: Check Point: Setup Flex Transaction
+2016-05-30 04:32:59: Check Point: Start Flex Transaction

@@ -1,0 +1,69 @@
+2018-11-02 10:15:06: Check Point: Company DB: PAY800
+2018-11-02 10:15:06: Check Point: Client Payment Cert Header:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_RevFlag, U_GSTPrcnt, U_AppGST, U_CumGST, U_CertNo From [dbo].[PRE_OINV]  WHERE 
+  (( ObjType = '13') 
+ AND ( DocType = 'S')) 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           PRE_OINV.DocEntry = [CPSFSP].DocEntry And 	
+	           PRE_OINV.ObjType  = [CPSFSP].ObjType	
+	)	
+	AND PRE_OINV.DocStatus  = 'O'
+
+
+2018-11-02 10:15:06: Check Point: Setup SAP Transaction
+2018-11-02 10:15:06: Check Point: Setup StartTransaction:False
+2018-11-02 10:15:06: Check Point: Start SAP Transaction
+2018-11-02 10:15:06: Check Point: Setup Flex Transaction
+2018-11-02 10:15:06: Check Point: Start Flex Transaction
+2018-11-02 10:15:06: Check Point: Payment Cert Export Query:  Select DocEntry, ObjType, LineNum, AcctCode, ItemCode, Dscription, Project, Currency, Rate, DiscPrcnt, LineTotal, TotalSumSy, TotalFrgn, ShipDate, StockSum, BaseEntry, BaseType, BaseLine, Quantity, PriceBefDi, U_Size, U_Packing, U_Color, U_Brand, U_Model, U_SupInvNum, U_QuoteNum, U_SourceType, U_SourceLine, U_DestType, U_UOM, U_PCMSDocNum, U_BillNum, U_SecNum, U_SubSecNum, U_PageNum, U_Quantity, U_Price, U_ItemType, U_MCBillNum, U_MCSecNum, U_MCSubSecNum, U_MCPageNum, U_PriceType, U_AppMethod, U_LineType, U_MCLineNum, U_OpenPrcnt, U_ContraFlag, U_RecoverFlag, U_RecoverStatus, U_SubLineNum, U_MCSubLineNum, U_ClientRef, U_SourceEntry, U_DestEntry, U_IncomeCode, U_IPCode, U_BillLineNum, U_BillSubLineNum, U_RefCardCode, U_RefNum From [dbo].[CPS_VIEW_FLEXC]  WHERE 
+  (( DocEntry = '3280') 
+ AND ( ObjType = '13')) 
+
+ 
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: DocEntry
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: DocCur
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: U_SubsiCode
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: TaxDate
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: AcctCode
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: CardCode
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: Project
+2018-11-02 10:15:06: Check Point: AR Invoice: Fields: U_PCMSDocNum
+2018-11-02 10:15:15: Check Point: AR Invoice: Fields: TaxDate
+2018-11-02 10:15:15: Check Point: AR Invoice: Fields: DocDueDate
+2018-11-02 10:15:15: Check Point: AR Invoice: Fields: U_RefCardCode
+2018-11-02 10:15:15: Check Point: AR Invoice: Fields: LineTotal
+2018-11-02 10:15:15: Check Point: AR Invoice: Fields: DocRate
+2018-11-02 10:15:15: Check Point: AR Invoice: Fields: DiscPrcnt
+2018-11-02 10:15:15: Check Point: DocTotal: 5176153
+2018-11-02 10:15:15: Check Point: oDisPercent: 0
+2018-11-02 10:15:15: Check Point: TotalBefDis: 5176153
+2018-11-02 10:15:15: Check Point: JournalSync.Interface.Synchronization Start
+2018-11-02 10:15:15: Check Point: JournalSync.Interface.Synchronization End
+2018-11-02 10:15:15: Check Point: CompanyCode
+2018-11-02 10:15:15: Check Point: E31
+2018-11-02 10:15:15: Check Point: pImport.DocumentNo
+2018-11-02 10:15:15: Check Point: 19042B1H/046
+2018-11-02 10:15:15: Check Point: pImport.LineNo
+2018-11-02 10:15:15: Check Point: 2
+2018-11-02 10:15:15: Check Point: pImport.BatchID
+2018-11-02 10:15:15: Check Point: C000003280
+2018-11-02 10:15:15: Check Point: pImport.VoucherType
+2018-11-02 10:15:15: Check Point: GJ
+2018-11-02 10:15:15: Check Point:  pImport.VoucherDate
+2018-11-02 10:15:15: Check Point: 10/5/2018 12:00:00 AM
+2018-11-02 10:15:15: Check Point: pImport.Description
+2018-11-02 10:15:15: Check Point: GENERAL JOURNAL
+2018-11-02 10:15:15: Check Point: pImport.AcctCode
+2018-11-02 10:15:15: Check Point: CR010000
+2018-11-02 10:15:15: Check Point: HOU04Z00
+2018-11-02 10:15:15: Check Point: 
+2018-11-02 10:15:15: Check Point: 19042B1H
+2018-11-02 10:15:15: Check Point: 
+2018-11-02 10:15:15: Check Point: 
+2018-11-02 10:15:15: Check Point: AnalysisCode1
+2018-11-02 10:15:15: Check Point: AnalysisCode2
+2018-11-02 10:15:15: Check Point: AnalysisCode3
+2018-11-02 10:15:15: Check Point: AnalysisCode4
+2018-11-02 10:15:15: Check Point: AnalysisCode5
+2018-11-02 10:15:15: Check Point: pImport.DocumentNo
+2018-11-02 10:15:15: Check Point: 19042B1H/046

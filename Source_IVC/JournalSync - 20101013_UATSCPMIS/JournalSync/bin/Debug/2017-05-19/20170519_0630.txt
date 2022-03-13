@@ -1,0 +1,60 @@
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028195'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : SIT10025/SC006/002
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10025/SC006/002' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028198'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : SIT10025/SC006/003
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10025/SC006/003' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028204'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : SIT10088/SC005/002
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10088/SC005/002' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028208'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : 14011B3H/SC001/002
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '14011B3H/SC001/002' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028215'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : SIT10039/SC001/001
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10039/SC001/001' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028218'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : SIT10066/SC005/001
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10066/SC005/001' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028221'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : SIT10066/SC005/002
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10066/SC005/002' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028223'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : SIT10066/SC005/002
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = 'SIT10066/SC005/002' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Payment Cert Query CPSFIN Query: Select * From [COM].[dbo].[PIVOU] Where  PIVOU_BCH_ID = 'T000028231'
+2017-05-19 06:30:00: Check Point: SubCon-Temp-1
+2017-05-19 06:30:00: Check Point: SubCon-Temp-2 : 10001UAT/SC002/001
+2017-05-19 06:30:00: Check Point: SubCon-Test1 : select ISNULL(DocEntry, 0) as DocEntry, ISNULL(Rev_DocEntry,0) as Rev_DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty where DocNum = '10001UAT/SC002/001' and DocStatus = 'PPFA'
+2017-05-19 06:30:00: Check Point: SubCon-Test2 : 0
+2017-05-19 06:30:00: Check Point: Sub-Contact Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'S%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2017-05-19 06:30:00: Check Point: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'S%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+

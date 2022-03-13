@@ -1,0 +1,3 @@
+2022-01-12 18:39:06: Check Point: Sub Main
+2022-01-12 18:39:06: Check Point: E:\SAP\PCMS800\FlexSync\Log
+2022-01-12 18:39:09: Check Point: Company DB: PAY800
