@@ -1,0 +1,133 @@
+.sgvContainer 
+{
+	font-family: Tohama,Verdana,Arial;
+	width: 100%;
+	height:50%;
+	overflow:auto;
+	border:0px;
+	vertical-align:top;	
+	scrollbar-face-color:#ecf1f5;
+	scrollbar-highlight-color:#FFFFFF;
+	scrollbar-shadow-color:#B6B6B6;
+	scrollbar-3dlight-color:#B6B6B6;
+	scrollbar-arrow-color:#30404f;
+	scrollbar-track-color:#F4F4F4;
+	scrollbar-darkshadow-color :#FFFFFF;
+}
+.sgvTable {
+    font-family:Tohama,Verdana,Arial;
+	background-color: #FFFFFF;	
+	border-color: #CCCCCC;
+ }
+.sgvHeaderRow
+{
+	POSITION:relative;
+    TOP: expression(this.offsetParent.scrollTop-1);    
+  }
+.sgvNoPagerHeaderRow
+{
+	background-color:#dddddd;
+}
+.sgvHeaderCell
+{
+	background-color: #dddddd;
+	height: 25px;	
+	font-weight: normal;	
+    cursor:pointer; 
+	border: solid 1px #999999;
+	text-align:left;
+	padding-left:3px;
+	
+  }
+.sgvHeaderCell a {
+    text-decoration: none;
+    color: Black;
+    width:100%;
+  }
+.sgvHeaderCell a:hover {
+  }
+.sgvHeaderCell a:visited {
+  }
+.sgvHeaderCell a:active {
+  }
+.sgvDataRow 
+{
+}
+.sgvDataCell 
+{
+    border-color:#999999; 
+    border-style:Solid; 
+    border-width:1px; 
+    border-left-width:1px; 
+    border-top-width:0px; 
+    padding-left:3px;
+    cursor: default;
+    height:20px;     
+    
+ }
+.sgvDataRowSelected 
+{
+	/*background-color: #e1edf8;*/
+	background-color: #FFFFBE;
+}
+.sgvSortIndicator 
+{
+	font-family: Webdings;
+	font-size: 10pt;	
+}
+.sgvPagerContainer 
+{	
+	background-color: #eeeeee;	
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+	height: 20px;
+}
+.sgvPagerSymbol
+{
+	font-family: Webdings;
+	font-size: 10pt;
+	margin-left: 1px;
+	margin-right: 1px;
+	text-decoration: none;
+	color: Black;
+}
+.sgvPagerGoto 
+{
+	font-size: 8pt;
+}
+.sgvEmptyRow 
+{
+	height: 100%;
+	text-align: center;
+}
+.sgvCheckBoxHeaderCell 
+{
+	width: 26px;
+	text-align: center;
+	vertical-align: middle;
+}
+.sgvCheckBoxDataCell
+{
+	width: 26px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.BottomHeader
+{
+	height:25px;	
+	width:100%;
+	background-color:#999999;
+		
+}
+
+.sgvGrayHeaderRow
+{
+	background-color:#999999;
+}
+
+.DialogForm
+{
+	height: 100px;
+}

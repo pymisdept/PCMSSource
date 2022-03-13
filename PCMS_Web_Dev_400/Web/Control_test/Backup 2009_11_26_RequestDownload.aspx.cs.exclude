@@ -1,0 +1,162 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.IO;
+using PCCore;
+using SimpleControls.Web;
+using SimpleControls.SimpleDatabase;
+using System.Data.SqlClient;
+using System.Data.Common;
+using SimpleControls;
+
+/// <summary>
+/// DownloadTemplate: Procedure of receive excel template from PCMS
+/// </summary>
+public partial class RequestDownload : BasePage
+{
+
+    protected override void OnInit(EventArgs e)
+    {
+        ShowWebMenu = false;
+        
+        base.OnInit(e);
+    }
+
+    // Request Parameter Mandatory
+    string FunctionID = "";
+    string FunctionCode = "";
+    string ProjectCode = "";
+    // Request Parameter Optional
+    string CertType = "";
+    string SubContractor = "";
+    string SubContract = "";
+    string PANum = "";
+    string InputType = "";
+    string MRNO = "";
+    string VendorCode = "";
+    
+    // Template Info
+    string StrPath = "";
+    string StrFileName = "";
+    string FullName = "";
+    string _strParameter;
+    string strParameter = "";
+    Hashtable _htParameter;
+    
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        StrPath = Resources.TemplateInfo.TEMPLATEPATH;
+        
+        
+        if (!Page.IsPostBack)
+        {
+            /*********************************************************/
+            /*get request download paramater from [MasterForm.master]*/
+            /*********************************************************/
+            if (Page.Request.QueryString != null && Page.Request.QueryString.Count > 0)
+            {
+                FunctionCode = Page.Request.QueryString["FunctionCode"] as string;
+                FunctionID = Page.Request.QueryString["FunctionID"] as string;
+                ProjectCode = Page.Request.QueryString["PrjCode"] as string;
+
+                CertType = Page.Request.QueryString["CertType"] as string; 
+                SubContractor = Page.Request.QueryString["SubContractor"] as string;
+                SubContract = Page.Request.QueryString["SubContractNo"] as string;
+                PANum = Page.Request.QueryString["PA"] as string;
+                MRNO = Page.Request.QueryString["MRNO"] as string;
+                VendorCode = Page.Request.QueryString["Vendor"] as string;
+                InputType = Page.Request.QueryString["InputType"] as string; 
+
+                //if (FunctionCode != "PUI05")
+                //    StrFileName = GetGlobalResourceObject("TemplateInfo", FunctionCode + "_Template").ToString();
+                //else
+                //{
+                //    try
+                //    {
+                //        string s_filename = Resources.TemplateInfo.PUI05_Template;
+                //        string s_file = s_filename.Substring(0, s_filename.LastIndexOf("."));
+                //        string s_extend = s_filename.Substring(s_filename.LastIndexOf("."));
+                //        StrFileName = s_file + "_" + extend.Trim() + s_extend.Trim();
+                //    }
+                //    catch (Exception ex)
+                //    {
+                //        throw ex;
+                //    }
+                //}
+
+                /*********************************************************/
+                /*prepare request download paramater to [DlnRequest.cs]  */
+                /*********************************************************/
+                if (FunctionID != "" && ProjectCode != "" && FunctionID != "")
+                {
+                    _htParameter = new Hashtable();
+                    _htParameter.Add("PrjCode", ProjectCode);
+                    _htParameter.Add("FunctionCode", FunctionCode.ToUpper());
+                    _htParameter.Add("FunctionID", FunctionID);
+
+                   
+
+                    if (CertType != null && CertType !=String.Empty)
+                        _htParameter.Add("CertType", CertType);
+                    if (SubContractor != null && SubContractor != String.Empty)
+                        _htParameter.Add("SubContractor", SubContractor);
+                    if (SubContract != null && SubContract != String.Empty)
+                        _htParameter.Add("SubContract", SubContract);
+                    if (PANum != null && PANum != String.Empty)
+                        _htParameter.Add("PANum", PANum);
+                    if (InputType != null && InputType != String.Empty)
+                        _htParameter.Add("InputType", InputType);
+                    if (MRNO != null && MRNO != string.Empty)
+                        _htParameter.Add("MRNO", MRNO);
+                    if (VendorCode != null && VendorCode != String.Empty)
+                        _htParameter.Add("Vendor", VendorCode);
+
+
+
+                    PCCore.PCMS.DlnRequest _dlnRequest = new PCCore.PCMS.DlnRequest(ProjectCode, FunctionID, _htParameter);
+                    if (!_dlnRequest.Create())
+                    {
+                        
+                    }
+                    else
+                    {
+                        Page.RegisterStartupScript("CloseForm", "<script language='javascript'>{self.close();}</script>");
+                    }
+                    
+                } else
+                {
+                    //Error Log 
+                    
+                }
+                //FullName = Server.MapPath(StrPath + "\\" + StrFileName);
+
+                //try
+                //{
+                //    SimpleWebUtils.DownloadFile(Page.Response, FullName);
+                //}
+                //catch (Exception Ex)
+                //{
+                //    //Log: Fail to Download Excel Template
+                //    throw Ex;
+                //}
+                
+                
+            }
+        }
+        else
+        {
+
+        }
+
+    }
+
+
+}
+

@@ -1,0 +1,219 @@
+﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterReverseCert.master.cs" Inherits="MasterDlnMgr" %>
+<%@ Register Src="Banner.ascx" TagName="Banner" TagPrefix="PC" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="PC" %>
+<%@ Register Src="NavMenu.ascx" TagName="NavMenu" TagPrefix="PC" %>
+
+<%@ Import Namespace="PCCore" %>
+<%
+   string functionid = SessionInfo.CurrentFunctionID;
+   string functioncode = SessionInfo.CurrentFunction;
+   string appUrl = Config.AppBaseUrl;
+   string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+   string BackEnd = Resources.Labels.BackEnd;
+   string FrontEnd = Resources.Labels.FrontEnd;
+   string lang = SessionInfo.CurrentLanguage;
+   string ReportLocation = "";
+   string ReportName = "";
+   try
+   {
+       switch (lang)
+       {
+           case "zh-cn":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-cn", functioncode.ToUpper()).ToString();
+               break;
+           case "zh-tw":
+
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-tw", functioncode.ToUpper()).ToString();
+               break;
+           case "en-us":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report", functioncode.ToUpper()).ToString();
+               break;
+       }
+   }
+   catch (Exception ex)
+   {
+   }
+%>
+<html>
+<head runat="server">
+    <link rel="SHORTCUT ICON" href="~/flexihr.ico"/>
+    <title></title>
+    <link rel="Stylesheet" type="text/css" href="../MasterProjectReport.css" />
+    <meta http-equiv="pragma" content="no-cache" /> 
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <base target="_self" />
+</head>
+<body style="height:100%" oncontextmenu="return false;"> 
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');" >
+            <PC:Banner ID="Banner" runat="server" />
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" height="80%"  class="contentholder">
+                <tr>
+                    <%--<td valign="top" width="162px" height="100%">
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td valign="top"><PC:NavMenu ID="NavMenu" runat="server" /></td>                                
+                            </tr>
+                        </table>
+                    </td>--%>
+                    <td valign="top" height="100%"  class="FormContainer"> 
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                        
+                            <!---->
+                           <%-- <tr>
+                            
+                            </tr>--%>
+                            <!---->
+                            
+                                  <tr>
+                                    <td  height="10" valign="top">
+                                        <PC:Note ID="Note" runat="server" Visible="false" />
+                                    </td>
+                                  </tr>
+                                   <tr runat="server" id="NoteSepLine" visible="false" height="10" valign="top">
+                                    <td class="SepVerLine">&nbsp;</td>
+                                  </tr>
+                                  <!-- note end -->
+              
+                                  <!-- title bar begin -->
+                                  <tr>
+                                     <td height="10" valign="top">
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                                            <td class="txttitle">
+                                                <PC:Title id="Title" runat="server"></PC:Title>
+                                             </td>
+                                            <td align="right">
+                                                
+                                            </td>
+                                           </tr>
+                                          </table>
+                                       </td>
+                                  </tr>
+                                  <tr>                
+                                    <td height="10"><hr size="1" class="titlehr"></td>
+                                  </tr>                                 
+                                <!-- title bar end -->
+            
+                                <!-- content begin -->
+                                    <tr>
+                                        <td valign="top" style="padding-top:6px;padding-left:10px" width="80%">    
+                                            <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">                                                
+                                                <tr>
+                                                    <td valign="top" >
+                                                        <asp:contentplaceholder id="ContentPlaceHolder" runat="server"></asp:contentplaceholder>
+                                                    </td>
+                                                </tr>
+                                            </table> 
+                                        </td>
+                                    </tr>
+                                     
+                                    
+                                <!-- content end -->            
+                              
+                             
+            </table>
+            
+        </td>
+        </tr>
+        
+        </table>
+    </form>
+
+        <PC:Footer ID="Footer" runat="server" />        
+    <script language="javascript">
+       var functionid = "<%=functionid %>";
+        var functioncode = "<%=functioncode %>";
+        var appUrl = "<%= appUrl %>";
+        var themeUrl = "<%= themeUrl %>";
+        var BackEnd = "<%= BackEnd %>";
+        var FrontEnd = "<%= FrontEnd %>";
+        var lang = "<%= lang %>";
+        var ReportLocation = "<%= ReportLocation %>";
+        var ReportName = "<%= ReportName %>";
+         var height = screen.height;
+        var width = screen.width;
+        var dialogFeatures = "dialogHeight:" + height + ";dialogWidth:" + width + ";";
+        
+        
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                selfToBeExecute();
+          }   
+        } 
+        // Print Report For Session ID
+        function PrintDocumentReport(fid,eid,DocStatus)
+        {
+            
+//            alert('PrintDocumentReport')
+//            alert(functionid)
+//            alert(fid)
+//            alert(eid)
+//            alert(DocStatus)
+            var id = "";
+            var DB = "";
+            var p = {};
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            var _ReportName = "";
+            var r_ReportName = "";
+            _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+//            alert(extend);
+//            alert(_ReportName);
+            if (DocStatus == 'CA')
+            {
+                id = eid;
+                DB = BackEnd;
+                r_ReportName = ReportName;
+            } 
+            else
+            {
+                id = fid;
+                DB = FrontEnd;
+                r_ReportName = _ReportName + "F" + extend;
+                
+            }
+            
+            p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&docentry=" + id + "&DB=" +  DB;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            
+            var ret = showForm(p, dialogFeatures);            
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+            
+        }
+        //Report For Project Base
+        function PrintProjectReport()
+        {
+        
+            var projindex = ddlProject.selectedIndex;
+            var projValue = ddlProject.options[projindex].value;
+            //var tprojindex = ddltProject.selectedIndex;
+            //var tprojValue = ddltProject.options[tprojindex].value;
+            
+            
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+            
+            var DB = BackEnd;
+            var p = {};
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&TPrjCode=" + tprojValue;
+            p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue ;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            // Report Link Alert Debug
+            //alert(p[PARAM_URL]);
+            var ret = showForm(p, dialogFeatures);            
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+            
+        }
+    </script>
+    
+</body>
+</html>

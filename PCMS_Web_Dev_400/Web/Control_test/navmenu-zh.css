@@ -1,0 +1,89 @@
+
+.left_petxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+}
+.left_liseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #ce7f02;
+}
+.left_petxt:hover
+{
+	color: #CC0000;
+	text-decoration: underline;
+}
+.left_pespace
+{
+	list-style-image: url(images/aaa.gif);
+}
+
+.left_peseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #6c7f13;
+}
+.left_paseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #c93a23;
+}
+.left_atseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #2c9571;
+}
+.left_leseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #05769e;
+}
+.left_baseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #9e054d;
+}
+.left_seseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #2e4051;
+}
+.left_reseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #738a6a;
+}
+.left_stseltxt
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #513263;
+}
+
+.left_submodule
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #9e054d;
+}

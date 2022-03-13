@@ -1,0 +1,78 @@
+
+.left_petxt
+{
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+}
+.left_liseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #ce7f02;
+}
+.left_petxt:hover
+{
+	color: #CC0000;
+	text-decoration: underline;
+}
+.left_pespace
+{
+	list-style-image: url(images/aaa.gif);
+}
+
+.left_peseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #6c7f13;
+}
+.left_paseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #c93a23;
+}
+.left_atseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #2c9571;
+}
+.left_leseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #05769e;
+}
+.left_baseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #9e054d;
+}
+.left_seseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #2e4051;
+}
+.left_reseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #738a6a;
+}
+.left_stseltxt
+{
+	font-size: 11px;
+	font-weight: bold;
+	color: #513263;
+}
+
+.left_submodule
+{
+	font-size: 14px;
+	font-weight: bold;
+	color: #9e054d;
+}

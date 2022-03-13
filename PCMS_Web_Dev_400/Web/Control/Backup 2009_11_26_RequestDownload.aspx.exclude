@@ -1,0 +1,45 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="RequestDownload.aspx.cs" Inherits="RequestDownload" %>
+
+<%@ Import Namespace="PCCore" %>
+<html>
+<head runat="server" visible="false">
+    <%--<title>Download Template</title>
+    <base target="_self">
+    </base>--%>
+</head>
+<body class="subwinbg" style="margin: 10px" visible="false" runat="server">
+      <%-- %>
+     <form >
+        <%--
+        <% 
+            string imgUrl = Config.GetImageBaseUrl(Page.Theme);
+        %>
+        --%>
+        
+       
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td height="22">
+                abcde
+                <%--
+                    <table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#FF9900"
+                        style="border-collapse: collapse">
+                        <tr>
+                            <td height="22" class="infor">
+                                <img src="<%=imgUrl%>/Information.gif" width="14" height="14" align="absmiddle">
+                                <asp:Literal ID="litupload" Text="<%$ Resources:Messages,DlnProcessing %>" runat="server"></asp:Literal></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>--%>
+</body>
+
+<script language="javascript">
+
+window.close();
+</script>
+
+</html>
+

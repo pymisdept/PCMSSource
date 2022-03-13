@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccessDenied" xml:space="preserve">
+    <value>权限被拒绝</value>
+  </data>
+  <data name="AccessLevel" xml:space="preserve">
+    <value>权限等级</value>
+  </data>
+  <data name="AccessLevelEnabled" xml:space="preserve">
+    <value>Access Level Enabled</value>
+  </data>
+  <data name="AccessMenu" xml:space="preserve">
+    <value>访问菜单</value>
+  </data>
+  <data name="AccessTime" xml:space="preserve">
+    <value>访问时间</value>
+  </data>
+  <data name="Accommodation" xml:space="preserve">
+    <value>Accommodation</value>
+  </data>
+  <data name="Act" xml:space="preserve">
+    <value>Act.</value>
+  </data>
+  <data name="Action" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="ActionType" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="Active" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="activeonly" xml:space="preserve">
+    <value>Active Only</value>
+  </data>
+  <data name="Actual" xml:space="preserve">
+    <value>Actual</value>
+  </data>
+  <data name="Addition" xml:space="preserve">
+    <value>Addition</value>
+  </data>
+  <data name="AdditionDeduction" xml:space="preserve">
+    <value>Add/Ded</value>
+  </data>
+  <data name="AddUpdate" xml:space="preserve">
+    <value>添加/更新</value>
+  </data>
+  <data name="AdvancedSearch" xml:space="preserve">
+    <value>高级查询</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>所有</value>
+  </data>
+  <data name="AllField" xml:space="preserve">
+    <value>所有字段</value>
+  </data>
+  <data name="ALLL" xml:space="preserve">
+    <value>-所有-</value>
+  </data>
+  <data name="AllRight" xml:space="preserve">
+    <value>所有权限</value>
+  </data>
+  <data name="AnnouncementTitle" xml:space="preserve">
+    <value>标题</value>
+  </data>
+  <data name="ApplicationVersion" xml:space="preserve">
+    <value>程序版本</value>
+  </data>
+  <data name="Apr" xml:space="preserve">
+    <value>Apr</value>
+  </data>
+  <data name="AttachmentList" xml:space="preserve">
+    <value>附件列表</value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>附件</value>
+  </data>
+  <data name="AuditTrail" xml:space="preserve">
+    <value>更新日志</value>
+  </data>
+  <data name="AuditTrailReport" xml:space="preserve">
+    <value>Audit Trail Report</value>
+  </data>
+  <data name="Aug" xml:space="preserve">
+    <value>Aug</value>
+  </data>
+  <data name="AuthorizedBy" xml:space="preserve">
+    <value>Authorized By</value>
+  </data>
+  <data name="Auto" xml:space="preserve">
+    <value>－自动－</value>
+  </data>
+  <data name="Basic" xml:space="preserve">
+    <value>基础设置</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Code" xml:space="preserve">
+    <value>编码</value>
+  </data>
+  <data name="CodeMH" xml:space="preserve">
+    <value>:</value>
+  </data>
+  <data name="ColumnName" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="Columns" xml:space="preserve">
+    <value>列</value>
+  </data>
+  <data name="Common" xml:space="preserve">
+    <value>Common</value>
+  </data>
+  <data name="Condition" xml:space="preserve">
+    <value>条件</value>
+  </data>
+  <data name="Count" xml:space="preserve">
+    <value>数量</value>
+  </data>
+  <data name="Createdby" xml:space="preserve">
+    <value>创建者</value>
+  </data>
+  <data name="DataType" xml:space="preserve">
+    <value>数据类型</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>日期</value>
+  </data>
+  <data name="DEL" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="DeleteRight" xml:space="preserve">
+    <value>删除权限</value>
+  </data>
+  <data name="DownLoad" xml:space="preserve">
+    <value>下载</value>
+  </data>
+  <data name="EditRight" xml:space="preserve">
+    <value>编辑权限</value>
+  </data>
+  <data name="EDT" xml:space="preserve">
+    <value>编辑</value>
+  </data>
+  <data name="Exit" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>导出</value>
+  </data>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>忘记密码</value>
+  </data>
+  <data name="Function" xml:space="preserve">
+    <value>功能</value>
+  </data>
+  <data name="HRVersion" xml:space="preserve">
+    <value>版本</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Locked" xml:space="preserve">
+    <value>锁定</value>
+  </data>
+  <data name="LOGIN" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="LoginAgain" xml:space="preserve">
+    <value>重新登录</value>
+  </data>
+  <data name="LoginName" xml:space="preserve">
+    <value>登录名</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>注销</value>
+  </data>
+  <data name="LogTime" xml:space="preserve">
+    <value>日志时间</value>
+  </data>
+  <data name="NA" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="NA2" xml:space="preserve">
+    <value>-N/A-</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="NEW" xml:space="preserve">
+    <value>新增</value>
+  </data>
+  <data name="NewRight" xml:space="preserve">
+    <value>新增权限</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="NextPage" xml:space="preserve">
+    <value>下一页</value>
+  </data>
+  <data name="NextReview" xml:space="preserve">
+    <value>Next Review</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>-无-</value>
+  </data>
+  <data name="Numeric" xml:space="preserve">
+    <value>数字</value>
+  </data>
+  <data name="Option" xml:space="preserve">
+    <value>选项</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>页</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>密码</value>
+  </data>
+  <data name="Record" xml:space="preserve">
+    <value>记录</value>
+  </data>
+  <data name="Records" xml:space="preserve">
+    <value>记录</value>
+  </data>
+  <data name="Report" xml:space="preserve">
+    <value>报表</value>
+  </data>
+  <data name="ReportFont" xml:space="preserve">
+    <value>报表字体</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>必须的</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>结果</value>
+  </data>
+  <data name="Row" xml:space="preserve">
+    <value>行</value>
+  </data>
+  <data name="RTF" xml:space="preserve">
+    <value>RTF</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="ScAccessLog" xml:space="preserve">
+    <value>访问日志</value>
+  </data>
+  <data name="ScAnnouncement" xml:space="preserve">
+    <value>讯息公布</value>
+  </data>
+  <data name="ScAuditLog" xml:space="preserve">
+    <value>更新日志</value>
+  </data>
+  <data name="ScCusterHomePage" xml:space="preserve">
+    <value>制定主页内容</value>
+  </data>
+  <data name="ScFunction" xml:space="preserve">
+    <value>功能</value>
+  </data>
+  <data name="ScGroup" xml:space="preserve">
+    <value>用户组别</value>
+  </data>
+  <data name="ScGroupRight" xml:space="preserve">
+    <value>用户组别权限</value>
+  </data>
+  <data name="ScModule" xml:space="preserve">
+    <value>模块</value>
+  </data>
+  <data name="ScUseFullLink" xml:space="preserve">
+    <value>常用网址</value>
+  </data>
+  <data name="ScUser" xml:space="preserve">
+    <value>用户</value>
+  </data>
+  <data name="ScUserFunction" xml:space="preserve">
+    <value>User Function</value>
+  </data>
+  <data name="ScUserRight" xml:space="preserve">
+    <value>用户权限</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>查询</value>
+  </data>
+  <data name="Security" xml:space="preserve">
+    <value>系统安全</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>选择</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>发送</value>
+  </data>
+  <data name="SeqNo" xml:space="preserve">
+    <value>序号</value>
+  </data>
+  <data name="Setting" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="SiteMap" xml:space="preserve">
+    <value>网站地图</value>
+  </data>
+  <data name="SiteMapSearch" xml:space="preserve">
+    <value>网站地图查询</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>状态</value>
+  </data>
+  <data name="String" xml:space="preserve">
+    <value>字符串</value>
+  </data>
+  <data name="Subject" xml:space="preserve">
+    <value>主题</value>
+  </data>
+  <data name="TableID" xml:space="preserve">
+    <value>表ID</value>
+  </data>
+  <data name="TableName" xml:space="preserve">
+    <value>表名</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>标题</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>到</value>
+  </data>
+  <data name="Top" xml:space="preserve">
+    <value>Top</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>合计</value>
+  </data>
+  <data name="Unknow" xml:space="preserve">
+    <value>未知</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="UploadTime" xml:space="preserve">
+    <value>上传时间</value>
+  </data>
+  <data name="UrlAddress" xml:space="preserve">
+    <value>网站</value>
+  </data>
+  <data name="UsefulLink" xml:space="preserve">
+    <value>常用网址</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>用户名字</value>
+  </data>
+  <data name="Users" xml:space="preserve">
+    <value>用户</value>
+  </data>
+  <data name="UsersRight" xml:space="preserve">
+    <value>用户权限</value>
+  </data>
+  <data name="UserVariable" xml:space="preserve">
+    <value>User Variable</value>
+  </data>
+  <data name="Value" xml:space="preserve">
+    <value>值</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>视图</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="White" xml:space="preserve">
+    <value>白色</value>
+  </data>
+  <data name="XLS" xml:space="preserve">
+    <value>XLS</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>年</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>黄色</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="APSettlementStatusImport" xml:space="preserve">
+    <value>A/P Settlement Status - Import</value>
+  </data>
+  <data name="BudgetAdjustmentImport" xml:space="preserve">
+    <value>Budget Adjustment - Import</value>
+  </data>
+  <data name="InstructionListImport" xml:space="preserve">
+    <value>Instruction List - Import</value>
+  </data>
+  <data name="PaymentApplicationImport" xml:space="preserve">
+    <value>Payment Application - Import</value>
+  </data>
+  <data name="PaymentCertExport" xml:space="preserve">
+    <value>Payment Cert - Export</value>
+  </data>
+  <data name="PorjectReportImport" xml:space="preserve">
+    <value>Porject Report - Import</value>
+  </data>
+  <data name="ProjectStatusImport" xml:space="preserve">
+    <value>Project Status - Import</value>
+  </data>
+  <data name="PurchaseAgreementExport" xml:space="preserve">
+    <value>Purchase Agreement - Export</value>
+  </data>
+  <data name="PurchaseAgreementImport" xml:space="preserve">
+    <value>Purchase Agreement - Import</value>
+  </data>
+  <data name="PurchaseOrderExport" xml:space="preserve">
+    <value>Purchase Order - Export</value>
+  </data>
+  <data name="PurchaseOrderImport" xml:space="preserve">
+    <value>Purchase Order - Import</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>大小</value>
+  </data>
+  <data name="SMRExport" xml:space="preserve">
+    <value>SMR - Export</value>
+  </data>
+  <data name="SMRImport" xml:space="preserve">
+    <value>SMR - Import</value>
+  </data>
+  <data name="SubConPaymentCertImport" xml:space="preserve">
+    <value>Sub-Con Payment Cert - Import</value>
+  </data>
+  <data name="SubConPaymentCertStatusImport" xml:space="preserve">
+    <value>Sub-Con Payment Cert Status - Import</value>
+  </data>
+  <data name="SupplyPaymentCertImport" xml:space="preserve">
+    <value>Supply Payment Cert - Import</value>
+  </data>
+  <data name="UploadBy" xml:space="preserve">
+    <value>上传者</value>
+  </data>
+  <data name="UserNumber" xml:space="preserve">
+    <value>用户数量</value>
+  </data>
+  <data name="SizeKB" xml:space="preserve">
+    <value>大小 (KB)</value>
+  </data>
+  <data name="UploadFile" xml:space="preserve">
+    <value>上传文件</value>
+  </data>
+  <data name="Account" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="CashFlowReconciliation" xml:space="preserve">
+    <value>Cash Flow Reconciliation</value>
+  </data>
+  <data name="Management" xml:space="preserve">
+    <value>Management</value>
+  </data>
+  <data name="MonthlyProjectsProgressAndFinancialSummary" xml:space="preserve">
+    <value>Monthly Projects Progress and Financial Summary</value>
+  </data>
+  <data name="ProjectItemSetup" xml:space="preserve">
+    <value>Project Item Setup</value>
+  </data>
+  <data name="ProjectManagersReport" xml:space="preserve">
+    <value>Project Manager's Report</value>
+  </data>
+  <data name="PurchaseOrder" xml:space="preserve">
+    <value>Purchase Order</value>
+  </data>
+  <data name="QuantitySurvey" xml:space="preserve">
+    <value>Commercial</value>
+  </data>
+  <data name="SubContractorPaymentCertificate" xml:space="preserve">
+    <value>Sub-Contractor Payment Certificate</value>
+  </data>
+  <data name="SupplierPaymentCertificate" xml:space="preserve">
+    <value>Supplier Payment Certificate</value>
+  </data>
+  <data name="TurnoverAndMarginReconciliation" xml:space="preserve">
+    <value>Turnover and Margin Reconciliation</value>
+  </data>
+</root>

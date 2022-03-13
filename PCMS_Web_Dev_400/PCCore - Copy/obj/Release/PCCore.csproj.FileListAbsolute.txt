@@ -1,0 +1,8 @@
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\bin\Release\PCCore.dll
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\bin\Release\PCCore.pdb
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\bin\Release\AjaxPro.2.dll
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\bin\Release\SimpleControls.dll
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\bin\Release\SimpleControls.Web.dll
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\obj\Release\ResolveAssemblyReference.cache
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\obj\Release\PCCore.dll
+E:\Project\PaulY\Programming\Web\PCMS_Web_Dev_400\PCCore\obj\Release\PCCore.pdb

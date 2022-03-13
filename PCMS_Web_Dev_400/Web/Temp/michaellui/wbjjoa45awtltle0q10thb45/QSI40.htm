@@ -1,0 +1,126 @@
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:34</font><br>
+<font size='3'>Permission Query in ScInfo: select * from v_sc_functions where fcode='qsi40'</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=permission+query+in+scinfo%3a+select+*+from+v_sc_functions+where+fcode%3d(danyinhao)qsi40(danyinhao)','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:34</font><br>
+<font size='3'>SQL about rights: select * from v_sc_rights where (fcode='qsi40' or fcode='all') and (mcode='QuantitySurvey' or mcode='all') and loginname='michaellui'</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=sql+about+rights%3a+select+*+from+v_sc_rights+where+(fcode%3d(danyinhao)qsi40(danyinhao)+or+fcode%3d(danyinhao)all(danyinhao))+and+(mcode%3d(danyinhao)quantitysurvey(danyinhao)+or+mcode%3d(danyinhao)all(danyinhao))+and+loginname%3d(danyinhao)michaellui(danyinhao)','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>GridView</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>FunctionID1040</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>ModuleID1</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>Session Timeout:240</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>qsi40</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>REQUESTDOWNLOAD</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>select id,title,body,expirydate from CPS_View_FunctionAnnouncement where FuncCode = 'qsi40'</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=select+id%2ctitle%2cbody%2cexpirydate+from+cps_view_functionannouncement+where+funccode+%3d+(danyinhao)qsi40(danyinhao)','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>/Web/Import/QSI40.aspx 2021-06-15 16:57:39</font><br>
+Invalid column name 'body'.
+<br>
+.Net SqlClient Data Provider
+<br>
+   at SimpleControls.SimpleDatabase.Db.ExecQuery(String sql, DbParameter[] p)
+   at SimpleControls.SimpleDatabase.Db.ExecQuery(String sql)
+   at PCCore.PCMS.Announcement.GetHtmlTableByFunction(HtmlTable _htmlt, String func) in F:\PCMSSource\PCMS_Web_Dev_400\PCCore\PCMS\Announcement.cs:line 93
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>select PrjCode,PrjDesc from CPS_View_ProjectList   order by PrjDesc</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=select+prjcode%2cprjdesc+from+cps_view_projectlist+++order+by+prjdesc','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:39</font><br>
+<font size='3'>Data Source=10.1.52.126;Initial Catalog=PAY800;Persist Security Info=True;User ID=sa;Password=compass2008;Pooling=False;</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:40</font><br>
+<font size='3'>HiddenFields: ID,PID,CREATED,CREATEDBY,MODIFIED,MODIFIEDBY,id,descid,description,isError,filesize,DocStatus,owner,btn,dt02</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:40</font><br>
+<font size='3'>select b.id ,a.id as descid, b.filename,a.dt01 as Docnum,b.filesize,a.description,c.FullName,convert(varchar(20),b.uploadtime,120) as uploadtime,convert(varchar(20),a.modified,120) as postdate,case when (a.projectCode is null or a.projectCode in ('-1','-2','-3')) then '' else a.projectCode end as ProjectCode, d.DisplayName, a.IsError, convert(varchar(20),a.dt02,120) as dt02 ,cast('' as nvarchar(10)) as [Checklist], a.DocStatus,a.createdby as owner, '' as btn,'' as report from DocumentProperty a left join CM_SessionFiles b on b.recordid=a.id left join sc_user c on c.id=b.uploadbyid left join CPS_View_DocStatus d on (d.Code = a.DocStatus) where type=1040  and a.created >='2021-06-15' and a.created <='2021-06-15 23:59:59' order by b.uploadtime desc</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=select+b.id+%2ca.id+as+descid%2c+b.filename%2ca.dt01+as+docnum%2cb.filesize%2ca.description%2cc.fullname%2cconvert(varchar(20)%2cb.uploadtime%2c120)+as+uploadtime%2cconvert(varchar(20)%2ca.modified%2c120)+as+postdate%2ccase+when+(a.projectcode+is+null+or+a.projectcode+in+((danyinhao)-1(danyinhao)%2c(danyinhao)-2(danyinhao)%2c(danyinhao)-3(danyinhao)))+then+(danyinhao)(danyinhao)+else+a.projectcode+end+as+projectcode%2c+d.displayname%2c+a.iserror%2c+convert(varchar(20)%2ca.dt02%2c120)+as+dt02+%2ccast((danyinhao)(danyinhao)+as+nvarchar(10))+as+%5bchecklist%5d%2c+a.docstatus%2ca.createdby+as+owner%2c+(danyinhao)(danyinhao)+as+btn%2c(danyinhao)(danyinhao)+as+report+from+documentproperty+a+left+join+cm_sessionfiles+b+on+b.recordid%3da.id+left+join+sc_user+c+on+c.id%3db.uploadbyid+left+join+cps_view_docstatus+d+on+(d.code+%3d+a.docstatus)+where+type%3d1040++and+a.created+%26gt%3b%3d(danyinhao)2021-06-15(danyinhao)+and+a.created+%26lt%3b%3d(danyinhao)2021-06-15+23%3a59%3a59(danyinhao)+order+by+b.uploadtime+desc','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>FunctionID,1040</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>/Web/App_Themes/Default</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>_mName: </font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>_fName: </font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'><img src='/Web/App_Themes/Default/images/dotP.gif' width='9' height='9' align='absmiddle'>&nbsp;Commercial > Project Report Download and Upload</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>Permission Query in ScInfo: select * from v_sc_functions where fcode='qsi40'</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=permission+query+in+scinfo%3a+select+*+from+v_sc_functions+where+fcode%3d(danyinhao)qsi40(danyinhao)','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>SQL about rights: select * from v_sc_rights where (fcode='qsi40' or fcode='all') and (mcode='QuantitySurvey' or mcode='all') and loginname='michaellui'</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=sql+about+rights%3a+select+*+from+v_sc_rights+where+(fcode%3d(danyinhao)qsi40(danyinhao)+or+fcode%3d(danyinhao)all(danyinhao))+and+(mcode%3d(danyinhao)quantitysurvey(danyinhao)+or+mcode%3d(danyinhao)all(danyinhao))+and+loginname%3d(danyinhao)michaellui(danyinhao)','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>GridView</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>FunctionID1040</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>ModuleID1</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>Session Timeout:240</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>qsi40</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>REQUESTDOWNLOAD</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:41</font><br>
+<font size='3'>select id,title,body,expirydate from CPS_View_FunctionAnnouncement where FuncCode = 'qsi40'</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=select+id%2ctitle%2cbody%2cexpirydate+from+cps_view_functionannouncement+where+funccode+%3d+(danyinhao)qsi40(danyinhao)','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>/Web/Import/QSI40.aspx 2021-06-15 16:57:42</font><br>
+Invalid column name 'body'.
+<br>
+.Net SqlClient Data Provider
+<br>
+   at SimpleControls.SimpleDatabase.Db.ExecQuery(String sql, DbParameter[] p)
+   at SimpleControls.SimpleDatabase.Db.ExecQuery(String sql)
+   at PCCore.PCMS.Announcement.GetHtmlTableByFunction(HtmlTable _htmlt, String func) in F:\PCMSSource\PCMS_Web_Dev_400\PCCore\PCMS\Announcement.cs:line 93
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>select PrjCode,PrjDesc from CPS_View_ProjectList   order by PrjDesc</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=select+prjcode%2cprjdesc+from+cps_view_projectlist+++order+by+prjdesc','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>Data Source=10.1.52.126;Initial Catalog=PAY800;Persist Security Info=True;User ID=sa;Password=compass2008;Pooling=False;</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>HiddenFields: ID,PID,CREATED,CREATEDBY,MODIFIED,MODIFIEDBY,id,descid,description,isError,filesize,DocStatus,owner,btn,dt02</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>select b.id ,a.id as descid, b.filename,a.dt01 as Docnum,b.filesize,a.description,c.FullName,convert(varchar(20),b.uploadtime,120) as uploadtime,convert(varchar(20),a.modified,120) as postdate,case when (a.projectCode is null or a.projectCode in ('-1','-2','-3')) then '' else a.projectCode end as ProjectCode, d.DisplayName, a.IsError, convert(varchar(20),a.dt02,120) as dt02 ,cast('' as nvarchar(10)) as [Checklist], a.DocStatus,a.createdby as owner, '' as btn,'' as report from DocumentProperty a left join CM_SessionFiles b on b.recordid=a.id left join sc_user c on c.id=b.uploadbyid left join CPS_View_DocStatus d on (d.Code = a.DocStatus) where type=1040  and a.created >='2021-06-15' and a.created <='2021-06-15 23:59:59' order by b.uploadtime desc</font>
+<img src="images\phto.gif" style="cursor:hand;" alt="Run SQL" onclick = "javascript:window.open('http://localhost/HRLogManager/RunSQL.aspx?SQL=select+b.id+%2ca.id+as+descid%2c+b.filename%2ca.dt01+as+docnum%2cb.filesize%2ca.description%2cc.fullname%2cconvert(varchar(20)%2cb.uploadtime%2c120)+as+uploadtime%2cconvert(varchar(20)%2ca.modified%2c120)+as+postdate%2ccase+when+(a.projectcode+is+null+or+a.projectcode+in+((danyinhao)-1(danyinhao)%2c(danyinhao)-2(danyinhao)%2c(danyinhao)-3(danyinhao)))+then+(danyinhao)(danyinhao)+else+a.projectcode+end+as+projectcode%2c+d.displayname%2c+a.iserror%2c+convert(varchar(20)%2ca.dt02%2c120)+as+dt02+%2ccast((danyinhao)(danyinhao)+as+nvarchar(10))+as+%5bchecklist%5d%2c+a.docstatus%2ca.createdby+as+owner%2c+(danyinhao)(danyinhao)+as+btn%2c(danyinhao)(danyinhao)+as+report+from+documentproperty+a+left+join+cm_sessionfiles+b+on+b.recordid%3da.id+left+join+sc_user+c+on+c.id%3db.uploadbyid+left+join+cps_view_docstatus+d+on+(d.code+%3d+a.docstatus)+where+type%3d1040++and+a.created+%26gt%3b%3d(danyinhao)2021-06-15(danyinhao)+and+a.created+%26lt%3b%3d(danyinhao)2021-06-15+23%3a59%3a59(danyinhao)+order+by+b.uploadtime+desc','_blank', 'scrollbars = no,status=no,toolbar=no,width=600,height=400,top=200,left=200,resizable=yes');"  ><br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>FunctionID,1040</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>/Web/App_Themes/Default</font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>_mName: </font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'>_fName: </font>
+<br>
+<font size='2' color='#bbbbbb'>QSI40 2021-06-15 16:57:42</font><br>
+<font size='3'><img src='/Web/App_Themes/Default/images/dotP.gif' width='9' height='9' align='absmiddle'>&nbsp;Commercial > Project Report Download and Upload</font>
+<br>

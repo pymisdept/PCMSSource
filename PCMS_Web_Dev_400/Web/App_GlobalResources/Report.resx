@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AC01" xml:space="preserve">
+    <value>AC01.rpt</value>
+  </data>
+  <data name="AC02" xml:space="preserve">
+    <value>AC02.rpt</value>
+  </data>
+  <data name="AC03" xml:space="preserve">
+    <value>AC03.rpt</value>
+  </data>
+  <data name="AC04" xml:space="preserve">
+    <value>AC04.rpt</value>
+  </data>
+  <data name="AC05" xml:space="preserve">
+    <value>AC05.rpt</value>
+  </data>
+  <data name="AC06" xml:space="preserve">
+    <value>AC06.rpt</value>
+  </data>
+  <data name="AC07" xml:space="preserve">
+    <value>AC07.rpt</value>
+  </data>
+  <data name="AC08" xml:space="preserve">
+    <value>AC08.rpt</value>
+  </data>
+  <data name="MA01" xml:space="preserve">
+    <value>MA01.rpt</value>
+  </data>
+  <data name="MA02" xml:space="preserve">
+    <value>MA02.rpt</value>
+  </data>
+  <data name="MA03" xml:space="preserve">
+    <value>MA03.rpt</value>
+  </data>
+  <data name="MA04" xml:space="preserve">
+    <value>MA04.rpt</value>
+  </data>
+  <data name="MA05" xml:space="preserve">
+    <value>MA05.rpt</value>
+  </data>
+  <data name="MA06" xml:space="preserve">
+    <value>MA06.rpt</value>
+  </data>
+  <data name="MA07" xml:space="preserve">
+    <value>MA07.rpt</value>
+  </data>
+  <data name="MA08" xml:space="preserve">
+    <value>MA08.rpt</value>
+  </data>
+  <data name="MA09" xml:space="preserve">
+    <value>MA09.rpt</value>
+  </data>
+  <data name="MA10" xml:space="preserve">
+    <value>MA10.rpt</value>
+  </data>
+  <data name="MA11" xml:space="preserve">
+    <value>MA11.rpt</value>
+  </data>
+  <data name="MA12" xml:space="preserve">
+    <value>MA12.rpt</value>
+  </data>
+  <data name="MA13" xml:space="preserve">
+    <value>MA13.rpt</value>
+  </data>
+  <data name="MA14" xml:space="preserve">
+    <value>MA14.rpt</value>
+  </data>
+  <data name="MA15" xml:space="preserve">
+    <value>MA15.rpt</value>
+  </data>
+  <data name="MA16" xml:space="preserve">
+    <value>MA16.rpt</value>
+  </data>
+  <data name="MA17" xml:space="preserve">
+    <value>MA17.rpt</value>
+  </data>
+  <data name="MA18" xml:space="preserve">
+    <value>MA18.rpt</value>
+  </data>
+  <data name="MA19" xml:space="preserve">
+    <value>MA19.rpt</value>
+  </data>
+  <data name="PU01" xml:space="preserve">
+    <value>PU01.rpt</value>
+  </data>
+  <data name="PU02" xml:space="preserve">
+    <value>PU02.rpt</value>
+  </data>
+  <data name="PU03" xml:space="preserve">
+    <value>PU03.rpt</value>
+  </data>
+  <data name="PU04" xml:space="preserve">
+    <value>PU04.rpt</value>
+  </data>
+  <data name="PU05" xml:space="preserve">
+    <value>PU05.rpt</value>
+  </data>
+  <data name="PU06" xml:space="preserve">
+    <value>PU06.rpt</value>
+  </data>
+  <data name="PU07" xml:space="preserve">
+    <value>PU07.rpt</value>
+  </data>
+  <data name="PU08" xml:space="preserve">
+    <value>PU08.rpt</value>
+  </data>
+  <data name="PU09" xml:space="preserve">
+    <value>PU09.rpt</value>
+  </data>
+  <data name="PU10" xml:space="preserve">
+    <value>PU10.rpt</value>
+  </data>
+  <data name="PU11" xml:space="preserve">
+    <value>PU11.rpt</value>
+  </data>
+  <data name="PU12" xml:space="preserve">
+    <value>PU12.rpt</value>
+  </data>
+  <data name="PU13" xml:space="preserve">
+    <value>PU13.rpt</value>
+  </data>
+  <data name="PU16" xml:space="preserve">
+    <value>PU16.rpt</value>
+  </data>
+  <data name="PU99" xml:space="preserve">
+    <value>PU08.rpt</value>
+  </data>
+  <data name="PUI01" xml:space="preserve">
+    <value>PU01.rpt</value>
+  </data>
+  <data name="PUI02" xml:space="preserve">
+    <value>PU12.rpt</value>
+  </data>
+  <data name="PUI03" xml:space="preserve">
+    <value>PU13.rpt</value>
+  </data>
+  <data name="PUI04" xml:space="preserve">
+    <value>PU14.rpt</value>
+  </data>
+  <data name="PUI05" xml:space="preserve">
+    <value>PU15.rpt</value>
+  </data>
+  <data name="PUI99" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QS01" xml:space="preserve">
+    <value>QS01.rpt</value>
+  </data>
+  <data name="QS02" xml:space="preserve">
+    <value>QS02.rpt</value>
+  </data>
+  <data name="QS03" xml:space="preserve">
+    <value>QS03.rpt</value>
+  </data>
+  <data name="QS04" xml:space="preserve">
+    <value>QS04.rpt</value>
+  </data>
+  <data name="QS05" xml:space="preserve">
+    <value>QS05.rpt</value>
+  </data>
+  <data name="QS06" xml:space="preserve">
+    <value>QS06.rpt</value>
+  </data>
+  <data name="QS07" xml:space="preserve">
+    <value>QS07.rpt</value>
+  </data>
+  <data name="QS08" xml:space="preserve">
+    <value>QS08.rpt</value>
+  </data>
+  <data name="QS09" xml:space="preserve">
+    <value>QS09.rpt</value>
+  </data>
+  <data name="QS10" xml:space="preserve">
+    <value>QS10.rpt</value>
+  </data>
+  <data name="QS11" xml:space="preserve">
+    <value>QS11.rpt</value>
+  </data>
+  <data name="QS12" xml:space="preserve">
+    <value>QS12.rpt</value>
+  </data>
+  <data name="QS13" xml:space="preserve">
+    <value>QS13.rpt</value>
+  </data>
+  <data name="QS14" xml:space="preserve">
+    <value>QS14.rpt</value>
+  </data>
+  <data name="QS15" xml:space="preserve">
+    <value>QS15.rpt</value>
+  </data>
+  <data name="QS16" xml:space="preserve">
+    <value>QS16.rpt</value>
+  </data>
+  <data name="QS17" xml:space="preserve">
+    <value>QS17.rpt</value>
+  </data>
+  <data name="QS18" xml:space="preserve">
+    <value>QS18.rpt</value>
+  </data>
+  <data name="QS19" xml:space="preserve">
+    <value>QS19.rpt</value>
+  </data>
+  <data name="QS20" xml:space="preserve">
+    <value>QS20.rpt</value>
+  </data>
+  <data name="QS21" xml:space="preserve">
+    <value>QS21.rpt</value>
+  </data>
+  <data name="QS22" xml:space="preserve">
+    <value>QS22.rpt</value>
+  </data>
+  <data name="QS25" xml:space="preserve">
+    <value>QS25.rpt</value>
+  </data>
+  <data name="QS26" xml:space="preserve">
+    <value>QS26.rpt</value>
+  </data>
+  <data name="QS27" xml:space="preserve">
+    <value>QS27.rpt</value>
+  </data>
+  <data name="QS28" xml:space="preserve">
+    <value>QS28.rpt</value>
+  </data>
+  <data name="QS29" xml:space="preserve">
+    <value>QS29.rpt</value>
+  </data>
+  <data name="QS30" xml:space="preserve">
+    <value>QS30.rpt</value>
+  </data>
+  <data name="QS33" xml:space="preserve">
+    <value>QS33.rpt</value>
+  </data>
+  <data name="QS34" xml:space="preserve">
+    <value>QS34.rpt</value>
+  </data>
+  <data name="QS35" xml:space="preserve">
+    <value>QS35.rpt</value>
+  </data>
+  <data name="QS43" xml:space="preserve">
+    <value>QS43.rpt</value>
+  </data>
+  <data name="QS44" xml:space="preserve">
+    <value>QS44.rpt</value>
+  </data>
+  <data name="QS45" xml:space="preserve">
+    <value>QS45.rpt</value>
+  </data>
+  <data name="QS46" xml:space="preserve">
+    <value>QS46.rpt</value>
+  </data>
+  <data name="QS47" xml:space="preserve">
+    <value>QS47.rpt</value>
+  </data>
+  <data name="QSI01" xml:space="preserve">
+    <value>QS01.rpt</value>
+  </data>
+  <data name="QSI02" xml:space="preserve">
+    <value>QS02.rpt</value>
+  </data>
+  <data name="QSI03" xml:space="preserve">
+    <value>QS03.rpt</value>
+  </data>
+  <data name="QSI04" xml:space="preserve">
+    <value>QS04.rpt</value>
+  </data>
+  <data name="QSI05" xml:space="preserve">
+    <value>QS05.rpt</value>
+  </data>
+  <data name="QSI06" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI07" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI08" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI09" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI10" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI11" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI12" xml:space="preserve">
+    <value>QS36.rpt</value>
+  </data>
+  <data name="QSI13" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI14" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI15" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI16" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI17" xml:space="preserve">
+    <value>QS37.rpt</value>
+  </data>
+  <data name="QSI18" xml:space="preserve">
+    <value>QS23.rpt</value>
+  </data>
+  <data name="QSI19" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI20" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI21" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI22" xml:space="preserve">
+    <value />
+  </data>
+  <data name="QSI23" xml:space="preserve">
+    <value>QS31.rpt</value>
+  </data>
+  <data name="QSI24" xml:space="preserve">
+    <value>QS32.rpt</value>
+  </data>
+  <data name="QSI25" xml:space="preserve">
+    <value>QS40.rpt</value>
+  </data>
+  <data name="QSI26" xml:space="preserve">
+    <value>QS41.rpt</value>
+  </data>
+  <data name="QSI40" xml:space="preserve">
+    <value>QS25.rpt</value>
+  </data>
+  <data name="ReportLocation" xml:space="preserve">
+    <value>http://localhost/CPS_Crystal/ReportFrame.aspx</value>
+  </data>
+</root>

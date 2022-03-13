@@ -1,0 +1,440 @@
+﻿table 
+{
+	font-size: 11px;
+}
+a 
+{
+	font-size: 11px;
+}
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.NavMenu 
+{
+	width: 174px;
+	height: 100%;
+    background-image: url(images/nav_bg.gif);
+	background-repeat: repeat-y;
+	background-color: #f1f1f1;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.Footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	padding-left: 5px;
+}
+.MainMenu {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+.MainMenu:hover {
+    text-decoration: underline;
+}
+.MainMenuLine {
+    height: 17px;
+    border: 0px;
+    margin: 0px 8px 0px 8px;
+    background-image: url(images/menuline.gif);
+}
+.UserName {
+    font-weight: bold;
+    text-decoration: none;
+    color: #333333;
+}
+.UserName:hover {
+    text-decoration: underline;
+}
+.Title {
+	font-size: 14px;
+	font-weight: bold;
+	color: #5350c5;
+}
+.SepLine 
+{
+	height: 5px;
+}
+.SepVerLine
+{
+	width: 10px;
+}
+.ToolbarImage 
+{
+	margin: 0px 3px 0px 3px;
+	border: 0px;
+	width: 16px;
+	height: 16px;
+}
+.LableWidth
+{
+	width:90px;
+}
+.LableWithNowrap
+{
+	width:90px;
+	white-space:nowrap;
+}
+
+.TextBoxSimple 
+{
+	width: 100px;
+	border: 1px solid #999999;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+.TextBoxLogin
+{
+	width: 120px;
+	border: 1px solid #999999;	
+}
+.TextBoxCode 
+{
+	border: 1px solid #999999;
+	height: 20px;
+	width: 100px;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");	
+}
+.TextBoxForm 
+{
+	border: 1px solid #999999;
+	height: 20px;	
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+.TextBoxFormPre
+{
+	text-align:right;
+	border: 1px solid #999999;
+	height: 20px;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");	
+}
+.TextBoxCode1
+{
+	border: 1px solid #999999;
+	height: 20px;
+	width: 170px;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+.TextBoxName
+{
+	border: 1px solid #999999;
+	height: 20px;
+	width: 230px;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+.TextBoxName1
+{
+	border: 1px solid #999999;
+	height: 20px;
+	width: 330px;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");	
+}
+
+.TextBoxInput 
+{
+	border: 1px solid #999999;
+	height: 20px;
+	width: 100px;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+
+.TextBoxForDisplay
+{
+	overflow:auto;
+	border: 0px solid #999999;
+	font-size:14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: Transparent;
+	SCROLLBAR-FACE-COLOR: #E4E4E4;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-SHADOW-COLOR: #B6B6B6;
+	SCROLLBAR-3DLIGHT-COLOR: #B6B6B6;
+	SCROLLBAR-ARROW-COLOR: #666633;
+	SCROLLBAR-TRACK-COLOR: #F4F4F4;
+	SCROLLBAR-DARKSHADOW-COLOR: #E4E4E4;	
+}
+
+.TextBoxCustomizingInput 
+{
+	border: 1px solid #999999;
+	height: 20px;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");	
+}
+
+.TextBoxMutInput 
+{
+	border: 1px solid #999999;	
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+
+.TextBoxInputPre 
+{
+	border: 1px solid #999999;
+	height: 20px;	
+	text-align:right;	
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+.TextBoxInputP 
+{
+	border: 1px solid #999999;
+	height: 20px;	
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+.TextBoxDescription
+{
+	width: 330px;
+	border: 1px solid #999999;
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+
+.GridViewContainer 
+{
+	border: solid 0px #999999;	
+}
+.FormContainer 
+{
+	padding: 10px;
+}
+.FormButtonContainer 
+{
+	height:30px;
+	text-align: center;
+	vertical-align: bottom;
+}
+.FormButton {
+	background-image: url(images/btn_bg.gif);
+	border: 1px solid #eeeeee;
+	height: 22px;
+	background-color: #C3C3C3;
+	margin: 0px;
+	padding: 0px;
+	cursor:hand;
+	width: 62px;
+}
+.Invisible 
+{
+	display: none;
+}
+.ErrorTitle 
+{
+	width: 100%;
+	font-weight: bold;
+	margin-left: 7px;
+	margin-right: 52px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 18pt;
+}
+.ImgButton
+{
+	cursor:hand;
+}
+.Table_block {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-width :1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-style :solid ;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+	border-top-color : #999999;
+}
+
+.infor {
+	background-color: #ffffcc;
+	padding-left: 5px;
+}
+
+.snContainer 
+{
+	width: 100%;
+	height: 21px;
+	background-color: #ffffcc;
+	padding-left: 4px;
+	border: 0px solid #9cb4cd;
+	overflow: hidden;
+	font-family: Tahoma, Verdana, Arial, MS Sans Serif;
+	font-size: 8pt;
+}
+.snInfo 
+{
+}
+.snWarning 
+{
+	color: Red;
+}
+.snImage 
+{
+	vertical-align: middle;
+	margin: 2px 4px;
+}
+.InfoCss
+{
+	background-image: url(images/img_bulletin.jpg);
+    font-size:9px;	
+    background-repeat:no-repeat;
+}
+.InfoCssNoStaff
+{
+	background-image: url(images/img_bulletin_no.gif);
+    font-size:9px;	
+    background-repeat:no-repeat;
+}
+.Search
+{
+	border: 1px solid #999999;
+	height: 20px;
+	width: 230px;
+}
+
+.ssTextBox
+{
+	width: 100%;
+	height: 19px;
+	border: 1px solid #0098E1;
+	border-right: 0px;
+	padding-left: 5px;
+	font-size: 11px;
+	cursor: default;
+}
+.ssSpan
+{
+	height: 21px;
+}
+
+.ssListItem
+{
+}
+
+.ssCheckBox
+{
+	margin-right: 5px;
+}
+
+
+.jsProgressBar 
+{
+	border: 2 inset white; 
+	width: 100%; 
+	height: 20px; 
+	background: white; 
+	text-align: left;
+}
+.jsProgressFilter 
+{
+	position: absolute;
+	width: 0%; 
+	height: 16px; 
+	
+}
+.jsProgressFilterBackground 
+{
+	width: 100%; 
+	height: 100%; 
+	background: #b4e8d7; 
+	font-size: 1;
+}
+.jsProgressText 
+{
+	position: absolute;
+	width: 100%; 
+	text-align: center; 
+	font-family: arial; 
+	font-size: 12px; 
+	color: red;
+}
+.bottomlineborder {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #b6dbce;
+}
+.btnstyle11 {
+	background-color: #fcfce1;
+	font-size: 12px;
+	height: 23px;
+	border-top: 1px solid #C9C9C9;
+	border-right: 1px solid #C9C9C9;
+	border-bottom: 2px solid #FF9900;
+	border-left: 1px solid #C9C9C9;
+}
+
+.TextBoxPassWord 
+{
+	border: 1px solid #999999;
+	height: 20px;
+	/*width: 95px;*/
+	text-align:right;
+}
+.titlehr {
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #666666;
+}
+.Rosterinput
+{
+	border-style:hidden;
+	border:0;
+}
+.SitemapSearch
+{
+	 SCROLLBAR-FACE-COLOR: #faf1f6;
+	 SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	 SCROLLBAR-SHADOW-COLOR: #B6B6B6;
+	 SCROLLBAR-3DLIGHT-COLOR: #B6B6B6;
+	 SCROLLBAR-ARROW-COLOR: #9e054d;
+	 SCROLLBAR-TRACK-COLOR: #F4F4F4;
+	 SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF;
+	 border:0;
+	 padding: 0px 0px 0px 0px;
+	 width:100%;
+	 height:510px;
+	 overflow:auto;
+}
+
+.bulletin_title {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-image: url(images/bulletin_titlebg01.gif);
+	background-repeat: repeat-y;
+	background-position: right;
+}
+.bulletin_bg {
+	background-color: #e1e1e1;
+}
+.bulletin_rigtxt {
+	color: #6c7f13;
+}
+.bulletin_linktxt {
+	color: #333333;
+	text-decoration: none;
+}
+.bulletin_linktxt:hover {
+	color: #6c7f13;
+	text-decoration: underline;
+}
+.bulletin_bottom {
+	color: #d6f552;
+	text-decoration: none;
+	background-color: #7c7c7a;
+}
+.bulletin_bottom:hover {
+	color: #d6f552;
+	text-decoration: underline;
+	background-color: #7c7c7a;
+}
+
+.TextBoxUnderline 
+{
+	border: 1px solid #999999;
+	height: 20px;	
+	text-align:right;	
+	background-color: expression(!(readOnly||disabled)?"white":"whitesmoke");
+}
+

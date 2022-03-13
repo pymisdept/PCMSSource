@@ -1,0 +1,15 @@
+E:\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCCore\bin\Debug\PCCore.dll
+E:\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCCore\bin\Debug\PCCore.pdb
+E:\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\PCCore.dll
+E:\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\PCCore.pdb
+F:\Source\PCMS_Web_Dev_400\PCCore\bin\Debug\PCCore.dll
+F:\Source\PCMS_Web_Dev_400\PCCore\bin\Debug\PCCore.pdb
+F:\Source\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\ResolveAssemblyReference.cache
+F:\Source\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\PCCore.dll
+F:\Source\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\PCCore.pdb
+F:\PCMSSource\PCMS_Web_Dev_400\PCCore\bin\Debug\PCCore.dll
+F:\PCMSSource\PCMS_Web_Dev_400\PCCore\bin\Debug\PCCore.pdb
+F:\PCMSSource\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\ResolveAssemblyReference.cache
+F:\PCMSSource\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\PCCore.dll
+F:\PCMSSource\PCMS_Web_Dev_400\PCCore\obj\x64\Debug\PCCore.pdb

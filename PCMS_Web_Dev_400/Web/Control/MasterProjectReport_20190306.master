@@ -1,0 +1,808 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterProjectReport.master.cs" Inherits="MasterProjectReport" %>
+<%@ Register Src="Banner.ascx" TagName="Banner" TagPrefix="PC" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="PC" %>
+<%@ Register Src="NavMenu.ascx" TagName="NavMenu" TagPrefix="PC" %>
+
+<%@ Import Namespace="PCCore" %>
+<%
+   string functionid = SessionInfo.CurrentFunctionID;
+   string functioncode = SessionInfo.CurrentFunction;
+   string appUrl = Config.AppBaseUrl;
+   string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+   string BackEnd = Resources.Labels.BackEnd;
+   string FrontEnd = Resources.Labels.FrontEnd;
+   string lang = SessionInfo.CurrentLanguage;
+   string ReportLocation = "";
+    string userid = SessionInfo.UserId;
+    string username = SessionInfo.UserName;
+   string ReportName = "";
+   ibProject.ImageUrl = themeUrl + "/images/search.gif";
+   string strProjectClientID = ddlProject.ClientID;
+   string strProjectTextID = invProjCode.ClientID;
+   string actionquery = Consts.ActionQuery;
+   try
+   {
+       switch (lang)
+       {
+           case "zh-cn":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-cn", functioncode.ToUpper()).ToString();
+               break;
+           case "zh-tw":
+
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-tw", functioncode.ToUpper()).ToString();
+               break;
+           case "en-us":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report", functioncode.ToUpper()).ToString();
+               break;
+       }
+   }
+   catch (Exception ex)
+   {
+   }
+%>
+<html>
+<head runat="server">
+    <link rel="SHORTCUT ICON" href="~/flexihr.ico"/>
+    <title></title>
+    <link rel="Stylesheet" type="text/css" href="../MasterProjectReport.css" />
+    <meta http-equiv="pragma" content="no-cache" /> 
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <base target="_self" />
+</head>
+<body style="height:100%" oncontextmenu="return false;"> 
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');" >
+    
+            <PC:Banner ID="Banner" runat="server" />
+            <PC:TextBox ID="invProjCode" runat="server" Width="0px" Visible="true"></PC:TextBox>    
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" height="80%"  class="contentholder">
+                <tr>
+                    <%--<td valign="top" width="162px" height="100%">
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td valign="top"><PC:NavMenu ID="NavMenu" runat="server" /></td>                                
+                            </tr>
+                        </table>
+                    </td>--%>
+                    <td valign="top" height="100%"  class="FormContainer"> 
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                        
+                            <!---->
+                           <%-- <tr>
+                            
+                            </tr>--%>
+                            <!---->
+                            
+                                  <tr>
+                                    <td  height="10" valign="top">
+                                        <PC:Note ID="Note" runat="server" Visible="false" />
+                                    </td>
+                                  </tr>
+                                   <tr runat="server" id="NoteSepLine" visible="false" height="10" valign="top">
+                                    <td class="SepVerLine">&nbsp;</td>
+                                  </tr>
+                                  <!-- note end -->
+              
+                                  <!-- title bar begin -->
+                                  <tr>
+                                     <td height="10" valign="top">
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                                            <td class="txttitle">
+                                                <PC:Title id="Title" runat="server"></PC:Title>
+                                             </td>
+                                            <td align="right">
+                                                
+                                            </td>
+                                           </tr>
+                                          </table>
+                                       </td>
+                                  </tr>
+                                  <tr>                
+                                    <td height="10"><hr size="1" class="titlehr"></td>
+                                  </tr>                                 
+                                <!-- title bar end -->
+            
+                                <!-- content begin -->
+                                    <tr>
+                                        <td valign="top" style="padding-top:6px;padding-left:10px" width="80%">    
+                                            <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">                                                
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                        <!-- search area begin -->                
+                                                        <tr>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <%--<td width="10px">
+                                                                :
+                                                            </td>--%>
+                                                            <td>
+                                                                <%-- <PC:TextBox ID="txtFileName" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"  Width="200px" /></td>--%>
+                                                            <td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <PC:Label runat="server" ID="lblDepartment" Font-Size="Larger" LabelStyle="xLabel" Text="<%$ Resources:Labels,Project %>" />
+                                                            </td>
+                                                            <td>
+                                                                : &nbsp;</td>
+                                                            <td>
+                                                                <PC:DropDownList runat="server" Font-Size="Larger" ID="ddlProject" RegisterClientVariable="true"
+                                                                    Width="450px" />
+                                                                <PC:ImageButton ID="ibProject" runat="server" ImageUrl="<%=themeUrl %>/images/search.gif" OnClientClick="javascript:SearchProject()" />
+                                                                
+                                                                <PC:TextBox DataType="String" ID="tb_ccFm" Font-Size="Larger"  runat="server" Visible="false" RegisterClientVariable="true"></PC:TextBox>&nbsp;
+                                                                <PC:Label runat="server" ID="Label1" Visible="false" LabelStyle="xLabel" Text="<%$ Resources:Labels,To %>" />&nbsp;
+                                                                <PC:TextBox DataType="String" ID="tb_ccTo" Font-Size="Larger"  runat="server" Visible="false" RegisterClientVariable="true"></PC:TextBox>
+                                                            </td>
+                                                            <td style="width: 10px;">
+                                                                &nbsp;
+                                                            </td>
+                                                            <td style="width: 10px; ">
+                                                                &nbsp;
+                                                            </td>
+                                                            <td style="width: 100px">
+                                                                <asp:Button ID="ExportExcelButton" runat="server" Text="Export Excel" OnClientClick="javascript:if(!PrintProjectReportExcel()) return false;" Width="100" />
+                                                            </td>
+                                                            <td style="width: 20px"></td>
+                                                            <td style="width: 100px">
+                                                                <asp:Button ID="ExportPDFButton" runat="server" Text="Export PDF" OnClientClick="javascript:if(!PrintProjectReportPDF()) return false;" Width="100" />
+                                                            </td>
+							    <td style="width: 20px"></td>
+                                                            <td style="width: 25px">
+                                                                <PC:GoButton id="SearchButton" runat="server" Width="25px" OnClientClick="javascript:if(!PrintProjectReport()) return false;" />
+                                                                                     
+                                                            </td colspan="4">
+                                                            <td>
+                                                                <PC:ToolBar runat="server" Visible="false" ID="toolbContact" />
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="5px" colspan="10">
+                                                                &nbsp;</td>
+                                                        </tr>        
+                                                        <tr>
+                                                            <td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <%--<PC:Label LabelStyle="xLabel" runat="server" ID="lblSearch" Text="<%$ Resources:Labels,Date %>" />--%>
+                                                            </td>
+                                                            <td width="10px">
+                                                                <%-- :--%>
+                                                            </td>
+                                                            <td>
+                                                                <%-- <PC:TextBox ID="txtStartDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                    DataType ="Date" Width="75px" />-
+                                                                <PC:TextBox ID="txtEndDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                    DataType ="Date"  Width="75px" /></td>--%>
+                                                                    <span style="padding-left: 5px;" />
+                                                                <PC:Label runat="server" ID="Label2" Font-Size="Larger" LabelStyle="xLabel" Visible="false" Text="SubContractor" />  
+                                                             <td>
+
+                                                                 <PC:Label runat="server" ID="Label4" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text=":" />
+                                                                 <td>                                              
+                                                                <%-- <PC:Label runat="server" ID="Label1" LabelStyle="xLabel" Text="<%$ Resources:Labels,UploadBy %>" />--%>
+															<PC:DropDownList runat="server" ID="ddltProject" Font-Size="Larger" Visible="false" RegisterClientVariable="true" Width="450px" />  
+															
+                                                            </td>
+                                                            <td style="width: 10px;">
+                                                                <%-- :--%>
+                                                            </td>
+                                                            <td style="width: 10px;">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td align="right">
+                                                                &nbsp;</td>
+                                                        </tr>
+														<br />
+														<br />
+                                                            <td height="5px" colspan="10">
+                                                                &nbsp;</td>	
+                                                        <tr>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td width="10px">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <PC:Label runat="server" ID="Label3" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text="SubContractor No." />
+                                                                &nbsp;<td> 
+                                                                    <PC:Label runat="server" ID="Label5" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text=":" />
+                                                                    &nbsp;<td>
+                                                                                                                                <PC:DropDownList runat="server" ID="ddlttProject" Visible="false" Font-Size="Larger" RegisterClientVariable="true"
+                                                                    Width="450px" />
+                                                                                                                                &nbsp;<td style="width: 10px;">
+                                                                  
+                                                              
+                                                                &nbsp;</td>
+                                                            <td style="width: 10px;">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td align="right">
+                                                                &nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td width="10px">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <PC:Label runat="server" ID="Label6" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text="<%$ Resources:Labels,CutOffDate %>" />
+                                                                &nbsp;<td> 
+                                                                    <PC:Label runat="server" ID="Label7" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text=":" />
+                                                                    <td>
+                                                                    <PC:TextBox DataType="Date" ID="txtcutoff" runat="server" Visible="false" RegisterClientVariable="true"></PC:TextBox>
+                                                                    <PC:Label runat="server" ID="Label10" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text="&nbsp;to" />
+                                                                    &nbsp;<PC:TextBox DataType="Date" ID="txtcutoff2" runat="server" Visible="false" RegisterClientVariable="true"></PC:TextBox><td style="width: 10px;">
+                                                                  
+                                                              
+                                                                &nbsp;</td>
+                                                            <td style="width: 10px;">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td align="right">
+                                                                &nbsp;</td>
+                                                        </tr>
+                                                         <tr><td colspan="10">&nbsp;</td></tr>       
+                                                         <tr><td colspan="10">&nbsp;</td></tr>
+                                                        <tr>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td width="10px">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <PC:Label runat="server" ID="Label8" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text="Section / Division Code" />
+                                                                &nbsp;<td> 
+                                                                    <PC:Label runat="server" ID="Label9" Font-Size="Larger" Visible="false" LabelStyle="xLabel" Text=":" />
+                                                                                                                        &nbsp;<td>
+                                                                                                                                <PC:TextBox DataType="String" ID="txtSecDiv" runat="server" Visible="false" RegisterClientVariable="true"></PC:TextBox>
+                                                                                                                                &nbsp;<td style="width: 10px;">
+                                                                  
+                                                              
+                                                                                                                        &nbsp;</td>
+                                                            <td style="width: 10px;">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td align="right">
+                                                                &nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="5px" colspan="10">
+                                                            </td>
+                                                        </tr>
+                                                        <!-- search area end -->
+                                                        <!-- Karrson: Confirmation Button -->
+                                                        <tr height="100%">
+                                                            <td valign="top" align="left" class="Confirm" colspan="10">
+                                                                <%--<asp:Button ID="btnConfirm" Text="<%$Resources:Labels,Confirmation %>" 
+                                                                    runat="server" OnClientClick="javascript:if(!Confirm()) return false;" onclick="btnConfirm_Click" />--%>
+                                                            </td>
+                                                        </tr>
+                                                        <tr style="display:none;">
+                                                            <!--grdView begin -->
+                                                            <td class="ddlpaSearch" style="padding-left: 5px">
+                                                            </td>
+                                                            <td style="padding: 3px; height: 25px;" class="ddlpaSearch" valign="middle" 
+                                                                align="right" colspan="9">
+                                                                <PC:Label LabelStyle="xLabel" runat="server" ID="lblView" Text="<%$ Resources:Labels,View %>" />
+                                                                <%--<PC:DropDownList ID="ddlSearch" runat="server" Width="180px">
+                                                                </PC:DropDownList>--%>
+                                                                
+                                                            </td>
+                                                            <!--grdView End -->
+                                                        </tr>
+                                                        <!-- data area begin -->
+                                                        <tr height="100%">
+                                                            <td valign="top" class="GridViewContainer" colspan="10">
+                                                                <PC:DbDataSource runat="server" ID="dsGridView">
+                                                                </PC:DbDataSource>
+                                                                <%--<PC:GridView runat="server" ID="gvData" DataSourceID="dsGridView" SkinID="SecuritySkin"
+                                                                     SelectValueField="descid" DataKeyNames="descid" onselectedindexchanging="gvData_SelectedIndexChanging"  SelectedIndex="0" OnRowCommand="gvData_RowCommand"
+                                                                    BorderWidth="0" GridViewStyle="UserDefine" AllowMultipleSelect="False"  OnSorted="gvData_Sorted" OnRowDataBound="gvData_RowDataBound" OnSelectedIndexChanged="gvData_SelectedChanged" />--%>
+                                                            </td>
+                                                        </tr>
+                                                        <!-- data area end -->
+                                                        
+                                                    </table>
+
+                                                    </td>
+                                                    <td valign="top" >
+                                                        <asp:contentplaceholder id="ContentPlaceHolder" runat="server"></asp:contentplaceholder>
+                                                    </td>
+                                                </tr>
+                                            </table> 
+                                        </td>
+                                    </tr>
+                                     
+                                    
+                                <!-- content end -->            
+                              
+                             
+            </table>
+            
+        </td>
+        </tr>
+        
+        </table>
+    </form>
+
+        <PC:Footer ID="Footer" runat="server" />        
+    <script language="javascript">
+       var functionid = "<%=functionid %>";
+        var functioncode = "<%=functioncode %>";
+        var appUrl = "<%= appUrl %>";
+        var themeUrl = "<%= themeUrl %>";
+        var BackEnd = "<%= BackEnd %>";
+        var FrontEnd = "<%= FrontEnd %>";
+        var lang = "<%= lang %>";
+        var ReportLocation = "<%= ReportLocation %>";
+        var actionquery = "<%= actionquery %>";
+        var ReportName = "<%= ReportName %>";
+         var height = screen.height;
+        var width = screen.width;
+        var userid = "<%= userid %>";
+        var username = "<%= username %>";
+        var dialogFeatures = "dialogHeight:" + height + ";dialogWidth:" + width + ";";
+    	var UpAlldialogFeaturesDownoLoadFile = "menubar=no,toolbar=no,status:=no,Height=230,Width=350,top=270,left=320";
+    	var UpAlldialogFeaturesDownoLoadFileUC = "menubar=no,toolbar=no,status:=no,Height=400,Width=760,top=270,left=320";
+        
+        
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                selfToBeExecute();
+          }   
+        } 
+        
+//        function PrintProjectReportExcel_test()
+//        {
+//            var projindex = ddlProject.selectedIndex;
+//            var projValue = ddlProject.options[projindex].value;
+//           
+//            
+//            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+//            var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+//            
+//            var DB = BackEnd;
+//            var p = {};
+//            
+//            p[PARAM_URL] = "../Control/PU06ExportExcel_xls.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+//                p[PARAM_MODE] = FORM_MODE_NEW;
+//                
+//                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+//        }
+        
+        // Add by Martin, begin
+        function PrintProjectReportExcel()
+        {
+            //var tprojindex = ddltProject.selectedIndex;
+            //var tprojValue = ddltProject.options[tprojindex].value;
+            
+            var projindex;
+            var projValue;
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+            
+            if( functioncode.toUpperCase() == "QS48")
+            {
+                projindex = -1;
+                projValue = "";
+            }
+            else{
+                projindex = ddlProject.selectedIndex;
+                projValue = ddlProject.options[projindex].value;
+            }
+            
+            var DB = BackEnd;
+            var p = {};
+            
+            //var pageId = '<%=  Page.ClientID %>'; __doPostBack(pageId, projValue);
+                
+            //window.open("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue,"aa","width=800,height=600");
+            //window.open("..//ACI01ExportPDF.aspx?ProjectCode="+projValue,"aa","width=100,height=100");
+            
+            
+            if( functioncode.toUpperCase() == "AC01")
+            {
+                p[PARAM_URL] = "../Control/ACI01ExportExcel.aspx?ProjectCode="+projValue+"&UserID="+userid;
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "AC02")
+            {
+                p[PARAM_URL] = "../Control/ACI02ExportExcel.aspx?ProjectCode="+projValue+"&UserID="+userid;
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "AC03")
+            {
+                p[PARAM_URL] = "../Control/ACI03ExportExcel.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username.replace(" ","_").replace(" ","_").replace(" ","_").replace(" ","_").replace(" ","_");
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "AC08")
+            {
+                p[PARAM_URL] = "../Control/ACI08ExportExcel.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "PU06")
+            {
+                //p[PARAM_URL] = "../Control/PU06ExportExcel.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+                p[PARAM_URL] = "../Control/PU06ExportExcel_xls.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+//                if (ret == "")
+//                {
+//                    closeFormByReturnValue(COMMAND_REDIRECT);
+//                } else {
+//                    closeFormByReturnValue("refreshonly");
+//                }
+            }
+            else if( functioncode.toUpperCase() == "PU07")
+            {
+                //p[PARAM_URL] = "../Control/PU07ExportExcel.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+                p[PARAM_URL] = "../Control/PU07ExportExcel_xls.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+//                if (ret == "")
+//                {
+//                    closeFormByReturnValue(COMMAND_REDIRECT);
+//                } else {
+//                    closeFormByReturnValue("refreshonly");
+//                }
+            }
+            else if( functioncode.toUpperCase() == "QS47")
+            {
+                if(txtcutoff.value == "" || txtcutoff2.value == "")
+                {
+                    alert("Due Date cannot be empty");
+                    return;
+                }
+                else{
+                    p[PARAM_URL] = "../Control/QS47ExportExcel.aspx?FPrjCode="+projValue+"&StartDate="+txtcutoff.value+"&EndDate="+txtcutoff2.value+"&UserID="+userid+"&UserName="+username;
+                    p[PARAM_MODE] = FORM_MODE_NEW;
+                    var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+                }
+            }
+  
+            else if( functioncode.toUpperCase() == "QS48")
+            {   
+                if(tb_ccFm.value == "" || tb_ccTo.value == "")
+                    alert("Cost code range cannot be empty");
+                else
+                {
+                    p[PARAM_URL] = "../Control/QS48ExportExcel.aspx?FCC=" +tb_ccFm.value + "&TCC=" + tb_ccTo.value + "&UserName=" + username;
+                    p[PARAM_MODE] = FORM_MODE_NEW;
+                    var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");  
+               }
+            }
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+            //document.getElementByID('PDFButton').click();
+        } 
+        function PrintProjectReportPDF()
+        {
+            
+            var projindex = ddlProject.selectedIndex;
+            var projValue = ddlProject.options[projindex].value;
+            //var tprojindex = ddltProject.selectedIndex;
+            //var tprojValue = ddltProject.options[tprojindex].value;
+            
+            
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+            
+            var DB = BackEnd;
+            var p = {};
+            
+            //var pageId = '<%=  Page.ClientID %>'; __doPostBack(pageId, projValue);
+                
+            //window.open("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue,"aa","width=800,height=600");
+            //window.open("..//ACI01ExportPDF.aspx?ProjectCode="+projValue,"aa","width=100,height=100");
+            
+            //alert(functioncode);
+            
+            if( functioncode.toUpperCase() == "AC01")
+            {
+                p[PARAM_URL] = "../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid;
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "AC02")
+            {
+                p[PARAM_URL] = "../Control/ACI02ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid;
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "AC03")
+            {
+                p[PARAM_URL] = "../Control/ACI03ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid;
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "AC08")
+            {
+                p[PARAM_URL] = "../Control/ACI08ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid;
+                //End update by Martin 22 March 2011
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                //p[PARAM_MODE] = "";
+                //alert("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue)
+                var ret = showModelessForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            }
+            else if( functioncode.toUpperCase() == "PU06")
+            {
+               var _RequestStr = "../Control/PU06ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if( functioncode.toUpperCase() == "PU07")
+            {
+               var _RequestStr = "../Control/PU07ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if( functioncode.toUpperCase() == "PU09")
+            {
+               var _RequestStr = "../Control/PU09ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if( functioncode.toUpperCase() == "PU10")
+            {
+               var _RequestStr = "../Control/PU10ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if( functioncode.toUpperCase() == "PU11")
+            {
+               var _RequestStr = "../Control/PU11ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if( functioncode.toUpperCase() == "PU12")
+            {
+               var _RequestStr = "../Control/PU12ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid+"&UserName="+username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if( functioncode.toUpperCase() == "PU13")
+            {
+               var _RequestStr = "../Control/PU13ExportPDF.aspx?ProjectCode="+projValue+"&UserID="+userid+"&DocDate=" + txtcutoff.value + "&UserName="+username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if( functioncode.toUpperCase() == "QS45")
+            {   
+                if(subcon != "")
+                {
+                    var _RequestStr = "../Control/QS45ExportPDF.aspx?DocEntry=" +projValue+ "&FPrjCode="+ subcon.substring(9,14) + "&UserName=" + username;
+                    window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+                }
+                else
+                    alert("Subcontractor No. cannot be empty");
+            }
+            else if( functioncode.toUpperCase() == "QS28")
+            {   
+                    var _RequestStr = "../Control/QS28ExportPDF.aspx?FPrjCode="+projValue+"&UserName=" + username+"&DocDate=" + txtcutoff.value;
+                    window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            else if(functioncode.toUpperCase() == "AC04")
+            {
+                var _RequestStr = "../Control/AC04ExportPDF.aspx?FPrjCode="+projValue+"&UserID="+userid+"&DocDate=" + txtcutoff.value+ "&UserName=" + username;
+                window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }else if(functioncode.toUpperCase() == "AC05")
+            {
+                var _RequestStr = "../Control/AC05ExportPDF.aspx?FPrjCode="+projValue+"&UserID="+userid+"&DocDate=" + txtcutoff.value+ "&UserName=" + username;
+                window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);           
+            }else if(functioncode.toUpperCase() == "AC06")
+            {
+                var _RequestStr = "../Control/AC06ExportPDF.aspx?FPrjCode="+projValue+"&UserID="+userid+"&DocDate=" + txtcutoff.value+ "&UserName=" + username;
+                window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            
+            }
+            else if(functioncode.toUpperCase() == "AC07")
+            {
+               var _RequestStr = "../Control/AC07ExportPDF.aspx?DocDate=" + txtcutoff.value+"&UserID="+userid+ "&UserName=" + username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }else if(functioncode.toUpperCase() == "MA02")
+            {
+               var _RequestStr = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&UserName=" + username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFileUC ,false);   
+            }  
+            else if(functioncode.toUpperCase() == "MA03")
+            {
+               var _RequestStr = "../Control/MA03ExportPDF.aspx?DocDate=" + txtcutoff.value+"&SDCode=" + txtSecDiv.value+ "&UserName=" + username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile ,false);   
+            }
+            else if(functioncode.toUpperCase() == "MA04")
+            {
+               var _RequestStr = "../Control/MA04ExportPDF.aspx?DocDate=" + txtcutoff.value+"&SDCode=" + txtSecDiv.value+ "&UserName=" + username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile ,false);   
+            }
+            else if(functioncode.toUpperCase() == "MA05" || functioncode.toUpperCase() == "MA09" || functioncode.toUpperCase() == "MA10"|| functioncode.toUpperCase() == "MA14")
+            {
+               var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+               var _RequestStr = "../Control/" + _ReportName + "ExportPDF.aspx?DocDate=" + txtcutoff.value+ "&UserName=" + username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile ,false);   
+            }
+            else if(functioncode.toUpperCase() == "MA15")
+            {
+               var _RequestStr = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&UserName=" + username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFileUC ,false);   
+            }
+            else if( functioncode.toUpperCase() == "QS47")
+            {   
+                if(txtcutoff.value == "" || txtcutoff2.value == "")
+                    alert("Due Date cannot be empty");
+                else
+                {
+                    var _RequestStr = "../Control/QS47ExportPDF.aspx?FPrjCode=" +projValue + "&StartDate=" + txtcutoff.value + "&EndDate=" + txtcutoff2.value + "&UserName=" + username;
+                    window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+               }
+            }
+            else 
+            {
+               var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+               var _RequestStr = "../Control/" + _ReportName + "ExportPDF.aspx?FPrjCode="+projValue+"&UserName=" + username;
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false);     
+            }
+            //var ret = showForm(p,"dialogHeight:100px;dialogWidth:100px;");
+            //window.showModalDialog("../Control/ACI01ExportPDF.aspx?ProjectCode="+projValue,"ExportWin", "dialogWidth:100px; dialogHeight:100px;center:yes");
+            
+            //alert('test'); 
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+            //document.getElementByID('PDFButton').click();
+        }
+        // Add by Martin, end
+        
+        //Report For Project Base
+        function PrintProjectReport()
+        {
+        
+            var projindex = ddlProject.selectedIndex;
+            var projValue = ddlProject.options[projindex].value;
+            //var tprojindex = ddltProject.selectedIndex;
+            //var tprojValue = ddltProject.options[tprojindex].value;
+            //var cutoffdate = txtcutoff.value;
+            
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+            
+            var DB = BackEnd;
+            var p = {};
+            
+            if (functionid == "2113")
+            {
+                if( txtcutoff.value.length == 0)
+                {
+                    alert("Cut Off date must be input");
+                    return;
+                }
+            }
+            
+            //Begin update by Ken, 20170915
+            //alert(projValue);
+            //Begin update by Martin 22 March 2011
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&UserID=" + userid;
+            if (functionid == "1145")
+                if(subcon != "")
+                    p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&DocEntry=" +projValue+ "&FPrjCode="+ subcon.substring(9,14) + "&UserID=" + username;
+                else
+                 {
+                    alert("Subcontractor No. cannot be empty");
+                    return;
+                 }
+            else if (functionid == "2113")
+                p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&DocDate=" + txtcutoff.value + "&UserID=" + username;
+            else if(functionid == "1147")
+            {
+                if(txtcutoff.value == "" || txtcutoff2.value == "")
+                {
+                    alert("Due Date cannot be empty");
+                    return;
+                }
+                else
+                    p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&PrjCode=" + projValue + "&StartDate=" + txtcutoff.value + "&EndDate=" + txtcutoff2.value + "&UserID=" + username;
+            }
+            else
+                p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&UserID=" + username;
+            //End update by Martin 22 March 2011
+            //alert(p[PARAM_URL]);
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            // Report Link Alert Debug
+            //alert(p[PARAM_URL]);
+            //location.href= p[PARAM_URL];
+            //var ret = showForm(p, dialogFeatures);  
+            var ret = showModelessForm(p,dialogFeatures);
+            
+            //alert('test'); 
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+
+//            
+        }
+        
+        function SearchProject()
+	{
+	    
+	    var p = {};
+	    var strProjectClientID = "<%=strProjectClientID %>";
+	    var strProjectTextID = "<%=strProjectTextID %>";
+	    var formUrl = "../Control/Search.aspx?type=project&action=" + actionquery + "&function=" + functionid;
+	    
+        p[PARAM_URL] = formUrl;
+        p[PARAM_MODE] = FORM_MODE_NEW;
+        
+        var SearchdialogFeatures = "dialogHeight:" + 300+ "px;dialogWidth:" + 800 + "px;";
+        var ret = showForm(p, SearchdialogFeatures); 
+        var ddl = document.getElementById(strProjectClientID);
+        
+        
+        if (ret != "" && ret != undefined)
+        {
+              //alert(ret);    
+//            for(var i=0;i<=ddl.length-1;i=i+1)
+//            {
+//                
+//                var ddlText=ddl.options[i].outerText;
+//                alert(ddlText);
+//                if(ddlText==ret)
+//                {
+//                    ddl.selectedIndex=i;
+//                    //ddl.onchange();
+//                    break;
+//                }
+//            } 
+            
+            document.getElementById(strProjectTextID).value = ret;
+            //alert(document.getElementById(strProjectTextID).value);
+            //document.getElementById(strProjectClientID).selectedvalue = ret;
+            //document.getElementById(strProjectClientID).selectedIndex = 10;
+            //frmMain.submit();
+            document.forms[0].submit();
+        }
+	}
+    </script>
+    
+</body>
+</html>

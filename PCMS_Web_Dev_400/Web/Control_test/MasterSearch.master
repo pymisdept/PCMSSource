@@ -1,0 +1,135 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterSearch.master.cs" Inherits="MasterSearch" %>
+
+<%@ Import Namespace="PCCore" %>
+<html>
+<%
+    string functioncode = SessionInfo.CurrentFunction ;
+    string functionid = SessionInfo.CurrentFunctionID ;
+    string lang = SessionInfo.CurrentLanguage;
+    string appUrl = Config.AppBaseUrl;
+    string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+    PCCore.Common.HRLog.RecordLog("ThemeUrl," + themeUrl);
+    
+    
+%>
+<head runat="server">
+    <title></title>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    
+    <!--<link href="~/Control/gridview-nopagedown.css" rel="stylesheet" type="text/css" />-->
+    <!--<script src="../Leave/LeaveJScript.js" type="text/javascript" language="javascript"></script> -->
+    
+    <base target="_self" />
+</head>
+
+<%
+    string strtype = Request.QueryString["type"].ToString();
+    string straction = "";
+    try
+    {
+        straction = Request.QueryString["action"].ToString();
+    }
+    catch (Exception ex) { }
+    
+%>
+<%--<body class="subwinbg" style="margin: 0 5 5 0" oncontextmenu="return false;">--%>
+<body style="margin: 5 5 5 5" oncontextmenu="return false;">
+        <form id="frmMain" runat="server">
+        <input type="hidden" id="_type" runat="server" />
+        <input type="hidden" id="_group" runat="server" />
+        <input type="hidden" id="_user" runat="server" />
+        <input type="hidden" id="_action" runat="server" />
+        <input type="hidden" id="_function" runat="server" />
+        
+        
+        <!-- content begin -->
+                  
+            <%--<asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>--%>
+                  
+    
+                    <!-- content end -->
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+            
+            <!-- Search Textbox -->
+            <tr>
+               <td width="100%">
+                <table width="100%">
+                <tr>
+                    <td align="right" width="20%">
+                    <PC:Label ID="Label1" runat="server" Text="<%$ Resources:Labels,ProjectCodeName %>"></PC:Label>
+                    </td>
+                    <td width="5%">
+                    :
+                    </td>
+                    <td width="60%">
+                    <PC:TextBox ID="txtSearch1" Width="100%" runat="server"></PC:TextBox>
+                    </td>
+                    
+                    <td width="15%">
+                    <asp:Button ID="ibSearch" runat="server" Width="100%" OnClick="ibSearch_Click" Text="<%$ Resources:Labels,Search %>" />
+                    
+                    </td>
+                </tr>
+                </table>
+                </td>
+            </tr>
+            <tr>
+            <td class="GridViewContainer">
+               <div style="overflow:scroll; height:200px">
+                <PC:DbDataSource ID="dsGridView" runat="server">
+                </PC:DbDataSource>
+                
+                <PC:SearchGridView runat="server" ID="gvData" DataSourceID="dsGridView" SkinID="SearchSkin"
+                    SelectValueField="prjcode" DataKeyNames="id" Height="200px"  AllowPaging="false"   SelectedIndex="0" 
+                    BorderWidth="0" GridViewStyle="UserDefine" AllowMultipleSelect="False"/><br />
+              </div>       
+                <asp:Button ID="btnSelect" runat="server" Text="<%$ Resources:Labels,Select %>" OnClientClick="javascript:selectValue()" />
+                
+            </td>
+            </tr>
+           
+        </table>
+       <!-- content begin -->
+                  
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+                  </asp:ContentPlaceHolder>
+                  
+    
+                    <!-- content end -->
+    </form>
+</body>
+
+<script language="javascript">
+    var functioncode = "<%= functioncode %>";
+    var functionid = "<%= functionid %>";
+    
+    function selectValue()
+    {
+        
+        var selected;
+        var status;
+        var row = gvData.getSelectedRow();
+        //status = gvData.getCellText(row, 0);
+        selected = gvData.getSelectedRowValue();
+        
+        if(!SimpleJS.isNullOrEmpty(selected)) {
+         
+            window.returnValue = selected;
+        }
+        self.close();
+        
+    }
+	function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                
+                selfToBeExecute();
+          }   
+    } 
+</script>
+
+</html>

@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterRDP.master.cs" Inherits="MasterRDP" %>
+<%@ Register Src="Banner.ascx" TagName="Banner" TagPrefix="PC" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="PC" %>
+<%@ Import Namespace="PCCore" %>
+<html>
+<% 
+        string appUrl = Config.AppBaseUrl;
+        string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+        string isLogin = PCCore.SessionInfo.IsLogin.ToString();
+        string SAPServer = Config.SAPServer.ToString();
+        string UserID = SessionInfo.LoginName.ToString();
+        string Password = SessionInfo.UserPassword.ToString();
+        
+        PCCore.Common.HRLog.RecordLog(SAPServer);
+        PCCore.Common.HRLog.RecordLog(UserID);
+        PCCore.Common.HRLog.RecordLog(Password);    
+        string link = "./B1.htm?Server=" + SAPServer + "User=" + UserID + "Pass=" + Password;
+    %>
+<iframe  id="Iframe1" style=" position: absolute;left: 0px; z-index:1; overflow:scroll; top: 0px; width:100% ; height:100%;
+      frameborder="0"   scrolling="no"  marginwidth="0"  marginheight="0"  scrolling="yes"  src = "<%=link %>">
+    </iframe>
+<head runat="server">
+    <link rel="SHORTCUT ICON" href="~/flexihr.ico"/>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="~/Control/gridview-basic.css" rel="stylesheet" type="text/css" />
+    <link href="~/Control/listbar-basic.css" rel="stylesheet" type="text/css" />
+     <link href="~/Control/listbar-payroll.css" rel="stylesheet" type="text/css" />
+     <link href="~/Control/Div.css" rel="stylesheet" type="text/css" />
+    <title></title>
+</head>
+<body  style="height: 100%; background-color: #FFFFFF;overflow:hidden;" oncontextmenu="return false;">
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');">
+        
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" height="100%" class="contentholder">
+            <tr>
+                <td>
+                    <PC:Banner ID="Banner" runat="server" />
+                </td>
+            </tr>
+            <tr>
+                <td height="100%" width="100%" valign="top">
+                <div id="divMain" runat="server">
+                    <asp:ContentPlaceHolder ID="BaseContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;</td>
+            </tr>
+        </table>
+        
+    </form>
+
+    <script language="javascript">
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                selfToBeExecute();
+          }   
+        } 
+    </script>
+
+</body>
+</html>

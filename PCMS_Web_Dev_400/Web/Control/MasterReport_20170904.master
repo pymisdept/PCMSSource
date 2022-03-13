@@ -1,0 +1,391 @@
+﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterReport.master.cs" Inherits="MasterReport" %>
+<%@ Register Src="Banner.ascx" TagName="Banner" TagPrefix="PC" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="PC" %>
+<%@ Register Src="NavMenu.ascx" TagName="NavMenu" TagPrefix="PC" %>
+
+<%@ Import Namespace="PCCore" %>
+<%
+   string functionid = SessionInfo.CurrentFunctionID;
+   string userid = SessionInfo.UserId;
+   string username = SessionInfo.UserName;
+   string functioncode = SessionInfo.CurrentFunction;
+   string appUrl = Config.AppBaseUrl;
+   string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+   string BackEnd = Resources.Labels.BackEnd;
+   string FrontEnd = Resources.Labels.FrontEnd;
+   string lang = SessionInfo.CurrentLanguage;
+   string ReportLocation = "";
+   string ReportName = "";
+   string DOCUMENT_POSTED = Consts.DOCUMENT_POSTED;
+   ibProject.ImageUrl = themeUrl + "/images/search.gif";
+   string strProjectClientID = ddlProject.ClientID;
+   string strProjectTextID = invProjCode.ClientID;
+   string actionquery = Consts.ActionQuery;
+   try
+   {
+       switch (lang)
+       {
+           case "zh-cn":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-cn", functioncode.ToUpper()).ToString();
+               break;
+           case "zh-tw":
+
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-tw", functioncode.ToUpper()).ToString();
+               break;
+           case "en-us":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report", functioncode.ToUpper()).ToString();
+               break;
+       }
+   }
+   catch (Exception ex)
+   {
+   }
+%>
+<html>
+<head runat="server">
+    <link rel="SHORTCUT ICON" href="~/flexihr.ico"/>
+    <title></title>
+    <meta http-equiv="pragma" content="no-cache" /> 
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <base target="_self" />
+</head>
+<body style="height:100%" oncontextmenu="return false;"> 
+
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');" >
+            <PC:Banner ID="Banner" runat="server" />
+            <PC:TextBox ID="invProjCode" runat="server" Width="0px" Visible="true"></PC:TextBox>    
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" height="80%"  class="contentholder">
+                <tr>
+                    <%--<td valign="top" width="162px" height="100%">
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td valign="top"><PC:NavMenu ID="NavMenu" runat="server" /></td>                                
+                            </tr>
+                        </table>
+                    </td>--%>
+                    <td valign="top" height="100%"  class="FormContainer"> 
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                        
+                            <!---->
+                           <%-- <tr>
+                            
+                            </tr>--%>
+                            <!---->
+                            
+                                  <tr>
+                                    <td  height="10" valign="top">
+                                        <PC:Note ID="Note" runat="server" Visible="false" />
+                                    </td>
+                                  </tr>
+                                   <tr runat="server" id="NoteSepLine" visible="false" height="10" valign="top">
+                                    <td class="SepVerLine">&nbsp;</td>
+                                  </tr>
+                                  <!-- note end -->
+              
+                                  <!-- title bar begin -->
+                                  <tr>
+                                     <td height="10" valign="top">
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                                            <td class="txttitle">
+                                                <PC:Title id="Title" runat="server"></PC:Title>
+                                             </td>
+                                            <td align="right">
+                                                
+                                            </td>
+                                           </tr>
+                                          </table>
+                                       </td>
+                                  </tr>
+                                  <tr>                
+                                    <td height="10"><hr size="1" class="titlehr"></td>
+                                  </tr>                                 
+                                <!-- title bar end -->
+            
+                                <!-- content begin -->
+                                    <tr>
+                                        <td valign="top" style="padding-top:6px;padding-left:10px" width="80%">    
+                                            <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">                                                
+                                                <tr>
+                                                <td valign="top">
+                                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                            <!-- search area begin -->                
+                                                            <tr>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label runat="server" ID="lblDivision" LabelStyle="xLabel" Text="<%$ Resources:Labels,DocumentNo %>" />
+                                                                </td>
+                                                                <td width="10px">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                    <PC:TextBox ID="txtFileName" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"  Width="200px" /></td>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label runat="server" ID="lblDepartment" LabelStyle="xLabel" Text="<%$ Resources:Labels,Project %>" />
+                                                                </td>
+                                                                <td style="width: 10px;">
+                                                                    :
+                                                                </td>
+                                                                <td colspan="3">
+                                                                    <PC:DropDownList runat="server" ID="ddlProject" RegisterClientVariable="true"
+                                                                        Width="400px" />
+                                                                        <PC:ImageButton ID="ibProject" runat="server" ImageUrl="<%=themeUrl %>/images/search.gif" OnClientClick="javascript:SearchProject()" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="5px" colspan="10">
+                                                                </td>
+                                                            </tr>        
+                                                            <tr>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label LabelStyle="xLabel" runat="server" ID="lblSearch" Text="<%$ Resources:Labels,UploadTime %>" />
+                                                                </td>
+                                                                <td width="10px">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                    <PC:TextBox ID="txtStartDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                        DataType ="Date" Width="75px" />-
+                                                                    <PC:TextBox ID="txtEndDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                        DataType ="Date"  Width="75px" /></td>
+                                                                 <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label runat="server" ID="Label1" LabelStyle="xLabel" Text="<%$ Resources:Labels,UploadBy %>" />
+                                                                </td>
+                                                                <td style="width: 10px;">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                    <PC:DropDownList runat="server" ID="ddlUser" RegisterClientVariable="true"
+                                                                        Width="200px" />
+                                                                </td>
+                                                                <td>
+                                                                    Status:
+                                                                    <PC:DropDownList runat="server" ID="ddlStatus" RegisterClientVariable="true" Width="190px"/>
+                                                                   
+                                                                </td>
+                                                                <td>
+                                                                    <PC:SearchButton id="SearchButton" runat="server" />
+                                                                </td>
+                                                                <td align="right">
+                                                                    <PC:ReportToolBar runat="server" ID="toolbContact" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="5px" colspan="10">
+                                                                </td>
+                                                            </tr>
+                                                            <!-- search area end -->
+                                                            <tr style="display:none;">
+                                                                <!--grdView begin -->
+                                                                <td class="ddlpaSearch" style="padding-left: 5px">
+                                                                </td>
+                                                                <td style="padding: 3px; height: 25px;" class="ddlpaSearch" valign="middle" align="right" colspan="9">
+                                                                    <PC:Label LabelStyle="xLabel" runat="server" ID="lblView" Text="<%$ Resources:Labels,View %>" />
+                                                                    <PC:DropDownList ID="ddlSearch" runat="server" Width="180px">
+                                                                    </PC:DropDownList>
+                                                                </td>
+                                                                <!--grdView End -->
+                                                            </tr>
+                                                            <!-- data area begin -->
+                                                            <tr height="100%">
+                                                                <td valign="top" class="GridViewContainer" colspan="10">
+                                                                    <PC:DbDataSource runat="server" ID="dsGridView">
+                                                                    </PC:DbDataSource>
+                                                                    <PC:GridView runat="server" ID="gvData" DataSourceID="dsGridView" SkinID="SecuritySkin"
+                                                                         SelectValueField="ID"
+                                                                        BorderWidth="0" GridViewStyle="UserDefine" AllowMultipleSelect="False" OnRowDataBound="gvData_RowDataBound" />
+                                                                </td>
+                                                            </tr>
+                                                            <!-- data area end -->
+                                                        </table>
+
+                                                </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top" >
+                                                        <asp:contentplaceholder id="ContentPlaceHolder" runat="server"></asp:contentplaceholder>
+                                                    </td>
+                                                </tr>
+                                            </table> 
+                                        </td>
+                                    </tr>
+                                     
+                                    
+                                <!-- content end -->            
+                              
+                             
+            </table>
+            
+        </td>
+        </tr>
+        
+        </table>
+    </form>
+
+        <PC:Footer ID="Footer" runat="server" />        
+    <script language="javascript">
+       var functionid = "<%=functionid %>";
+        var functioncode = "<%=functioncode %>";
+        var appUrl = "<%= appUrl %>";
+        var themeUrl = "<%= themeUrl %>";
+        var BackEnd = "<%= BackEnd %>";
+        var FrontEnd = "<%= FrontEnd %>";
+        var lang = "<%= lang %>";
+        var ReportLocation = "<%= ReportLocation %>";
+        var ReportName = "<%= ReportName %>";
+        var userid = "<%=userid %>";
+        var username = "<%=username %>";
+         var height = screen.height;
+        var width = screen.width;
+        var DOCUMENT_POSTED = "<%=DOCUMENT_POSTED %>";
+        var dialogFeatures = "scrollbars=1;dialogHeight:" + height + ";dialogWidth:" + width + ";";
+        
+        var frmMain = document.forms[0]; 
+    	
+    	//karrson: change url
+    	// var formUrl = "ProjectItemSetup_Form.aspx";
+    	
+    	var UpAlldialogFeaturesDownoLoadFile = "status:=no,Height=230,Width=350,top=270,left=320";
+    	var UpAllDownoLoadFileUrl = "<%=appUrl %>/Control/DownLoadFile.aspx"; 
+    	
+        
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                selfToBeExecute();
+          }   
+        } 
+        // Print Report For Session ID
+        function PrintDocumentReport(fid,eid,DocStatus)
+        {
+            
+//            alert('PrintDocumentReport')
+//            alert(functionid)
+//            alert(fid)
+//            alert(eid)
+//            alert(DocStatus)
+            var id = "";
+            var DB = "";
+            var p = {};
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            
+            var _ReportName = "";
+            var r_ReportName = "";
+            _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+//            alert(extend);
+            
+            if (DocStatus == DOCUMENT_POSTED)
+            {
+                id = fid;
+                DB = BackEnd;
+                r_ReportName = ReportName;
+            } 
+            else
+            {
+                id = fid;
+                DB = FrontEnd;
+                r_ReportName = ReportName;
+                
+            }
+            //alert(r_ReportName + ' ' +id + userid);
+            //p[PARAM_URL] = ReportLocation + "?Report=" + r_ReportName + "&DocEntry=" + id +"&UserID=" + userid;
+            // Begin update by Martin 26 March 2011
+            p[PARAM_URL] = ReportLocation + "?Report=" + r_ReportName + "&DocEntry=" + id +"&UserID=" + username;
+            // End update by Martin 26 March 2011
+            //alert(p[PARAM_URL]);
+            //p[PARAM_URL] = ReportLocation + "?Report=" + r_ReportName + "&DocEntry=" + id;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            //Report Link alert debug
+            //alert(p[PARAM_URL]);
+            
+            
+           
+                //var ret = showForm(p, dialogFeatures);            
+                var ret = showModelessForm(p,dialogFeatures);
+                //var ret = window.open   
+            
+                
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+            
+        }
+        "&UserID=" + userid;    
+    	
+    	
+    	function DownloadFile(id)
+        {
+            if (id !="")
+            {           
+               _RequestStr = UpAllDownoLoadFileUrl+"?UpRecordID="+id;             
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false); //open a new blank widows,if click open ,open in it                
+            }
+        }
+
+       function Refresh() { 
+            setCommand(COMMAND_REFRESH);       
+            frmMain.submit();
+        }
+        
+       
+    function SearchProject()
+	{
+	    
+	    var p = {};
+	    
+	    var strProjectClientID = "<%=strProjectClientID %>";
+	    var strProjectTextID = "<%=strProjectTextID %>";
+	    var actionquery = "<%=actionquery %>";
+	    var formUrl = "../Control/Search.aspx?type=project&action=" + actionquery + "&function=" + functionid;
+	    
+        p[PARAM_URL] = formUrl;
+        p[PARAM_MODE] = FORM_MODE_NEW;
+        
+        var SearchdialogFeatures = "dialogHeight:" + 300+ "px;dialogWidth:" + 800 + "px;";
+        var ret = showForm(p, SearchdialogFeatures); 
+        var ddl = document.getElementById(strProjectClientID);
+        
+        
+        if (ret != "" && ret != undefined)
+        {
+              //alert(ret);    
+//            for(var i=0;i<=ddl.length-1;i=i+1)
+//            {
+//                
+//                var ddlText=ddl.options[i].outerText;
+//                alert(ddlText);
+//                if(ddlText==ret)
+//                {
+//                    ddl.selectedIndex=i;
+//                    //ddl.onchange();
+//                    break;
+//                }
+//            } 
+            
+            document.getElementById(strProjectTextID).value = ret;
+            //alert(document.getElementById(strProjectTextID).value);
+            //document.getElementById(strProjectClientID).selectedvalue = ret;
+            //document.getElementById(strProjectClientID).selectedIndex = 10;
+            //frmMain.submit();
+            document.forms[0].submit();
+        }
+	}
+        
+        
+         
+
+       
+       
+    </script>
+    
+</body>
+</html>

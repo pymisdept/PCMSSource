@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Accessdenied" xml:space="preserve">
+    <value>拒绝访问，只有记录创建者才能执行本操作。</value>
+  </data>
+  <data name="AdditionalDataImport" xml:space="preserve">
+    <value>是否确定导入月额外收入资料?</value>
+  </data>
+  <data name="AgreementNotExist" xml:space="preserve">
+    <value>协议书不全在</value>
+  </data>
+  <data name="AreYouwantToContinue" xml:space="preserve">
+    <value>是否继续?</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>后退</value>
+  </data>
+  <data name="Batchfaild" xml:space="preserve">
+    <value>批次号生成失败。</value>
+  </data>
+  <data name="BirthDateEarlierThanToday" xml:space="preserve">
+    <value>出生日期必须大于今天。</value>
+  </data>
+  <data name="BirthDateLaterThanDssueDate" xml:space="preserve">
+    <value>签发日期必须大于出生日期。</value>
+  </data>
+  <data name="BirthDateLaterThanInsuranceEffectiveDate" xml:space="preserve">
+    <value>保险生效日期必须大于出生日期。</value>
+  </data>
+  <data name="Brithdatelaterthan19000101" xml:space="preserve">
+    <value>出生日期必须早于今天后于1900-01-01。</value>
+  </data>
+  <data name="CanNotDeleteApprovedRecord" xml:space="preserve">
+    <value>不能删除已批准的记录。</value>
+  </data>
+  <data name="CanNotDeleteSubmitRecord" xml:space="preserve">
+    <value>不能删除已提交的记录。</value>
+  </data>
+  <data name="CannotDeleteSystemData" xml:space="preserve">
+    <value>不能删除系统数据。</value>
+  </data>
+  <data name="CanNotRehiredStaff" xml:space="preserve">
+    <value>该员工已离职，不能重新雇用</value>
+  </data>
+  <data name="CarryDaysMustLassThanCanCarryDays" xml:space="preserve">
+    <value>可转天数必须小于最大可转天数。</value>
+  </data>
+  <data name="CarryForwardDaysGreaterThanEntitledDays" xml:space="preserve">
+    <value>必须小于可享用天数。</value>
+  </data>
+  <data name="CarryForwardHaveSameRecord" xml:space="preserve">
+    <value>不能保存休假结转纪录。数据已经保存相同的纪录。</value>
+  </data>
+  <data name="CheckRecord" xml:space="preserve">
+    <value>你选择的数据不是最后的记录，请检查。</value>
+  </data>
+  <data name="CircleBetween1and30" xml:space="preserve">
+    <value>周期必须在1和31之间。</value>
+  </data>
+  <data name="CompanyandPeriodAlreadyUpdated" xml:space="preserve">
+    <value>所选期间的部分公司已经完成过计算。</value>
+  </data>
+  <data name="CompareToMustBiggerCompareFrom" xml:space="preserve">
+    <value>比较值开始必须大于比较值结束</value>
+  </data>
+  <data name="CompEffectiveDate" xml:space="preserve">
+    <value>开始日期必须在入职日期和结束日期之间。</value>
+  </data>
+  <data name="CompEndDate" xml:space="preserve">
+    <value>培训结束日期必须在培训开始日期和协议开始日期之间。</value>
+  </data>
+  <data name="CompFromDate" xml:space="preserve">
+    <value>协议开始日期必须在培训结束日期和协议结束日期之间。</value>
+  </data>
+  <data name="CompJoinDate" xml:space="preserve">
+    <value>开始时间必须大于加入时间。</value>
+  </data>
+  <data name="CompStartDate" xml:space="preserve">
+    <value>培训开始日期必须在出生日期和培训结束日期之间。</value>
+  </data>
+  <data name="CompToDate" xml:space="preserve">
+    <value>协议结束日期必须在协议开始日期之前。</value>
+  </data>
+  <data name="ComSpoJoinFeeLassThanJoinFee" xml:space="preserve">
+    <value>赞助费必定少于入会费</value>
+  </data>
+  <data name="ComSpoSubFeeLassThanSubFee" xml:space="preserve">
+    <value>赞助费必定少于会费</value>
+  </data>
+  <data name="ComStartDate" xml:space="preserve">
+    <value>开始日期必须在入职日期和结束日期之间。</value>
+  </data>
+  <data name="ComTime" xml:space="preserve">
+    <value>开始时间必须小于结束时间。</value>
+  </data>
+  <data name="ContractDateError" xml:space="preserve">
+    <value>合同日期已在生效和失效日期已存在。 请检测。</value>
+  </data>
+  <data name="DataGeneration" xml:space="preserve">
+    <value>系统将根据选择的员工和日期生成出勤记录，其出勤记录的打卡时间将与班次&lt;br&gt;的设定时间相同，请确认选择的班次与员工的雇佣设定是否一致。在完成之前，&lt;br&gt;将显示导入的总数和进程，你要继续进行吗？</value>
+  </data>
+  <data name="DataImport" xml:space="preserve">
+    <value>请通过点击文文件控件的Browse按钮选择需要导入的文档，原始的出勤数据将会&lt;br&gt;被检测，写入系统，如果员工和日期相同，记录将会被覆盖。在完成之前，&lt;br&gt;将显示导入的总数和进程，你要继续进行吗？</value>
+  </data>
+  <data name="DateFromLaterThanJoinDate" xml:space="preserve">
+    <value>开始日期必须大于入职日期。</value>
+  </data>
+  <data name="DateOfIssueLassThanJoinDate" xml:space="preserve">
+    <value>签发日期必须大于或等于入职日期。</value>
+  </data>
+  <data name="DateToLaterThanDateFrom" xml:space="preserve">
+    <value>开始日期必须大于结束日期。</value>
+  </data>
+  <data name="DeleteAllEmploymentDetail1" xml:space="preserve">
+    <value>确定要删除所选的员工的雇佣记录吗？</value>
+  </data>
+  <data name="DeleteAllEmploymentDetail2" xml:space="preserve">
+    <value>所有雇佣关联的数据将被删除，确定继续吗？</value>
+  </data>
+  <data name="DeleteAllEmploymentDetail3" xml:space="preserve">
+    <value>所有雇佣相关数据将被删除并且不能恢复，确定要这样做吗？</value>
+  </data>
+  <data name="DeleteAllPersonalDetail1" xml:space="preserve">
+    <value>确定要删除所选的员工的数据吗？</value>
+  </data>
+  <data name="DeleteAllPersonalDetail2" xml:space="preserve">
+    <value>所有相关的数据将被删除，确定继续吗？</value>
+  </data>
+  <data name="DeleteAllPersonalDetail3" xml:space="preserve">
+    <value>所有相关的数据将被删除并且不能恢复，确定要这样做吗？</value>
+  </data>
+  <data name="DeletedShouldNoEnoughtCompensationDays" xml:space="preserve">
+    <value>如记录删除后得出的补假天数和少于已补假的天数。\r\n删除没有完成。</value>
+  </data>
+  <data name="DeletePersonalDetailError" xml:space="preserve">
+    <value>在处理删除个人资料关联到的明细记录过程中出现错误。删除过程不能完成。</value>
+  </data>
+  <data name="DenominatorMustBiggerThanZero" xml:space="preserve">
+    <value>分母不能为零。</value>
+  </data>
+  <data name="DiscountLess100P" xml:space="preserve">
+    <value>津贴必须小于 100%。</value>
+  </data>
+  <data name="EffDateMustLateJoinDate" xml:space="preserve">
+    <value>生效日期必须大于或等于入职日期。</value>
+  </data>
+  <data name="EffectiveDate" xml:space="preserve">
+    <value>请输入有效日期。</value>
+  </data>
+  <data name="EffectiveDateLaterThanJoinDate" xml:space="preserve">
+    <value>生效日期必须大于入职日期。</value>
+  </data>
+  <data name="EndDateBiggerStartDate" xml:space="preserve">
+    <value>结束日期不能小于开始日期。</value>
+  </data>
+  <data name="EndDateLaterStartDate" xml:space="preserve">
+    <value>结束日期必须大于或等于开始日期。</value>
+  </data>
+  <data name="EndDateMustLaterThanBeginDate" xml:space="preserve">
+    <value>结束日期必须大于开始日期。</value>
+  </data>
+  <data name="EndTimeLaterStartTime" xml:space="preserve">
+    <value>结束时间必须大于开始时间。</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>错误</value>
+  </data>
+  <data name="ErrorEmail" xml:space="preserve">
+    <value>请录入正确的电邮地址格式，例如:’saphr@sap.com.</value>
+  </data>
+  <data name="ErrorInputYear" xml:space="preserve">
+    <value>请输入正确的年份。</value>
+  </data>
+  <data name="EventDateLaterThanJoinDate" xml:space="preserve">
+    <value>事件日期必须在入职日期之后。</value>
+  </data>
+  <data name="ExistsName" xml:space="preserve">
+    <value>你所保存的名称已经存在，是否覆盖原来的名称？</value>
+  </data>
+  <data name="ExpireDateLaterThanEffectDate" xml:space="preserve">
+    <value>终止日期必须在生效日期之后。</value>
+  </data>
+  <data name="ExpireDateLaterThanIssueDate" xml:space="preserve">
+    <value>终止日期必须在签发日期之后。</value>
+  </data>
+  <data name="ExpireDateLaterThanJoinDate" xml:space="preserve">
+    <value>终止日期必须在入职日期之后。</value>
+  </data>
+  <data name="ExpireDateMustLateEffectiveDate" xml:space="preserve">
+    <value>终止日期必须在生效日期之后。</value>
+  </data>
+  <data name="ExpireDateMustLaterThanEffectiveDate" xml:space="preserve">
+    <value>终止日期必须在生效日期之后。</value>
+  </data>
+  <data name="Expiredatemustlaterthanissuedate" xml:space="preserve">
+    <value>终止日期必须后于签发日期。</value>
+  </data>
+  <data name="ExpiryDateLaterThanEffectDate" xml:space="preserve">
+    <value>终止日期必须大于生效日期。</value>
+  </data>
+  <data name="ExpiryDateLaterThanJoinDate" xml:space="preserve">
+    <value>终止日期必须大于入职日期。</value>
+  </data>
+  <data name="FailtoGetBatch" xml:space="preserve">
+    <value>获取批次资料失败。</value>
+  </data>
+  <data name="fileformat" xml:space="preserve">
+    <value>文档格式必须是txt格式。</value>
+  </data>
+  <data name="FileMustBeExcel" xml:space="preserve">
+    <value>文档格式必须是Excel。</value>
+  </data>
+  <data name="FixedDeductionLess100P" xml:space="preserve">
+    <value>固定扣除必须小于 100%。</value>
+  </data>
+  <data name="genbankdisksuccess" xml:space="preserve">
+    <value>银行磁盘已经成功产生。</value>
+  </data>
+  <data name="importresult" xml:space="preserve">
+    <value>导入结果。</value>
+  </data>
+  <data name="InApplicatinHistoryHasSameRecord" xml:space="preserve">
+    <value>数据库已保存有相同的纪录。 请检测。</value>
+  </data>
+  <data name="InportCalendarfileformat" xml:space="preserve">
+    <value>导入的日历档格式不对。正确的格式 YYYY-MM-DD, 描述</value>
+  </data>
+  <data name="InputAccountNo" xml:space="preserve">
+    <value>请输入账户编号。</value>
+  </data>
+  <data name="InputAdjustAmount" xml:space="preserve">
+    <value>请输入调整金额。</value>
+  </data>
+  <data name="InputAmount" xml:space="preserve">
+    <value>请输入金额。</value>
+  </data>
+  <data name="InputAnnouncementTitle" xml:space="preserve">
+    <value>请输入标题。</value>
+  </data>
+  <data name="InputApplicant" xml:space="preserve">
+    <value>请录入申请人。</value>
+  </data>
+  <data name="InputApplicationDate" xml:space="preserve">
+    <value>请轮入申请日期。</value>
+  </data>
+  <data name="InputAppraiser" xml:space="preserve">
+    <value>请输入评价者。</value>
+  </data>
+  <data name="InputAssetNo" xml:space="preserve">
+    <value>请输入资产编号。</value>
+  </data>
+  <data name="InputAtAllowance" xml:space="preserve">
+    <value>请轮入出勤津贴。</value>
+  </data>
+  <data name="InputAtClaim" xml:space="preserve">
+    <value>请输入出勤需要。</value>
+  </data>
+  <data name="InputAttendDate" xml:space="preserve">
+    <value>请输入出勤日期。</value>
+  </data>
+  <data name="InputBackPay" xml:space="preserve">
+    <value>请输入补薪金额。</value>
+  </data>
+  <data name="InputBankAccount" xml:space="preserve">
+    <value>请输入银行账号。</value>
+  </data>
+  <data name="InputBasicSalary" xml:space="preserve">
+    <value>请输入基本薪金。</value>
+  </data>
+  <data name="InputBindingFrom" xml:space="preserve">
+    <value>请输入协议开始时间。</value>
+  </data>
+  <data name="InputBindingTo" xml:space="preserve">
+    <value>请输入协议结束时间。</value>
+  </data>
+  <data name="InputBirthDate" xml:space="preserve">
+    <value>请输入出生日期。</value>
+  </data>
+  <data name="InputBody" xml:space="preserve">
+    <value>请输入正文。</value>
+  </data>
+  <data name="InputBonus" xml:space="preserve">
+    <value>请输入奖金。</value>
+  </data>
+  <data name="InputCalendarDate" xml:space="preserve">
+    <value>请输入日期。</value>
+  </data>
+  <data name="InputChildrenName" xml:space="preserve">
+    <value>请输入子女姓名。</value>
+  </data>
+  <data name="InputCircle" xml:space="preserve">
+    <value>请输入周期。</value>
+  </data>
+  <data name="InputCode" xml:space="preserve">
+    <value>请输入代码。</value>
+  </data>
+  <data name="InputCommencementDate" xml:space="preserve">
+    <value>请输入培训开始日期。</value>
+  </data>
+  <data name="InputCompanyAddress" xml:space="preserve">
+    <value>请输入公司地址。</value>
+  </data>
+  <data name="InputCompanyCode" xml:space="preserve">
+    <value>请输入公司代码</value>
+  </data>
+  <data name="InputCompanyName" xml:space="preserve">
+    <value>请输入公司名称</value>
+  </data>
+  <data name="InputCompanyPer" xml:space="preserve">
+    <value>请输入公司百分比。</value>
+  </data>
+  <data name="InputCompareFrom" xml:space="preserve">
+    <value>请输入开始值。</value>
+  </data>
+  <data name="InputCompareTo" xml:space="preserve">
+    <value>请输入结束值。</value>
+  </data>
+  <data name="InputCompletionDate" xml:space="preserve">
+    <value>请输入培训结束日期。</value>
+  </data>
+  <data name="InputCondition" xml:space="preserve">
+    <value>请输入条件。</value>
+  </data>
+  <data name="InputContactName" xml:space="preserve">
+    <value>请输入联络人姓名。</value>
+  </data>
+  <data name="InputContractNo" xml:space="preserve">
+    <value>请输入合同编号。</value>
+  </data>
+  <data name="InputContributionByEmployee" xml:space="preserve">
+    <value>请输入员工供款。</value>
+  </data>
+  <data name="InputContributionByEmployer" xml:space="preserve">
+    <value>请输入雇主供款。</value>
+  </data>
+  <data name="InputCorrectDate" xml:space="preserve">
+    <value>请输入正确的日期，例如2006-01-01</value>
+  </data>
+  <data name="Inputcorrectformat" xml:space="preserve">
+    <value>请输入正确的数据格式。</value>
+  </data>
+  <data name="InputCorrectTerminationDate" xml:space="preserve">
+    <value>请输入正确的离职日期。</value>
+  </data>
+  <data name="InputCorrectYear" xml:space="preserve">
+    <value>请输入正确的年份。</value>
+  </data>
+  <data name="InputCorrYearMonth" xml:space="preserve">
+    <value>请输入正确 的年份和月份。</value>
+  </data>
+  <data name="InputCourseName" xml:space="preserve">
+    <value>请输入课程名称。</value>
+  </data>
+  <data name="InputCourseSeminarFee" xml:space="preserve">
+    <value>请输入课程/讲座费。</value>
+  </data>
+  <data name="InputCoverage" xml:space="preserve">
+    <value>请输入覆盖数据。</value>
+  </data>
+  <data name="InputDatabase" xml:space="preserve">
+    <value>请输入数据库。</value>
+  </data>
+  <data name="InputDate" xml:space="preserve">
+    <value>请输入日期。</value>
+  </data>
+  <data name="InputDateFrom" xml:space="preserve">
+    <value>请输入开始日期。</value>
+  </data>
+  <data name="InputDateLaterThanBirthDate" xml:space="preserve">
+    <value>输入日期必须要大于出生日期。 </value>
+  </data>
+  <data name="InputDateOfEvent" xml:space="preserve">
+    <value>请输入事件日期。</value>
+  </data>
+  <data name="InputDateTo" xml:space="preserve">
+    <value>请输入结束日期。</value>
+  </data>
+  <data name="InputDecreaseValue" xml:space="preserve">
+    <value>请输入速算扣除值。</value>
+  </data>
+  <data name="InputDescription" xml:space="preserve">
+    <value>请输入描述。</value>
+  </data>
+  <data name="InputDesignation" xml:space="preserve">
+    <value>请录入名称。</value>
+  </data>
+  <data name="InputDiscount" xml:space="preserve">
+    <value>请输入优惠百分比。</value>
+  </data>
+  <data name="InputDocumentName" xml:space="preserve">
+    <value>请输入文档名称。</value>
+  </data>
+  <data name="InputDocumentNo" xml:space="preserve">
+    <value>请输入文档编号。</value>
+  </data>
+  <data name="InputDocumentType" xml:space="preserve">
+    <value>请输入文档类型。 </value>
+  </data>
+  <data name="InputDueDate" xml:space="preserve">
+    <value>请输入支付日期。</value>
+  </data>
+  <data name="InputCutOffDate" xml:space="preserve">
+    <value>请输入截止日期。</value>
+  </data>
+  <data name="InputDuration" xml:space="preserve">
+    <value>请输入区间。</value>
+  </data>
+  <data name="InputDuties" xml:space="preserve">
+    <value>请输入职责。</value>
+  </data>
+  <data name="InputEarlyInTime" xml:space="preserve">
+    <value>请输入最早上班时间。</value>
+  </data>
+  <data name="InputEffDate" xml:space="preserve">
+    <value>请输入有效日期。</value>
+  </data>
+  <data name="InputEffectiveDate" xml:space="preserve">
+    <value>请输入有效日期。</value>
+  </data>
+  <data name="InputEmployerID" xml:space="preserve">
+    <value>请输入雇主的编号。</value>
+  </data>
+  <data name="InputEndDate" xml:space="preserve">
+    <value>请输入结束日期。</value>
+  </data>
+  <data name="InputEndTime" xml:space="preserve">
+    <value>请输入结束时间。</value>
+  </data>
+  <data name="InputEntitledDays" xml:space="preserve">
+    <value>请输入可享用日数。</value>
+  </data>
+  <data name="InputExchangeRate" xml:space="preserve">
+    <value>请输入转换率。</value>
+  </data>
+  <data name="InputExpireDate" xml:space="preserve">
+    <value>请输入失效日期。</value>
+  </data>
+  <data name="InputExpiryDate" xml:space="preserve">
+    <value>请输入失效日期。</value>
+  </data>
+  <data name="InputExtraDaysAnnually" xml:space="preserve">
+    <value>请输入每年递增日数。</value>
+  </data>
+  <data name="InputFixedDeduction" xml:space="preserve">
+    <value>请输入固定扣除百分比。</value>
+  </data>
+  <data name="InputFristName" xml:space="preserve">
+    <value>请输入姓氏</value>
+  </data>
+  <data name="InputFrom" xml:space="preserve">
+    <value>请输入开始。</value>
+  </data>
+  <data name="InputFullName" xml:space="preserve">
+    <value>请输入姓名</value>
+  </data>
+  <data name="InputGivenName" xml:space="preserve">
+    <value>请输入名字。</value>
+  </data>
+  <data name="InputGrade" xml:space="preserve">
+    <value>请输入等级。</value>
+  </data>
+  <data name="InputHaveDays" xml:space="preserve">
+    <value>请输入拥有的天数。</value>
+  </data>
+  <data name="InputHaveSubmittedForDelete" xml:space="preserve">
+    <value>记录己提交,不允许删除!</value>
+  </data>
+  <data name="InputHaveSubmittedForEdit" xml:space="preserve">
+    <value>记录己提交,不允许编辑!</value>
+  </data>
+  <data name="InputHKID" xml:space="preserve">
+    <value>请输入身份证号码.</value>
+  </data>
+  <data name="InputHolidayOT" xml:space="preserve">
+    <value>请输入假期加班时间。</value>
+  </data>
+  <data name="InputHoursValue" xml:space="preserve">
+    <value>请输入小时数。</value>
+  </data>
+  <data name="InputIDNo" xml:space="preserve">
+    <value>请输入身份证号。</value>
+  </data>
+  <data name="InputInStartTime" xml:space="preserve">
+    <value>请输入上班开始时间。</value>
+  </data>
+  <data name="InputInstituteName" xml:space="preserve">
+    <value>请输入学院名称。</value>
+  </data>
+  <data name="InputInsuranceNo" xml:space="preserve">
+    <value>请输入保险单号。</value>
+  </data>
+  <data name="InputInTime" xml:space="preserve">
+    <value>请输入上班时间。</value>
+  </data>
+  <data name="InputIR56BPrintDate" xml:space="preserve">
+    <value>请输入IR56B打印日期。</value>
+  </data>
+  <data name="InputIssueDate" xml:space="preserve">
+    <value>请输入签发日期。</value>
+  </data>
+  <data name="InputJobDescription" xml:space="preserve">
+    <value>请输入工作描述。</value>
+  </data>
+  <data name="InputJoinDate" xml:space="preserve">
+    <value>请输入入职日期。 </value>
+  </data>
+  <data name="InputLastName" xml:space="preserve">
+    <value>请输入名。</value>
+  </data>
+  <data name="InputLastPosition" xml:space="preserve">
+    <value>请输入最后工作职位。</value>
+  </data>
+  <data name="InputLastWorkingDate" xml:space="preserve">
+    <value>请输入最后工作日期。</value>
+  </data>
+  <data name="InputLateDeduction" xml:space="preserve">
+    <value>请输入迟到扣减。</value>
+  </data>
+  <data name="InputLateFormula" xml:space="preserve">
+    <value>请输入迟到扣减公式。</value>
+  </data>
+  <data name="InputLeaveDate" xml:space="preserve">
+    <value>请输入休假日期。</value>
+  </data>
+  <data name="InputLeaveDateBegin" xml:space="preserve">
+    <value>请输入休假开始日期。</value>
+  </data>
+  <data name="InputLeaveDateEnd" xml:space="preserve">
+    <value>请输入休假结束日期。</value>
+  </data>
+  <data name="InputLeavedDays" xml:space="preserve">
+    <value>请输入已休的天数。</value>
+  </data>
+  <data name="InputLeaveHours" xml:space="preserve">
+    <value>请输入休假小时数。</value>
+  </data>
+  <data name="InputLeaveReason" xml:space="preserve">
+    <value>请输入休假原因。</value>
+  </data>
+  <data name="InputLeaveType" xml:space="preserve">
+    <value>请输入休假类型。</value>
+  </data>
+  <data name="InputLoginName" xml:space="preserve">
+    <value>请输入登录名字</value>
+  </data>
+  <data name="InputLowerAge" xml:space="preserve">
+    <value>请输入最低年龄。</value>
+  </data>
+  <data name="InputLunchEndTime" xml:space="preserve">
+    <value>请输入午膳结束时间。</value>
+  </data>
+  <data name="InputLunchStartTime" xml:space="preserve">
+    <value>请输入午膳开始时间。</value>
+  </data>
+  <data name="InputManuInTime" xml:space="preserve">
+    <value>请输入手调上班时间。</value>
+  </data>
+  <data name="InputManuOutTime" xml:space="preserve">
+    <value>请输入手调下班时间。</value>
+  </data>
+  <data name="InputMaxCarryForwardDays" xml:space="preserve">
+    <value>请输入最大可转天数。</value>
+  </data>
+  <data name="InputMaxEntitledDays" xml:space="preserve">
+    <value>请输入最大可享用天数。</value>
+  </data>
+  <data name="InputMaxIncome" xml:space="preserve">
+    <value>请输入收入上限收入。</value>
+  </data>
+  <data name="InputMinIncome" xml:space="preserve">
+    <value>请输入最少收入。</value>
+  </data>
+  <data name="InputMinutesCount" xml:space="preserve">
+    <value>请输入分钟数。</value>
+  </data>
+  <data name="InputName" xml:space="preserve">
+    <value>请输入纳税人名称。</value>
+  </data>
+  <data name="InputNationality" xml:space="preserve">
+    <value>请选择国藉。</value>
+  </data>
+  <data name="InputNewPassword" xml:space="preserve">
+    <value>请输入新密码</value>
+  </data>
+  <data name="InputNumber" xml:space="preserve">
+    <value>请输入数值。</value>
+  </data>
+  <data name="InputOldPassword" xml:space="preserve">
+    <value>请输入旧密码</value>
+  </data>
+  <data name="InputOrganizedBy" xml:space="preserve">
+    <value>请输入组织者机构。</value>
+  </data>
+  <data name="InputOTClaim" xml:space="preserve">
+    <value>请输入加班原因。</value>
+  </data>
+  <data name="InputOTDate" xml:space="preserve">
+    <value>请输入加班日期。</value>
+  </data>
+  <data name="InputOTPayment" xml:space="preserve">
+    <value>请输入加班支付。</value>
+  </data>
+  <data name="InputOtStartTime" xml:space="preserve">
+    <value>请输入加班开始时间。</value>
+  </data>
+  <data name="InputOTType" xml:space="preserve">
+    <value>请输入加班类型。</value>
+  </data>
+  <data name="InputOutEndTime" xml:space="preserve">
+    <value>请输入最后下班时间。</value>
+  </data>
+  <data name="InputOutTime" xml:space="preserve">
+    <value>请输入下班时间。</value>
+  </data>
+  <data name="InputPaidMonths" xml:space="preserve">
+    <value>请输入支付月数。</value>
+  </data>
+  <data name="InputPassword" xml:space="preserve">
+    <value>请输入密码</value>
+  </data>
+  <data name="InputPaymentDate" xml:space="preserve">
+    <value>请输入支付日期。</value>
+  </data>
+  <data name="InputPaymentEndMonth" xml:space="preserve">
+    <value>请输入支付到月份。</value>
+  </data>
+  <data name="InputPaymentLine" xml:space="preserve">
+    <value>请输入支付组别。</value>
+  </data>
+  <data name="InputPaymentPeriod" xml:space="preserve">
+    <value>有效日期必须早于支付日期。</value>
+  </data>
+  <data name="InputPaymentStartMonth" xml:space="preserve">
+    <value>请输入支付开始月份。</value>
+  </data>
+  <data name="InputPercentage" xml:space="preserve">
+    <value>请输入百分比。</value>
+  </data>
+  <data name="InputPersonalPer" xml:space="preserve">
+    <value>请输入个人百分比。</value>
+  </data>
+  <data name="InputPremium" xml:space="preserve">
+    <value>请轮入保费金额。</value>
+  </data>
+  <data name="InputProbationCompletion" xml:space="preserve">
+    <value>请输入试用到期日期。</value>
+  </data>
+  <data name="InputReatNewPassword" xml:space="preserve">
+    <value>请输入重复新密码</value>
+  </data>
+  <data name="InputRecordTime" xml:space="preserve">
+    <value>请输入刷卡时间。</value>
+  </data>
+  <data name="InputReferenceNo" xml:space="preserve">
+    <value>请输入参考号码。</value>
+  </data>
+  <data name="InputRemarks" xml:space="preserve">
+    <value>请输入备注。</value>
+  </data>
+  <data name="InputRequireNumber" xml:space="preserve">
+    <value>请输入预编人数。</value>
+  </data>
+  <data name="InputResidentialAddress" xml:space="preserve">
+    <value>请输入住宅地址。 </value>
+  </data>
+  <data name="InputRestEndTime" xml:space="preserve">
+    <value>请输入休息结束时间。</value>
+  </data>
+  <data name="InputRestStartTime" xml:space="preserve">
+    <value>请输入休息开始时间。</value>
+  </data>
+  <data name="InputRestWay" xml:space="preserve">
+    <value>请输入休息方式</value>
+  </data>
+  <data name="InputReturnDate" xml:space="preserve">
+    <value>请输入回归日期。</value>
+  </data>
+  <data name="InputReturnFileNo" xml:space="preserve">
+    <value>请输入档案编号。</value>
+  </data>
+  <data name="InputSaveAsName" xml:space="preserve">
+    <value>请输入另存名称。</value>
+  </data>
+  <data name="InputSaveFile" xml:space="preserve">
+    <value>请输入文件名。</value>
+  </data>
+  <data name="InputSchool" xml:space="preserve">
+    <value>请输入子女就读或毕业的学校</value>
+  </data>
+  <data name="InputSchoolName" xml:space="preserve">
+    <value>请输入学校名称。</value>
+  </data>
+  <data name="InputSeqNo" xml:space="preserve">
+    <value>请输入次序号。</value>
+  </data>
+  <data name="InputServiceYear" xml:space="preserve">
+    <value>请输入服务年数。</value>
+  </data>
+  <data name="InputServiceYearFrom" xml:space="preserve">
+    <value>请输入服务年资从。</value>
+  </data>
+  <data name="InputServiceYearTo" xml:space="preserve">
+    <value>请输入服务年资到。</value>
+  </data>
+  <data name="InputShiftInTime" xml:space="preserve">
+    <value>请输入班次开始时间。</value>
+  </data>
+  <data name="InputShiftOutTime" xml:space="preserve">
+    <value>请输入班次结束时间。 </value>
+  </data>
+  <data name="InputSponsorFee" xml:space="preserve">
+    <value>请输入赞助费用。</value>
+  </data>
+  <data name="InputSpouseName" xml:space="preserve">
+    <value>请输入配偶的名字</value>
+  </data>
+  <data name="InputStaffID" xml:space="preserve">
+    <value>请输入员工工号</value>
+  </data>
+  <data name="InputStaffIDOrStaffName" xml:space="preserve">
+    <value>请输入工号或姓名</value>
+  </data>
+  <data name="InputStaffNumber" xml:space="preserve">
+    <value>请输入员工人数。</value>
+  </data>
+  <data name="InputStartDate" xml:space="preserve">
+    <value>请输入开始日期。</value>
+  </data>
+  <data name="InputStartTime" xml:space="preserve">
+    <value>请输入开始时间。</value>
+  </data>
+  <data name="InputStepBy" xml:space="preserve">
+    <value>请输入次数。</value>
+  </data>
+  <data name="InputSurname" xml:space="preserve">
+    <value>请输入姓氏。</value>
+  </data>
+  <data name="InputTaxFileNo" xml:space="preserve">
+    <value>请输入课税档案编号。</value>
+  </data>
+  <data name="InputTaxName" xml:space="preserve">
+    <value>请输入课税人名称。</value>
+  </data>
+  <data name="InputTaxRate" xml:space="preserve">
+    <value>请输入税率。</value>
+  </data>
+  <data name="InputTerminationDate" xml:space="preserve">
+    <value>请输入离职日期。</value>
+  </data>
+  <data name="InputTerminationPaymentDate" xml:space="preserve">
+    <value>请输入离职工资期间。</value>
+  </data>
+  <data name="InputTo" xml:space="preserve">
+    <value>请输入结束。</value>
+  </data>
+  <data name="InputTotalTrainingHours" xml:space="preserve">
+    <value>请输入总培训时间。</value>
+  </data>
+  <data name="InputTrusteeEmployee" xml:space="preserve">
+    <value>请输入雇员供款宽限期。</value>
+  </data>
+  <data name="InputTrusteeEmployer" xml:space="preserve">
+    <value>请输入雇主供款宽限期。</value>
+  </data>
+  <data name="InputUpperAge" xml:space="preserve">
+    <value>请输入雇员年龄上限。</value>
+  </data>
+  <data name="InputUserDefine" xml:space="preserve">
+    <value>请输入用户自定义值。</value>
+  </data>
+  <data name="InputUserNumber" xml:space="preserve">
+    <value>请输入用户数量。</value>
+  </data>
+  <data name="InputValidData" xml:space="preserve">
+    <value>请输入正确的时间格式。</value>
+  </data>
+  <data name="InputValue" xml:space="preserve">
+    <value>请输入数值。</value>
+  </data>
+  <data name="InputValueBiggerThanMasterValue" xml:space="preserve">
+    <value>录入的总和应小于或等于主记录值</value>
+  </data>
+  <data name="InputValuePercentBiggerThan100" xml:space="preserve">
+    <value>录入的总和应小于或等于百份百。</value>
+  </data>
+  <data name="InputYear" xml:space="preserve">
+    <value>请输入年份。</value>
+  </data>
+  <data name="InputYearObtained" xml:space="preserve">
+    <value>请输入获得时的年份。</value>
+  </data>
+  <data name="InsuranceEffectiveDateLaterThanInsuranceExpiryDate" xml:space="preserve">
+    <value>保险终止日期必须大于保险生效日期。</value>
+  </data>
+  <data name="InvalidCompanyCode" xml:space="preserve">
+    <value>无效的公司代码</value>
+  </data>
+  <data name="InvalidData" xml:space="preserve">
+    <value>数据有误。</value>
+  </data>
+  <data name="InvalidUserPassword" xml:space="preserve">
+    <value>无效的登录名/密码</value>
+  </data>
+  <data name="IssueDateLaterThanBirthDate" xml:space="preserve">
+    <value>签发日期必须大于出生日期。</value>
+  </data>
+  <data name="IssueDateLaterThanIssueExpiryDate" xml:space="preserve">
+    <value>失效日期必须大于签发日期。</value>
+  </data>
+  <data name="Issueearlierthancurrentdate" xml:space="preserve">
+    <value>签发日期必须前于今天后于出生日。</value>
+  </data>
+  <data name="JoinDateLaterThanBirthDate" xml:space="preserve">
+    <value>入职日期必须大于出生日期。</value>
+  </data>
+  <data name="JoinDateLaterThanYearFrom" xml:space="preserve">
+    <value>入职日期必须大于开始日期。</value>
+  </data>
+  <data name="JoinDateLaterThanYearTo" xml:space="preserve">
+    <value>结束日期必须小于入职日期。</value>
+  </data>
+  <data name="Laterthan19000101" xml:space="preserve">
+    <value>入职日期必须后于1900-01-01。</value>
+  </data>
+  <data name="Latestarttimemustbelaterthanshifttime" xml:space="preserve">
+    <value>迟到开始时间必须晚于上班时间。</value>
+  </data>
+  <data name="Latestarttimemustbetweenshiftintimeandshiftouttime" xml:space="preserve">
+    <value>迟到开始时间必须在上班时间和下班时间之间。</value>
+  </data>
+  <data name="LeaveCarryForwardCalculation" xml:space="preserve">
+    <value>休假结转计算将要根据休假权利方式进行。 &lt;br&gt;是否真的要计算？</value>
+  </data>
+  <data name="LoadDataError" xml:space="preserve">
+    <value>数据导入错误:</value>
+  </data>
+  <data name="LoginFailed" xml:space="preserve">
+    <value>登陆失败</value>
+  </data>
+  <data name="LowerLessUpperAge" xml:space="preserve">
+    <value>最高年龄不能小于最低年龄。</value>
+  </data>
+  <data name="LunchEndTimeBiggerLunchStartTime" xml:space="preserve">
+    <value>午膳结束时间必须大于午膳开始时间。</value>
+  </data>
+  <data name="LunchStartTimeBiggerShiftInTime" xml:space="preserve">
+    <value>午膳开始时间必须大于班次上班时间。</value>
+  </data>
+  <data name="ManualOutTimeBiggerManuInTime" xml:space="preserve">
+    <value>手调下班时间必须后于上班时间</value>
+  </data>
+  <data name="MaxDateMustLaterThanEffDate" xml:space="preserve">
+    <value>最后生效日期必须大于当前生效日期。</value>
+  </data>
+  <data name="MaxEntitledDaysLassThanEntitledDays" xml:space="preserve">
+    <value>必须大于可享用天数。 </value>
+  </data>
+  <data name="MinimumLessCeiling" xml:space="preserve">
+    <value>收入上限不能小于收入下限。</value>
+  </data>
+  <data name="MPFeffdateChangedByJoinDate" xml:space="preserve">
+    <value>强积金生效日期将要进行更新.确认进行更新吗？</value>
+  </data>
+  <data name="MPFExpireDateChangeByNewEffDate" xml:space="preserve">
+    <value>公积金存在还没有失效的记录 ,是否确认更新？</value>
+  </data>
+  <data name="MPFExpireDateHadSamePeriod" xml:space="preserve">
+    <value>公积金个人设置记录存在失效日期小于系统生成的新生效日期。系统不能更新该人员记录。请到公积金(个人设置)页面进行手动修正。</value>
+  </data>
+  <data name="MsgCanRead" xml:space="preserve">
+    <value>你的权限范围内能看到 {0} 条记录，其他记录可能没权限查看</value>
+  </data>
+  <data name="MsgCansRead" xml:space="preserve">
+    <value>通过安全设置，一些记录被过滤.</value>
+  </data>
+  <data name="MustGreaterOldEffectiveDate" xml:space="preserve">
+    <value>必须大于目前保存的生效的日期.</value>
+  </data>
+  <data name="MustInputSameYearRecord" xml:space="preserve">
+    <value>开始日期或结束日期的年份必须等于选择的年份。</value>
+  </data>
+  <data name="MustmoreThanZero" xml:space="preserve">
+    <value>输入值必须大于0。</value>
+  </data>
+  <data name="noperson" xml:space="preserve">
+    <value>没有成员。</value>
+  </data>
+  <data name="NoRecordToSave" xml:space="preserve">
+    <value>没有记录供保存.</value>
+  </data>
+  <data name="NotAllowDelAnnualLeaveType" xml:space="preserve">
+    <value>年假类型不允许修改和删除。</value>
+  </data>
+  <data name="NotAllowDeleteSystemGenNewJoinRecord" xml:space="preserve">
+    <value>新入职记录由系统自动产生。不能人为删除。</value>
+  </data>
+  <data name="NotAllowDeleteSystemGenRecord" xml:space="preserve">
+    <value>不能删除系统约束的记录。请到个人信息里面修改个人的加入日期。</value>
+  </data>
+  <data name="NotAllowEmpty" xml:space="preserve">
+    <value>同意开始日期或结束日期不允许空。</value>
+  </data>
+  <data name="NotAuthorized" xml:space="preserve">
+    <value>对不起,你没有授权访问本页。</value>
+  </data>
+  <data name="NotEnoughtBalanceDays" xml:space="preserve">
+    <value>剩余休假天数不足。</value>
+  </data>
+  <data name="NotExists" xml:space="preserve">
+    <value>不存在</value>
+  </data>
+  <data name="NumberMustBetween0And100" xml:space="preserve">
+    <value>数值必须大于0小于100</value>
+  </data>
+  <data name="PageNotExist" xml:space="preserve">
+    <value>找不到你要访问的页面。</value>
+  </data>
+  <data name="PaymentDateToMustLaterThanPaymentDateFrom" xml:space="preserve">
+    <value>支付开始日期必须大于支付结束日期。</value>
+  </data>
+  <data name="PayrollUpdatefaild" xml:space="preserve">
+    <value>薪资计算失败。</value>
+  </data>
+  <data name="PeriodIsNotLast" xml:space="preserve">
+    <value>只能折回最后期间的薪资记录。</value>
+  </data>
+  <data name="PlanedDaysMustLessThanEntitlementDays" xml:space="preserve">
+    <value>计划天数必须少于权利天数。</value>
+  </data>
+  <data name="PleaseCheckInputShiftTimeSpan" xml:space="preserve">
+    <value>请检测输入班次的时间段。 必须要大于24小时。</value>
+  </data>
+  <data name="PleaseContact" xml:space="preserve">
+    <value>请联络系统管理员获得更多的帮助。</value>
+  </data>
+  <data name="PleaseInput" xml:space="preserve">
+    <value>请输入</value>
+  </data>
+  <data name="PleaseSelect" xml:space="preserve">
+    <value>请选择</value>
+  </data>
+  <data name="PleaseselectBase" xml:space="preserve">
+    <value>请选择基数类型。</value>
+  </data>
+  <data name="PleaseSelectedPersonalTax" xml:space="preserve">
+    <value>请选择个人税收类型。</value>
+  </data>
+  <data name="PlsInputPasscode" xml:space="preserve">
+    <value>请输入通行号码。</value>
+  </data>
+  <data name="PlsInputUserName" xml:space="preserve">
+    <value>请输入用户名字。</value>
+  </data>
+  <data name="ProbationCompletionLaterThanJoinDate" xml:space="preserve">
+    <value>试用到期日期必须晚于入职日期。</value>
+  </data>
+  <data name="RehiredStaff" xml:space="preserve">
+    <value>该员工已经离职，是否想再雇用这员工？</value>
+  </data>
+  <data name="ReturnDateMusterLaterThanEndDate" xml:space="preserve">
+    <value>归还日期必须大于结束日期。</value>
+  </data>
+  <data name="ReturnDateMustMoreThanIssueDate" xml:space="preserve">
+    <value>归还日期必须大于签发日期。</value>
+  </data>
+  <data name="Salaryitemandformulanotallownullatthesametime" xml:space="preserve">
+    <value>薪资项目或公式不能为空。</value>
+  </data>
+  <data name="SaveAsNameExistOverwrite" xml:space="preserve">
+    <value>另存名称已经存在，是否覆盖？</value>
+  </data>
+  <data name="SelectAcademicQualification" xml:space="preserve">
+    <value>请选择学历资格。</value>
+  </data>
+  <data name="SelectAdditionorDeduction" xml:space="preserve">
+    <value>请选择加或减。</value>
+  </data>
+  <data name="SelectAdvancement" xml:space="preserve">
+    <value>请选择变迁状态。</value>
+  </data>
+  <data name="SelectApplicationStatus" xml:space="preserve">
+    <value>请选择申请状况。</value>
+  </data>
+  <data name="SelectAppraisal" xml:space="preserve">
+    <value>请选择评价类型。</value>
+  </data>
+  <data name="SelectAppraiser" xml:space="preserve">
+    <value>请选择评价者。</value>
+  </data>
+  <data name="SelectAreaCode" xml:space="preserve">
+    <value>请选择地区代码。</value>
+  </data>
+  <data name="SelectAssetType" xml:space="preserve">
+    <value>请选择资产类型。</value>
+  </data>
+  <data name="SelectAwardOrPunishment" xml:space="preserve">
+    <value>请选择奖励或纪律。</value>
+  </data>
+  <data name="SelectBank" xml:space="preserve">
+    <value>请选择银行。</value>
+  </data>
+  <data name="SelectBankDiskFormat" xml:space="preserve">
+    <value>请选择磁盘格式。</value>
+  </data>
+  <data name="SelectBase" xml:space="preserve">
+    <value>请选择基数</value>
+  </data>
+  <data name="SelectBatchNo" xml:space="preserve">
+    <value>请选择批号。</value>
+  </data>
+  <data name="SelectBirthCountry" xml:space="preserve">
+    <value>请选择出生国家。</value>
+  </data>
+  <data name="SelectBranchBank" xml:space="preserve">
+    <value>请选择银行支部。</value>
+  </data>
+  <data name="SelectCalendar" xml:space="preserve">
+    <value>请选择日历。</value>
+  </data>
+  <data name="SelectChildrenName" xml:space="preserve">
+    <value>请选择子女姓名。</value>
+  </data>
+  <data name="SelectClub" xml:space="preserve">
+    <value>请选择会所。</value>
+  </data>
+  <data name="SelectClubNature" xml:space="preserve">
+    <value>请选择会所性质。</value>
+  </data>
+  <data name="SelectCompany" xml:space="preserve">
+    <value>请选择公司。</value>
+  </data>
+  <data name="SelectCostCentre" xml:space="preserve">
+    <value>请选择成本中心。</value>
+  </data>
+  <data name="SelectCountry" xml:space="preserve">
+    <value>请选择国家。</value>
+  </data>
+  <data name="SelectCurrency" xml:space="preserve">
+    <value>请选择货币。</value>
+  </data>
+  <data name="SelectDeductionFormula" xml:space="preserve">
+    <value>请选择扣减公式。</value>
+  </data>
+  <data name="SelectDeductionSalaryItem" xml:space="preserve">
+    <value>请选择休假扣减项。</value>
+  </data>
+  <data name="SelectDepartment" xml:space="preserve">
+    <value>请选择部门。</value>
+  </data>
+  <data name="SelectDivision" xml:space="preserve">
+    <value>请选择分区。</value>
+  </data>
+  <data name="SelectDocumentType" xml:space="preserve">
+    <value>请选择文档类型。</value>
+  </data>
+  <data name="SelectEducation" xml:space="preserve">
+    <value>请选择学历。</value>
+  </data>
+  <data name="SelectEducationLevel" xml:space="preserve">
+    <value>请选择教育等级。</value>
+  </data>
+  <data name="SelectEventType" xml:space="preserve">
+    <value>请选择事件类型。</value>
+  </data>
+  <data name="Selectfile" xml:space="preserve">
+    <value>请选择需要导入的文档。</value>
+  </data>
+  <data name="SelectFiling" xml:space="preserve">
+    <value>请选择档案结全。 </value>
+  </data>
+  <data name="SelectFormula" xml:space="preserve">
+    <value>请选择公式。</value>
+  </data>
+  <data name="SelectForYear" xml:space="preserve">
+    <value>请选择年份。</value>
+  </data>
+  <data name="SelectGender" xml:space="preserve">
+    <value>请选择性别。</value>
+  </data>
+  <data name="SelectGrade" xml:space="preserve">
+    <value>请选择职级。</value>
+  </data>
+  <data name="SelectGroupBy" xml:space="preserve">
+    <value>请选择分组。</value>
+  </data>
+  <data name="SelectInsurance" xml:space="preserve">
+    <value>请选择保险单。</value>
+  </data>
+  <data name="SelectIssueCountry" xml:space="preserve">
+    <value>请选择签发国家。</value>
+  </data>
+  <data name="SelectItem" xml:space="preserve">
+    <value>请选择项目。</value>
+  </data>
+  <data name="SelectLeaveReason" xml:space="preserve">
+    <value>请选择休假原因。</value>
+  </data>
+  <data name="SelectLeaveType" xml:space="preserve">
+    <value>请选择休假方式。</value>
+  </data>
+  <data name="SelectManuReason" xml:space="preserve">
+    <value>请选择调整原因。</value>
+  </data>
+  <data name="SelectMaritalStatus" xml:space="preserve">
+    <value>请选择婚姻状态。</value>
+  </data>
+  <data name="SelectMemberShipType" xml:space="preserve">
+    <value>请选择会员类型。</value>
+  </data>
+  <data name="SelectNationality" xml:space="preserve">
+    <value>请选择国籍。</value>
+  </data>
+  <data name="SelectNature" xml:space="preserve">
+    <value>请选择性质。</value>
+  </data>
+  <data name="SelectOrganizedBy" xml:space="preserve">
+    <value>请选择组织机构。</value>
+  </data>
+  <data name="SelectPaymentBy" xml:space="preserve">
+    <value>请选择支付方式。</value>
+  </data>
+  <data name="SelectPaymentDate" xml:space="preserve">
+    <value>请选择支付日期。</value>
+  </data>
+  <data name="SelectPerOf" xml:space="preserve">
+    <value>请选择平均类型。</value>
+  </data>
+  <data name="SelectPersonalTaxType" xml:space="preserve">
+    <value>请选择个人税类型。</value>
+  </data>
+  <data name="SelectPosition" xml:space="preserve">
+    <value>请选择职位。</value>
+  </data>
+  <data name="SelectProbationPeriod" xml:space="preserve">
+    <value>请选择试用期。</value>
+  </data>
+  <data name="SelectProvidentFund" xml:space="preserve">
+    <value>请选择公积金</value>
+  </data>
+  <data name="SelectQualification" xml:space="preserve">
+    <value>请选择专业资格。</value>
+  </data>
+  <data name="SelectRecruitingSource" xml:space="preserve">
+    <value>请选择招聘来源。</value>
+  </data>
+  <data name="SelectRelationship" xml:space="preserve">
+    <value>请选择关系。</value>
+  </data>
+  <data name="SelectReportto" xml:space="preserve">
+    <value>请选择上级。</value>
+  </data>
+  <data name="SelectReporttoType" xml:space="preserve">
+    <value>请选择上级类型。</value>
+  </data>
+  <data name="SelectRestWay" xml:space="preserve">
+    <value>请选择休息方式。</value>
+  </data>
+  <data name="SelectResult" xml:space="preserve">
+    <value>请选择等级。</value>
+  </data>
+  <data name="SelectRoster" xml:space="preserve">
+    <value>请选择轮班。</value>
+  </data>
+  <data name="SelectSalaryItem" xml:space="preserve">
+    <value>请选择薪金项目。</value>
+  </data>
+  <data name="SelectScheme" xml:space="preserve">
+    <value>请选择方案。</value>
+  </data>
+  <data name="SelectSectioin" xml:space="preserve">
+    <value>请选择分组</value>
+  </data>
+  <data name="SelectShift" xml:space="preserve">
+    <value>请选择班次。</value>
+  </data>
+  <data name="SelectSkill" xml:space="preserve">
+    <value>请选择技能</value>
+  </data>
+  <data name="SelectStaff" xml:space="preserve">
+    <value>请选择员工。</value>
+  </data>
+  <data name="SelectStaffID" xml:space="preserve">
+    <value>请选择员工工号。</value>
+  </data>
+  <data name="SelectStaffNo" xml:space="preserve">
+    <value>请选择员工工号。</value>
+  </data>
+  <data name="SelectStaffType" xml:space="preserve">
+    <value>请选择员工类型。</value>
+  </data>
+  <data name="SelectStatus" xml:space="preserve">
+    <value>请选择状态。</value>
+  </data>
+  <data name="SelectTrainingID" xml:space="preserve">
+    <value>请选择培训范畴。</value>
+  </data>
+  <data name="SelectType" xml:space="preserve">
+    <value>请选择类型。</value>
+  </data>
+  <data name="SelectWorkGroup" xml:space="preserve">
+    <value>请选择工作组。</value>
+  </data>
+  <data name="SelectWorkingLocation" xml:space="preserve">
+    <value>请选择工作地点。</value>
+  </data>
+  <data name="SelectYearOfSeniority" xml:space="preserve">
+    <value>请选择年资。</value>
+  </data>
+  <data name="SendSuccessfully" xml:space="preserve">
+    <value>发送成功。</value>
+  </data>
+  <data name="ShiftOutTimeBiggerLunchEndTime" xml:space="preserve">
+    <value>班次下班时间必须大于午膳结束时间。</value>
+  </data>
+  <data name="ShiftOutTimeBiggerShiftInTime" xml:space="preserve">
+    <value>班次下班时间必须大于班次上班时间。</value>
+  </data>
+  <data name="SponsorFeeGreaterThanCourseFee" xml:space="preserve">
+    <value>赞助费用不能大于课程费用。</value>
+  </data>
+  <data name="staffidexsit" xml:space="preserve">
+    <value>员工工号已经存在，请输入新的员工工号。</value>
+  </data>
+  <data name="StaffIDPrefixNeedInit" xml:space="preserve">
+    <value>员工工号前缀需要调整。请修正。</value>
+  </data>
+  <data name="StartDateEarlierEndDate" xml:space="preserve">
+    <value>开始日期必须早于或等于结束日期。</value>
+  </data>
+  <data name="startenddate" xml:space="preserve">
+    <value>开始日期必须早于或等于结束日期。</value>
+  </data>
+  <data name="TakenDaysIsError" xml:space="preserve">
+    <value>天数错误，请检测。</value>
+  </data>
+  <data name="TerminationEndDateMustLaterThanTerminationStartDate" xml:space="preserve">
+    <value>结束离职日期必须大于开始离职日期。</value>
+  </data>
+  <data name="ThePeriodExitRecor" xml:space="preserve">
+    <value>该区间已经保存了对应的记录.</value>
+  </data>
+  <data name="TimeInterfere" xml:space="preserve">
+    <value>数据冲突，请检查你输入的时间段是否正确。</value>
+  </data>
+  <data name="TimeOut" xml:space="preserve">
+    <value>超时</value>
+  </data>
+  <data name="ToMustBiggerFrom" xml:space="preserve">
+    <value>到值必须大于从值</value>
+  </data>
+  <data name="TrainingDaysMustBeAPositiveNumber" xml:space="preserve">
+    <value>培训日期必须大于零。</value>
+  </data>
+  <data name="TwoPrimaryBankAccount" xml:space="preserve">
+    <value>主要银行账号已经设置。</value>
+  </data>
+  <data name="UnknownError" xml:space="preserve">
+    <value>错误原因不明。</value>
+  </data>
+  <data name="UpdatingNowTryAgain" xml:space="preserve">
+    <value>正在计算相同的期间和公司，请稍后再试。</value>
+  </data>
+  <data name="UploadPhoto" xml:space="preserve">
+    <value>请上传相片。</value>
+  </data>
+  <data name="Workdayotstarttimemustbelaterthanshiftouttime" xml:space="preserve">
+    <value>工作日加班开始时间必须晚于下班时间。</value>
+  </data>
+  <data name="YearFromMustEqualtoYearTo" xml:space="preserve">
+    <value>开始时间的年份必须等于结束的年份。</value>
+  </data>
+  <data name="YearObtainedLaterThanBirthDate" xml:space="preserve">
+    <value>获得年份必须大于出生年。</value>
+  </data>
+  <data name="YeartoLaterThanYearfrom" xml:space="preserve">
+    <value>结束年必须大于开始年。</value>
+  </data>
+  <data name="NotFindJoinDate" xml:space="preserve">
+    <value>未找到该员工的入职日期.</value>
+  </data>
+  <data name="NotFindTerminDate" xml:space="preserve">
+    <value>未找到该员工的离职日期.</value>
+  </data>
+  <data name="NodFindAttendProcesser" xml:space="preserve">
+    <value>未找到相关的考勤处理业务.</value>
+  </data>
+  <data name="NotOnlyAttendRecordInOneDay" xml:space="preserve">
+    <value>同一出勤天内出现两笔考勤记录.</value>
+  </data>
+  <data name="NotFindResoterRecord" xml:space="preserve">
+    <value>此人没有任何轮班记录.</value>
+  </data>
+  <data name="NotRosterDetailRecord" xml:space="preserve">
+    <value>此人的轮班明细中没有任何记录.</value>
+  </data>
+  <data name="RosterNotEffective" xml:space="preserve">
+    <value>此轮班未到生效日期.</value>
+  </data>
+  <data name="NotFindShiftInfo" xml:space="preserve">
+    <value>未获取相应的班次.</value>
+  </data>
+  <data name="NotFindEmploymentRecord" xml:space="preserve">
+    <value>未找到当前员工的有效记录.</value>
+  </data>
+  <data name="NotSetAttendAnalyseDate" xml:space="preserve">
+    <value>未设定考勤分析日期.</value>
+  </data>
+  <data name="LeaveTypeError" xml:space="preserve">
+    <value>请假类型错误.</value>
+  </data>
+  <data name="InputSpouseIDNo" xml:space="preserve">
+    <value>请输入配偶身份证号。</value>
+  </data>
+  <data name="ManuTimeCheck01" xml:space="preserve">
+    <value>用膳开始时间必须晚于上班时间.</value>
+  </data>
+  <data name="ManuTimeCheck02" xml:space="preserve">
+    <value>用膳结束时间必须晚于用膳开始时间.</value>
+  </data>
+  <data name="ManuTimeCheck03" xml:space="preserve">
+    <value>下班时间必须晚于用膳结束时间.</value>
+  </data>
+  <data name="NotFindEmploymentAfter" xml:space="preserve">
+    <value>未找到指定日期 {0} 之后的雇佣记录。</value>
+  </data>
+  <data name="NotFindEmploymentBefore" xml:space="preserve">
+    <value>未找到指定日期 {0} 之前的雇佣记录。</value>
+  </data>
+  <data name="MsgAlpSubmitted" xml:space="preserve">
+    <value>年休假记录提交成功。</value>
+  </data>
+  <data name="MsgPlsInputMoreThan10daysRecord" xml:space="preserve">
+    <value>请录入大于等于10天的计划记录。</value>
+  </data>
+  <data name="MsgPlsInputSomeRecord" xml:space="preserve">
+    <value>没有录入记录，请录入一些记录。</value>
+  </data>
+  <data name="MsgPlsSaveRecordBeforeSubmit" xml:space="preserve">
+    <value>请保存后再提交。</value>
+  </data>
+  <data name="ApprovalLogicError" xml:space="preserve">
+    <value>审批逻辑错误</value>
+  </data>
+  <data name="InputFieldName" xml:space="preserve">
+    <value>请输入字段名。</value>
+  </data>
+  <data name="SelectDataType" xml:space="preserve">
+    <value>请选择数据类型。</value>
+  </data>
+  <data name="SelectFunction" xml:space="preserve">
+    <value>请选择功能。</value>
+  </data>
+  <data name="InputCorrectEmail" xml:space="preserve">
+    <value>请输入正确的邮件地址。</value>
+  </data>
+  <data name="NoAnyRecord" xml:space="preserve">
+    <value>没有任何记录.</value>
+  </data>
+  <data name="EffectiveDateMustLaterLastRecord" xml:space="preserve">
+    <value>雇员:{0},有效日效必须在上一笔雇佣记录之后.</value>
+  </data>
+  <data name="NotExistSalaryRecordBefore" xml:space="preserve">
+    <value>在指定日期之前不存在相关的调薪记录.</value>
+  </data>
+  <data name="NotExistSalaryRecordIn" xml:space="preserve">
+    <value>在指定有效日期当日不存在相关的调薪记录.</value>
+  </data>
+  <data name="InputFirstAttemptEntitledDays" xml:space="preserve">
+    <value>请录入第一次尝试的权利天数。</value>
+  </data>
+  <data name="InputSecondAttemptEntitledDays" xml:space="preserve">
+    <value>请录入第二次尝试的权利天数。</value>
+  </data>
+  <data name="FirstAttemptDaysNotEnough" xml:space="preserve">
+    <value>赋予第一次学习和考试的权利天数不足，请检测。</value>
+  </data>
+  <data name="SelectBankAccount" xml:space="preserve">
+    <value>请选择银行帐号。</value>
+  </data>
+  <data name="UserLocked" xml:space="preserve">
+    <value>当前用户己被锁定.</value>
+  </data>
+  <data name="InputExtraDays" xml:space="preserve">
+    <value>请输入递增日数。</value>
+  </data>
+  <data name="SelectPerformance" xml:space="preserve">
+    <value>请选择表现。</value>
+  </data>
+  <data name="SelectQuarter" xml:space="preserve">
+    <value>请选择季度。</value>
+  </data>
+  <data name="InputFirstReminderDays" xml:space="preserve">
+    <value>请输入第一次提醒天数。</value>
+  </data>
+  <data name="InputSecondReminderDays" xml:space="preserve">
+    <value>请输入第二次提醒天数。</value>
+  </data>
+  <data name="InputThirdReminderDays" xml:space="preserve">
+    <value>请输入第三次提醒天数。</value>
+  </data>
+  <data name="SaveData" xml:space="preserve">
+    <value>请先保存数据。</value>
+  </data>
+  <data name="NotAllowUpdateApprovedRecord" xml:space="preserve">
+    <value>不允许改变申请状态，因为是已经审批的记录。</value>
+  </data>
+  <data name="SelectPreDays" xml:space="preserve">
+    <value>请选取离职提前通知天数.</value>
+  </data>
+  <data name="FieldNameError" xml:space="preserve">
+    <value>字段名包含不允许的字符:</value>
+  </data>
+  <data name="DataImportSucess" xml:space="preserve">
+    <value>数据导入成功.</value>
+  </data>
+  <data name="ImportDataConfirm" xml:space="preserve">
+    <value>你确定导入文件数据?</value>
+  </data>
+  <data name="PlsSetReportchannel" xml:space="preserve">
+    <value>对应的报告类型没有在报告上级设置。</value>
+  </data>
+  <data name="AnalyseAttendanceConfirm" xml:space="preserve">
+    <value>是否确认要进行出勤分析？</value>
+  </data>
+  <data name="RecordIsNotProbationCompletion" xml:space="preserve">
+    <value>选定的记录不是试用到期。</value>
+  </data>
+  <data name="TerminatedStaff" xml:space="preserve">
+    <value>员工 {0} 己经离职.</value>
+  </data>
+  <data name="SelectFollowStaff" xml:space="preserve">
+    <value>请选择下属员工</value>
+  </data>
+  <data name="NoAllowDeleteNotLastStudyLeaveRecord" xml:space="preserve">
+    <value>选择的记录不是学习&amp;考试休假的最后一条，请检查。</value>
+  </data>
+  <data name="SIDExists" xml:space="preserve">
+    <value>SID 已存在。</value>
+  </data>
+  <data name="PaymentCodeLengthShouldbeThree" xml:space="preserve">
+    <value>支付代码长度应为3</value>
+  </data>
+  <data name="PaymentPlanLengthShouldbeOne" xml:space="preserve">
+    <value>支付计划长度应为1</value>
+  </data>
+  <data name="InputAnnualReviewDateUpdate" xml:space="preserve">
+    <value>Please input Annual Review Date Update</value>
+  </data>
+  <data name="InputBonusDateUpdate" xml:space="preserve">
+    <value>Please input Bonus Date Update</value>
+  </data>
+  <data name="SelectYear" xml:space="preserve">
+    <value>请选择年</value>
+  </data>
+  <data name="InputChequeDate" xml:space="preserve">
+    <value>请输入支票日期。</value>
+  </data>
+  <data name="InputChequeNo" xml:space="preserve">
+    <value>请输入支票单号。</value>
+  </data>
+  <data name="InputPaymentPeriod2" xml:space="preserve">
+    <value>请输入支付期间。</value>
+  </data>
+  <data name="CanNotDeleteSystemDefined" xml:space="preserve">
+    <value>不能删除系统定义的项目。</value>
+  </data>
+  <data name="HaveAlreadySubmitted" xml:space="preserve">
+    <value>本记录之前已经提交过，不需要再次提交。</value>
+  </data>
+  <data name="NotAllowDeleteInUseStaffIDPrefix" xml:space="preserve">
+    <value>员工编号前缀正在使用中，不允许删除。</value>
+  </data>
+  <data name="SelectPFundType" xml:space="preserve">
+    <value>请选择公积金类型</value>
+  </data>
+  <data name="SelectLeaveCalendar" xml:space="preserve">
+    <value>请选择休假日历</value>
+  </data>
+  <data name="PrintingPleaseWait" xml:space="preserve">
+    <value>Printing, Please Wait...</value>
+  </data>
+  <data name="GeneratedPleaseWait" xml:space="preserve">
+    <value>Generated, Please Wait...</value>
+  </data>
+  <data name="SelectFormulaType" xml:space="preserve">
+    <value>请选择公式类型</value>
+  </data>
+  <data name="LeaveEntitlementByGradeExistsPeriod" xml:space="preserve">
+    <value>按等级类型分的休假权利已经存在相同的记录，请检查。</value>
+  </data>
+  <data name="SerYrsRangeBmustmorethanA" xml:space="preserve">
+    <value>服务年区间结束必须大于服务年区间开始。</value>
+  </data>
+  <data name="StaffSalaryTypeIsNotDailyHourly" xml:space="preserve">
+    <value>员工的薪资类型不是日薪  / 时薪</value>
+  </data>
+  <data name="DoublePayRefundRequired" xml:space="preserve">
+    <value>需要退还年底双薪</value>
+  </data>
+  <data name="HaveSameStaffIdentity" xml:space="preserve">
+    <value>在职雇员 ({0}) 已经有相同的护照号码。</value>
+  </data>
+  <data name="PlsUseAdvancementAddRecord" xml:space="preserve">
+    <value>请到雇佣记录，添加员工 ({0}) 重新雇佣记录。</value>
+  </data>
+  <data name="RehiredStaffWithNewJoin" xml:space="preserve">
+    <value>录入的雇员 ({0}) 已经离职，是否以新入方式职雇佣该人员。</value>
+  </data>
+  <data name="NoAllowRehire" xml:space="preserve">
+    <value>该员工({0})已离职并被确认不能重新雇用。</value>
+  </data>
+  <data name="MsgAutoPayFileGenComplete" xml:space="preserve">
+    <value>自动转帐文件产生完毕。</value>
+  </data>
+  <data name="MsgGenFail" xml:space="preserve">
+    <value>生成文件失败。</value>
+  </data>
+  <data name="MsgNoRecord" xml:space="preserve">
+    <value>没有记录。</value>
+  </data>
+  <data name="AppDateApplyAdvanceDaysErr" xml:space="preserve">
+    <value>请在休假开始日期提前 {0} 天申请。</value>
+  </data>
+  <data name="HaveSameStaffIdentityContinueSave" xml:space="preserve">
+    <value>在职雇员 ({0}) 已经有相同的护照号码。是否继续保存？</value>
+  </data>
+  <data name="NotAllowOverMarriageLeaveTakenDays" xml:space="preserve">
+    <value>婚假休息天数不能大于婚假允许天数 {0}。</value>
+  </data>
+  <data name="NotEnoughServiceYearForMarriageLeave" xml:space="preserve">
+    <value>使用婚假必须要服务年数大于 {0}。</value>
+  </data>
+  <data name="EarnedMaternityLeaveSerWeeksMustGreater" xml:space="preserve">
+    <value>你的服务周数必须大于或等于 {0} 才能享有产假福利。</value>
+  </data>
+  <data name="MaternityOnlyApplyFemale" xml:space="preserve">
+    <value>产假只适用于女性。</value>
+  </data>
+  <data name="NotAllowOverMaternityMaxSetDays" xml:space="preserve">
+    <value>最大产假休假天数是 {0}。</value>
+  </data>
+  <data name="ExpiryDateMustLaterthenStartDate" xml:space="preserve">
+    <value>失效日期必须大于开始日期。</value>
+  </data>
+  <data name="SelectCommonPackage" xml:space="preserve">
+    <value>请选择公共工资包。</value>
+  </data>
+  <data name="GenerateChequeRecords" xml:space="preserve">
+    <value>确认生成支票记录吗?</value>
+  </data>
+  <data name="RsPeriodHadFullPayLeave" xml:space="preserve">
+    <value>试用期间范围内已经有全薪病假{0} 天。请选择休假扣减。</value>
+  </data>
+  <data name="RsHadAttenCertiSickLeave" xml:space="preserve">
+    <value>雇员只可以使用{0} 天的有出勤证书证明的病假。</value>
+  </data>
+  <data name="AnnualLeaveContinuePayOnProbation" xml:space="preserve">
+    <value>员工 {0} 正处于试用期，该员工能否休全薪年假? 不能的话，请选择扣薪公式。</value>
+  </data>
+  <data name="AnnualLeaveOverBalance" xml:space="preserve">
+    <value>休假天数大于休假剩余天数，是否继续？</value>
+  </data>
+  <data name="AnnualLeaveOverMaxAdvEntiDays" xml:space="preserve">
+    <value>提前休假的天数大于系统设置的最大允许提前天数 {0}，是否继续？</value>
+  </data>
+  <data name="InputExtraDaysPer" xml:space="preserve">
+    <value>请录入每多少年。</value>
+  </data>
+  <data name="ExChageRateDataImport" xml:space="preserve">
+    <value>是否確定導入兑换比率資料?</value>
+  </data>
+  <data name="HadExitLeaveRecord" xml:space="preserve">
+    <value>休假开始和结束时间内已存在相同的纪录，请检查。</value>
+  </data>
+  <data name="SelectDateRange" xml:space="preserve">
+    <value>请选择日期范围。</value>
+  </data>
+  <data name="SelcctGeneratedRecord" xml:space="preserve">
+    <value>请选择生成记录。</value>
+  </data>
+  <data name="ChequeNoExsit" xml:space="preserve">
+    <value>支票单号已經存在，請輸入新的支票单号。</value>
+  </data>
+  <data name="InputEeEffectiveDate" xml:space="preserve">
+    <value>请输入雇员生效日期</value>
+  </data>
+  <data name="InputErEffectiveDate" xml:space="preserve">
+    <value>请输入雇主生效日期</value>
+  </data>
+  <data name="InputProbationCutoffDay" xml:space="preserve">
+    <value>请输入试用工资首月结算日。</value>
+  </data>
+  <data name="ComsanExpDateMustLaterXMonthThanStaDate" xml:space="preserve">
+    <value>失效日期必须大于开始日期 {0}个月，是否继续？</value>
+  </data>
+  <data name="AppDateApplyAdvanceDaysConfirm" xml:space="preserve">
+    <value>休假开始日期要求提前 {0}天申请,是否继续?</value>
+  </data>
+  <data name="SelectSocialInsuranceType" xml:space="preserve">
+    <value>请选择社会保险分类</value>
+  </data>
+  <data name="InputMaxSalary" xml:space="preserve">
+    <value>请输入最大薪金</value>
+  </data>
+  <data name="NoUserOrMultiLoginName" xml:space="preserve">
+    <value>用户名不存在或重复</value>
+  </data>
+  <data name="InputAsOfJoinDate" xml:space="preserve">
+    <value>请输入入职结束日期</value>
+  </data>
+  <data name="RsNotAllowOverHomeLeaveMaxcount" xml:space="preserve">
+    <value>家里休假最大次数是 {0}。</value>
+  </data>
+  <data name="CompensationLeaveLessthanMinHours" xml:space="preserve">
+    <value>补假小时不能小于 {0} 小时，请检查。</value>
+  </data>
+  <data name="CompensationLeaveMorethanMaxDays" xml:space="preserve">
+    <value>补假天数不能大于 {0} 天，请检查。</value>
+  </data>
+  <data name="NotAllowOverMarriageLeaveTakenCounts" xml:space="preserve">
+    <value>最大申请次数为 {0}。</value>
+  </data>
+  <data name="AsOfDate" xml:space="preserve">
+    <value>Please Input As of Date.</value>
+  </data>
+  <data name="TheStaffAlreadyUpdated" xml:space="preserve">
+    <value>该员工已经计算过。</value>
+  </data>
+  <data name="RsNotAllowOverCompassionateLeaveMaxTakenDays" xml:space="preserve">
+    <value>照顾性准假请假天数不能大于 {0} 天。</value>
+  </data>
+  <data name="OnlySelectOneBatch" xml:space="preserve">
+    <value>请只选择一个批号。</value>
+  </data>
+  <data name="StaffHasTwiceTrainingInThisYear" xml:space="preserve">
+    <value>员工在该年度已经有超过 2 次的培训。</value>
+  </data>
+  <data name="StaffServiceYearLessThanOneYear" xml:space="preserve">
+    <value>员工的服务年数少于 1 年。</value>
+  </data>
+  <data name="StaffNeedReturnTrainingSubsidy" xml:space="preserve">
+    <value>该员工需要归还培训津贴</value>
+  </data>
+  <data name="InputNoofInstallment" xml:space="preserve">
+    <value>请输入次号。</value>
+  </data>
+  <data name="MaxPercentageOfCourseFeeLessThan" xml:space="preserve">
+    <value>培训费用百分比最大为</value>
+  </data>
+  <data name="MaxPercentageOfSalaryLessThan" xml:space="preserve">
+    <value>年薪百分比最大为</value>
+  </data>
+  <data name="InputFileName" xml:space="preserve">
+    <value>请输入文件名</value>
+  </data>
+  <data name="UploadFile" xml:space="preserve">
+    <value>请上传文件。</value>
+  </data>
+  <data name="MinPasswordLength" xml:space="preserve">
+    <value>最小的密码长度为</value>
+  </data>
+</root>

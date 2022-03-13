@@ -1,0 +1,1065 @@
+﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterDocument.master.cs" Inherits="MasterDocument" %>
+<%@ Register Src="Banner.ascx" TagName="Banner" TagPrefix="PC" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="PC" %>
+<%@ Register Src="NavMenu.ascx" TagName="NavMenu" TagPrefix="PC" %>
+
+<%@ Import Namespace="PCCore" %>
+
+
+<html>
+<head id="Head1" runat="server">
+    <link rel="SHORTCUT ICON" href="~/flexihr.ico"/>
+    <title></title>
+    <meta http-equiv="pragma" content="no-cache" /> 
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <base target="_self" />
+</head>
+<%
+    string loginname = SessionInfo.LoginName;
+    bool isSupervisor = SessionInfo.IsSupervisor;
+
+    //add by michael, begin
+    bool isReverse = SessionInfo.IsReverse;
+    //add by michael, end
+    
+    //add by Eric
+    string userid = SessionInfo.UserId;
+    string username = SessionInfo.UserName;
+    //end by Eric
+    
+    string pmsrptidclient = this.pmsrptid.ClientID;
+   string functionid = SessionInfo.CurrentFunctionID;
+   string functioncode = SessionInfo.CurrentFunction;
+   string appUrl = Config.AppBaseUrl;
+   string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+   string BackEnd = Resources.Labels.BackEnd;
+   string FrontEnd = Resources.Labels.FrontEnd;
+   string lang = SessionInfo.CurrentLanguage;
+   string ReportLocation = "";
+   string ReportName = "";
+   string DOCUMENT_DRAFT = Consts.DOCUMENT_DRAFT;
+   string DOCUMENT_POST = Consts.DOCUMENT_POSTED;
+   string screen_wait = Consts.SCREEN_WAIT;
+   string screen_nowait = Consts.SCREEN_NOWAIT;
+   string screen_status = SessionInfo.UploadWait;
+   string actionqry = Consts.ActionQuery;
+   string strProjectTextClientID = invProject.ClientID;
+   string strProjectClientID = ddlProject.ClientID;
+   string strControlID = idupload.ClientID;
+   int showtime = Config.UploadWaitSecond;
+   int dlntime = Config.DlnWaitSecond;    
+    
+   if (screen_status == screen_wait)
+   {
+       SessionInfo.UploadWait = Consts.SCREEN_NOWAIT;
+   }
+   try
+   {
+       switch (lang)
+       {
+           case "zh-cn":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-cn", functioncode.ToUpper()).ToString();
+               break;
+           case "zh-tw":
+
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-tw", functioncode.ToUpper()).ToString();
+               break;
+           case "en-us":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report", functioncode.ToUpper()).ToString();
+               break;
+       }
+   }
+   catch (Exception ex)
+   { }
+   ibSearchProject.ImageUrl = themeUrl + "/images/search.gif";
+   PCCore.Common.HRLog.RecordLog("FunctionID," + functionid);
+   if (functionid == "4001")
+   {
+       btnConfirm.Enabled = false;
+       txtFileName.Enabled = true;
+       ibSearchProject.Visible = true;
+   }
+   else
+   {
+       btnConfirm.Enabled = true;
+       txtFileName.Enabled = true;
+       ibSearchProject.Visible = true;
+   }
+   //ibSearchProject.Attributes.Add("onkeydown", "if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {return false;}} else {return true}; ");
+   //ibSearchProject.Attributes.Add("onkeydown", "javascript:return false;");
+%>
+
+
+<body style="height:100%" oncontextmenu="return false;"> 
+    <iframe  id="Iframe1" style=" position: absolute; display:none;left: 0px; z-index:1; overflow:auto; top: 100px; background-color:Transparent";
+      frameborder="0"   scrolling="no"  marginwidth="0"  marginheight="0" width="100%"  scrolling="yes"  height="100%"  src="../Control/loading.aspx?ShowMth=upload">
+      </iframe>
+    <%--
+    allowtransparency="true"  
+    body {margin:0; padding:0 10px 0 10px; border:0; height:100%; overflow:auto;}
+    #menu {left:0; top:0; width:130px; position:fixed; padding:10px; width:100%;height:30px;text-align:center; font-weight:bold; background:#000;}
+    * html #menu {position:absolute; right:16px;}
+    /*only for ie*/ html {overflow:auto !important; overflow:hidden;} --%>
+    <!--display:none; background-color:Transparent;-->
+    
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');" >
+        
+            <iframe id="download" name="download" height="0px" width="0px"></iframe> <!--add by Martin-->
+            <div id="divForm">
+            <PC:Banner ID="Banner" runat="server" />
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" height="80%"  class="contentholder">
+                <tr>
+                    <%--<td valign="top" width="162px" height="100%">
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td valign="top"><PC:NavMenu ID="NavMenu" runat="server" /></td>                                
+                            </tr>
+                        </table>
+                    </td>--%>
+                    <td valign="top" height="100%"  class="FormContainer"> 
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                        
+                            <!---->
+                           <%-- <tr>
+                            
+                            </tr>--%>
+                            <!---->
+                            
+                                  <tr>
+                                    <td  height="10" valign="top">
+                                        <PC:Note ID="Note" runat="server" Visible="false" />
+                                    </td>
+                                  </tr>
+                                   <tr runat="server" id="NoteSepLine" visible="false" height="10" valign="top">
+                                    <td class="SepVerLine">&nbsp;</td>
+                                  </tr>
+                                  <!-- note end -->
+              
+                                  <!-- title bar begin -->
+                                  <tr>
+                                     <td height="10" valign="top">
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                                            <td class="txttitle">
+                                                <PC:Title id="Title" runat="server"></PC:Title>
+                                             </td>
+                                            <td align="right">
+                                                
+                                            </td>
+                                           </tr>
+                                          </table>
+                                       </td>
+                                  </tr>
+                                  <tr>                
+                                    <td height="10"><hr size="1" class="titlehr"></td>
+                                  </tr>                                 
+                                <!-- title bar end -->
+            
+                                <!-- content begin -->
+                                    <tr>
+                                        <td valign="top" style="padding-top:6px;padding-left:10px" width="80%">    
+                                            <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">                                                
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                            <!-- search area begin -->                
+                                                            <tr>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label runat="server" ID="lblDivision" LabelStyle="xLabel" Text="<%$ Resources:Labels,DocumentNo %>" />
+                                                                </td>
+                                                                <td width="10px">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                    <PC:TextBox ID="txtFileName" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"  Width="200px" /></td>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label runat="server" ID="lblDepartment" LabelStyle="xLabel" Text="<%$ Resources:Labels,Project %>" />
+                                                                </td>
+                                                                <td style="width: 10px;">
+                                                                    :
+                                                                </td>
+                                                                <td colspan="6">
+
+                                                                    <%--<PC:DropDownList runat="server" ID="ddlProject" RegisterClientVariable="true" Width="200px" />
+                                                                    <PC:DropDownList runat="server" ID="DropDownList1" RegisterClientVariable="true" Width="450px" />--%>
+                                                                    <PC:DropDownList runat="server" ID="ddlProject" RegisterClientVariable="true" Width="400px" />
+                                                                    <PC:ImageButton runat="server"  ID="ibSearchProject" OnClientClick="javascript:SearchProject();" />
+                                                                    
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="5px" colspan="11">
+                                                                </td>
+                                                            </tr>        
+                                                            <tr>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label LabelStyle="xLabel" runat="server" ID="lblSearch" Text="<%$ Resources:Labels,UploadTime %>" />
+                                                                </td>
+                                                                <td width="10px">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                    <PC:TextBox ID="txtStartDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                        DataType ="Date" Width="75px" />-
+                                                                    <PC:TextBox ID="txtEndDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                        DataType ="Date"  Width="75px" /></td>
+                                                                 <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    
+                                                                            <PC:Label runat="server" ID="Label1" LabelStyle="xLabel" Text="<%$ Resources:Labels,UploadBy %>" />
+                                                                    
+                                                                </td>
+                                                                <td style="width: 10px;">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                   
+                                                                    <PC:DropDownList runat="server" ID="ddlUser" RegisterClientVariable="true" Width="200px"/>
+                                                                   
+                                                                </td>
+                                                                <td width="5">
+                                                                    <span style="padding-left: 1px;" />
+                                                                    
+                                                                            <PC:Label runat="server" ID="Label2" LabelStyle="xLabel" Text="<%$ Resources:Labels,Status %>" />
+                                                                    
+                                                                </td>
+                                                                <td style="width: 3px;">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                   
+                                                                    <PC:DropDownList runat="server" ID="ddlStatus" RegisterClientVariable="true" Width="190px"/>
+                                                                   
+                                                                </td>
+                                                                <td>
+                                                                    <PC:SearchButton id="SearchButton" runat="server" />
+                                                                </td>
+                                                                <td align="right">
+                                                                    <PC:DocumentToolBar runat="server" ID="toolbContact" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="5px" colspan="11">
+                                                                </td>
+                                                            </tr>
+                                                            <!-- search area end -->
+                                                            <!-- Karrson: Confirmation Button -->
+                                                            <tr height="100%">
+                                                                <td valign="top" align="left" class="Confirm" colspan="11">
+                                                                    <asp:Button ID="btnConfirm" Text="<%$Resources:Labels,toPost %>" 
+                                                                        runat="server" OnClientClick="javascript:if(!Confirm()) return false;" onclick="btnConfirm_Click" />
+                                                                    <asp:Button ID="btnReverse" Text="Reverse" 
+                                                                        runat="server" OnClientClick="javascript:if(!Reverse()) return false;" 
+                                                                        onclick="btnReverse_Click" style="margin-left: 57px" Width="70px" />
+                                                                    <asp:Button ID="btnExport" runat="server" onclick="btnExport_Click" 
+                                                                        OnClientClick="javascript:window.showModalDialog('./MA08_ExportWindow.aspx','ExportWin','dialogWidth:800px;dialogHeight:500px');" 
+                                                                        Text="Export Excel" Width="103px" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr style="display:none;">
+                                                                <!--grdView begin -->
+                                                                <td class="ddlpaSearch" style="padding-left: 5px">
+                                                                </td>
+                                                                <td style="padding: 3px; height: 25px;" class="ddlpaSearch" valign="middle" align="right" colspan="10">
+                                                                    <PC:Label LabelStyle="xLabel" runat="server" ID="lblView" Text="<%$ Resources:Labels,View %>" />
+                                                                    <PC:DropDownList ID="ddlSearch" runat="server" Width="180px">
+                                                                    </PC:DropDownList>
+                                                                    
+                                                                </td>
+                                                                <!--grdView End -->
+                                                            </tr>
+                                                            <!-- data area begin -->
+                                                            <tr>
+                                                                <td valign="top" class="GridViewContainer" colspan="11">
+                                                                    <PC:DbDataSource runat="server" ID="dsGridView">
+                                                                    </PC:DbDataSource>
+                                                                    <asp:Panel runat="server" ID="Panel1" Width="980px" ScrollBars="Horizontal" Height="280px">
+                                                                    <PC:GridView runat="server" ID="gvData" DataSourceID="dsGridView" SkinID="DocumentSkin"
+                                                                         SelectValueField="descid" DataKeyNames="descid"  onselectedindexchanging="gvData_SelectedIndexChanging" SelectedIndex="0" OnRowCommand="gvData_RowCommand"
+                                                                        BorderWidth="0" GridViewStyle="UserDefine" AllowMultipleSelect="False"   OnSorted="gvData_Sorted" OnRowDataBound="gvData_RowDataBound" OnSelectedIndexChanged="gvData_SelectedChanged" />
+                                                                    </asp:Panel>
+                                                                </td>
+                                                            </tr>
+                                                            
+                                                            
+                                                        </table>
+                                                        <table>
+                                                            <tr>
+                                                               
+                                                            </tr>
+                                                            
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr style="display:none">
+                                                    <td>
+                                                        <div style="overflow:scroll; height:200px;">
+                                                            <table id="tblannouncement" runat="server"></table>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top" >
+                                                        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder>
+                                                    </td>
+                                                </tr>
+                                            </table> 
+                                        </td>
+                                    </tr>
+                                     
+                                    
+                                <!-- content end -->            
+                              
+                             
+            </table>
+            
+        </td>
+        </tr>
+        
+        </table>
+        <PC:TextBox ID="invProject" runat="server" Width="0px"></PC:TextBox>
+        <PC:TextBox ID="idupload" runat="server" Width="0px"></PC:TextBox>
+        <PC:TextBox ID="pmsrptid" runat="server" Width="0px"></PC:TextBox>
+        
+        <PC:Footer ID="Footer" runat="server" /> 
+        </div>
+        
+    </form>
+
+        
+        
+
+    <script language="javascript">
+
+// Screen Waiting 
+        //var username = "<%=loginname %>";
+        var username = "<%=username %>";
+        var pmsrptidclient = "<%=pmsrptidclient %>";
+    	var _screen_status = "<%=screen_status %>";
+    	var _screen_wait = "<%=screen_wait %>";
+    	var _screen_nowait = "<%=screen_nowait%>";
+    	var DOCUMENT_POST = "<%=DOCUMENT_POST %>";
+        var functionid = "<%=functionid %>";
+        var functioncode = "<%=functioncode %>";
+        var formUrl = functioncode + "_Form.aspx";
+        var appUrl = "<%= appUrl %>";
+        var themeUrl = "<%= themeUrl %>";
+        var BackEnd = "<%= BackEnd %>";
+        var FrontEnd = "<%= FrontEnd %>";
+        
+        var lang = "<%= lang %>";
+        var ReportLocation = "<%= ReportLocation %>";
+        var ReportName = "<%= ReportName %>";
+        var strControlID = "<%=strControlID %>";
+        var height = screen.height;
+        var width = screen.width;
+        var dlntime = "<%= dlntime %>";
+        // owner
+        var loginname = "<%=loginname %>";
+        var isSupervisor = "<%= isSupervisor %>";
+        //add by Michael, begin
+        var isReverse = "<%= isReverse %>";
+        //add by Michael, end
+        // Report Printing
+        var dialogFeatures1 = "dialogHeight:" + height + ";dialogWidth:" + width + ";";
+        // Form 
+        
+        //var dialogFeatures = "dialogHeight:800px;dialogWidth:600px;";
+        var dialogFeatures = "dialogHeight:" + 600+ "px;dialogWidth:" + 650 + "px;";
+        var SearchdialogFeatures = "dialogHeight:" + 300+ "px;dialogWidth:" + 800 + "px;";
+        
+        var frmMain = document.forms[0]; 
+    	
+    	var UpAlldialogFeaturesDownoLoadFile = "menubar=no,toolbar=no,status:=no,Height=230,Width=350,top=270,left=320";
+    	    	var UpAllDownoLoadFileUrl = "<%=appUrl %>/Control/DownLoadFile.aspx"; 
+    	var ViewDocumentUrl = "<%=appUrl %>/Report/CheckList.aspx";
+    	var DOCUMENT_DRAFT = "<%=DOCUMENT_DRAFT %>";
+    	
+    	var actionqry = "<%= actionqry %>";
+    	var _showtime = "<%=showtime%>";
+        var num = 0;
+        var tim;
+        
+           //Add Eric 
+        var DOCUMENT_POSTED = "<%=DOCUMENT_POST %>";
+        var userid = "<%=userid %>";
+        //End Eric
+   
+        // Test Only
+        
+        
+        //var _frame = document.getElementById('IFrame1');
+        //var _frameobj = window.frames['IFrame1'];
+        
+        
+        //DisableEnableForm(frmMain,"true");
+        //frmMain.disable = true;
+        //_frame.style.display= 'none';
+        
+    	//if (_screen_status == _screen_wait)
+    	//alert(document.getElementById(strControlID).value);
+    	
+    	// Debug Only
+    	var pmsrptid = document.getElementById(pmsrptidclient).value;
+    	
+    	if (functionid == "4001" && pmsrptid != "" && pmsrptid != undefined && pmsrptid != "close" && pmsrptid != "refresh")
+    	{
+    	    document.getElementById(pmsrptidclient).value = "";
+    	    PMReport(pmsrptid,DOCUMENT_DRAFT);
+    	    
+    	}
+    	
+        var _mth = document.getElementById(strControlID).value;
+    	
+    	if (_mth != "")
+    	{
+    	    _PopUp(_mth);
+    	   
+    	}
+    	
+    	var properEvent;
+    	
+    	
+    	
+    	function waitcursor()
+       {
+          
+          
+          //Do this if Buttons and Link where click that do a heavy postback.
+            
+            document.body.style.cursor="wait";
+
+            //Disables all the INPUT Controls
+            for(i=0;i<document.all.tags('INPUT').length;i++)
+            {         
+                 var io = document.all.tags('INPUT')[i];     
+                 //Make sure you are not working with hidden INPUTS
+                 if(io.type != 'hidden')
+                 {
+                      //io.style.display="none";
+                      io.disabled=true;
+                      io.style.cursor ="wait";
+                 }
+           }
+          for(i=0;i<document.all.tags('SELECT').length;i++)
+          {         
+                 var select = document.all.tags('SELECT')[i];       
+                 //Make sure you are not working with hidden INPUTS
+                 if(select.type != 'hidden')
+                 {
+                      select.disabled=true;
+                      select.style.cursor ="wait";
+                 }
+
+           }
+
+            //Disables all the HyperLink Controls
+            for(i=0;i<document.all.tags('a').length;i++)
+            {         
+
+                 var io = document.all.tags('a')[i];
+                 //Make sure you are not working with hidden Links
+
+                 if(io.type != 'hidden')
+                 {
+                       io.style.display = 'none'; 
+                       io.disabled=true;
+                       io.style.cursor ="wait";
+                 }
+
+              }
+
+             //divResult.style.display = "none";
+             //divWait.style.display="block";
+
+             
+  }
+  
+  function standardcursor()
+       {
+          
+          
+          //Do this if Buttons and Link where click that do a heavy postback.
+            
+            document.body.style.cursor="";
+
+            //Disables all the INPUT Controls
+            for(i=0;i<document.all.tags('INPUT').length;i++)
+            {         
+                 var io = document.all.tags('INPUT')[i];     
+                 //Make sure you are not working with hidden INPUTS
+                 if(io.type != 'hidden')
+                 {
+                    
+                      io.disabled=false;
+                      io.style.cursor ="";
+                 }
+           }
+
+          for(i=0;i<document.all.tags('SELECT').length;i++)
+          {         
+                 var select = document.all.tags('SELECT')[i];       
+                 //Make sure you are not working with hidden INPUTS
+                 if(select.type != 'hidden')
+                 {
+                      select.disabled=false;
+                      select.style.cursor ="";
+                 }
+
+           }
+
+            //Disables all the HyperLink Controls
+            for(i=0;i<document.all.tags('a').length;i++)
+            {         
+
+                 var io = document.all.tags('a')[i];
+                 
+                 //Make sure you are not working with hidden Links
+
+                 if(io.type != 'hidden')
+                 {
+                        io.style.display = '';
+                       io.disabled=false;
+                       io.style.cursor ="";
+                 }
+
+              }
+
+             //divResult.style.display = "none";
+             //divWait.style.display="block";
+
+             
+  }
+    	
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                
+                selfToBeExecute();
+          }   
+        } 
+        
+        function DisableMouseClick()
+        {
+        return false;
+        }
+        
+        function stopRKey(evt) {
+           var evt = (evt) ? evt : ((event) ? event : null);
+           var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+           if ((evt.keyCode == 13)) {return false;}
+        }
+
+        function startRKey(evt) {
+           var evt = (evt) ? evt : ((event) ? event : null);
+           var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+           if ((evt.keyCode == 13)) {return true;}
+        }
+        
+        
+        // Dialog Box
+        function _PopUp(mth)
+        {
+            
+            if (_showtime > 0)
+            {
+                document.onkeypress = stopRKey; 
+                waitcursor();
+                var _frame1 = document.getElementById('IFrame1');
+                _frame1.style.display= '';
+                
+                _showLoad(); 
+                
+            }
+            
+            
+//            //var dialogFeatures = "dialogHeight:100px;dialogWidth:100px;status=0;";
+//            var dialogFeatures = "titlebar:No;dialogWidth:600px;dialogHeight:200px;resizable:no;status:no;help:no";
+//            //var dialogFeatures = "Height:100px;Width:100px;status=0;";
+//            var formUrl = "../Control/loading.aspx?ShowMth=" + mth;
+//            
+//            var p = {};
+//            p[PARAM_URL] = formUrl;
+//            p[PARAM_MODE] = FORM_MODE_NEW;
+//            //window.showModalDialog("../Control/loading.aspx",'',dialogFeatures);
+//            //window.open("../Control/loading.aspx",'',dialogFeatures);
+//            var ret = showForm(p, dialogFeatures); 
+
+                
+        }
+        
+        
+        var _frm = document.forms[0];
+        var _frame1 = document.getElementById('Iframe1');
+        
+        function _showLoad()
+        {
+            var cnttime = 0;
+            if (_mth == "upload")
+            {
+                cnttime = _showtime;
+            } else 
+            {
+                cnttime = dlntime;
+            }
+            
+            num ++;
+            //_showtime = _showtime * 1000;
+            //alert(num);
+            //if (num == _showtime)
+            
+            if (num == cnttime)
+            {
+            
+            
+            //window.clearTimeout(tim);
+            
+            //window.close();
+            _frm = document.forms[0];
+            //DisableEnableForm(_frm,"false");
+            
+            _frame1.style.display='none';
+            document.onkeypress = startRKey;
+            
+            standardcursor();
+            document.getElementById(strControlID).value = "";
+            //alert(_mth);
+            if (_mth == "upload")
+            {
+            _Refresh();
+            }
+            if (_mth == "download")
+            {
+            self.location.href = "../Document/DownloadManager.aspx";
+            }
+           
+            } else {
+                
+                //tim = window.setTimeout(_showLoad(),1000);
+                //window.clearTimeout(tim);
+                tim = window.setTimeout(_showLoad,1000);
+                
+            }
+        }
+        
+        function PopUpRefresh(mth)
+        {
+           _frame1.style.display='none';
+            document.onkeypress = startRKey;
+            standardcursor();
+            _Refresh(); 
+        }
+           
+        function PrintCheckList(id)
+        {
+//            alert('Print Check List')
+//            alert(id);
+//            alert(functioncode);
+            var p = {};
+            // CheckList Report Version
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&DocEntry=" + id;
+            // CheckList Screen
+            p[PARAM_URL] = ViewDocumentUrl;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            p[PARAM_ID] = id;
+            // Report Link Alert Debug
+            
+            //var ret = showForm(p, dialogFeatures1);            
+            var ret = showModelessForm(p,dialogFeatures1);
+            if(ret==COMMAND_REFRESH)
+                _Refresh();
+            
+        }
+
+        function PrintReport(id)
+        {
+//            alert('Print Check List')
+//            alert(id);
+//            alert(functioncode);
+            var p = {};
+            // CheckList Report Version
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&DocEntry=" + id;
+            p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&DocEntry=" + id + "&UserID=" + username;
+            // CheckList Screen
+            //p[PARAM_URL] = ViewDocumentUrl;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            p[PARAM_ID] = id;
+            // Report Link Alert Debug
+            
+            //var ret = showForm(p, dialogFeatures1);            
+            var ret = showModelessForm(p,dialogFeatures1);
+            if(ret==COMMAND_REFRESH)
+                _Refresh();
+            
+        }        
+        function AddNew() {  
+            
+            var p = {};
+            p[PARAM_URL] = formUrl;
+            
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            var ret = showForm(p, dialogFeatures); 
+//            alert(ret);
+//            alert(functionid);
+//            if (ret !=undefined && ret!= "")
+//            {
+//                if (functionid == "4001")
+//                {
+//                    PMReport(ret,DOCUMENT_DRAFT);
+//                }
+//            }
+//            alert(ret);           
+            if (ret==COMMAND_REDIRECT)
+            {
+                //setTimeout(_PopUp("download"),10000);
+                //_PopUp("download");
+                document.getElementById(strControlID).value = "download";
+                _Refresh();
+//                self.location.href = "../Document/DownloadManager.aspx";
+                
+                
+            }
+            if(ret==COMMAND_REFRESH)
+             {
+                
+                document.getElementById(strControlID).value = "upload";
+                //alert(document.getElementById(strControlID).value);
+                //setTimeout(_PopUp("upload"),10000);
+                _Refresh();
+             }
+             if (ret=="refreshonly")
+             {
+                _Refresh();
+             }
+             if (functionid = "4001")
+             {
+                if (ret != "")
+                {
+                    document.getElementById(pmsrptidclient).value = ret;
+                    _Refresh();
+                }
+             }
+            
+        }
+           
+    	function DownloadFile(id)
+        {
+            if (id !="")
+            {           
+               _RequestStr = UpAllDownoLoadFileUrl+"?UpRecordID="+id;             
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false); //open a new blank widows,if click open ,open in it                
+//                var p = {};
+//                p[PARAM_URL] = _RequestStr;
+//                p[PARAM_MODE] = FORM_MODE_NEW;
+//                var ret =  showForm(p, UpAlldialogFeaturesDownoLoadFile); 
+            }
+        }
+        
+       function Refresh() { 
+            document.getElementById(strControlID).value = "upload";
+            setCommand(COMMAND_REFRESH);       
+            frmMain.submit();
+        }
+        
+        function _Refresh() { 
+            
+            setCommand(COMMAND_REFRESH);       
+            frmMain.submit();
+        }
+        
+        function Confirm() {
+            var selected;
+            var status;
+            var owner;
+            var row = gvData.getSelectedRow();
+            status = gvData.getCellText(row, 14);
+            selected = gvData.getSelectedRowValue();
+            owner = gvData.getCellText(row,15);
+            
+            if (owner == loginname || isSupervisor == "True")
+            {
+            if(!SimpleJS.isNullOrEmpty(selected)) {
+                if (status == DOCUMENT_DRAFT) {
+                    if (!confirm("Are you sure to be post this record?")){
+                       
+                        return;
+                        
+                    } 
+                    else {
+                         if (functionid == "4001")
+                         {
+                         
+                         PMReport(selected);
+                         } else {
+                         setCommand(COMMAND_CONFIRM);
+                         document.getElementById(strControlID).value = "upload";
+                         }
+                          frmMain.submit(); 
+                    }
+                    
+                } 
+                else {                
+                    if (status == "DR")
+                           alert("Rejected docuemnt does not allow to post!");
+                    else{ 
+                        if (status == "P")
+                           alert("Docuemnt already posted!");
+                        else {
+                            if (status == "X")
+                                alert("Cancelled docuemnt does not allow to post!");
+                            else {
+                                if (status == "DP")
+                                    alert("Document is being draft. Please wait!");
+                                else{
+                                    if (status == "PPPS")
+                                        alert("Document is being post. Please wait!");
+                                }
+                            }
+                            
+                        }
+                    }
+                }
+            }
+            
+            else{
+                alert("Please select document!");
+            }
+            } else {
+                alert("You have not permission to post this document");
+            }
+            
+        }
+        
+        //add by michael, begin
+        function Reverse()
+        {
+            var selected;
+            var status;
+            var owner;
+            var row = gvData.getSelectedRow();
+            status = gvData.getCellText(row, 14);
+            selected = gvData.getSelectedRowValue();
+            owner = gvData.getCellText(row, 15);
+
+            if (owner == loginname || isReverse == "True")
+            {
+                if (!SimpleJS.isNullOrEmpty(selected))
+                {
+                    if (status == DOCUMENT_POST)
+                    {
+                        if (!confirm("Are you sure to be reverse this record?"))
+                        {
+
+                            return;
+
+                        }
+                        else
+                        {
+                            if (functionid == "1017" || functionid == "1018")
+                            {
+                                setCommand(COMMAND_REVERSE);
+                                document.getElementById(strControlID).value = "upload";
+                            }
+                            frmMain.submit();
+                        }
+
+                    }
+                    else
+                    {         
+                        if (status == "DR")
+                            alert("Rejected docuemnt does not allow to reverse!");
+                        else
+                        {
+                            if (status == "RP")
+                                alert("Docuemnt is being reversed. Please wait!");
+                            else
+                            {
+                                if (status == "X")
+                                    alert("Cancelled docuemnt does not allow to reverse!");
+                                else
+                                {
+                                    if (status == "DP")
+                                        alert("Document is being draft. Please wait!");
+                                    else
+                                    {
+                                        if (status == "PPPS")
+                                            {
+                                            alert("Document is being post. Please wait!");
+                                            }
+                                        else
+                                        {
+                                            if (status == "D") 
+                                                alert("Draft docuemnt does not allow to reverse!");
+                                            else {
+                                                 if (status == "PRBD") 
+                                                    alert("Post-Rejected docuemnt does not allow to reverse!");
+                                                 else {
+                                                    if (status == "PRDR") 
+                                                        alert("Post-Rejected docuemnt does not allow to reverse!");
+                                                    else {
+                                                        if (status == "PPFA") 
+                                                            alert("Transfer-To-Flex docuemnt does not allow to reverse!");
+                                                        else {
+                                                            alert("Reversed document does not allow to reverse again!");
+                                                             }
+                                                         }
+                                                      }
+                                                 }
+                                        }
+                                    }
+                                }
+
+                            }
+                        }
+                    }
+                }
+
+                else
+                {
+                    alert("Please select document!");
+                }
+            }
+            else
+            {
+                alert("You have not permission to post this document");
+            }
+
+        }
+        //add by michael, end
+        
+        
+            function SearchProject()
+	{
+	    
+	    
+	    var p = {};
+	    var strProjectTextClientID = "<%=strProjectTextClientID %>";
+	    var formUrl = "../Control/Search.aspx?type=project&action=" + actionqry + "&function=" + functionid;
+        p[PARAM_URL] = formUrl;
+        p[PARAM_MODE] = FORM_MODE_NEW;
+        var ret = showForm(p, SearchdialogFeatures); 
+        
+        
+        if (ret != "" && ret != undefined)
+        {
+            
+            document.getElementById(strProjectTextClientID).value = ret;
+            //document.getElementById(strProjectClientID).selectedvalue = ret;
+            //document.getElementById(strProjectClientID).selectedIndex = 10;
+            //frmMain.submit();
+            document.forms[0].submit();
+        }
+	}
+	
+	function PMReport(id,status)
+	{
+	       
+            var p = {};
+            // Report Printing
+            var dialogFeatures2 = "dialogHeight:700px;dialogWidth:900px;";
+            // CheckList Report Version
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&DocEntry=" + id;
+            // CheckList Screen
+            
+            var pmurl = "../Import/MAI01_01.aspx?DocEntry=" + id;
+            
+            //var pmrptlink = "<%=appUrl %>/Import/MAI01_01.aspx?DocEntry=" + id;
+            p[PARAM_URL] = pmurl;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            p[PARAM_ID] = id;
+            // Report Link Alert Debug
+           
+            
+            if (status  == DOCUMENT_POST)
+            {
+                
+                window.open(pmurl);
+            } else
+            {
+            
+              var ret = showForm(p, dialogFeatures2);            
+            }
+            
+            //var ret = showModelessForm(p,dialogFeatures1);
+            //if(ret==COMMAND_REFRESH)
+                Refresh();
+            
+	}
+	
+        function PrintDocumentReport(fid,eid,DocStatus)
+        {
+            
+//            alert('PrintDocumentReport')
+//            alert(functionid)
+//            alert(fid)
+//            alert(eid)
+//            alert(DocStatus)
+            var id = "";
+            var DB = "";
+            var p = {};
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            
+            var _ReportName = "";
+            var r_ReportName = "";
+            _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+//            alert(extend);
+            
+            if (DocStatus == DOCUMENT_POSTED)
+            {
+                id = fid;
+                DB = BackEnd;
+                r_ReportName = ReportName;
+            } 
+            else
+            {
+                id = fid;
+                DB = FrontEnd;
+                r_ReportName = ReportName;
+                
+            }
+            //alert(r_ReportName + ' ' + id + ' ' + userid + ' ' + username);
+            //p[PARAM_URL] = ReportLocation + "?Report=" + r_ReportName + "&DocEntry=" + id +"&UserID=" + userid;
+            // Begin update by Martin 26 March 2011
+            //p[PARAM_URL] = ReportLocation + "?Report=" + r_ReportName + "&DocEntry=" + id +"&UserID=" + username;
+            p[PARAM_URL] = "";
+            if (r_ReportName == "QS37.rpt")
+            {
+            p[PARAM_URL] = ReportLocation + "?Report=QS22.rpt&DocEntry=" + id +"&UserID=" + username;
+            }else if (r_ReportName == "QS36.rpt"){
+            p[PARAM_URL] = ReportLocation + "?Report=QS13.rpt&DocEntry=" + id +"&UserID=" + username;
+            }
+            // End update by Martin 26 March 2011
+            //alert(p[PARAM_URL]);
+            //p[PARAM_URL] = ReportLocation + "?Report=" + r_ReportName + "&DocEntry=" + id;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            //Report Link alert debug
+            //alert(p[PARAM_URL]);
+            
+            
+           
+                //var ret = showForm(p, dialogFeatures);            
+                var ret = showModelessForm(p,dialogFeatures);
+                //var ret = window.open   
+            
+                
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+            
+        }	
+</script>
+
+
+
+    
+</body>
+</html>

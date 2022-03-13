@@ -1,0 +1,47 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<simple:SimpleListBar runat="server" ListBarStyle="UserDefine" 
+    DefaultGroupImageUrl="" DefaultItemImageUrl="images/arr_ba.gif" />
+
+<PC:GridView runat="server" Width="100%" Height="100%" PageSize="40" />
+<PC:GridView runat="server" SkinId="GreySkin" Width="100%" PageSize="10"/>
+
+<PC:GridView runat="server" SkinId="NoPageDownSkin" GridViewStyle="UserDefine" Width="100%" Height="600px" BorderWidth="0" PageSize="10000" />
+
+<PC:GridView runat="server" SkinId="DocumentSkin" GridViewStyle="UserDefine" Width="100%" Height="100%" BorderWidth="0" PageSize="40" />
+<PC:GridView runat="server" SkinId="SecuritySkin" GridViewStyle="UserDefine" Width="100%" Height="100%" BorderWidth="0" PageSize="40" />
+<PC:GridView runat="server" SkinId="UserGroupSkin" GridViewStyle="UserDefine" Width="100%" Height="100%" BorderWidth="0" PageSize="10" />
+
+<PC:DropDownList runat="server" CssClass="DropDownList" />
+<asp:Button runat="server" CssClass="btnstyle01" SkinId="btnLogin" />
+<asp:Button runat="server" CssClass="buttonstyle01" />
+<asp:Button runat="server" CssClass="buttonstyle01" SkinId="btnExport"/>
+<asp:Button runat="server" CssClass="btngo02"  SkinId="btnGo" />
+
+<asp:TreeView SkinID="SampleTreeView" Runat="server"
+    ExpandDepth="0"
+    Font-Size="small" 
+    Font-Names="Tahoma"
+    CollapseImageUrl="~/App_Themes/Basic/collapse.gif"
+    ExpandImageUrl="~/App_Themes/Basic/expand.gif"
+    NoExpandImageUrl="~/App_Themes/Basic/blank.gif">
+    <RootNodeStyle ImageUrl="~/images/swirl.gif" />
+    <ParentNodeStyle ImageUrl="~/images/swatches.gif" />
+    <LeafNodeStyle ImageUrl="~/images/checkers.gif" />
+    <LevelStyles>
+        <asp:TreeNodeStyle ImageUrl="~/images/swirl.gif"/>
+    </LevelStyles>
+</asp:TreeView>

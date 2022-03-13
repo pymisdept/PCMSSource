@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+  <Settings>
+    <Setting>
+	  <Name>DefaultServer</Name>
+      <Value>HK</Value>
+    </Setting>
+    <Setting>
+	  <Name>ShowTesting</Name>
+      <Value>False</Value>
+    </Setting>
+	<Setting>
+	  <Name>ExportType</Name>
+      <Value>pdf</Value>
+    </Setting>
+	<Setting>
+	  <Name>LogExportResult</Name>
+      <Value>False</Value>
+    </Setting>
+ </Settings>

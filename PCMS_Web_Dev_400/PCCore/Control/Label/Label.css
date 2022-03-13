@@ -1,0 +1,43 @@
+.LABEL
+{
+	cursor:help;
+}
+.LABEL.xButton
+{
+	font-size: 12px;
+}
+.LABEL.xLabel
+{
+	/*font-family:  'Times New Roman', Verdana,'Courier New' ,PMingLiU,sans-serif,'MS UI Gothic', 'MS PMincho',Helvetica,Arial;*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.LABEL.xTitle
+{
+	font-size:12px;
+}
+.LABEL.xTitlePersonal
+{
+	font-size:12px;
+}
+.LABEL.xMenu
+{
+	font-size:12px;
+}
+.LABEL.xPanel
+{
+	font-size:13px;
+}
+.LABEL.xSiteMap
+{
+	font-size:12px;
+}
+.LABEL.xNavMenu
+{
+	font-size:12px;
+}
+.LABEL.xPrint
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+}

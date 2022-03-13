@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddingRecord" xml:space="preserve">
+    <value>Adding Record ...</value>
+  </data>
+  <data name="AddNew" xml:space="preserve">
+    <value>Add New</value>
+  </data>
+  <data name="AddUpdate" xml:space="preserve">
+    <value>Add/Update</value>
+  </data>
+  <data name="AreUwantCancel" xml:space="preserve">
+    <value>Are you sure you want to navigate away from this page?  \r\n \r\n Data changed. \r\n \r\n Press OK to continue, or Cancel to stay on the current page.</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="BaseRecordMustInput" xml:space="preserve">
+    <value>Please Go to {0} and  Input some {0} Basic Record. Application step stop.</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>LOGIN</value>
+  </data>
+  <data name="btnReset" xml:space="preserve">
+    <value>RESET</value>
+  </data>
+  <data name="btnSearch" xml:space="preserve">
+    <value>GO</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Check" xml:space="preserve">
+    <value>Check</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>Are you sure to delete the selected record(s)?</value>
+  </data>
+  <data name="ConfirmRollback" xml:space="preserve">
+    <value>Are you sure to rollback the selected record(s)?</value>
+  </data>
+  <data name="Copyright" xml:space="preserve">
+    <value>Techwell Systems Limited. All rights reserved.</value>
+  </data>
+  <data name="Database" xml:space="preserve">
+    <value>Database</value>
+  </data>
+  <data name="DataChanged" xml:space="preserve">
+    <value>Data changed.</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="DeleteOK" xml:space="preserve">
+    <value>Deleted OK</value>
+  </data>
+  <data name="DeleteStatement" xml:space="preserve">
+    <value>Make Sure  The  Detail Of Table Had Deleted.</value>
+  </data>
+  <data name="Detail" xml:space="preserve">
+    <value>Detail</value>
+  </data>
+  <data name="Display" xml:space="preserve">
+    <value>Display</value>
+  </data>
+  <data name="DisplayingRecord" xml:space="preserve">
+    <value>Displaying Record ...</value>
+  </data>
+  <data name="Duplicatekey" xml:space="preserve">
+    <value>Cannot insert duplicate key row in table.</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="EditingRecord" xml:space="preserve">
+    <value>Editing Record ...</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>Export to Excel</value>
+  </data>
+  <data name="FileSizeMustLageThanZero" xml:space="preserve">
+    <value>File size must lager than zero.</value>
+  </data>
+  <data name="InputCalendarDate" xml:space="preserve">
+    <value>Please Input Calendar Date.</value>
+  </data>
+  <data name="InputNotCorrectEndDate" xml:space="preserve">
+    <value>Input EndDate is not corrected.RosterHistory record has overlapped Date.	</value>
+  </data>
+  <data name="InputNotCorrectStartDate" xml:space="preserve">
+    <value>Input StartDate is not corrected.RosterHistory record has overlapped Date.	</value>
+  </data>
+  <data name="InputSameRecord" xml:space="preserve">
+    <value>Record already existed,please check.</value>
+  </data>
+  <data name="InputTooLang" xml:space="preserve">
+    <value>Input data is too long. Please check .</value>
+  </data>
+  <data name="InvalidIDOrMultipleRecord" xml:space="preserve">
+    <value>Invalid ID or multiple records found: {0}</value>
+  </data>
+  <data name="InvalidSaveRecord" xml:space="preserve">
+    <value>Record Saving in DataBase error. Please check.</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LoginName" xml:space="preserve">
+    <value>Login Name</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="NoEnoughtLeaveDays" xml:space="preserve">
+    <value>Leave application days exceed the balance.</value>
+  </data>
+  <data name="NoLeaveSetting" xml:space="preserve">
+    <value>Leave type is not defined. Please check.</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>Print</value>
+  </data>
+  <data name="ProcessSuccessfully" xml:space="preserve">
+    <value>Data process successfully.</value>
+  </data>
+  <data name="RecordIsExist" xml:space="preserve">
+    <value>Data already exist</value>
+  </data>
+  <data name="RecordIsNotExist" xml:space="preserve">
+    <value>Data does not existed.</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="SaveOK" xml:space="preserve">
+    <value>'{0}' Saved OK</value>
+  </data>
+  <data name="SaveSuccessfully" xml:space="preserve">
+    <value>Record Save Successfully.</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SelectDelete" xml:space="preserve">
+    <value>Please select record to Delete</value>
+  </data>
+  <data name="SelectEdit" xml:space="preserve">
+    <value>Please select record to Edit</value>
+  </data>
+  <data name="SelectRollback" xml:space="preserve">
+    <value>Please select record to Rollback</value>
+  </data>
+  <data name="StartDateBiggerThenEndDate" xml:space="preserve">
+    <value>StartDate is later than EndDate.Please check.</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="UnknowError" xml:space="preserve">
+    <value>Unknow Error.</value>
+  </data>
+  <data name="UnknowSQLError" xml:space="preserve">
+    <value>Unknow  SQL Error</value>
+  </data>
+  <data name="UpdateOK" xml:space="preserve">
+    <value>'{0}' Saved</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="ViolationofUNIQUEKEY" xml:space="preserve">
+    <value>Violation of UNIQUE KEY constraint .Cannot insert duplicate key in object.</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>No Data.</value>
+  </data>
+  <data name="CopyrightPre" xml:space="preserve">
+    <value>Copyright &amp;copy;</value>
+  </data>
+  <data name="PlsInputInteger" xml:space="preserve">
+    <value>Please input integer.</value>
+  </data>
+  <data name="DeleteStillUseField" xml:space="preserve">
+    <value>The field have still been used in the detail tabel, are you sure to delete?</value>
+  </data>
+  <data name="AddSuccessfullyAndContinue" xml:space="preserve">
+    <value>Add successfully,Please continue adding record...</value>
+  </data>
+  <data name="Undo" xml:space="preserve">
+    <value>Undo</value>
+  </data>
+  <data name="StaffNumExceedLicensedNum" xml:space="preserve">
+    <value>Total Staff number exceed maximum licensed staff number.</value>
+  </data>
+  <data name="SubmitOk" xml:space="preserve">
+    <value>'{0}' Submited OK.</value>
+  </data>
+  <data name="DisPlayAnnualLeavePlanned" xml:space="preserve">
+    <value>Annual Leave - Planned</value>
+  </data>
+  <data name="DisPlayAnnualLeaveTaken" xml:space="preserve">
+    <value>Annual Leave - Taken</value>
+  </data>
+  <data name="DisPlayCompensation" xml:space="preserve">
+    <value>Compensation Leave</value>
+  </data>
+  <data name="DisPlayOtherPlannedLeave" xml:space="preserve">
+    <value>Other Planned Leave</value>
+  </data>
+  <data name="Approve" xml:space="preserve">
+    <value>Approve</value>
+  </data>
+  <data name="Alert" xml:space="preserve">
+    <value>Alert</value>
+  </data>
+  <data name="RecordSaveOK" xml:space="preserve">
+    <value>Record Saved OK</value>
+  </data>
+  <data name="RecordUpdateOK" xml:space="preserve">
+    <value>Record Updated OK</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Download</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="CRYSTALLINK" xml:space="preserve">
+    <value>http://192.168.11.107/CPS_Crystal</value>
+  </data>
+  <data name="InvalidPACode" xml:space="preserve">
+    <value>Invalid Purchase Agreement</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="InvalidProject" xml:space="preserve">
+    <value>Invalid Project Code</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="InvalidSubContract" xml:space="preserve">
+    <value>Invalid Sub-Contract</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="InvalidSubContractor" xml:space="preserve">
+    <value>Invalid Sub-Contractor</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="InvalidVendor" xml:space="preserve">
+    <value>Invalid Vendor</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="InputMonthEndDate" xml:space="preserve">
+    <value>Please input the end date of month</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PostedPeriod" xml:space="preserve">
+    <value>Period Posted</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="InvalidSectionCode" xml:space="preserve">
+    <value>Invalid Section Code</value>
+  </data>
+</root>

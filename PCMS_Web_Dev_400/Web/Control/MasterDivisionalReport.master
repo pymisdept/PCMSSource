@@ -1,0 +1,301 @@
+﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterDivisionalReport.master.cs" Inherits="MasterDivisionalReport" %>
+<%@ Register Src="Banner.ascx" TagName="Banner" TagPrefix="PC" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="PC" %>
+<%@ Register Src="NavMenu.ascx" TagName="NavMenu" TagPrefix="PC" %>
+
+<%@ Import Namespace="PCCore" %>
+<%
+   string functionid = SessionInfo.CurrentFunctionID;
+   string functioncode = SessionInfo.CurrentFunction;
+   string appUrl = Config.AppBaseUrl;
+   string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+   string BackEnd = Resources.Labels.BackEnd;
+   string FrontEnd = Resources.Labels.FrontEnd;
+   string lang = SessionInfo.CurrentLanguage;
+   string ReportLocation = "";
+    string userid = SessionInfo.UserId;
+   string ReportName = "";
+   try
+   {
+       switch (lang)
+       {
+           case "zh-cn":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-cn", functioncode.ToUpper()).ToString();
+               break;
+           case "zh-tw":
+
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-tw", functioncode.ToUpper()).ToString();
+               break;
+           case "en-us":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report", functioncode.ToUpper()).ToString();
+               break;
+       }
+   }
+   catch (Exception ex)
+   {
+   }
+%>
+<html>
+<head runat="server">
+    <link rel="SHORTCUT ICON" href="~/flexihr.ico"/>
+    <title></title>
+    <link rel="Stylesheet" type="text/css" href="../MasterProjectReport.css" />
+    <meta http-equiv="pragma" content="no-cache" /> 
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <base target="_self" />
+</head>
+<body style="height:100%" oncontextmenu="return false;"> 
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');" >
+    
+            <PC:Banner ID="Banner" runat="server" />
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" height="80%"  class="contentholder">
+                <tr>
+                    <td valign="top" width="162px" height="100%">
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td valign="top"><PC:NavMenu ID="NavMenu" runat="server" /></td>                                
+                            </tr>
+                        </table>
+                    </td>
+                    <td valign="top" height="100%"  class="FormContainer"> 
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                        
+                            <!---->
+                           <%-- <tr>
+                            
+                            </tr>--%>
+                            <!---->
+                            
+                                  <tr>
+                                    <td  height="10" valign="top">
+                                        <PC:Note ID="Note" runat="server" Visible="false" />
+                                    </td>
+                                  </tr>
+                                   <tr runat="server" id="NoteSepLine" visible="false" height="10" valign="top">
+                                    <td class="SepVerLine">&nbsp;</td>
+                                  </tr>
+                                  <!-- note end -->
+              
+                                  <!-- title bar begin -->
+                                  <tr>
+                                     <td height="10" valign="top">
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                                            <td class="txttitle">
+                                                <PC:Title id="Title" runat="server"></PC:Title>
+                                             </td>
+                                            <td align="right">
+                                                
+                                            </td>
+                                           </tr>
+                                          </table>
+                                       </td>
+                                  </tr>
+                                  <tr>                
+                                    <td height="10"><hr size="1" class="titlehr"></td>
+                                  </tr>                                 
+                                <!-- title bar end -->
+            
+                                <!-- content begin -->
+                                    <tr>
+                                        <td valign="top" style="padding-top:6px;padding-left:10px" width="80%">    
+                                            <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">                                                
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+                                                        <!-- search area begin -->                
+                                                        <tr align="center">
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <%--<td width="10px">
+                                                                :
+                                                            </td>--%>
+                                                            <%--<td>
+                                                                <PC:TextBox ID="txtFileName" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"  Width="200px" /></td>
+                                                            <td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <PC:Label runat="server" ID="lblDepartment" Font-Size="Larger" LabelStyle="xLabel" Text="<%$ Resources:Labels,Project %>" />
+                                                            </td>
+                                                            <td>
+                                                                : &nbsp;</td>
+                                                            <td style="width: 20px;height: 50px">
+                                                                <PC:DropDownList runat="server" Font-Size="Larger" ID="ddlProject" RegisterClientVariable="true"
+                                                                    Width="600px" />
+                                                            </td>
+                                                            <td style="width: 10px;">
+                                                                <PC:Label runat="server" ID="Label1" Visible="false" LabelStyle="xLabel" Text="<%$ Resources:Labels,To %>" />
+                                                            </td>
+                                                            <td style="width: 10px; ">
+                                                                <PC:DropDownList runat="server" ID="ddltProject" Visible="false" RegisterClientVariable="true"
+                                                                    Width="600px" />
+                                                            </td>--%>
+                                                            <td colspan="4" style="width: 25px">
+                                                                <PC:GoButton id="SearchButton" runat="server" Width="25px" OnClientClick="javascript:if(!PrintProjectReport()) return false;" />
+                                                                                     
+                                                            </td colspan="4">
+                                                            <td>
+                                                                <PC:ToolBar runat="server" Visible="false" ID="toolbContact" />
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="5px" colspan="10">
+                                                                &nbsp;</td>
+                                                        </tr>        
+                                                        <tr>
+                                                            <td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <%--<PC:Label LabelStyle="xLabel" runat="server" ID="lblSearch" Text="<%$ Resources:Labels,Date %>" />--%>
+                                                            </td>
+                                                            <td width="10px">
+                                                                <%-- :--%>
+                                                            </td>
+                                                            <td>
+                                                                <%-- <PC:TextBox ID="txtStartDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                    DataType ="Date" Width="75px" />-
+                                                                <PC:TextBox ID="txtEndDate" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                    DataType ="Date"  Width="75px" /></td>--%>
+                                                             <td>
+                                                                 &nbsp;<td>
+                                                                <span style="padding-left: 5px;" />
+                                                                <%-- <PC:Label runat="server" ID="Label1" LabelStyle="xLabel" Text="<%$ Resources:Labels,UploadBy %>" />--%>
+                                                            </td>
+                                                            <td style="width: 10px;">
+                                                                <%-- :--%>
+                                                            </td>
+                                                            <td style="width: 10px;">
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td>
+                                                                &nbsp;</td>
+                                                            <td align="right">
+                                                                &nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="5px" colspan="10">
+                                                            </td>
+                                                        </tr>
+                                                        <!-- search area end -->
+                                                        <!-- Karrson: Confirmation Button -->
+                                                        <tr height="100%">
+                                                            <td valign="top" align="left" class="Confirm" colspan="10">
+                                                                <%--<asp:Button ID="btnConfirm" Text="<%$Resources:Labels,Confirmation %>" 
+                                                                    runat="server" OnClientClick="javascript:if(!Confirm()) return false;" onclick="btnConfirm_Click" />--%>
+                                                            </td>
+                                                        </tr>
+                                                        <tr style="display:none;">
+                                                            <!--grdView begin -->
+                                                            <td class="ddlpaSearch" style="padding-left: 5px">
+                                                            </td>
+                                                            <td style="padding: 3px; height: 25px;" class="ddlpaSearch" valign="middle" 
+                                                                align="right" colspan="9">
+                                                                <PC:Label LabelStyle="xLabel" runat="server" ID="lblView" Text="<%$ Resources:Labels,View %>" />
+                                                                <%--<PC:DropDownList ID="ddlSearch" runat="server" Width="180px">
+                                                                </PC:DropDownList>--%>
+                                                                
+                                                            </td>
+                                                            <!--grdView End -->
+                                                        </tr>
+                                                        <!-- data area begin -->
+                                                        <tr height="100%">
+                                                            <td valign="top" class="GridViewContainer" colspan="10">
+                                                                <PC:DbDataSource runat="server" ID="dsGridView">
+                                                                </PC:DbDataSource>
+                                                                <%--<PC:GridView runat="server" ID="gvData" DataSourceID="dsGridView" SkinID="SecuritySkin"
+                                                                     SelectValueField="descid" DataKeyNames="descid" onselectedindexchanging="gvData_SelectedIndexChanging"  SelectedIndex="0" OnRowCommand="gvData_RowCommand"
+                                                                    BorderWidth="0" GridViewStyle="UserDefine" AllowMultipleSelect="False"  OnSorted="gvData_Sorted" OnRowDataBound="gvData_RowDataBound" OnSelectedIndexChanged="gvData_SelectedChanged" />--%>
+                                                            </td>
+                                                        </tr>
+                                                        <!-- data area end -->
+                                                        
+                                                    </table>
+
+                                                    </td>
+                                                    <td valign="top" >
+                                                        <asp:contentplaceholder id="ContentPlaceHolder" runat="server"></asp:contentplaceholder>
+                                                    </td>
+                                                </tr>
+                                            </table> 
+                                        </td>
+                                    </tr>
+                                     
+                                    
+                                <!-- content end -->            
+                              
+                             
+            </table>
+            
+        </td>
+        </tr>
+        
+        </table>
+    </form>
+
+        <PC:Footer ID="Footer" runat="server" />        
+    <script language="javascript">
+       var functionid = "<%=functionid %>";
+        var functioncode = "<%=functioncode %>";
+        var appUrl = "<%= appUrl %>";
+        var themeUrl = "<%= themeUrl %>";
+        var BackEnd = "<%= BackEnd %>";
+        var FrontEnd = "<%= FrontEnd %>";
+        var lang = "<%= lang %>";
+        var ReportLocation = "<%= ReportLocation %>";
+        var ReportName = "<%= ReportName %>";
+         var height = screen.height;
+        var width = screen.width;
+        var userid = "<%= userid %>";
+        var dialogFeatures = "dialogHeight:" + height + ";dialogWidth:" + width + ";";
+        
+        
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                selfToBeExecute();
+          }   
+        } 
+        
+        //Report For Project Base
+        function PrintProjectReport()
+        {
+        
+            //var projindex = ddlProject.selectedIndex;
+            //var projValue = ddlProject.options[projindex].value;
+            //var tprojindex = ddltProject.selectedIndex;
+            //var tprojValue = ddltProject.options[tprojindex].value;
+            
+            var projValue = "-2"
+            var extend = ReportName.substring(ReportName.lastIndexOf("."));
+            var _ReportName = ReportName.substring(0,ReportName.lastIndexOf("."));
+            
+            var DB = BackEnd;
+            var p = {};
+            
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&TPrjCode=" + tprojValue;
+            p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue + "&UserID=" + userid;
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&FPrjCode=" + projValue;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            // Report Link Alert Debug
+            //alert(p[PARAM_URL]);
+            //location.href= p[PARAM_URL];
+            //var ret = showForm(p, dialogFeatures);  
+            var ret = showModelessForm(p,dialogFeatures);
+            
+            //alert('test'); 
+                     
+          if(ret==COMMAND_REFRESH)
+                Refresh();
+
+//            
+        }
+    </script>
+    
+</body>
+</html>

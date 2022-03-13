@@ -1,0 +1,35 @@
+
+<table width="100%" height="86px" border="0" cellpadding="1" cellspacing="1">  
+   <tr>
+        <td valign="top" colspan="2"></td>
+        <td  width="431"><img src="<%=themeUrl%>/images/pyelogo.jpg" width="70"></td>
+        <td  width="431"><img src="<%=themeUrl%>/images/title_2_02.gif" ></td>
+        <td width="100%">
+            <PC:Label ID="lblProject" Visible="false" runat="server" LabelStyle="xLabel" Font-Bold="true" ForeColor="Blue" Text="<%$ Resources:Labels,Project %>"/>
+            
+            <PC:Label ID="lblProjectDesc" Visible="false" runat="server" LabelStyle="xLabel" Width="80%" Font-Bold="true" ForeColor="Blue" Font-Italic="true"/>
+        </td>
+        <td>
+            <PC:Label ID="lblLoginID" runat="server" LabelStyle="xLabel" Font-Bold="true" ForeColor="Blue" Text="<%$ Resources:Labels,LoginID %>"/>
+            <PC:Label ID="LoginID" runat="server" LabelStyle="xLabel" Width="70px" Font-Bold="true" ForeColor="Blue" Font-Italic="true"/>
+            <a href="<%=appUrl%>/Admin_Default.aspx" class="BannerLogin"><PC:Label ID="Label1"  runat="server" Text="<%$ Resources:Labels,Home %>" LabelStyle="xLabel"/></a>
+    
+                <%if (SessionInfo.IsLogin) { %>                          
+                          <a href="javascript:Logout();" class="BannerLogin"><PC:Label ID="Literal5"  runat="server" Text="<%$ Resources:Labels,Logout %>" LabelStyle="xLabel"/></a>
+                          <%}else{ %>
+                          
+                          <a href="<%=appUrl%>/Default.aspx" class="BannerLogin"><PC:Label ID="Literal9"  runat="server" Text="<%$ Resources:Labels,LOGIN %>" LabelStyle="xLabel"/></a>
+                          <%} %>
+        </td>
+        <td  width="431" valign="bottom"><img src="<%=themeUrl%>/images/small Compass logo.jpg" ></td>
+   </tr>
+                                <tr>
+                                    <td><a href="javascript:JumpLang('en-us');" class="languagetxt">English</a></td>
+                                    <td><img src="<%=themeUrl%>/images/linewhite.gif" width="23" height="23"></td>
+                                    <td><a href="javascript:JumpLang('zh-tw');" class="languagetxt">&#32321;&#39636;</a></td>
+                                    <td><img src="<%=themeUrl%>/images/linewhite.gif" width="23" height="23"></td>
+                                    <td><a href="javascript:JumpLang('zh-cn');" class="languagetxt">&#31616;&#20307;</a></td>
+                                  </tr>
+
+</table>
+

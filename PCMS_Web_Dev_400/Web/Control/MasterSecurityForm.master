@@ -1,0 +1,428 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterSecurityForm.master.cs" Inherits="MasterSecurityForm" %>
+<%@ Register TagPrefix="PC" TagName="UpdateLoadFile" Src="~/Control/UpdateLoadFile.ascx" %>
+
+<html>
+<%
+    string functioncode = SessionInfo.CurrentFunction ;
+    string functionid = SessionInfo.CurrentFunctionID ;
+    string lang = SessionInfo.CurrentLanguage;
+    string ProjMsg = "";
+    string SubContractorMsg = "";
+    string SubContractMsg = "";
+    string PAMsg = "";
+    string SuccessfulMsg = "";
+    switch (lang)
+    {
+        case "en-us":
+            ProjMsg = GetGlobalResourceObject("Messages", "InValidProjectCode").ToString();
+            SubContractorMsg = GetGlobalResourceObject("Messages", "InValidSubContractor").ToString();
+            SubContractMsg = GetGlobalResourceObject("Messages", "InVaidSubContract").ToString();
+            PAMsg = GetGlobalResourceObject("Messages", "InValidPurAgm").ToString();
+            SuccessfulMsg = GetGlobalResourceObject("Messages", "SubmitSuccess").ToString();
+            break;
+        case "zh-tw":
+            ProjMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidProjectCode").ToString();
+            SubContractorMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidSubContractor").ToString();
+            SubContractMsg = GetGlobalResourceObject("Messages..zh-tw", "InVaidSubContract").ToString();
+            PAMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidPurAgm").ToString();
+            SuccessfulMsg = GetGlobalResourceObject("Message..zh-tw", "SubmitSuccess").ToString();
+            break;
+        case "zh-cn":
+            ProjMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidProjectCode").ToString();
+            SubContractorMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidSubContractor").ToString();
+            SubContractMsg = GetGlobalResourceObject("Messages..zh-cn", "InVaidSubContract").ToString();
+            PAMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidPurAgm").ToString();
+            SuccessfulMsg = GetGlobalResourceObject("Messages..zh-tw", "SubmitSuccess").ToString();
+            break;
+    }
+    
+%>
+<head runat="server">
+    <title></title>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <link href="~/Control/gridview-nopagedown.css" rel="stylesheet" type="text/css" />
+    <!--<script src="../Leave/LeaveJScript.js" type="text/javascript" language="javascript"></script> -->
+    <base target="_self" />
+</head>
+
+
+<body class="subwinbg" style="margin: 0 10 10 10" oncontextmenu="return false;">
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');">
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td class="FormContainer">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td>
+                                <PC:PopNote ID="Note" runat="server" />
+                                <simple:SimpleValidationSummary ID="SimpleValidationSummary" runat="server" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-bottom:5px">
+                                <hr size="1" class="titlehr">
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td align="center">
+                                
+                            </td>
+                        </tr>
+                    </table>
+                    <!-- content begin -->
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                    
+                    <!-- content end -->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="vertical-align:bottom;">
+                       <!-- 
+                        <tr>
+                            <%if (SessionInfo.CurrentModule.ToUpper() == "QUANTITYSURVEY")
+                              {%>
+                            <td height="200px">
+                                &nbsp;</td>
+                                <%}
+                              else
+                              { %>
+                                <td height="200px">
+                                &nbsp;</td>
+                                <%} %>
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                            </td>
+                        </tr> -->
+                        <tr>
+                            <td>
+                                <hr size="1" class="titlehr">
+                            </td>
+                            <td>
+                                <hr size="1" class="titlehr">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left">
+                                <asp:Button ID="btnRequest" Width="50%" runat="server" Text="<%$ Resources:Labels,RequestDownload %>" OnClientClick="javascript:if(!RequestDownload()) return false;"
+                                     />
+                            </td>
+                            <td align="right"  >
+                                <asp:Button ID="btnSave" runat="server" Text="<%$ Resources:Common,Save %>" OnClientClick="javascript:if(!saveForm()) return false;"
+                                    OnClick="btnSave_Click" />
+                                <asp:Button ID="btnClose" runat="server" Text="<%$ Resources:Common,Close %>" OnClientClick="javascript: return closeForm();" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+<script language="javascript">
+    var functioncode = "<%= functioncode %>";
+    var functionid = "<%= functionid %>";
+    var SusscessMsg = "<%= SuccessfulMsg %>";
+    var ProjMsg = "<%= ProjMsg %>";
+    var SubContractorMsg = "<%= SubContractorMsg %>";
+    var SubContractMsg = "<%= SubContractMsg %>";
+    var PAMsg = "<%=PAMsg %>";
+    var SuccessfulMsg = "<%=SuccessfulMsg %>";
+    
+    
+    // Remove change check 
+    //window.onbeforeunload = checkChange;
+
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                selfToBeExecute();
+          }
+          if (typeof(ShowAppendFile)=="function")
+          {
+                ShowAppendFile();
+          } 
+          if (typeof(ShowAppendFile1)=="function")
+          {
+                ShowAppendFile1();
+          }              
+        } 
+        function RequestDownload()
+        {
+            
+            var parameter = "?FunctionID=" + functionid + "&FunctionCode=" + functioncode;
+            var _ddlProject;
+            var _ddlSubContractor;
+            var _ddlSubContractorNo;
+            var _ddlPurAgm;
+            var _ddlCertType;
+            var success = true;
+            
+            var projindex;
+            var project;
+            var subcontractoridx;
+            var subcontractor;
+            var subcontractornoidx;
+            var sucontractorno;
+            var certtypeindex;
+            var certtype;
+            var puragmidx;
+            var puragm;
+            
+            try
+            {
+                _ddlProject = ddlProject;
+            } catch(Error)
+            {}
+            try
+            {
+                _ddlSubContractor = ddlSubContractor;
+            } catch(Error)
+            {}
+            try
+            {
+                _ddlSubContractorNo = ddlSubCont;
+            } catch(Error)
+            {
+            }
+            try
+            {  
+                _ddlCertType = ddlpctype;
+            } catch(Error)
+            {
+            }
+            try
+            {
+                _ddlPurAgm = ddlPA;
+            }catch(Error)
+            {}
+            if (_ddlProject != undefined)
+            {
+                projindex = ddlProject.selectedIndex;
+                project = ddlProject.options[projindex].value;    
+                parameter+="&PrjCode=" + project;
+            }
+            if (_ddlSubContractor != undefined)
+            {
+                subcontractoridx = ddlSubContractor.selectedIndex;
+                try
+                {
+                    subcontractor = ddlSubContractor.options[subcontractoridx].value;    
+                    parameter+="&SubContractor=" + subcontractor;
+                } catch(Error) {}
+                
+                
+                
+            }
+            if (_ddlSubContractorNo != undefined)
+            {
+                
+                subcontractornoidx = ddlSubCont.selectedIndex;
+                alert(subcontractornoidx);
+                try
+                {
+                    sucontractorno = ddlSubCont.options[subcontractornoidx].value;   
+                    parameter+="&SubContractNo" + sucontractorno;
+                } catch(Error) {}
+                
+                
+                
+                
+            }
+            if (_ddlCertType != undefined)
+            {
+                certtypeindex= ddlpctype.selectedIndex;
+                certtype = ddlpctype.options[certtypeindex].value;
+                parameter+="&CertType=" + certtype;
+            }
+            
+            if ( _ddlPurAgm != undefined)
+            {
+                puragmidx =ddlPA.selectedIndex;
+                puragm = ddlPA.options[puragmidx].value;
+                parameter+="&PA=" + puragm;
+            }
+            
+//            alert(functioncode);
+            // Check by function
+            if (!CheckProject(projindex))
+                {
+                    success = false;
+                }
+            if (functioncode == "pui01")
+            {
+                
+            }
+            if (functioncode == "pui02")
+            {
+                
+            }
+            if (functioncode == "pui03")
+            {
+                
+            }
+            if (functioncode == "pui04")
+            {
+//                alert(puragmidx);
+                if (success && !CheckPA(puragmidx))
+                {
+                    success = false;
+                }
+                
+            }
+            if (functioncode == "pui05")
+            {
+                
+            }
+            if (functioncode == "qsi01")
+            {
+                
+            }
+            if (functioncode == "qsi02")
+            {
+                
+            }
+            if (functioncode == "qsi03")
+            {
+                
+            }
+            if (functioncode == "qsi04")
+            {
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                
+            }
+            if (functioncode == "qsi05")
+            {
+                
+            }
+            if (functioncode == "qsi12")
+            {
+//                alert('e');
+//                alert(subcontractoridx);
+//                alert(subcontractornoidx);
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                if (success && !CheckSubContract(subcontractornoidx))
+                {
+                    success = false;
+                }
+            }
+            if (functioncode == "qsi17")
+            {
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                if (success && !CheckSubContract(subcontractornoidx))
+                {
+                    success = false;
+                }
+            }
+            if (functioncode == "qsi18")
+            {
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                if (success && !CheckSubContract(subcontractornoidx))
+                {
+                    success = false;
+                }
+            }
+            if (functioncode == "qsi19")
+            {
+                
+            }
+            if (functioncode == "qsi20")
+            {
+                
+            }
+            if (functioncode == "qsi21")
+            {
+                
+            }
+            if (functioncode == "qsi22")
+            {
+                
+            }
+            if (functioncode == "qsi23")
+            {
+                
+            }
+            if (functioncode == "qsi24")
+            {
+                
+            }
+            if (success)
+            {
+                var _RequestStr = "../Control/RequestDownload.aspx" + parameter;
+                alert(_RequestStr);
+                window.open(_RequestStr,"_blank", "status:=no,Height=1030,Width=1150,top=270,left=320",false); //open a new blank widows,if click open ,open in it                
+                //opener.location.href = "http://hk.yahoo.com";
+                alert(SuccessfulMsg);
+                self.close();
+            }
+            
+            
+            //window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false); //open a new blank widows,if click open ,open in it                
+            
+            return true;
+        
+        }
+        function CheckProject(index)
+        {
+            if (index < 1)
+            { 
+                alert(ProjMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+                
+        }
+        function CheckSubContractor(index)
+        {
+            if (index < 0)
+            { 
+                alert(SubContractorMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+            
+        }
+        function CheckSubContract(index)
+        {
+            if (index < 0)
+            { 
+                alert(SubContractMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+        }
+        function CheckPA(index)
+        {
+        
+           if (index < 0)
+            { 
+                alert(PAMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+        }
+</script>
+
+</html>

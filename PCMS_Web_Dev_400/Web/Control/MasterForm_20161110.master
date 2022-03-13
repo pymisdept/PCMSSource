@@ -1,0 +1,896 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterForm.master.cs" Inherits="MasterForm" %>
+<%@ Register TagPrefix="PC" TagName="UpdateLoadFile" Src="~/Control/UpdateLoadFile.ascx" %>
+<%@ Import Namespace="PCCore" %>
+<html>
+<%
+    string functioncode = SessionInfo.CurrentFunction ;
+    string functionid = SessionInfo.CurrentFunctionID ;
+    PCCore.Common.HRLog.RecordLog("Functionid: " + SessionInfo.CurrentFunctionID);
+    string lang = SessionInfo.CurrentLanguage;
+    string ProjMsg = "";
+    string SubContractorMsg = "";
+    string SubContractMsg = "";
+    string PAMsg = "";
+    string MRMsg = "";
+    string VendorMsg = "";
+    string SuccessfulMsg = "";
+    string SectionMsg = "";
+    string appUrl = Config.AppBaseUrl;
+    string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+    string ActionAdd = Consts.ActionAdd;
+    string strProjectClientID = "";
+    string strProjectTextID = invProjCode.ClientID;
+    string CutOffDateClientID = "";
+    PCCore.TextBox _txtCutOff = null;
+    PCCore.DropDownList _ddlProject = null;
+    if (functionid == "1040" || functionid == "4108" || functionid == "4001")
+    {
+        try
+        {
+            _txtCutOff = (PCCore.TextBox) ContentPlaceHolder.FindControl("txtcutoff");
+        } catch (Exception ex)
+        {
+        }
+        if (_txtCutOff != null )
+        {
+            CutOffDateClientID = _txtCutOff.ClientID;
+        }
+    }   
+    try
+    {    
+        _ddlProject = (PCCore.DropDownList) ContentPlaceHolder.FindControl("ddlProject");
+    } catch (Exception ex)
+    {}
+    if (_ddlProject != null)
+    {
+        strProjectClientID = _ddlProject.ClientID;
+    }
+    
+    switch (lang)
+    {
+        case "en-us":
+            ProjMsg = GetGlobalResourceObject("Messages", "InValidProjectCode").ToString();
+            SubContractorMsg = GetGlobalResourceObject("Messages", "InValidSubContractor").ToString();
+            SubContractMsg = GetGlobalResourceObject("Messages", "InVaidSubContract").ToString();
+            PAMsg = GetGlobalResourceObject("Messages", "InValidPurAgm").ToString();
+            MRMsg = GetGlobalResourceObject("Messages", "InValidSMR").ToString();
+            VendorMsg = GetGlobalResourceObject("Messages", "InValidVendor").ToString();
+            SuccessfulMsg = GetGlobalResourceObject("Messages", "SubmitSuccess").ToString();
+            SectionMsg = GetGlobalResourceObject("Messages", "InValidSection").ToString();
+            
+            break;
+        case "zh-tw":
+            ProjMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidProjectCode").ToString();
+            SubContractorMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidSubContractor").ToString();
+            SubContractMsg = GetGlobalResourceObject("Messages..zh-tw", "InVaidSubContract").ToString();
+            PAMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidPurAgm").ToString();
+            MRMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidSMR").ToString();
+            VendorMsg = GetGlobalResourceObject("Messages..zh-tw", "InValidVendor").ToString();
+            SuccessfulMsg = GetGlobalResourceObject("Message..zh-tw", "SubmitSuccess").ToString();
+            break;
+        case "zh-cn":
+            ProjMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidProjectCode").ToString();
+            SubContractorMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidSubContractor").ToString();
+            SubContractMsg = GetGlobalResourceObject("Messages..zh-cn", "InVaidSubContract").ToString();
+            PAMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidPurAgm").ToString();
+            MRMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidSMR").ToString();
+            VendorMsg = GetGlobalResourceObject("Messages..zh-cn", "InValidVendor").ToString();
+            SuccessfulMsg = GetGlobalResourceObject("Messages..zh-cn", "SubmitSuccess").ToString();
+            break;
+    }
+    PCCore.Common.HRLog.RecordLog("Functionid1: " + SessionInfo.CurrentFunctionID);
+    //if (functionid == "4001" || functionid == "6007")
+    if (functionid == "6007")
+    {
+        btnRequest.Visible = false;
+        btnSave.Text = Convert.ToString(GetGlobalResourceObject(Consts.ResourcesLabels,"Next"));
+    }
+    else if (functionid == "4001")
+    {
+        btnRequest.Visible = false;
+    }
+    else
+    {
+        btnRequest.Visible = true;
+    }
+    if (functionid == "1125" || functionid == "4106" || functionid == "4107"  || functionid == "4111"
+        || functionid == "4112" || functionid == "4113" || functionid == "4116" || functionid == "4117" || functionid == "4118"
+        || functionid == "4119" || functionid == "6007")
+    {
+        btnRequest.Visible = false;
+        btnSave.Text = GetGlobalResourceObject(Consts.ResourcesLabels, "Save").ToString();
+    }
+    PCCore.Common.HRLog.RecordLog("Finish Coding");
+%>
+<head runat="server">
+    <title></title>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <!--<link href="~/Control/gridview-nopagedown.css" rel="stylesheet" type="text/css" />-->
+    <!--<script src="../Leave/LeaveJScript.js" type="text/javascript" language="javascript"></script> -->
+    
+    <base target="_self" />
+</head>
+
+<%--<body class="subwinbg" style="margin: 0 5 5 0" oncontextmenu="return false;">--%>
+<body style="margin: 5 5 5 5" oncontextmenu="return true;">
+          <form id="frmMain" runat="server">
+        
+        <PC:TextBox ID="invProjCode" runat="server" Width="0px" Visible="true"></PC:TextBox>    
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+            <tr>
+                <td class="FormContainer">
+                    
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td>
+                                <PC:PopNote ID="Note" runat="server" />
+                                <simple:SimpleValidationSummary ID="SimpleValidationSummary" runat="server" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-bottom:5px">
+                                <hr size="1" class="titlehr">
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td align="center">
+                                
+                            </td>
+                        </tr>
+                    </table>
+                    <!-- content begin -->
+                  
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+                  </asp:ContentPlaceHolder>
+                  
+    
+                    <!-- content end -->
+                   
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="vertical-align:bottom;">
+                        
+                        <tr>
+                            <%if (SessionInfo.CurrentModule.ToUpper() == "QUANTITYSURVEY")
+                              {%>
+                            <td height="200px">
+                                &nbsp;</td>
+                                <%}
+                              else
+                              { %>
+                                <td height="100px">
+                                &nbsp;</td>
+                                <%} %>
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <hr size="1" class="titlehr">
+                            </td>
+                            <td>
+                                <hr size="1" class="titlehr">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left">
+                                <asp:Button ID="btnRequest" Width="50%" runat="server" Text="<%$ Resources:Labels,Download %>" OnClientClick="javascript:if(!RequestDownload()) return false;"
+                                     />
+                            </td>
+                            <td align="right"  >
+                                
+                               <asp:Button ID="btnSave" runat="server" Text="<%$ Resources:Labels,Upload %>" OnClientClick="javascript:if(!saveForm()) return false;"
+                                    OnClick="btnSave_Click" />
+                               
+                               
+                                <asp:Button ID="btnClose" runat="server" Text="<%$ Resources:Common,Close %>" OnClientClick="javascript: return closeForm();" />
+                                
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+           
+        
+        </table>
+       
+    </form>
+</body>
+
+<script language="javascript">
+    var functioncode = "<%= functioncode %>";
+    var functionid = "<%= functionid %>";
+    var actionadd = "<%= ActionAdd %>";
+    var SusscessMsg = "<%= SuccessfulMsg %>";
+    var ProjMsg = "<%= ProjMsg %>";
+    var SubContractorMsg = "<%= SubContractorMsg %>";
+    var SubContractMsg = "<%= SubContractMsg %>";
+    var PAMsg = "<%=PAMsg %>";
+    var MRMsg = "<%=MRMsg %>";
+    var VendorMsg = "<%=VendorMsg %>";
+    var SuccessfulMsg = "<%=SuccessfulMsg %>";
+    var strProjectTextID = "<%=strProjectTextID %>";
+    var CutOffDateClientID = "<%=CutOffDateClientID %>";
+    
+    // Remove change check 
+    //window.onbeforeunload = checkChange;
+
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                selfToBeExecute();
+          }
+          if (typeof(ShowAppendFile)=="function")
+          {
+                ShowAppendFile();
+          } 
+          if (typeof(ShowAppendFile1)=="function")
+          {
+                ShowAppendFile1();
+          }              
+        } 
+        
+        function RequestDownload()
+        {
+            var parameter = "?FunctionID=" + functionid + "&FunctionCode=" + functioncode;
+            var _ddlProject;
+            var _ddlSubContractor;
+            var _ddlSubContractorNo;
+            // Added by Ken, 20151111, begin
+            var _ddlCusomter;
+            var _ddlCusomterC;
+            // Added by Ken, 20151111, end
+            var _ddlPurAgm;
+            var _ddlCertType;
+            var _ddlmrno;
+            var _ddlVendor;
+            var success = true;
+            var _ddlInputType;
+            var _ddlSectionCode;
+            
+            var projindex;
+            var project;
+            var subcontractoridx;
+            var subcontractor;
+            var subcontractornoidx;
+            var sucontractorno;
+            // Added by Ken, 20151111, begin
+            var cusomteridx;
+            var cusomter;
+            // Added by Ken, 20151111, end
+            var certtypeindex;
+            var certtype;
+            var puragmidx;
+            var puragm;
+            var mrnoidx;
+            var _txtcutoff;
+            var mrno;
+            var vendoridx;
+            var vendorno;
+            var inputtypeindex;
+            var inputtype;
+            var sectionindex;
+            var sectioncode;
+            
+            var errmsg;
+            
+            try
+            {
+                _ddlProject = ddlProject;
+            } catch(Error)
+            {}
+            
+             try
+            {
+                _ddlmrno = ddlmrno;
+            } catch(Error)
+            {}
+            try
+            {
+                _ddlSubContractor = ddlSubcontractor;
+            } catch(Error)
+            {}
+            try
+            {
+                _ddlSubContractorNo = ddlSubCont;
+            } catch(Error)
+            {
+            }
+            // Added by Ken, 20151111, begin
+            try
+            {
+                _ddlCusomter = ddlCusomter;
+            } catch(Error)
+            {}
+            try
+            {
+                _ddlCusomterC = ddlCusomterC;
+            } catch(Error)
+            {
+            }
+            // Added by Ken, 20151111, end
+            try
+            {  
+            
+                _ddlCertType = ddlpctype;
+            } catch(Error)
+            {
+            }
+            try
+            {
+                _ddlPurAgm = ddlPA;
+            }catch(Error)
+            {}
+            try
+            {
+                _ddlVendor = ddlVendor;
+            }catch(Error)
+            {}
+            
+            
+            try
+            {  
+                _ddlInputType = ddlInputType;
+            } catch(Error)
+            {
+            }
+            
+            
+             try
+            {  
+                _ddlSectionCode = ddlSectionCode;
+            } catch(Error)
+            {
+            }
+                     
+            if (_ddlProject != undefined)
+            {
+                projindex = ddlProject.selectedIndex;
+                project = ddlProject.options[projindex].value;    
+                parameter+="&PrjCode=" + project;
+            }
+            
+            //Update by Martin 5 May 2011
+            var Manualchk = window.document.getElementById('Manual_CheckBox');
+            
+            /*
+            if( Manualchk != null)
+            {
+                if(Manualchk.checked == true)
+                    alert("checked");
+                else
+                    alert("not checked");
+            }
+            else
+                alert("manual check not found");
+            */  
+            if( Manualchk != null)
+            {
+                if(Manualchk.checked == true)
+                    parameter+="&Manual=M";
+                else
+                    parameter+="&Manual=A";
+            }
+            
+            if (functionid == "1040" )
+            {
+                _txtcutoff = document.getElementById(CutOffDateClientID);
+                projindex = ddlProject.selectedIndex;
+                
+                if( projindex == 0 && _txtcutoff.value.length == 0)
+                {
+                    alert("Project and Cut off date must be input");
+                    return;
+                }
+                else if( _txtcutoff.value.length == 0)
+                {
+                    alert("Cut off date must be input");
+                    return;
+                }
+                
+                parameter += "&CutOffDate=" + _txtcutoff.value;
+            }
+            
+            // Added by Ken, 20151111, begin
+            if(functionid == "1043" || functionid == "1044")
+            {
+                
+                if (_ddlCusomter != undefined)
+                {
+                    cusomteridx = ddlCusomter.selectedIndex;
+                    cusomter = ddlCusomter.options[cusomteridx].value;  
+                    
+           
+                }
+                
+                if( cusomter == -2)
+                {
+                    alert("Customer is required to be selected");
+                    return;
+                }else
+                {
+                     cusomter = cusomter.replace("&","_");
+                }
+                
+                parameter+= "&CustCode=" + cusomter;
+            }
+            // Added by Ken, 20151111, end
+/*            
+            if (functionid == "4108")
+            {
+                 _txtcutoff = document.getElementById(CutOffDateClientID);
+                 if (_txtcutoff.value.length == 0)
+                 {
+                    alert("Cut off date must be input");
+                    return;
+                 }
+                 
+                parameter += "&CutOffDate=" + _txtcutoff.value;
+            }
+*/
+        
+            if (functionid == "4108")
+            {
+                errmsg = "";
+                sectionindex= ddlSectionCode.selectedIndex;
+                _txtcutoff = document.getElementById(CutOffDateClientID);
+                
+                if (sectionindex == 0)
+                    errmsg = "Works must be input\n";
+                    
+                if (_txtcutoff.value.length == 0)
+                    errmsg += "Cut off date must be input\n";
+                    
+                if (errmsg != "")
+                {
+                    alert(errmsg);
+                    return;
+                }
+                
+                parameter += "&CutOffDate=" + _txtcutoff.value;
+            }
+            
+            
+            if (_ddlSubContractor != undefined)
+            {
+                subcontractoridx = ddlSubcontractor.selectedIndex;
+                try
+                {
+                    subcontractor = ddlSubcontractor.options[subcontractoridx].value;    
+                    //parameter+="&SubContractor=" + subcontractor;
+                    parameter+="&SubContractor=" + subcontractor.replace("&","%26");
+                    
+                    
+                } catch(Error) {}
+                
+                
+                
+            }
+            
+            if (_ddlSubContractorNo != undefined)
+            {
+                
+                subcontractornoidx = ddlSubCont.selectedIndex;
+                
+                try
+                {
+                    sucontractorno = ddlSubCont.options[subcontractornoidx].value; 
+                    
+                    parameter+="&SubContractNo=" + sucontractorno;
+                } catch(Error) {}
+                
+            }
+            
+            if (_ddlCertType != undefined)
+            {
+                certtypeindex= ddlpctype.selectedIndex;
+                certtype = ddlpctype.options[certtypeindex].value;
+                parameter+="&CertType=" + certtype; 
+            }
+             
+            if ( _ddlPurAgm != undefined)
+            {
+                
+                puragmidx =ddlPA.selectedIndex;
+                
+                try
+                {
+                    puragm = ddlPA.options[puragmidx].value;
+                    if (puragm == "N/A") {
+                        parameter+="&PA=-2";
+                    }
+                    else {
+                        parameter+="&PA=" + puragm;
+                    }
+                } 
+                catch(Error){
+                
+                }
+                
+                
+            }
+            if ( _ddlVendor != undefined)
+            {
+                
+                vendoridx =ddlVendor.selectedIndex;
+                
+                try
+                {
+                    vendorno = ddlVendor.options[vendoridx].value;
+                    if (vendorno == "N/A")
+                        parameter+="&Vendor=-2";
+                    else
+                        parameter+="&Vendor=" + vendorno;
+                    
+                } 
+                catch(Error)
+                {}
+                
+                
+            }
+            
+            
+            if (_ddlInputType != undefined)
+            {
+                inputtypeindex= ddlInputType.selectedIndex;
+                inputtype = ddlInputType.options[inputtypeindex].value; ;
+                parameter+="&InputType=" + inputtype; 
+            }
+            
+             if (_ddlmrno != undefined)
+            {
+                    mrnoidx = ddlmrno.selectedIndex;
+                if (inputtype == "MR"){
+                    mrno = ddlmrno.options[mrnoidx].value;
+                    parameter+="&MRNo=" + mrno;
+                }    
+                else{
+                    parameter+="&MRNo=-2";
+                }               
+            }
+            
+             if (_ddlSectionCode != undefined)
+            {
+                sectionindex= ddlSectionCode.selectedIndex;
+                sectioncode = ddlSectionCode.options[sectionindex].value; ;
+                parameter+="&SectionCode=" + sectioncode; 
+            }
+            
+            
+            
+           // alert(parameter);
+            // Check by function
+            
+            /*
+            if (functioncode != "pui04")
+            {
+                if (!CheckProject(projindex))
+                    {
+                        success = false;
+                    }
+            }*/
+            /*if (functioncode != "sei01")
+            {*/
+                if (!CheckProject(projindex)){
+                
+                success = false;
+                }
+            //}
+            
+            
+            if (functioncode == "pui01")
+            {
+                
+            }
+            if (functioncode == "pui02")
+            { 
+                
+                if (success && inputtype == "MR" && !CheckMR(mrnoidx))
+                {
+                    success = false;
+                }
+                
+            }
+            if (functioncode == "pui03")
+            {
+                if (success && inputtype == "MR" && !CheckMR(mrnoidx))
+                {
+                    success = false;
+                }
+                
+            }
+            if (functioncode == "pui04")
+            {
+                if (success && !CheckPA(puragmidx))
+                {
+                    success = false;
+                }
+                
+            }
+            if (functioncode == "pui05")
+            {
+                if (success && !CheckVendor(vendoridx))
+                {
+                    success = false;
+                }
+            }
+            if (functioncode == "qsi01")
+            {
+                
+            }
+            if (functioncode == "qsi02")
+            {
+                
+            }
+            if (functioncode == "qsi03")
+            {
+                
+            }
+            if (functioncode == "qsi04")
+            {
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                
+            }
+            if (functioncode == "qsi05")
+            {
+                
+            }
+            if (functioncode == "qsi12")
+            {
+//                alert('e');
+//                alert(subcontractoridx);
+//                alert(subcontractornoidx);
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                if (success && !CheckSubContract(subcontractornoidx))
+                //if (success && !CheckSubContract(sucontractorno))
+                
+                {
+                    success = false;
+                }
+            }
+            if (functioncode == "qsi17")
+            {
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                if (success && !CheckSubContract(subcontractornoidx))
+                {
+                    success = false;
+                }
+            }
+            if (functioncode == "qsi18")
+            {
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                if (success && !CheckSubContract(subcontractornoidx))
+                {
+                    success = false;
+                }
+            }
+            if (functioncode == "qsi19")
+            {
+                
+            }
+            if (functioncode == "qsi20")
+            {
+                
+            }
+            if (functioncode == "qsi21")
+            {
+                
+            }
+            if (functioncode == "qsi22")
+            {
+                
+            }
+            if (functioncode == "qsi23")
+            {
+                
+            }
+            if (functioncode == "qsi24")
+            {
+                
+            }
+            if (functioncode == "qsi41")
+            {
+
+                if (success && !CheckSubContractor(subcontractoridx))
+                {
+                    success = false;
+                }
+                if (success && !CheckSubContract(subcontractornoidx))
+                //if (success && !CheckSubContract(sucontractorno))
+                
+                {
+                    success = false;
+                }
+            } 
+            if (functioncode == "aci02" || functioncode == "ma08")
+            {
+                if (success && !CheckSection(sectionindex))
+                {
+                    success = false;
+                }
+            }
+            
+            if (success)
+            {
+            //    alert(parameter);
+              
+                var _RequestStr = "../Control/RequestDownload.aspx" + parameter;
+                var dialogfeature = "status:=no,Height=10,Width=10,top=10,left=20";
+                var height = screen.height;
+                var width = screen.width;
+                //alert(_RequestStr);
+                //window.open(_RequestStr,"_blank", "status:=no,Height=10,Width=10,top=10,left=20",false); //open a new blank widows,if click open ,open in it                
+                
+                //window.open(_RequestStr,"_blank", "status:=no,Height=10,Width=10,top=" + (height/3)+ ",left=" + width/3,false);
+                var p = {};
+                
+                p[PARAM_URL] = _RequestStr;
+                p[PARAM_MODE] = FORM_MODE_NEW;
+                var ret =  showForm(p, dialogFeatures); 
+                //var ret = ShowModalDialog(_RequestStr);
+                
+                //alert(SuccessfulMsg);
+                
+                //var ret = showForm(p, dialogFeatures1);
+                //setCommand(COMMAND_REDIRECT)
+                //sendParentRedirectRequest("../Document/DownloadManager.aspx");
+                //self.close();
+                if (ret == "")
+                {
+                    closeFormByReturnValue(COMMAND_REDIRECT);
+                } else {
+                    closeFormByReturnValue("refreshonly");
+                
+                    //self.close();
+                }
+            }
+            
+            
+            //window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false); //open a new blank widows,if click open ,open in it                
+            
+            return true;
+        
+        }
+        
+        function CheckMR(index)
+        {
+            if (index < 1)
+            { 
+                alert(MRMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+                
+        }
+        
+        function CheckProject(index)
+        {
+            if (index < 1)
+            { 
+                alert(ProjMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+                
+        }
+        
+        function CheckSubContractor(index)
+        {
+            
+            if (index < 0)
+            { 
+                alert(SubContractorMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+            
+        }
+        
+        function CheckSubContract(index)
+        {
+            
+            if (index < 1)
+            { 
+                alert(SubContractMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+        }
+        function CheckPA(index)
+        {
+        
+           if (index < 1)
+            { 
+                alert(PAMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+        }
+        function CheckVendor(index)
+        {
+        
+           if (index < 1)
+            { 
+                alert(VendorMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+        }
+        
+        function CheckSection(index)
+        {
+        
+           if (index < 1)
+            { 
+                alert(SectionMsg)
+                return false;
+            }  else { 
+                return true;
+            }
+        }
+        
+        
+	function SearchProject()
+	{
+	    
+	    var p = {};
+	    var strProjectClientID = "<%=strProjectClientID %>";
+	    var formUrl = "../Control/Search.aspx?type=project&action=" + actionadd + "&function=" + functionid;
+        p[PARAM_URL] = formUrl;
+        p[PARAM_MODE] = FORM_MODE_NEW;
+        var SearchdialogFeatures = "dialogHeight:" + 300+ "px;dialogWidth:" + 800 + "px;";
+        var ret = showForm(p, SearchdialogFeatures); 
+        var ddl = document.getElementById(strProjectClientID);
+        
+        
+        if (ret != "" && ret != undefined)        {
+            
+            for(var i=0;i<=ddl.length-1;i=i+1)
+            {
+                var ddlText=ddl.options[i].outerText;
+               
+                if(ddlText==ret)
+                {
+                    ddl.selectedIndex=i;
+                    ddl.onchange();
+                    break;
+                }
+            } 
+            
+            document.getElementById(strProjectTextID).value = ret;
+            
+            //document.getElementById(strProjectClientID).selectedvalue = ret;
+            //document.getElementById(strProjectClientID).selectedIndex = 10;
+            //frmMain.submit();
+            //document.forms[0].submit();
+        }
+	}
+    
+	
+</script>
+
+</html>

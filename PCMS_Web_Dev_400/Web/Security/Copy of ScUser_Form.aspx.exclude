@@ -1,0 +1,166 @@
+<%@ Page Language="C#" MasterPageFile="~/Control/MasterSecurityForm.master" AutoEventWireup="true"
+    CodeFile="ScUser_Form.aspx.cs" Inherits="ScUser_Form" %>
+
+<%@ MasterType VirtualPath="~/Control/MasterSecurityForm.master" %>
+<%@ Import Namespace="PCCore" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder" runat="Server">
+    <table border="0" cellspacing="0" cellpadding="3" width="100%" height="375">        
+        <tr>
+            <td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="lblLoginName" Text="<%$ Resources:Labels,LoginName %>" /></td>
+            <td>
+                :</td>
+            <td>
+                <PC:TextBox ID="txtLoginName" runat="server" CssClass="TextBoxForm" Required="True"
+                    RequiredErrorMessage="<%$ Resources:Messages,InputLoginName %>" Text='<%# _dr["LOGINNAME"] %>' />
+            </td>
+            <td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="lblPassword" Text="<%$ Resources:Labels,Password %>" /></td>
+            <td>
+                :</td>
+            <td>
+                <PC:TextBox ID="txtPassword" runat="server" TextMode="Password" CssClass="TextBoxForm"
+                    Required="True" RequiredErrorMessage="<%$ Resources:Messages,InputPassword %>" />
+            </td>
+        </tr>
+        <tr>
+            <%--<td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="Label1" Text="<%$ Resources:Labels,AccessLevel %>" /></td>
+            <td>
+                :</td>
+            <td>
+                <PC:DropDownList runat="server" ID="ddlAccessLevel" Width="135" />
+            </td>--%>
+            <td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="Label1" Text="<%$ Resources:Labels,FullName %>" /></td>
+            <td>
+                :</td>
+            <td>
+                <PC:TextBox ID="txtFullName" runat="server" CssClass="TextBoxForm" Text='<%# _dr["FULLNAME"] %>' />
+            </td>
+            <td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="lblLocked" Text="<%$ Resources:Labels,Locked %>" />
+                <asp:CheckBox ID="chkLocked" runat="server" />
+            </td>
+            <td>
+            </td>
+            <td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="lblSupervisor" Text="<%$ Resources:Labels,Supervisor %>" />
+                <asp:CheckBox ID="chkSupervisor" runat="server" />
+            </td>
+        </tr>
+        <tr>
+             <td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="Label3" Text="<%$ Resources:Labels,ExpireDate %>" /></td>
+            <td>
+                :</td>
+            <td colspan="4">
+                <PC:TextBox ID="txtExpireDate" runat="server" DataType="Date" CssClass="TextBoxForm" />
+            </td>
+        </tr>        
+        <tr>
+            <td>
+                <PC:Label LabelStyle="xLabel" runat="server" ID="Label2" Text="<%$ Resources:Labels,Project %>" /></td>
+            <td>
+                :</td>
+            <td height="50" colspan="4">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" style="border: solid 1 #999999;
+                    background-color: White;">
+                    <tr>
+                        <td bgcolor="#dddddd">
+                            <span style="width: 3;"></span>
+                            <PC:HrCheckBox ID="cbTotal" runat="server" RegisterClientVariable="true" />
+                            <PC:Label ID="lblall" runat="server" Text="<%$ Resources:Labels,All %>" /></td>
+                    </tr>
+                    <tr>
+                        <td style="background-color: #999999; height: 1;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div style="overflow: auto; height: 150;" class="DivCheckBox_se">
+                                <asp:CheckBoxList runat="server" ID="cblProject">
+                                </asp:CheckBoxList>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr height="600px">
+            <td valign="top">
+                <PC:Label LabelStyle="xLabel" runat="server" ID="lblGroup" Text="<%$ Resources:Labels,ScGroup %>" />
+            </td>
+            <td valign="top">
+                :</td>
+            <td colspan="4">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+                    <tr>
+                        <td valign="top" class="GridViewContainer">
+                            <PC:DbDataSource runat="server" ID="dsGridView" AutoRestoreSelectCommand="False">
+                            </PC:DbDataSource>
+                            <PC:GridView runat="server" ID="gvData" DataSourceID="dsGridView" ShowPageIndex="false"
+                                SelectValueField="ID" AllowMultipleSelect="True" MultipleSelectDataSourceField="INGROUP"
+                                Width="460px" SkinID="NoPageDownSkin"  AllowSorting="false" ShowPager="false" ShowFooter="false" 
+                                GridViewContainerStyle="height:137px" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="6">
+                <PC:TextBox runat="server" CssClass="Invisible" ID="txtCount" RegisterClientVariable="true"></PC:TextBox>
+                <PC:TextBox runat="server" CssClass="Invisible" ID="txtTotal" RegisterClientVariable="true"></PC:TextBox>
+                <PC:TextBox runat="server" CssClass="Invisible" ID="txtProjectname" RegisterClientVariable="true"></PC:TextBox>
+                <PC:TextBox runat="server" CssClass="Invisible" ID="txtMinPasswordLength" RegisterClientVariable="true"></PC:TextBox>
+                <PC:TextBox ID="txtID" runat="server" CssClass="Invisible" Text='<%# _dr["ID"] %>' />
+            </td>
+        </tr>
+    </table>
+
+    <script language="javascript">
+        var frmMain = document.forms[0];    	
+    	var txtFName,txtUid,txtLName,txtPwd,txtHFName; 
+        var count=0;
+        
+       function checkstatus(crl) {
+           
+            if(!SimpleJS.isNullOrEmpty(txtCount.value))
+                count = txtCount.value - 0;
+            
+            if(crl.checked)
+            {
+                count = count + 1;
+                txtCount.value = count;
+            }
+            else
+            {
+                count = count - 1;
+                txtCount.value=count;
+            }
+            if(txtCount.value==txtTotal.value)
+            {
+                cbTotal.checked=true;
+            }
+            else
+            {
+                cbTotal.checked=false;
+            }
+        }
+
+        function onSaveForm() {
+            if (document.getElementById(txtPwd).value.length < parseInt(txtMinPasswordLength.value)) {
+                alert("<%=Resources.Messages.MinPasswordLength %>" +" "+ txtMinPasswordLength.value);
+                document.getElementById(txtPwd).focus();
+                return false;
+            }
+            return true;
+        }
+      
+      
+       
+       
+    </script>
+
+</asp:Content>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="PUI01" xml:space="preserve">
+    <value>PUI01</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI01_Template" xml:space="preserve">
+    <value>PUI01.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI02" xml:space="preserve">
+    <value>PUI02</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI02_Template" xml:space="preserve">
+    <value>PUI02.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI03" xml:space="preserve">
+    <value>PUI03</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI03_Template" xml:space="preserve">
+    <value>PUI03.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI04" xml:space="preserve">
+    <value>PUI04</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI04_Template" xml:space="preserve">
+    <value>PUI04.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI05_CO" xml:space="preserve">
+    <value>PUI05_CO</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI05_DN" xml:space="preserve">
+    <value>PUI05_DN</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI05_SMR" xml:space="preserve">
+    <value>PUI05_SMR</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI05_Template" xml:space="preserve">
+    <value>PUI05.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI01" xml:space="preserve">
+    <value>QSI01</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI01_Template" xml:space="preserve">
+    <value>QSI01.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="TEMPLATEPATH" xml:space="preserve">
+    <value>~/Template/</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="UPLOADPATH" xml:space="preserve">
+    <value>~/Upload/</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI02_Template" xml:space="preserve">
+    <value>QSI02.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI03" xml:space="preserve">
+    <value>QSI03</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI03_Template" xml:space="preserve">
+    <value>QSI03.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI04" xml:space="preserve">
+    <value>QSI04</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI04_Template" xml:space="preserve">
+    <value>QSI04.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI05" xml:space="preserve">
+    <value>QSI05</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI05_Template" xml:space="preserve">
+    <value>QSI05.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI06" xml:space="preserve">
+    <value>QSI06</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI06_Template" xml:space="preserve">
+    <value>QSI06.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI07" xml:space="preserve">
+    <value>QSI07</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI07_Template" xml:space="preserve">
+    <value>QSI07.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI08" xml:space="preserve">
+    <value>QSI08</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI08_Template" xml:space="preserve">
+    <value>QSI08.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI09" xml:space="preserve">
+    <value>QSI09</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI09_Template" xml:space="preserve">
+    <value>QSI09.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI10" xml:space="preserve">
+    <value>QSI10</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI10_Template" xml:space="preserve">
+    <value>QSI10.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI11" xml:space="preserve">
+    <value>QSI11</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI11_Template" xml:space="preserve">
+    <value>QSI11.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI12" xml:space="preserve">
+    <value>QSI12</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI12_Template" xml:space="preserve">
+    <value>QSI12.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI13" xml:space="preserve">
+    <value>QSI13</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI13_Template" xml:space="preserve">
+    <value>QSI13.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI14" xml:space="preserve">
+    <value>QSI14</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI14_Template" xml:space="preserve">
+    <value>QSI14.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI15" xml:space="preserve">
+    <value>QSI15</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI15_Template" xml:space="preserve">
+    <value>QSI15.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI16" xml:space="preserve">
+    <value>QSI16</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI16_Template" xml:space="preserve">
+    <value>QSI16.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI17" xml:space="preserve">
+    <value>QSI17</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI17_Template" xml:space="preserve">
+    <value>QSI17.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI18" xml:space="preserve">
+    <value>QSI18</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI18_Template" xml:space="preserve">
+    <value>QSI18.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI19" xml:space="preserve">
+    <value>QSI19</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI19_Template" xml:space="preserve">
+    <value>QSI19.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI20" xml:space="preserve">
+    <value>QSI20</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI20_Template" xml:space="preserve">
+    <value>QSI20.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI21" xml:space="preserve">
+    <value>QSI21</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI21_Template" xml:space="preserve">
+    <value>QSI21.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI22" xml:space="preserve">
+    <value>QSI22</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI22_Template" xml:space="preserve">
+    <value>QSI22.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI23" xml:space="preserve">
+    <value>QSI23</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI23_Template" xml:space="preserve">
+    <value>QSI23.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI24" xml:space="preserve">
+    <value>QSI24</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI24_Template" xml:space="preserve">
+    <value>QSI24.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI02" xml:space="preserve">
+    <value>QSI02</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI05_PO" xml:space="preserve">
+    <value>PUI05_PO</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI06" xml:space="preserve">
+    <value>PUI06</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="PUI06_Template" xml:space="preserve">
+    <value>PUI06.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="MAI02" xml:space="preserve">
+    <value>MAI02</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="MAI02_Template" xml:space="preserve">
+    <value>MAI02.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="ACI01" xml:space="preserve">
+    <value>ACI01</value>
+  </data>
+  <data name="ACI01_Template" xml:space="preserve">
+    <value>ACI01.xls</value>
+  </data>
+  <data name="ACI02" xml:space="preserve">
+    <value>ACI02</value>
+  </data>
+  <data name="ACI02_Template" xml:space="preserve">
+    <value>ACI02.xls</value>
+  </data>
+  <data name="QSI25" xml:space="preserve">
+    <value>QSI25</value>
+  </data>
+  <data name="QSI25_Template" xml:space="preserve">
+    <value>QSI25.xls</value>
+  </data>
+  <data name="QSI26" xml:space="preserve">
+    <value>QSI26</value>
+  </data>
+  <data name="QSI27" xml:space="preserve">
+    <value>QSI27</value>
+  </data>
+  <data name="QSI27_Template" xml:space="preserve">
+    <value>QSI27.xls</value>
+  </data>
+  <data name="QSI28" xml:space="preserve">
+    <value>QSI28</value>
+  </data>
+  <data name="QSI28_Template" xml:space="preserve">
+    <value>QSI28.xls</value>
+  </data>
+  <data name="QSI29" xml:space="preserve">
+    <value>QSI29</value>
+  </data>
+  <data name="QSI29_Template" xml:space="preserve">
+    <value>QSI29.xls</value>
+  </data>
+  <data name="QSI2_Template" xml:space="preserve">
+    <value>QSI26.xls</value>
+  </data>
+  <data name="QSI30" xml:space="preserve">
+    <value>QSI30</value>
+  </data>
+  <data name="QSI30_Template" xml:space="preserve">
+    <value>QSI30.xls</value>
+  </data>
+  <data name="PUI02_MR" xml:space="preserve">
+    <value>PUI02_MR</value>
+  </data>
+  <data name="PUI02_PO" xml:space="preserve">
+    <value>PUI02_PO</value>
+  </data>
+  <data name="PUI03_MR" xml:space="preserve">
+    <value>PUI03_MR</value>
+  </data>
+  <data name="PUI03_PA" xml:space="preserve">
+    <value>PUI03_PA</value>
+  </data>
+  <data name="QSI31_Template" xml:space="preserve">
+    <value>QSI31.xls</value>
+  </data>
+  <data name="QSI32_Template" xml:space="preserve">
+    <value>QSI32.xls</value>
+  </data>
+  <data name="SEI01_Template" xml:space="preserve">
+    <value>SEI01.xls</value>
+  </data>
+  <data name="QSI31" xml:space="preserve">
+    <value>QSI31</value>
+  </data>
+  <data name="QSI32" xml:space="preserve">
+    <value>QSI32</value>
+  </data>
+  <data name="SEI01" xml:space="preserve">
+    <value>SEI01</value>
+  </data>
+  <data name="QSI33" xml:space="preserve">
+    <value>QSI33</value>
+  </data>
+  <data name="QSI33_Template" xml:space="preserve">
+    <value>QSI33</value>
+  </data>
+  <data name="QSI40" xml:space="preserve">
+    <value>QSI40</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="QSI40_Template" xml:space="preserve">
+    <value>QSI40.xls</value>
+    <comment>created by karrson</comment>
+  </data>
+  <data name="MA08" xml:space="preserve">
+    <value>MA08</value>
+    <comment>created by Ada</comment>
+  </data>
+  <data name="MA08_Template" xml:space="preserve">
+    <value>MA08.xls</value>
+    <comment>created by Ada</comment>
+  </data>
+  <data name="QSI41" xml:space="preserve">
+    <value>QSI41</value>
+  </data>
+  <data name="QSI41_Template" xml:space="preserve">
+    <value>QSI41.xls</value>
+  </data>
+  <data name="QSI42" xml:space="preserve">
+    <value>QSI42</value>
+  </data>
+  <data name="QSI42_Template" xml:space="preserve">
+    <value>QSI42.xls</value>
+  </data>
+  <data name="MAI01" xml:space="preserve">
+    <value>MAI01</value>
+  </data>
+  <data name="QSI43" xml:space="preserve">
+    <value>QSI43</value>
+  </data>
+  <data name="QSI43_Template" xml:space="preserve">
+    <value>QSI43.xls</value>
+  </data>
+  <data name="QSI44" xml:space="preserve">
+    <value>QSI44</value>
+  </data>
+  <data name="QSI44_Template" xml:space="preserve">
+    <value>QSI44.xls</value>
+  </data>
+  <data name="PUI08" xml:space="preserve">
+    <value>PUI08</value>
+  </data>
+  <data name="PUI08_Template" xml:space="preserve">
+    <value>PUI08.xls</value>
+  </data>
+</root>

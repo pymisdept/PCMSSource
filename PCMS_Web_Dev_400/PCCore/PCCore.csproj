@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{143B5BAD-7376-47F7-9779-CAE88E7ED62F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PCCore</RootNamespace>
+    <AssemblyName>PCCore</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxPro.2, Version=6.6.14.2, Culture=neutral, PublicKeyToken=4735ae9824c7d3ec, processorArchitecture=MSIL" />
+    <Reference Include="SimpleControls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=eebc2175006dd560, processorArchitecture=MSIL" />
+    <Reference Include="SimpleControls.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=eebc2175006dd560, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\ComCommand.cs" />
+    <Compile Include="Common\ComFunction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Common\Config.cs" />
+    <Compile Include="Common\Consts.cs" />
+    <Compile Include="Common\File.cs" />
+    <Compile Include="Common\HRLog.cs" />
+    <Compile Include="Common\IErrorHandler.cs" />
+    <Compile Include="Common\Images.cs" />
+    <Compile Include="Common\Security.cs" />
+    <Compile Include="Common\SessionInfo.cs" />
+    <Compile Include="Common\SystemParameter.cs" />
+    <Compile Include="Control\PCMSTextBox.cs" />
+    <Compile Include="Control\NonEditGridView.cs" />
+    <Compile Include="Control\SearchBasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control\SearchGridView.cs" />
+    <Compile Include="Control\XMLPMSession.cs" />
+    <Compile Include="Control\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control\PmsReport\CurrencyBox.cs" />
+    <Compile Include="Control\PmsReport\NumericBox.cs" />
+    <Compile Include="Control\PmsReport\DateBox.cs" />
+    <Compile Include="Control\PmsReport\TextBox.cs" />
+    <Compile Include="Control\SAPDbDataSource.cs" />
+    <Compile Include="Control\PrjSearchGridView.cs" />
+    <Compile Include="Control\PmReportGridView.cs" />
+    <Compile Include="Control\PmRptToolbar.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Control\PmsReport\AddButton.cs" />
+    <Compile Include="Control\CollaspeButton.cs" />
+    <Compile Include="Control\PmsReport\DeleteButton.cs" />
+    <Compile Include="Control\PmsReport\MultiLineTextBox.cs" />
+    <Compile Include="Control\ReportToolbar.cs" />
+    <Compile Include="Control\DocumentToolbar.cs" />
+    <Compile Include="Control\Navbar.cs" />
+    <Compile Include="Control\GoButton.cs" />
+    <Compile Include="Control\DbDataSource.cs" />
+    <Compile Include="Control\DropDownList.cs" />
+    <Compile Include="Control\GridView.cs" />
+    <Compile Include="Control\HrCheckBox.cs" />
+    <Compile Include="Control\HRCheckBoxList.cs" />
+    <Compile Include="Control\HrListItem.cs" />
+    <Compile Include="Control\ImageButton.cs" />
+    <Compile Include="Control\Label\Label.cs" />
+    <Compile Include="Control\ListBar.cs" />
+    <Compile Include="Control\ListBox.cs" />
+    <Compile Include="Control\MasterBasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control\Note.cs" />
+    <Compile Include="Control\Panel.cs" />
+    <Compile Include="Control\PopNote\PopNote.cs">
+    </Compile>
+    <Compile Include="Control\RadioButtonList.cs" />
+    <Compile Include="Control\SearchButton.cs" />
+    <Compile Include="Control\TextBox.cs" />
+    <Compile Include="Control\Title.cs" />
+    <Compile Include="Control\Toolbar.cs" />
+    <Compile Include="Control\TTextBox.cs" />
+    <Compile Include="Database\SCGroupUser.cs" />
+    <Compile Include="Database\SCRight.cs" />
+    <Compile Include="Database\SC_Announcements.cs" />
+    <Compile Include="Database\SC_Function.cs" />
+    <Compile Include="Database\DocumentProperty.cs" />
+    <Compile Include="Database\Init.cs" />
+    <Compile Include="Database\Payment.cs" />
+    <Compile Include="Database\Tools.cs" />
+    <Compile Include="Database\User.cs" />
+    <Compile Include="Database\UserProject.cs" />
+    <Compile Include="PCMS\PMReport.cs" />
+    <Compile Include="Database\Project.cs" />
+    <Compile Include="Database\SAPDb.cs" />
+    <Compile Include="Database\PCDb.cs" />
+    <Compile Include="Database\PCDynDb.cs" />
+    <Compile Include="Database\PCTable.cs" />
+    <Compile Include="Database\ValidationList.cs" />
+    <Compile Include="PCMS\Announcement.cs" />
+    <Compile Include="PCMS\Authorization.cs" />
+    <Compile Include="PCMS\DlnRequest.cs" />
+    <Compile Include="PCMS\PMReportGridViewProperty.cs" />
+    <Compile Include="PCMS\PMReportTable.cs" />
+    <Compile Include="PCMS\ProjectReport.cs" />
+    <Compile Include="PCMS\Upload.cs" />
+    <Compile Include="PCMS\UserLogin.cs" />
+    <Compile Include="PCMS\Validation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\Sc.cs" />
+    <Compile Include="Security\ScInfo.cs" />
+    <Compile Include="Security\ScLog.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Control\Label\Label.css" />
+    <EmbeddedResource Include="Control\Label\Label_jp.css" />
+    <EmbeddedResource Include="Control\Label\Label_tw.css" />
+    <EmbeddedResource Include="Control\Label\Label_zh.css" />
+    <EmbeddedResource Include="Control\PopNote\pop_ico.gif" />
+    <EmbeddedResource Include="Control\PopNote\pop_note.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="key.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>attrib -R $(SolutionDir)Support$(TargetFileName)
+copy $(TargetDir)$(TargetFileName) $(SolutionDir)Support /Y</PostBuildEvent>
+  </PropertyGroup>
+</Project>

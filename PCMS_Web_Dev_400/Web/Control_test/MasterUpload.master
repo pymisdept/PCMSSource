@@ -1,0 +1,440 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterUpload.master.cs" Inherits="MasterUpload" %>
+<%@ Register Src="Banner.ascx" TagName="Banner" TagPrefix="PC" %>
+<%@ Register Src="Footer.ascx" TagName="Footer" TagPrefix="PC" %>
+<%@ Register Src="NavMenu.ascx" TagName="NavMenu" TagPrefix="PC" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<%@ Import Namespace="PCCore" %>
+<html>
+<head runat="server">
+    <link rel="SHORTCUT ICON" href="~/flexihr.ico"/>
+    <title></title>
+    <meta http-equiv="pragma" content="no-cache" /> 
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <base target="_self" />
+</head>
+<%
+   string functionid = SessionInfo.CurrentFunctionID;
+   string functioncode = SessionInfo.CurrentFunction;
+   string appUrl = Config.AppBaseUrl;
+   string themeUrl = Config.GetThemeBaseUrl(Page.Theme);
+   string BackEnd = Resources.Labels.BackEnd;
+   string FrontEnd = Resources.Labels.FrontEnd;
+   string lang = SessionInfo.CurrentLanguage;
+   string ReportLocation = "";
+   string ReportName = "";
+   string DOCUMENT_DRAFT = Consts.DOCUMENT_DRAFT;
+   try
+   {
+       switch (lang)
+       {
+           case "zh-cn":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-cn", functioncode.ToUpper()).ToString();
+               break;
+           case "zh-tw":
+
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report.zh-tw", functioncode.ToUpper()).ToString();
+               break;
+           case "en-us":
+               ReportLocation = ConfigurationManager.AppSettings["ReportLocation"].ToString();
+               ReportName = GetGlobalResourceObject("Report", functioncode.ToUpper()).ToString();
+               break;
+       }
+   }
+   catch (Exception ex)
+   { }
+   
+%>
+<script language="javascript">
+        var functionid = "<%=functionid %>";
+        var functioncode = "<%=functioncode %>";
+        var formUrl = functioncode + "_Form.aspx";
+        var appUrl = "<%= appUrl %>";
+        var themeUrl = "<%= themeUrl %>";
+        var BackEnd = "<%= BackEnd %>";
+        var FrontEnd = "<%= FrontEnd %>";
+        var lang = "<%= lang %>";
+        var ReportLocation = "<%= ReportLocation %>";
+        var ReportName = "<%= ReportName %>";
+        //var height = screen.height;
+        var height = 10px;
+        var width = screen.width;
+        // Report Printing
+        //var dialogFeatures1 = "dialogHeight:" + height + ";dialogWidth:" + width + ";";
+        // Form 
+        //var dialogFeatures = "dialogHeight:800px;dialogWidth:600px;";
+        
+        var frmMain = document.forms[0]; 
+    	
+    	var UpAlldialogFeaturesDownoLoadFile = "menubar=no,toolbar=no,status:=no,Height=230,Width=350,top=270,left=320";
+    	var UpAllDownoLoadFileUrl = "<%=appUrl %>/Control/DownLoadFile.aspx"; 
+    	var ViewDocumentUrl = "<%=appUrl %>/Report/CheckList.aspx";
+    	var DOCUMENT_DRAFT = "<%=DOCUMENT_DRAFT %>";
+        //页面加载完后执行的代码,
+        function MasterBeExecute()
+        {  
+          if (typeof(selfToBeExecute)=="function")
+          {
+                
+                selfToBeExecute();
+          }   
+        } 
+        function PrintCheckList(id)
+        {
+//            alert('Print Check List')
+//            alert(id);
+//            alert(functioncode);
+            var p = {};
+            //p[PARAM_URL] = ReportLocation + "?Report=" + ReportName + "&DocEntry=" + id;
+            p[PARAM_URL] = ViewDocumentUrl;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            p[PARAM_ID] = id;
+            // Report Link Alert Debug
+            
+            //var ret = showForm(p, dialogFeatures1);            
+            var ret = showModelessForm(p,dialogFeatures1);
+            if(ret==COMMAND_REFRESH)
+                Refresh();
+            
+        }
+        function AddNew() {     
+            var p = {};
+            p[PARAM_URL] = formUrl;
+            p[PARAM_MODE] = FORM_MODE_NEW;
+            var ret = showForm(p, dialogFeatures); 
+//            alert(ret);           
+            if (ret==COMMAND_REDIRECT)
+            {
+                self.location.href = "../Document/DownloadManager.aspx";
+            }
+            if(ret==COMMAND_REFRESH)
+             {
+                Refresh();
+             }
+            
+        }
+       
+    	function DownloadFile(id)
+        {
+            if (id !="")
+            {           
+               _RequestStr = UpAllDownoLoadFileUrl+"?UpRecordID="+id;             
+               window.open(_RequestStr,"_blank", UpAlldialogFeaturesDownoLoadFile,false); //open a new blank widows,if click open ,open in it                
+            }
+        }
+        
+       function Refresh() { 
+            setCommand(COMMAND_REFRESH);       
+            frmMain.submit();
+        }
+        
+        function Confirm() {
+            var selected;
+            var status;
+            var row = gvData.getSelectedRow();
+            status = gvData.getCellText(row, 12);
+            selected = gvData.getSelectedRowValue();
+            //alert(status);
+            if(!SimpleJS.isNullOrEmpty(selected)) {
+                if (status == DOCUMENT_DRAFT) {
+                    if (!confirm("Are you sure to be post this record?"))
+                    {
+                       
+                        return;
+                        
+                    } else {
+                         setCommand(COMMAND_CONFIRM);
+                            frmMain.submit(); 
+                    }
+                    
+                } else 
+                {
+                    
+                }
+                
+                           
+            }
+        }
+        
+       
+    </script>
+
+<body style="height:100%" oncontextmenu="return false;"> 
+    <form id="frmMain" runat="server" onsubmit="if( _HRCommand.value==COMMAND_EXPORT) return setCommand('refresh');" >
+            <asp:ScriptManager ID="scm1" runat="server"></asp:ScriptManager>
+            <PC:Banner ID="Banner" runat="server" />
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" height="80%"  class="contentholder">
+                <tr>
+                    <td valign="top" width="162px" height="100%">
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td valign="top"><PC:NavMenu ID="NavMenu" runat="server" /></td>                                
+                            </tr>
+                        </table>
+                    </td>
+                    <td valign="top" height="100%"  class="FormContainer"> 
+                        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                        
+                            <!---->
+                           <%-- <tr>
+                            
+                            </tr>--%>
+                            <!---->
+                            
+                                  <tr>
+                                    <td  height="10" valign="top">
+                                        <PC:Note ID="Note" runat="server" Visible="false" />
+                                    </td>
+                                  </tr>
+                                   <tr runat="server" id="NoteSepLine" visible="false" height="10" valign="top">
+                                    <td class="SepVerLine">&nbsp;</td>
+                                  </tr>
+                                  <!-- note end -->
+              
+                                  <!-- title bar begin -->
+                                  <tr>
+                                     <td height="10" valign="top">
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                                            <td class="txttitle">
+                                                                <PC:Label ID="lblFileUpload" runat="server" Text = "<%$ Resources:Labels,FileName %>"></PC:Label>
+                                                <PC:Title id="Title" runat="server"></PC:Title>
+                                             </td>
+                                            <td align="right">
+                                                
+                                            </td>
+                                           </tr>
+                                          </table>
+                                       </td>
+                                  </tr>
+                                  <tr>                
+                                    <td height="10"><hr size="1" class="titlehr"></td>
+                                  </tr>                                 
+                                <!-- title bar end -->
+            
+                                <!-- content begin -->
+                                    <tr>
+                                        <td valign="top" style="padding-top:6px;padding-left:10px" width="80%">    
+                                            <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0" bordercolor="#CCCCCC">                                                
+                                                <tr>
+                                                    <td valign="top">
+                                                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                           <!-- Project -->
+                                                          <!--<tr>
+                                                                <td>
+                                                                    <PC:Label ID="Label2" runat="server" Text="<%$ Resources:Labels,Project %>"></PC:Label>
+                                                                </td>
+                                                                 <td width="10px">:</td>
+                                                                <td>
+                                                                    <PC:DropDownList ID="ddlProject" runat="server" AutoPostBack="true" 
+                                                                        onselectedindexchanged="ddlProject_SelectedIndexChanged"></PC:DropDownList>
+                                                                </td>
+                                                           </tr>-->
+                                                            <!-- Template List-->
+                                                            <tr>
+                                                                <td>
+                                                                    <PC:Label ID="lblTemplate" runat="server" Text="<%$ Resources:Labels,TemplateName %>"></PC:Label>
+                                                                </td>
+                                                                <td width="10px">:</td>
+                                                                <td>
+                                                                    <PC:DropDownList ID="ddlTemplate" runat="server" AutoPostBack="true"></PC:DropDownList>
+                                                                </td>
+                                                            </tr>
+                                                         </table>
+                                                            <!-- Upload Area -->
+                                                         <PC:CollaspeButton id="lbUpload" runat="server" ></PC:CollaspeButton>
+                                                         <PC:Label ID="lblTitleFileUpload" runat="server" Font-Bold="true" Text="<%$ Resources:Labels,UploadFile %>">"></PC:Label>
+                                                         
+                                                         <asp:Panel ID="PanelUpload" Width="100%" runat="server" ScrollBars="None">
+                                                         <div id="divUpload" runat="server">
+                                                         <table width="100%">
+                                                            <!-- Reserve for parameter use -->
+                                                            <tr runat="server" id="trPara1">
+                                                            <td width="18%">
+                                                            
+                                                            </td>   
+                                                            <td width="2%">
+                                                            :
+                                                            </td>   
+                                                            <td width="80%">
+                                                            
+                                                            </td>   
+                                                            </tr>
+                                                            <!-- Upload File -->
+                                                            <tr>
+                                                            <td width="18%">
+                                                                &nbsp;</td>   
+                                                            <td width="2%">
+                                                            :
+                                                            </td>   
+                                                            <td width="80%">
+                                                                <asp:FileUpload ID="aspFileUpload" runat="server" />
+                                                            </td>   
+                                                            </tr>
+                                                            <tr>
+                                                            <td width="18%">
+                                                            
+                                                            </td>   
+                                                            <td width="2%">
+                                                            
+                                                            </td>   
+                                                            <td width="80%" align="left">
+                                                                <asp:Button ID="btnUpload" runat="server" Text="<%$ Resources:Labels,Submit %>" 
+                                                                    onclick="btnUpload_Click" />
+                                                            </td>   
+                                                            </tr>
+                                                         </table>
+                                                         </div>
+                                                         </asp:Panel>
+                                                         <!--- Collapse Button Control -->
+                                                         <cc1:CollapsiblePanelExtender runat="server" 
+                                                            id="cpUpload"
+                                                            TargetControlID="PanelUpload"
+                                                            CollapsedSize="1"
+                                                            ExpandedSize="0"
+                                                            ExpandControlID="lbUpload"
+                                                            CollapseControlID="lbUpload"
+                                                            AutoCollapse="false"
+                                                            AutoExpand="false"
+                                                            ScrollContents="false"
+                                                            TextLabelID="Label10"
+                                                            ImageControlID="lbUpload"
+                                                            ExpandedImage="<%=themeUrl%>/images/collapse_close.jpg"
+                                                            CollapsedImage="<%=themeUrl%>/images/collapse_expend.jpg"
+                                                            ExpandDirection="Vertical">
+                                                            </cc1:CollapsiblePanelExtender>
+                                                            <!-- End of Collapse Button Control -->
+                                                         <hr width="100%" />   
+                                                         <PC:Label ID="lblTitleSearch" runat="server" Font-Bold="true" Text="<%$ Resources:Labels, Transaction %>">"></PC:Label>
+                                                         
+                                                            <!-- search area begin -->                
+                                                          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                            <tr>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label runat="server" ID="lblDivision" LabelStyle="xLabel" Text="<%$ Resources:Labels,FileName %>" />
+                                                                    
+                                                                </td>
+                                                                <td width="10px">
+                                                                    :
+                                                                </td>
+                                                                <td>
+                                                                    <PC:TextBox ID="txtFileName" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"  Width="200px" />
+                                                                </td>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    <PC:Label runat="server" Visible="false" ID="lblDepartment" LabelStyle="xLabel" Text="<%$ Resources:Labels,Project %>" /><PC:Label runat="server" ID="Label1" LabelStyle="xLabel" Text="<%$ Resources:Labels,UploadBy %>" />
+                                                                </td>
+                                                                <td style="width: 10px;">
+                                                                    :
+                                                                </td>
+                                                                <td colspan="3">
+                                                                    
+                                                                    <PC:DropDownList runat="server" ID="ddlUser" RegisterClientVariable="true"
+                                                                        Width="200px" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="5px" colspan="8">
+                                                                <PC:Label LabelStyle="xLabel" runat="server" Visible="false" ID="lblSearch" Text="<%$ Resources:Labels,Date %>" />
+                                                                </td>
+                                                            </tr>        
+                                                            <tr>
+                                                                <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    
+                                                                </td>
+                                                                <td width="10px">
+                                                                    
+                                                                </td>
+                                                                <td>
+                                                                    <PC:TextBox ID="txtStartDate" Visible="false" runat="server" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                        DataType ="Date" Width="75px" />
+                                                                    <PC:TextBox ID="txtEndDate" runat="server" Visible="false" CssClass="TextBoxName" SubmitOnEnter="True"
+                                                                        DataType ="Date"  Width="75px" />
+                                                                </td>
+                                                                 <td>
+                                                                    <span style="padding-left: 5px;" />
+                                                                    
+                                                                </td>
+                                                                <td style="width: 10px;">
+                                                                    
+                                                                </td>
+                                                                <td>
+                                                                <%--    <asp:CheckBox ID="chkHistory" runat="server" Text="<%$ Resources:Labels,History %>" />--%>
+                                                                </td>
+                                                                <td>
+                                                                    <PC:SearchButton id="SearchButton" runat="server" />
+                                                                </td>
+                                                                <td align="right">
+                                                                    <PC:DocumentToolBar runat="server" ID="toolbContact" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="5px" colspan="8">
+                                                                </td>
+                                                            </tr>
+                                                            <!-- search area end -->
+                                                            <!-- Karrson: Confirmation Button -->
+                                                            <tr height="100%">
+                                                                <td valign="top" align="left" class="Confirm" colspan="8">
+                                                                    <asp:Button ID="btnConfirm" Text="<%$Resources:Labels,toPost %>" 
+                                                                        runat="server" OnClientClick="javascript:if(!Confirm()) return false;" onclick="btnConfirm_Click" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr style="display:none;">
+                                                                <!--grdView begin -->
+                                                                <td class="ddlpaSearch" style="padding-left: 5px">
+                                                                </td>
+                                                                <td style="padding: 3px; height: 25px;" class="ddlpaSearch" valign="middle" align="right" colspan="7">
+                                                                    <PC:Label LabelStyle="xLabel" runat="server" ID="lblView" Text="<%$ Resources:Labels,View %>" />
+                                                                    <PC:DropDownList ID="ddlSearch" runat="server" Width="180px">
+                                                                    </PC:DropDownList>
+                                                                    
+                                                                </td>
+                                                                <!--grdView End -->
+                                                            </tr>
+                                                            <!-- data area begin -->
+                                                            <tr height="100%">
+                                                                <td valign="top" class="GridViewContainer" colspan="8">
+                                                                    <PC:DbDataSource runat="server" ID="dsGridView">
+                                                                    </PC:DbDataSource>
+                                                                    <PC:GridView runat="server" ID="gvData" DataSourceID="dsGridView" SkinID="SecuritySkin"
+                                                                         SelectValueField="descid" DataKeyNames="descid"  onselectedindexchanging="gvData_SelectedIndexChanging" SelectedIndex="0" OnRowCommand="gvData_RowCommand"
+                                                                        BorderWidth="0" GridViewStyle="UserDefine" AllowMultipleSelect="False"  OnSorted="gvData_Sorted" OnRowDataBound="gvData_RowDataBound" OnSelectedIndexChanged="gvData_SelectedChanged" />
+                                                                </td>
+                                                            </tr>
+                                                            <!-- data area end -->
+                                                            
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top" >
+                                                        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder>
+                                                    </td>
+                                                </tr>
+                                            </table> 
+                                        </td>
+                                    </tr>
+                                     
+                                    
+                                <!-- content end -->            
+                              
+                             
+            </table>
+            
+        </td>
+        </tr>
+        
+        </table>
+
+        <PC:Footer ID="Footer" runat="server" />        
+        
+    </form>
+
+</body>
+</html>

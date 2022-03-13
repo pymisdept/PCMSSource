@@ -1,0 +1,461 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Text;
+using PCCore;
+using SimpleControls.SimpleDatabase;
+
+public partial class ScUser_Form : BasePage
+{
+    protected PCTable _table = null;
+    protected DataTable _dt = null;
+    protected DataRow _dr = null;
+    protected ListItem li;
+    const string VIEW_SCUSER = "V_SC_USERS";
+    protected Sc.PublishTypes scpType = Sc.PublishTypes.Public;
+
+
+    protected override void OnInit(EventArgs e)
+    {
+        base.ShowWebMenu = false;
+        base.OnInit(e);
+        if (Master.FormMode == MasterSecurityForm.FormModes.Edit)
+            Page.ClientScript.RegisterStartupScript(Page.GetType(), "initpwd", String.Format("document.getElementById('{0}').value='********';", txtPassword.ClientID), true);
+
+    }
+
+    protected PCTable View
+    {
+        get
+        {
+            if (_table == null) _table = new PCTable(VIEW_SCUSER, this.SecurityInfo);
+            return _table;
+        }
+    }
+
+    protected PCTable Table
+    {
+        get
+        {
+            if (_table == null) _table = new PCTable(Consts.TableScUser, this.SecurityInfo);
+            return _table;
+        }
+    }
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        Master.Save += new MasterSecurityForm.SaveEventHandler(Master_Save);
+        
+        Master.Title = Resources.Labels.ScUser;
+        ((Button)Master.FindControl("btnRequest")).Visible = false;
+
+
+        if (Page.IsPostBack)
+        {
+        }
+        else
+        {
+            SetCheckBoxListItems(cblProject);
+            switch (Master.FormMode)
+            {
+                case  MasterSecurityForm.FormModes.New:
+                    int rowcount = View.SelectCount("1=1");
+                    //if (rowcount >= Convert.ToInt16(License.UserNumber))
+                    //{
+                    //    //this.Master.ButtonSave.Enabled = false;
+                    //}
+                    break;
+
+                case MasterSecurityForm.FormModes.Edit:
+                    txtLoginName.Enabled = false;
+                    txtID.Text = Master.RecordID;
+                    _dr = this.View.GetRow(Master.RecordID);
+                    if (_dr != null)
+                    {
+
+                        Master.Record = _dr;
+                        Page.DataBind();
+                    }
+                    else
+                    {
+                        Master.ShowWarning(String.Format(Resources.Common.InvalidIDOrMultipleRecord, Master.RecordID));
+                    }
+                    break;
+            }
+        }
+
+        if (_dr != null)
+        {
+            SetCheckBoxValue(_dr);
+        }
+        SystemParameter sp = SystemParameter.Get(PCDb.Db);
+        txtMinPasswordLength.Text = sp.MinPasswordLength.ToString();
+
+        if (this.CurrentCommand != Consts.ButtonExport) SetDataSource();
+        SetTextBoxClientId();
+        Regscript();
+    }
+
+    Hashtable GetRow()
+    {
+        Hashtable row = new Hashtable();
+
+        if (Master.FormMode == MasterSecurityForm.FormModes.New)
+        {
+            //row.Add(Consts.FieldID, PCDb.GetNextID());
+            row.Add(Consts.FieldID, PCDb.getNextUserSign());
+        }
+        else
+        {
+            row.Add(Consts.FieldID, Convert.ToDecimal(txtID.Text));
+        }
+        
+        if (txtPassword.Text.Trim() != "********")
+        {
+            row.Add("PASSWD", Sc.Encrypt(txtPassword.Text.Trim()));
+        }
+
+        row.Add("LOGINNAME", txtLoginName.Text.Trim());
+        row.Add("FULLNAME", txtFullName.Text.Trim());
+        if (chkLocked.Checked)
+            row.Add("LOCKED", Convert.ToDecimal("1"));
+        else
+            row.Add("LOCKED", Convert.ToDecimal("0"));
+        if (!string.IsNullOrEmpty(txtExpireDate.Text))
+        {
+            row.Add("EXPIREDATE", Convert.ToDateTime(txtExpireDate.Text));
+        }
+        else
+        {
+            row.Add("EXPIREDATE", DBNull.Value);
+        }
+        if (chkSupervisor.Checked)
+            row.Add("SUPERVISOR", Convert.ToDecimal("1"));
+        else
+            row.Add("SUPERVISOR", Convert.ToDecimal("0"));
+
+        txtProjectname.Text = "";
+        for (int i = 0; i < cblProject.Items.Count; i++)
+        {
+            string id = cblProject.Items[i].Value + ",";
+
+            if (cblProject.Items[i].Selected)
+            {
+                txtProjectname.Text += id;
+            }
+        }
+        PCCore.Common.HRLog.RecordLog("txtProject Length: " + txtProjectname.Text.ToString().Length.ToString());
+        PCCore.Common.HRLog.RecordLog("txtProject: " + txtProjectname.Text.ToString());
+        if (!string.IsNullOrEmpty(txtProjectname.Text))
+        {
+            txtProjectname.Text = txtProjectname.Text.Substring(0, txtProjectname.Text.Length - 1);
+            row.Add("ACCESSPROJECTID", txtProjectname.Text);
+            //row.Add("ACCESSPROJECTID", DBNull.Value);
+        }
+        else
+            row.Add("ACCESSPROJECTID", DBNull.Value);
+
+        return row;
+    }
+
+    void Master_Save(object sender, EventArgs e)
+    {
+        if (!CheckForm()) return;
+        try
+        {
+            Hashtable row = GetRow();
+            switch (Master.FormMode)
+            {
+                case MasterSecurityForm.FormModes.New:
+                    this.Table.BeginTransaction();
+                    this.Table.Insert(row);
+                    this.Table.CommitTransaction();
+                    SaveGroupUser(row);
+                    SaveUserProject(row);
+                    Master.ShowMessage(String.Format(Resources.Common.SaveOK, txtLoginName.Text));
+                    Master.ClearForm();
+                    break;
+
+                case MasterSecurityForm.FormModes.Edit:
+                    this.Table.BeginTransaction();
+                    PCCore.Common.HRLog.RecordLog("Sql:" + this.Table.InternalCommand.CommandText);
+                    foreach (DbField o in this.Table.Fields)
+                    {
+                        PCCore.Common.HRLog.RecordLog(o.BaseFieldName);
+                        PCCore.Common.HRLog.RecordLog(o.FieldName);
+                        PCCore.Common.HRLog.RecordLog(o.FieldSize);
+                    }
+                    PCCore.Common.HRLog.RecordLog("Rows");
+                    foreach (object o in row.Keys)
+                    {
+                        PCCore.Common.HRLog.RecordLog(o.ToString());
+                        PCCore.Common.HRLog.RecordLog(row[o]);
+                    }
+                    this.Table.Update(row);
+                    
+                    if (txtID.Text == SessionInfo.UserId)
+                    {
+                        SessionInfo.LoginName = txtLoginName.Text;                       
+                        SessionInfo.IsSupervisor = chkSupervisor.Checked;
+                    }
+                    this.Table.CommitTransaction();
+                    SaveGroupUser(row);
+                    SaveUserProject(row);
+                    Master.ShowMessage(String.Format(Resources.Common.UpdateOK, txtLoginName.Text));
+                    break;
+            }
+        }
+        catch (Exception ex)
+        {
+            Master.HandleError(ex);
+            PCCore.Common.HRLog.RecordException("Insert/Update User:",ex);
+            this.Table.RollbackTransaction();
+        }
+    }
+    // Save Project to UserProject Table
+    void SaveUserProject(Hashtable userRow)
+    {
+        //Hashtable _ht = new Hashtable();
+        // Project ArrayList
+        ArrayList _al = new ArrayList();
+        for (int i = 0; i < cblProject.Items.Count; i++)
+        {
+            if (cblProject.Items[i].Selected)
+            {
+            _al.Add(cblProject.Items[i].Value);
+            }
+            
+        }
+        ArrayList _alGroup = new ArrayList();
+        ICollection ic = gvData.SelectedRowValuesCollection;
+        IEnumerator ie = ic.GetEnumerator();
+        ie.Reset();
+        while (ie.MoveNext())
+        {
+            _alGroup.Add(ie.Current.ToString());
+            
+        }
+        //PCCore.Database.UserProject.Delete(userRow[Consts.FieldID].ToString(), "u");
+        PCCore.Database.UserProject.SaveByUser(_al,_alGroup, userRow[Consts.FieldID].ToString());
+    }
+    void SaveGroupUser(Hashtable userRow)
+    {
+        string uID = userRow[Consts.FieldID].ToString();
+        scpType = this.SecurityInfo.PublishType;
+        this.SecurityInfo.PublishType = Sc.PublishTypes.Public;
+        PCTable gu = new PCTable(Consts.TableScGroupUser, this.SecurityInfo);
+        try
+        {
+            gu.BeginTransaction();
+            Hashtable row = new Hashtable();
+
+            string where = String.Format("userid={0}", uID);
+            gu.Delete(where);
+
+            ICollection ic = gvData.SelectedRowValuesCollection;
+            IEnumerator ie = ic.GetEnumerator();
+            ie.Reset();
+            while (ie.MoveNext())
+            {
+                row.Clear();
+                row.Add("GROUPID", ie.Current);
+                row.Add("USERID", uID);
+                gu.Insert(row);
+            }
+            gu.CommitTransaction();
+        }
+        catch (Exception ex)
+        {
+            gu.RollbackTransaction();
+            gvData.ClearSelectedRowValues = false;
+            throw ex;
+        }
+        finally
+        {
+            this.SecurityInfo.PublishType = scpType;
+        }
+    }
+
+    bool CheckForm()
+    {
+        //if (String.IsNullOrEmpty(StaffSearch1.FullName))
+        //{
+        //    Master.ShowMessage(txtFullName1.RequiredErrorMessage);
+        //    return false;
+        //}
+        if (String.IsNullOrEmpty(txtLoginName.Text))
+        {
+            Master.ShowWarning(txtLoginName.RequiredErrorMessage);
+            return false;
+        }
+        if (String.IsNullOrEmpty(txtPassword.Text))
+        {
+            Master.ShowWarning(txtPassword.RequiredErrorMessage);
+            return false;
+        }
+
+        else
+        {
+            SystemParameter sp=SystemParameter.Get(PCDb.Db);
+            if (txtPassword.Text.Trim().Length < sp.MinPasswordLength)
+            {
+                Master.ShowWarning(Resources.Messages.MinPasswordLength + " " + sp.MinPasswordLength.ToString());
+            }
+        }
+
+        if (!string.IsNullOrEmpty(txtExpireDate.Text) && !SimpleControls.SimpleRegex.IsDateYMD(txtExpireDate.Text))
+        {
+            Master.ShowWarning(Resources.Messages.InputDate);
+            return false;
+        }
+        
+        switch (Master.FormMode)
+        {
+                
+        
+            case MasterBasePage.FormModes.New:
+
+                break;
+            case MasterBasePage.FormModes.Edit:
+                break;
+
+        }
+        return true;
+    }
+
+    protected void SetDataSource()
+    {
+        StringBuilder sb = new StringBuilder();
+
+        switch (Master.FormMode)
+        {
+            case MasterSecurityForm.FormModes.New:
+                sb.AppendFormat("select id,ingroup,groupcode,groupname from v_sc_newusergroup");
+
+                break;
+            case MasterSecurityForm.FormModes.Edit:
+                sb.AppendFormat("select groupid as id,ingroup,groupcode, groupname from v_sc_editusergroup where id={0}", Master.RecordID);
+                break;
+            default:
+                return;
+        }
+        sb.Append(" order by groupcode");
+
+        dsGridView.SelectCommandType = SqlDataSourceCommandType.Text;
+        dsGridView.SelectCommand = sb.ToString();
+        dsGridView.ErrorHandler = this.Master;
+
+        gvData.HiddenFields += "INGROUP";
+        // gvData.HeaderDescriptions = "ID,In Group,Group Code,Group Name";
+        gvData.HeaderDescriptions = "ID," + Resources.Labels.InGroup + "," + Resources.Labels.GroupCode + "," + Resources.Labels.GroupName;
+    }
+
+    protected void SetTextBoxClientId()
+    {
+        string lgId = "txtUid='" + txtID.ClientID.ToString() + "';";
+        lgId += "txtLName='" + txtLoginName.ClientID.ToString() + "';";
+        lgId += "txtPwd='" + txtPassword.ClientID.ToString() + "';";
+
+        Page.ClientScript.RegisterStartupScript(Page.GetType(), "setClientId", "<script language='javascript'>" + lgId + "</script>");
+    }
+
+    protected void SetCheckBoxValue(DataRow drRow)
+    {
+        if (drRow["LOCKED"].ToString() == "1")
+            chkLocked.Checked = true;
+        else
+            chkLocked.Checked = false;
+        if (drRow["SUPERVISOR"].ToString() == "1")
+            chkSupervisor.Checked = true;
+        else
+            chkSupervisor.Checked = false;
+        if (drRow["EXPIREDATE"] != DBNull.Value)
+        {
+            txtExpireDate.Text = Convert.ToDateTime(drRow["EXPIREDATE"]).ToString(Consts.DateFormat);
+        }
+
+        if (!string.IsNullOrEmpty(drRow["ACCESSPROJECTID"].ToString()) && !Convert.IsDBNull(drRow["ACCESSPROJECTID"].ToString()))
+        {
+            string[] Projectname = SplitProjectName(drRow["ACCESSPROJECTID"].ToString());
+            if (Projectname.Length > 0)
+            {
+                for (int i = 0; i < Projectname.Length; i++)
+                {
+                    if (cblProject.Items.FindByValue(Projectname[i]) != null)
+                        cblProject.Items.FindByValue(Projectname[i].ToString()).Selected = true;
+                }
+                txtCount.Text = Projectname.Length.ToString();
+                if (Projectname.Length == cblProject.Items.Count)
+                    cbTotal.Checked = true;
+            }
+            txtProjectname.Text = drRow["ACCESSPROJECTID"].ToString();
+        }
+    }
+
+    protected void SetCheckBoxListItems(CheckBoxList cbl)
+    {
+        //string cmd = "select prjCode,U_PrjFName from v_Project";
+        //DataRowCollection rows = PCDb.Db.ExecQuery(cmd).Rows;
+        string cmd = PCCore.Database.ValidationList.project_sql;
+        DataRowCollection rows = SAPDb.Db.ExecQuery(cmd).Rows;
+
+        cbl.Items.Clear();
+        if (rows.Count > 0)
+        {
+            for (int i = 0; i < rows.Count; i++)
+            {
+                li = new ListItem(rows[i][1].ToString(), rows[i][0].ToString());
+                cbl.Items.Add(li);
+            }
+            txtTotal.Text = rows.Count.ToString();
+        }
+
+    }
+
+    protected void Regscript()
+    {
+        //string cmd = "select prjCode,U_PrjFname from v_Project";
+        string cmd = PCCore.Database.ValidationList.project_sql;
+        //DataRowCollection rows = PCDb.Db.ExecQuery(cmd).Rows;
+        DataRowCollection rows = SAPDb.Db.ExecQuery(cmd).Rows;
+        string CreateCmd = "<script>" + "\n\n function checkAll(){ " +
+            "\n if(cbTotal.checked){ \n";
+        for (int i = 0; i < rows.Count; i++)
+        {
+            CreateCmd += "\ndocument.getElementById('ctl00_ContentPlaceHolder_cblProject_" + i.ToString() + "').checked=true;\n";
+
+        }
+        CreateCmd += "txtCount.value=" + rows.Count;
+        CreateCmd += "\n}else{\n";
+        for (int i = 0; i < rows.Count; i++)
+        {
+            CreateCmd += "\ndocument.getElementById('ctl00_ContentPlaceHolder_cblProject_" + i.ToString() + "').checked=false;\n";
+        }
+        CreateCmd += "txtCount.value=0";
+        CreateCmd += "\n}}\n </script>";
+        ClientScript.RegisterStartupScript(Page.GetType(), "function", CreateCmd);
+
+        cbTotal.Attributes["onclick"] = "javascript:checkAll();";
+        for (int i = 0; i < cblProject.Items.Count; i++)
+        {
+            cblProject.Items[i].Attributes["onclick"] = "javascript:checkstatus(ctl00_ContentPlaceHolder_cblProject_" + i.ToString() + ");";
+        }
+    }
+
+    protected string[] SplitProjectName(string Projectname)
+    {
+        if (string.IsNullOrEmpty(Projectname)) return null;
+        char[] separate = new char[] { ',' };
+        string[] result;
+        result = Projectname.Split(separate, StringSplitOptions.RemoveEmptyEntries);
+        return result;
+    }
+
+}//end of class

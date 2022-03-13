@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\Business Objects\Common\4.0\managed\dotnet2</ReferencePath>
+    <PublishUrlHistory>http://localhost/pcms_prexporter/|http://localhost/PRExporter/|F:\Source\PRExporter\Build\|http://10.1.1.13/PRExporter/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://10.1.1.125/pcms_prexporter/|http://localhost/pcms_prexporter/|http://10.1.1.11/PRExporter/|http://10.1.1.13/PRExporter/|http://localhost/PRExporter/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

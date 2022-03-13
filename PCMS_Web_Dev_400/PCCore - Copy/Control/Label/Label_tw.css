@@ -1,0 +1,50 @@
+.LABEL
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	cursor:help;
+}
+.LABEL.xButton
+{	
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.LABEL.xLabel
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.LABEL.xTitle
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.LABEL.xTitlePersonal
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.LABEL.xMenu
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.LABEL.xPanel
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.LABEL.xSiteMap
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.LABEL.xNavMenu
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.LABEL.xPrint
+{
+	font-family: SimSun,Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
