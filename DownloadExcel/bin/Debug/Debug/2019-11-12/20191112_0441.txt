@@ -1,0 +1,4 @@
+2019-11-12 04:41:59: Check Point: SELECT COSTCODE as LIST_CostCode, COSTNAME AS List_COSTDESC FROM CPS_View_CostCodeList WHERE COSTTYPE IN ('E','M','N','P','PS','S')
+2019-11-12 04:41:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 04:41:59: Check Point: SELECT SubsiCode AS LIST_SUBSICODE,SubsiName AS LIST_SUBSINAME FROM CPS_View_SubsidiaryList
+2019-11-12 04:41:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

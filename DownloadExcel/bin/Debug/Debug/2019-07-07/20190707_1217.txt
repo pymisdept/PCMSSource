@@ -1,0 +1,12 @@
+2019-07-07 12:17:24: Check Point: Import: RsToCollection
+2019-07-07 12:17:24: Check Point: Select '19042B1H' PRJCODE, '19042B1H ' + ' - ' + 'HOME OWNER. SCH. DEV. ''~''' PrjDesc
+2019-07-07 12:17:26: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:17:29: Check Point: RecCount1
+2019-07-07 12:17:33: Check Point: oRow Lenght: 1
+2019-07-07 12:17:34: Check Point: oRecCount: 1
+2019-07-07 12:17:41: Check Point: Line: 0
+2019-07-07 12:17:43: Check Point: Column: PRJCODE
+2019-07-07 12:17:43: Check Point: Value: 19042B1H
+2019-07-07 12:17:50: Check Point: Line: 1
+2019-07-07 12:17:51: Check Point: Column: PrjDesc
+2019-07-07 12:17:51: Check Point: Value: 19042B1H  - HOME OWNER. SCH. DEV. '~'

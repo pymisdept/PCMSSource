@@ -1,0 +1,7 @@
+2019-11-13 04:56:17: Check Point: Import: RsToCollection
+2019-11-13 04:56:17: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('03049CJM', 'ACH02Z00S', '03049CJM/SC057') 
+2019-11-13 04:56:21: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 04:56:22: Check Point: Exception: You are attempting to open a file type that is blocked by your File Block settings in the Trust Center.
+2019-11-13 04:56:22: Check Point: End
+2019-11-13 04:56:22: Check Point: Disconnect
+2019-11-13 04:56:22: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\

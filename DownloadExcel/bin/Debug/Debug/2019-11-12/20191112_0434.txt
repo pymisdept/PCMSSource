@@ -1,0 +1,22 @@
+2019-11-12 04:34:00: Check Point: Now is replace: Form
+2019-11-12 04:34:23: Check Point: Next
+2019-11-12 04:34:25: Check Point: Now is replace: Payment Terms
+2019-11-12 04:34:25: Check Point: Next
+2019-11-12 04:34:26: Check Point: Now is replace: Item Code
+2019-11-12 04:34:26: Check Point: Next
+2019-11-12 04:34:27: Check Point: Now is replace: Supplier Code
+2019-11-12 04:34:29: Check Point: Next
+2019-11-12 04:34:30: Check Point: Now is replace: Flow Type
+2019-11-12 04:34:32: Check Point: Next
+2019-11-12 04:34:33: Check Point: Now is replace: Subsi Code
+2019-11-12 04:34:33: Check Point: Next
+2019-11-12 04:34:34: Check Point: Now is replace: Cost Code
+2019-11-12 04:34:34: Check Point: Next
+2019-11-12 04:34:35: Check Point: Now is replace: Reason Code
+2019-11-12 04:34:35: Check Point: Next
+2019-11-12 04:34:36: Check Point: Now is replace: Currency Code
+2019-11-12 04:34:36: Check Point: Next
+2019-11-12 04:34:36: Check Point: Import: ProtectSheet
+2019-11-12 04:34:39: Check Point: Import: Save
+2019-11-12 04:34:40: Check Point: Import: Close
+2019-11-12 04:34:40: Check Point: Import: Closed

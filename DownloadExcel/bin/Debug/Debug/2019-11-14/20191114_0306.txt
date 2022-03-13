@@ -1,0 +1,3 @@
+2019-11-14 03:06:03: Check Point: Exception on Replace Data:Unable to cast COM object of type 'System.__ComObject' to class type 'System.String'. Instances of types that represent COM components cannot be cast to types that do not represent COM components; however they can be cast to interfaces as long as the underlying COM component supports QueryInterface calls for the IID of the interface.
+2019-11-14 03:06:04: Check Point: Next
+2019-11-14 03:06:05: Check Point: Now is replace: Works

@@ -1,0 +1,257 @@
+2011-05-06 01:36:00: Check Point: Line: 9
+2011-05-06 01:36:00: Check Point: Column: CertAmt
+2011-05-06 01:36:00: Check Point: Value: 
+2011-05-06 01:36:01: Check Point: Line: 10
+2011-05-06 01:36:01: Check Point: Column: AppPrelimAmt
+2011-05-06 01:36:01: Check Point: Value: 
+2011-05-06 01:36:03: Check Point: Line: 11
+2011-05-06 01:36:03: Check Point: Column: AppWorksAmt
+2011-05-06 01:36:03: Check Point: Value: 
+2011-05-06 01:36:04: Check Point: Line: 12
+2011-05-06 01:36:04: Check Point: Column: AppProfit
+2011-05-06 01:36:04: Check Point: Value: 
+2011-05-06 01:36:06: Check Point: Line: 13
+2011-05-06 01:36:06: Check Point: Column: AppVar
+2011-05-06 01:36:06: Check Point: Value: 
+2011-05-06 01:36:07: Check Point: Line: 14
+2011-05-06 01:36:07: Check Point: Column: AppNSCCost
+2011-05-06 01:36:07: Check Point: Value: 
+2011-05-06 01:36:08: Check Point: Line: 15
+2011-05-06 01:36:08: Check Point: Column: AppDaywork
+2011-05-06 01:36:08: Check Point: Value: 
+2011-05-06 01:36:10: Check Point: Line: 16
+2011-05-06 01:36:10: Check Point: Column: AppClaims
+2011-05-06 01:36:10: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 17
+2011-05-06 01:36:15: Check Point: Column: AppFlucuation
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 18
+2011-05-06 01:36:15: Check Point: Column: AppMOS
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 19
+2011-05-06 01:36:15: Check Point: Column: AppSundries
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 20
+2011-05-06 01:36:15: Check Point: Column: AppRetention
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 21
+2011-05-06 01:36:15: Check Point: Column: AppDamages
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 22
+2011-05-06 01:36:15: Check Point: Column: CertPrelimAmt
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 23
+2011-05-06 01:36:15: Check Point: Column: CertWorksAmt
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 24
+2011-05-06 01:36:15: Check Point: Column: CertProfit
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 25
+2011-05-06 01:36:15: Check Point: Column: CertVar
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 26
+2011-05-06 01:36:15: Check Point: Column: CertNSCCost
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 27
+2011-05-06 01:36:15: Check Point: Column: CertDaywork
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 28
+2011-05-06 01:36:15: Check Point: Column: CertClaims
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 29
+2011-05-06 01:36:15: Check Point: Column: CertFlucuation
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 30
+2011-05-06 01:36:15: Check Point: Column: CertMOS
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 31
+2011-05-06 01:36:15: Check Point: Column: CertSundries
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 32
+2011-05-06 01:36:15: Check Point: Column: CertRetention
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 33
+2011-05-06 01:36:15: Check Point: Column: CertDamages
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 34
+2011-05-06 01:36:15: Check Point: Column: CertPaymentRec
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 35
+2011-05-06 01:36:15: Check Point: Column: CertARAmt
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 36
+2011-05-06 01:36:15: Check Point: Column: VOIssNumber
+2011-05-06 01:36:15: Check Point: Value: 2
+2011-05-06 01:36:15: Check Point: Line: 37
+2011-05-06 01:36:15: Check Point: Column: VOAppNumber
+2011-05-06 01:36:15: Check Point: Value: 2
+2011-05-06 01:36:15: Check Point: Line: 38
+2011-05-06 01:36:15: Check Point: Column: VOAcceptNumber
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 39
+2011-05-06 01:36:15: Check Point: Column: VOAppGross
+2011-05-06 01:36:15: Check Point: Value: 1545.000000
+2011-05-06 01:36:15: Check Point: Line: 40
+2011-05-06 01:36:15: Check Point: Column: VOAppBudget
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 41
+2011-05-06 01:36:15: Check Point: Column: VOAcceptGross
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 42
+2011-05-06 01:36:15: Check Point: Column: VOAcceptBudget
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 43
+2011-05-06 01:36:15: Check Point: Column: DWIssNumber
+2011-05-06 01:36:15: Check Point: Value: 1
+2011-05-06 01:36:15: Check Point: Line: 44
+2011-05-06 01:36:15: Check Point: Column: DWAppNumber
+2011-05-06 01:36:15: Check Point: Value: 1
+2011-05-06 01:36:15: Check Point: Line: 45
+2011-05-06 01:36:15: Check Point: Column: DWAcceptNumber
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 46
+2011-05-06 01:36:15: Check Point: Column: DWAppGross
+2011-05-06 01:36:15: Check Point: Value: 1170500.000000
+2011-05-06 01:36:15: Check Point: Line: 47
+2011-05-06 01:36:15: Check Point: Column: DWAppBudget
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 48
+2011-05-06 01:36:15: Check Point: Column: DWAcceptGross
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 49
+2011-05-06 01:36:15: Check Point: Column: DWAcceptBudget
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 50
+2011-05-06 01:36:15: Check Point: Column: RMAddBQAmt
+2011-05-06 01:36:15: Check Point: Value: 100000.000000
+2011-05-06 01:36:15: Check Point: Line: 51
+2011-05-06 01:36:15: Check Point: Column: RMOmiBQAmt
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 52
+2011-05-06 01:36:15: Check Point: Column: RMVarBQAmt
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 53
+2011-05-06 01:36:15: Check Point: Column: RMAddBudget
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 54
+2011-05-06 01:36:15: Check Point: Column: RMomiBudget
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 55
+2011-05-06 01:36:15: Check Point: Column: RMVarBudget
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 56
+2011-05-06 01:36:15: Check Point: Column: CLSmtNumber
+2011-05-06 01:36:15: Check Point: Value: 1
+2011-05-06 01:36:15: Check Point: Line: 57
+2011-05-06 01:36:15: Check Point: Column: CLAppNumber
+2011-05-06 01:36:15: Check Point: Value: 1
+2011-05-06 01:36:15: Check Point: Line: 58
+2011-05-06 01:36:15: Check Point: Column: CLSmtGross
+2011-05-06 01:36:15: Check Point: Value: 1200.000000
+2011-05-06 01:36:15: Check Point: Line: 59
+2011-05-06 01:36:15: Check Point: Column: CLAppGross
+2011-05-06 01:36:15: Check Point: Value: 1000.000000
+2011-05-06 01:36:15: Check Point: Line: 60
+2011-05-06 01:36:15: Check Point: Column: CLSmtBudget
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 61
+2011-05-06 01:36:15: Check Point: Column: CLAppBudget
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 62
+2011-05-06 01:36:15: Check Point: Column: PSProvTotal
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 63
+2011-05-06 01:36:15: Check Point: Column: PSPriCostTotal
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 64
+2011-05-06 01:36:15: Check Point: Column: PSProvIns
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 65
+2011-05-06 01:36:15: Check Point: Column: PSPriCostIns
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 66
+2011-05-06 01:36:15: Check Point: Column: PSRevIns
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 67
+2011-05-06 01:36:15: Check Point: Column: PSProvBudget
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 68
+2011-05-06 01:36:15: Check Point: Column: PSPriCostBudget
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 69
+2011-05-06 01:36:15: Check Point: Column: Expenditure
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 70
+2011-05-06 01:36:15: Check Point: Column: Residual
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 71
+2011-05-06 01:36:15: Check Point: Column: CertTotal
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 72
+2011-05-06 01:36:15: Check Point: Column: RetTotal
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 73
+2011-05-06 01:36:15: Check Point: Column: RetNSC
+2011-05-06 01:36:15: Check Point: Value: 0.000000
+2011-05-06 01:36:15: Check Point: Line: 74
+2011-05-06 01:36:15: Check Point: Column: PMName
+2011-05-06 01:36:15: Check Point: Value: Chan Siu Ming
+2011-05-06 01:36:15: Check Point: Line: 75
+2011-05-06 01:36:15: Check Point: Column: PrjTitle
+2011-05-06 01:36:15: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:36:15: Check Point: Line: 76
+2011-05-06 01:36:15: Check Point: Column: PrjContNo
+2011-05-06 01:36:15: Check Point: Value: con01
+2011-05-06 01:36:15: Check Point: Line: 77
+2011-05-06 01:36:15: Check Point: Column: OrgContractSum
+2011-05-06 01:36:15: Check Point: Value: 1520000.000000
+2011-05-06 01:36:15: Check Point: Line: 78
+2011-05-06 01:36:15: Check Point: Column: ForcastIncome
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 79
+2011-05-06 01:36:15: Check Point: Column: ContDate
+2011-05-06 01:36:15: Check Point: Value: 3/1/2010 12:00:00 AM
+2011-05-06 01:36:15: Check Point: Line: 80
+2011-05-06 01:36:15: Check Point: Column: OriContDate
+2011-05-06 01:36:15: Check Point: Value: 3/31/2011 12:00:00 AM
+2011-05-06 01:36:15: Check Point: Line: 81
+2011-05-06 01:36:15: Check Point: Column: AwardDate
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 82
+2011-05-06 01:36:15: Check Point: Column: ExtendDate
+2011-05-06 01:36:15: Check Point: Value: 3/31/2011 12:00:00 AM
+2011-05-06 01:36:15: Check Point: Line: 83
+2011-05-06 01:36:15: Check Point: Column: AntiCompDate
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 84
+2011-05-06 01:36:15: Check Point: Column: PracticalCompDate
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:15: Check Point: Line: 85
+2011-05-06 01:36:15: Check Point: Column: Client
+2011-05-06 01:36:15: Check Point: Value: 
+2011-05-06 01:36:20: Check Point: Select * from QSI40_LD('00000CVL','20110531')
+2011-05-06 01:36:22: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:36:23: Check Point: RecCount1
+2011-05-06 01:36:26: Check Point: oRow Lenght: 53
+2011-05-06 01:36:27: Check Point: oRecCount: 1
+2011-05-06 01:36:41: Check Point: Line: 0
+2011-05-06 01:36:41: Check Point: Column: Exten_PrjCode
+2011-05-06 01:36:41: Check Point: Value: 00000CVL
+2011-05-06 01:36:44: Check Point: Line: 1
+2011-05-06 01:36:44: Check Point: Column: Exten_PrjName
+2011-05-06 01:36:44: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:36:47: Check Point: Line: 2
+2011-05-06 01:36:47: Check Point: Column: Exten_Seq
+2011-05-06 01:36:47: Check Point: Value: 
+2011-05-06 01:36:49: Check Point: Line: 3
+2011-05-06 01:36:49: Check Point: Column: Exten_SectionName
+2011-05-06 01:36:49: Check Point: Value: 
+2011-05-06 01:36:51: Check Point: Line: 4
+2011-05-06 01:36:51: Check Point: Column: Exten_Col_A
+2011-05-06 01:36:51: Check Point: Value: 0.000000
+2011-05-06 01:36:54: Check Point: Line: 5
+2011-05-06 01:36:54: Check Point: Column: Exten_Col_B
+2011-05-06 01:36:54: Check Point: Value: 0.000000
+2011-05-06 01:36:57: Check Point: Line: 6
+2011-05-06 01:36:57: Check Point: Column: Exten_Col_C
+2011-05-06 01:36:57: Check Point: Value: 0.000000

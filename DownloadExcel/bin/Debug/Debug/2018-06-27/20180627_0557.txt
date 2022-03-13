@@ -1,0 +1,4 @@
+2018-06-27 05:57:41: Check Point: QSI01_0001
+2018-06-27 05:57:41: Check Point: Define Parameter Variable
+2018-06-27 05:57:41: Check Point: QSI01_0002
+2018-06-27 05:57:41: Check Point: Define Sql Collection

@@ -1,0 +1,191 @@
+2011-05-06 10:28:00: Check Point: RecCount18
+2011-05-06 10:28:00: Check Point: oRow Lenght: 18
+2011-05-06 10:28:00: Check Point: oRecCount: 18
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: I70
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: External Consultants
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: RecCount19
+2011-05-06 10:28:00: Check Point: oRow Lenght: 19
+2011-05-06 10:28:00: Check Point: oRecCount: 19
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: I75
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: Financial/Securities/Insurance
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: RecCount20
+2011-05-06 10:28:00: Check Point: oRow Lenght: 20
+2011-05-06 10:28:00: Check Point: oRecCount: 20
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: I80
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: Levies
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: RecCount21
+2011-05-06 10:28:00: Check Point: oRow Lenght: 21
+2011-05-06 10:28:00: Check Point: oRecCount: 21
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: I85
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: Client's Deduction / LD
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: RecCount22
+2011-05-06 10:28:00: Check Point: oRow Lenght: 22
+2011-05-06 10:28:00: Check Point: oRecCount: 22
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: I90
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: Leaders Fee
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: RecCount23
+2011-05-06 10:28:00: Check Point: oRow Lenght: 23
+2011-05-06 10:28:00: Check Point: oRecCount: 23
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: K10
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: Dayworks
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: RecCount24
+2011-05-06 10:28:00: Check Point: oRow Lenght: 24
+2011-05-06 10:28:00: Check Point: oRecCount: 24
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: K20
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: Provisional Sums
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: RecCount25
+2011-05-06 10:28:00: Check Point: oRow Lenght: 25
+2011-05-06 10:28:00: Check Point: oRecCount: 25
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: RptCode
+2011-05-06 10:28:00: Check Point: Value: K30
+2011-05-06 10:28:00: Check Point: Line: 1
+2011-05-06 10:28:00: Check Point: Column: RptCodeDesc
+2011-05-06 10:28:00: Check Point: Value: Contingencies
+2011-05-06 10:28:00: Check Point: Line: 2
+2011-05-06 10:28:00: Check Point: Column: PrjName
+2011-05-06 10:28:00: Check Point: Value: Tuen Mun Swimming Pool
+2011-05-06 10:28:00: Check Point: Line: 3
+2011-05-06 10:28:00: Check Point: Column: CutOffDate
+2011-05-06 10:28:00: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 10:28:00: Check Point: Select '20055BAH' as PrjCode
+2011-05-06 10:28:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 10:28:00: Check Point: RecCount1
+2011-05-06 10:28:00: Check Point: oRow Lenght: 26
+2011-05-06 10:28:00: Check Point: oRecCount: 1
+2011-05-06 10:28:00: Check Point: Line: 0
+2011-05-06 10:28:00: Check Point: Column: PrjCode
+2011-05-06 10:28:00: Check Point: Value: 20055BAH
+2011-05-06 10:28:01: Check Point: Select '20055BAH' as PrjCode1
+2011-05-06 10:28:01: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 10:28:01: Check Point: RecCount1
+2011-05-06 10:28:01: Check Point: oRow Lenght: 26
+2011-05-06 10:28:01: Check Point: oRecCount: 1
+2011-05-06 10:28:01: Check Point: Line: 0
+2011-05-06 10:28:01: Check Point: Column: PrjCode1
+2011-05-06 10:28:01: Check Point: Value: 20055BAH
+2011-05-06 10:28:02: Check Point: Select '20055BAH' as PrjCode2
+2011-05-06 10:28:02: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 10:28:02: Check Point: RecCount1
+2011-05-06 10:28:02: Check Point: oRow Lenght: 26
+2011-05-06 10:28:02: Check Point: oRecCount: 1
+2011-05-06 10:28:02: Check Point: Line: 0
+2011-05-06 10:28:02: Check Point: Column: PrjCode2
+2011-05-06 10:28:02: Check Point: Value: 20055BAH
+2011-05-06 10:28:03: Check Point: Select '20055BAH' as PrjCode3
+2011-05-06 10:28:03: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 10:28:03: Check Point: RecCount1
+2011-05-06 10:28:03: Check Point: oRow Lenght: 26
+2011-05-06 10:28:03: Check Point: oRecCount: 1
+2011-05-06 10:28:03: Check Point: Line: 0
+2011-05-06 10:28:03: Check Point: Column: PrjCode3
+2011-05-06 10:28:03: Check Point: Value: 20055BAH
+2011-05-06 10:28:04: Check Point: Select '20055BAH' as PrjCode4
+2011-05-06 10:28:04: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 10:28:04: Check Point: RecCount1
+2011-05-06 10:28:04: Check Point: oRow Lenght: 26
+2011-05-06 10:28:04: Check Point: oRecCount: 1
+2011-05-06 10:28:04: Check Point: Line: 0
+2011-05-06 10:28:04: Check Point: Column: PrjCode4
+2011-05-06 10:28:04: Check Point: Value: 20055BAH
+2011-05-06 10:28:05: Check Point: Import: Run Application
+2011-05-06 10:28:05: Check Point: Import: set FileName
+2011-05-06 10:28:06: Check Point: Import: Open Workbook
+2011-05-06 10:28:06: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI40_Blank.xls
+2011-05-06 10:28:06: Check Point: Import: UnProtectSheet
+2011-05-06 10:28:06: Check Point: Import: BreakLinked
+2011-05-06 10:28:06: Check Point: Import: ReplaceAllData
+2011-05-06 10:28:06: Check Point: Now is replace: xxxxxx
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: PR1
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: PR2
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: LD
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: Provision
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: Fluctuations
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: Cashflow
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: Sheet1
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Now is replace: Sheet1 (2)
+2011-05-06 10:28:06: Check Point: Next
+2011-05-06 10:28:06: Check Point: Import: ProtectSheet
+2011-05-06 10:28:12: Check Point: Import: Save
+2011-05-06 10:28:12: Check Point: Import: Close
+2011-05-06 10:28:12: Check Point: Import: Closed
+2011-05-06 10:28:16: Check Point: End
+2011-05-06 10:28:16: Check Point: Disconnect

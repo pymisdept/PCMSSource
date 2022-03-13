@@ -1,0 +1,75 @@
+2013-10-22 06:33:44: Check Point: Import: RsToCollection
+2013-10-22 06:33:44: Check Point: Select '20055BAH' PRJCODE, '20055BAH ' + ' - ' + 'TUEN MUN SWIMMING POOL (SAN WAI COURT)' PrjDesc
+2013-10-22 06:33:44: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2013-10-22 06:33:45: Check Point: RecCount1
+2013-10-22 06:33:45: Check Point: oRow Lenght: 1
+2013-10-22 06:33:45: Check Point: oRecCount: 1
+2013-10-22 06:33:45: Check Point: Line: 0
+2013-10-22 06:33:45: Check Point: Column: PRJCODE
+2013-10-22 06:33:45: Check Point: Value: 20055BAH
+2013-10-22 06:33:45: Check Point: Line: 1
+2013-10-22 06:33:45: Check Point: Column: PrjDesc
+2013-10-22 06:33:45: Check Point: Value: 20055BAH  - TUEN MUN SWIMMING POOL (SAN WAI COURT)
+2013-10-22 06:33:47: Check Point: select * from QSI44_Form ('20055BAH')
+2013-10-22 06:33:47: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2013-10-22 06:33:50: Check Point: RecCount1
+2013-10-22 06:33:50: Check Point: oRow Lenght: 2
+2013-10-22 06:33:50: Check Point: oRecCount: 1
+2013-10-22 06:33:50: Check Point: Line: 0
+2013-10-22 06:33:50: Check Point: Column: AppNum
+2013-10-22 06:33:50: Check Point: Value: 1
+2013-10-22 06:33:50: Check Point: Line: 1
+2013-10-22 06:33:50: Check Point: Column: PrjCode
+2013-10-22 06:33:50: Check Point: Value: 20055BAH
+2013-10-22 06:33:50: Check Point: Line: 2
+2013-10-22 06:33:50: Check Point: Column: PrjDesc
+2013-10-22 06:33:50: Check Point: Value: 20055BAH - TUEN MUN SWIMMING POOL (SAN WAI COURT)
+2013-10-22 06:33:50: Check Point: Line: 3
+2013-10-22 06:33:50: Check Point: Column: DocEntry
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 4
+2013-10-22 06:33:50: Check Point: Column: LineNum
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 5
+2013-10-22 06:33:50: Check Point: Column: ItemNum
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 6
+2013-10-22 06:33:50: Check Point: Column: OtherIncomeDesc
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 7
+2013-10-22 06:33:50: Check Point: Column: AppAmt
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 8
+2013-10-22 06:33:50: Check Point: Column: AppDate
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 9
+2013-10-22 06:33:50: Check Point: Column: PreCertAmt
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 10
+2013-10-22 06:33:50: Check Point: Column: CertDate
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 11
+2013-10-22 06:33:50: Check Point: Column: SCPCMSDocNum
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 12
+2013-10-22 06:33:50: Check Point: Column: PCMSDocNum
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:50: Check Point: Line: 13
+2013-10-22 06:33:50: Check Point: Column: AcctCode
+2013-10-22 06:33:50: Check Point: Value: 
+2013-10-22 06:33:52: Check Point: Import: Run Application
+2013-10-22 06:33:52: Check Point: Import: set FileName
+2013-10-22 06:33:52: Check Point: Import: Open Workbook
+2013-10-22 06:33:52: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI44.xls
+2013-10-22 06:33:52: Check Point: Import: UnProtectSheet
+2013-10-22 06:33:52: Check Point: Import: BreakLinked
+2013-10-22 06:33:52: Check Point: Import: ReplaceAllData
+2013-10-22 06:33:52: Check Point: Now is replace: Form
+2013-10-22 06:33:52: Check Point: Next
+2013-10-22 06:33:52: Check Point: Import: ProtectSheet
+2013-10-22 06:33:52: Check Point: Import: Save
+2013-10-22 06:33:52: Check Point: Import: Close
+2013-10-22 06:33:52: Check Point: Import: Closed
+2013-10-22 06:33:54: Check Point: End
+2013-10-22 06:33:54: Check Point: Disconnect
+2013-10-22 06:33:54: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

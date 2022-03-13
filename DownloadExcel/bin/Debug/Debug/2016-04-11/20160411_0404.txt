@@ -1,0 +1,44 @@
+2016-04-11 04:04:03: Check Point: Import: ReplaceAllData
+2016-04-11 04:04:03: Check Point: Now is replace: xxxxxx
+2016-04-11 04:04:03: Check Point: Next
+2016-04-11 04:04:03: Check Point: Now is replace: Cert
+2016-04-11 04:04:03: Check Point: Next
+2016-04-11 04:04:03: Check Point: Now is replace: Works
+2016-04-11 04:04:03: Check Point: Next
+2016-04-11 04:04:03: Check Point: Now is replace: MOS
+2016-04-11 04:04:03: Check Point: Next
+2016-04-11 04:04:03: Check Point: Now is replace: EVO
+2016-04-11 04:04:03: Check Point: Next
+2016-04-11 04:04:03: Check Point: Now is replace: IVO
+2016-04-11 04:04:12: Check Point: Next
+2016-04-11 04:04:13: Check Point: Now is replace: CCVO
+2016-04-11 04:04:14: Check Point: Next
+2016-04-11 04:04:15: Check Point: Now is replace: EDW
+2016-04-11 04:04:17: Check Point: Next
+2016-04-11 04:04:18: Check Point: Now is replace: IDW
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: CCDW
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: ContraCharge
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: PaulYCharge
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: DAP
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: Approval
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: Cost Code
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: SubContractor
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: Sheet1
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Now is replace: Sheet1 (2)
+2016-04-11 04:04:19: Check Point: Next
+2016-04-11 04:04:19: Check Point: Import: ProtectSheet
+2016-04-11 04:04:19: Check Point: Import: Save
+2016-04-11 04:04:21: Check Point: Import: Close
+2016-04-11 04:04:21: Check Point: Import: Closed
+2016-04-11 04:04:21: Check Point: End
+2016-04-11 04:04:21: Check Point: Disconnect
+2016-04-11 04:04:21: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

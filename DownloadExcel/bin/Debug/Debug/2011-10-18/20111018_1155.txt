@@ -1,0 +1,11 @@
+2011-10-18 11:55:01: Check Point: Import: BreakLinked
+2011-10-18 11:55:03: Check Point: Import: ReplaceAllData
+2011-10-18 11:55:04: Check Point: Now is replace: xxxxxx
+2011-10-18 11:55:04: Check Point: Next
+2011-10-18 11:55:05: Check Point: Now is replace: Form
+2011-10-18 11:55:05: Check Point: Next
+2011-10-18 11:55:05: Check Point: Now is replace: Sheet1
+2011-10-18 11:55:05: Check Point: Next
+2011-10-18 11:55:05: Check Point: Now is replace: Sheet1 (2)
+2011-10-18 11:55:05: Check Point: Next
+2011-10-18 11:55:05: Check Point: Import: ProtectSheet

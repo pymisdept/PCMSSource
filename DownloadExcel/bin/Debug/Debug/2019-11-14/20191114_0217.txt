@@ -1,0 +1,40 @@
+2019-11-14 02:17:11: Check Point: Now is replace: Cert
+2019-11-14 02:17:19: Check Point: Next
+2019-11-14 02:17:21: Check Point: Now is replace: Works
+2019-11-14 02:17:22: Check Point: Next
+2019-11-14 02:17:23: Check Point: Now is replace: MOS
+2019-11-14 02:17:23: Check Point: Next
+2019-11-14 02:17:24: Check Point: Now is replace: EVO
+2019-11-14 02:17:24: Check Point: Next
+2019-11-14 02:17:25: Check Point: Now is replace: IVO
+2019-11-14 02:17:25: Check Point: Next
+2019-11-14 02:17:26: Check Point: Now is replace: CCVO
+2019-11-14 02:17:26: Check Point: Next
+2019-11-14 02:17:27: Check Point: Now is replace: EDW
+2019-11-14 02:17:27: Check Point: Next
+2019-11-14 02:17:28: Check Point: Now is replace: IDW
+2019-11-14 02:17:29: Check Point: Next
+2019-11-14 02:17:29: Check Point: Now is replace: CCDW
+2019-11-14 02:17:29: Check Point: Next
+2019-11-14 02:17:30: Check Point: Now is replace: ContraCharge
+2019-11-14 02:17:31: Check Point: Next
+2019-11-14 02:17:32: Check Point: Now is replace: PaulYCharge
+2019-11-14 02:17:33: Check Point: Next
+2019-11-14 02:17:34: Check Point: Now is replace: DAP
+2019-11-14 02:17:34: Check Point: Next
+2019-11-14 02:17:35: Check Point: Now is replace: Approval
+2019-11-14 02:17:36: Check Point: Next
+2019-11-14 02:17:37: Check Point: Now is replace: Cost Code
+2019-11-14 02:17:37: Check Point: Next
+2019-11-14 02:17:38: Check Point: Now is replace: SubContractor
+2019-11-14 02:17:38: Check Point: Next
+2019-11-14 02:17:39: Check Point: Now is replace: Add SubContractor
+2019-11-14 02:17:40: Check Point: Next
+2019-11-14 02:17:41: Check Point: Now is replace: Sheet1
+2019-11-14 02:17:42: Check Point: Next
+2019-11-14 02:17:43: Check Point: Now is replace: Sheet1 (2)
+2019-11-14 02:17:44: Check Point: Next
+2019-11-14 02:17:45: Check Point: Import: ProtectSheet
+2019-11-14 02:17:53: Check Point: Import: Save
+2019-11-14 02:17:55: Check Point: Import: Close
+2019-11-14 02:17:55: Check Point: Import: Closed

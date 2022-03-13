@@ -1,0 +1,42 @@
+2019-11-12 03:11:14: Check Point: SELECT * from PrjBP_List('80605E1H')
+2019-11-12 03:11:14: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:11:14: Check Point: Import: Run Application
+2019-11-12 03:11:14: Check Point: Import: set FileName
+2019-11-12 03:11:16: Check Point: Import: Open Workbook
+2019-11-12 03:11:16: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI12.xls
+2019-11-12 03:11:26: Check Point: Import: UnProtectSheet
+2019-11-12 03:11:26: Check Point: Import: BreakLinked
+2019-11-12 03:11:29: Check Point: Import: ReplaceAllData
+2019-11-12 03:11:29: Check Point: Now is replace: xxxxxx
+2019-11-12 03:11:35: Check Point: Next
+2019-11-12 03:11:35: Check Point: Now is replace: Cert
+2019-11-12 03:11:42: Check Point: Next
+2019-11-12 03:11:42: Check Point: Now is replace: Works
+2019-11-12 03:11:42: Check Point: Next
+2019-11-12 03:11:42: Check Point: Now is replace: MOS
+2019-11-12 03:11:42: Check Point: Next
+2019-11-12 03:11:42: Check Point: Now is replace: EVO
+2019-11-12 03:11:42: Check Point: Next
+2019-11-12 03:11:42: Check Point: Now is replace: IVO
+2019-11-12 03:11:42: Check Point: Next
+2019-11-12 03:11:42: Check Point: Now is replace: CCVO
+2019-11-12 03:11:43: Check Point: Next
+2019-11-12 03:11:43: Check Point: Now is replace: EDW
+2019-11-12 03:11:43: Check Point: Next
+2019-11-12 03:11:43: Check Point: Now is replace: IDW
+2019-11-12 03:11:43: Check Point: Next
+2019-11-12 03:11:43: Check Point: Now is replace: CCDW
+2019-11-12 03:11:43: Check Point: Next
+2019-11-12 03:11:43: Check Point: Now is replace: ContraCharge
+2019-11-12 03:11:43: Check Point: Next
+2019-11-12 03:11:43: Check Point: Now is replace: PaulYCharge
+2019-11-12 03:11:47: Check Point: Next
+2019-11-12 03:11:47: Check Point: Now is replace: DAP
+2019-11-12 03:11:47: Check Point: Next
+2019-11-12 03:11:47: Check Point: Now is replace: Approval
+2019-11-12 03:11:47: Check Point: Next
+2019-11-12 03:11:47: Check Point: Now is replace: Cost Code
+2019-11-12 03:11:47: Check Point: Next
+2019-11-12 03:11:47: Check Point: Now is replace: SubContractor
+2019-11-12 03:11:47: Check Point: Next
+2019-11-12 03:11:47: Check Point: Now is replace: Add SubContractor

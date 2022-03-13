@@ -1,0 +1,3497 @@
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO355
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO355
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3970
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3970
+2019-07-07 12:34:00: Check Point: oRecCount: 3970
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO356
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO356
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3971
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3971
+2019-07-07 12:34:00: Check Point: oRecCount: 3971
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO357
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO357
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3972
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3972
+2019-07-07 12:34:00: Check Point: oRecCount: 3972
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO358
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO358
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3973
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3973
+2019-07-07 12:34:00: Check Point: oRecCount: 3973
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO359
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO359
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3974
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3974
+2019-07-07 12:34:00: Check Point: oRecCount: 3974
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO360
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO360
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3975
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3975
+2019-07-07 12:34:00: Check Point: oRecCount: 3975
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO361
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO361
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3976
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3976
+2019-07-07 12:34:00: Check Point: oRecCount: 3976
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO362
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO362
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3977
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3977
+2019-07-07 12:34:00: Check Point: oRecCount: 3977
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO363
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO363
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3978
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3978
+2019-07-07 12:34:00: Check Point: oRecCount: 3978
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO364
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO364
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3979
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3979
+2019-07-07 12:34:00: Check Point: oRecCount: 3979
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO365
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO365
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3980
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3980
+2019-07-07 12:34:00: Check Point: oRecCount: 3980
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO366
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO366
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3981
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3981
+2019-07-07 12:34:00: Check Point: oRecCount: 3981
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO367
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO367
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3982
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3982
+2019-07-07 12:34:00: Check Point: oRecCount: 3982
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO368
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO368
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3983
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3983
+2019-07-07 12:34:00: Check Point: oRecCount: 3983
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO369
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO369
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3984
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3984
+2019-07-07 12:34:00: Check Point: oRecCount: 3984
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO370
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO370
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3985
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3985
+2019-07-07 12:34:00: Check Point: oRecCount: 3985
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO371
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO371
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3986
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3986
+2019-07-07 12:34:00: Check Point: oRecCount: 3986
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO372
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO372
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3987
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3987
+2019-07-07 12:34:00: Check Point: oRecCount: 3987
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO373
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO373
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3988
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3988
+2019-07-07 12:34:00: Check Point: oRecCount: 3988
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO374
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO374
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3989
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3989
+2019-07-07 12:34:00: Check Point: oRecCount: 3989
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO375
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO375
+2019-07-07 12:34:00: Check Point: Line: 2
+2019-07-07 12:34:00: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:00: Check Point: Value: D25
+2019-07-07 12:34:00: Check Point: RecCount3990
+2019-07-07 12:34:00: Check Point: oRow Lenght: 3990
+2019-07-07 12:34:00: Check Point: oRecCount: 3990
+2019-07-07 12:34:00: Check Point: Line: 0
+2019-07-07 12:34:00: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:00: Check Point: Value: CC.WO376
+2019-07-07 12:34:00: Check Point: Line: 1
+2019-07-07 12:34:00: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:00: Check Point: Value: Contra Charge to Works Order WO376
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3991
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3991
+2019-07-07 12:34:01: Check Point: oRecCount: 3991
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO377
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO377
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3992
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3992
+2019-07-07 12:34:01: Check Point: oRecCount: 3992
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO378
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO378
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3993
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3993
+2019-07-07 12:34:01: Check Point: oRecCount: 3993
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO379
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO379
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3994
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3994
+2019-07-07 12:34:01: Check Point: oRecCount: 3994
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO380
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO380
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3995
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3995
+2019-07-07 12:34:01: Check Point: oRecCount: 3995
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO381
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO381
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3996
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3996
+2019-07-07 12:34:01: Check Point: oRecCount: 3996
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO382
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO382
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3997
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3997
+2019-07-07 12:34:01: Check Point: oRecCount: 3997
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO383
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO383
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3998
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3998
+2019-07-07 12:34:01: Check Point: oRecCount: 3998
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO384
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO384
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount3999
+2019-07-07 12:34:01: Check Point: oRow Lenght: 3999
+2019-07-07 12:34:01: Check Point: oRecCount: 3999
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO385
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO385
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4000
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4000
+2019-07-07 12:34:01: Check Point: oRecCount: 4000
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO386
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO386
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4001
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4001
+2019-07-07 12:34:01: Check Point: oRecCount: 4001
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO387
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO387
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4002
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4002
+2019-07-07 12:34:01: Check Point: oRecCount: 4002
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO388
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO388
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4003
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4003
+2019-07-07 12:34:01: Check Point: oRecCount: 4003
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO389
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO389
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4004
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4004
+2019-07-07 12:34:01: Check Point: oRecCount: 4004
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO390
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO390
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4005
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4005
+2019-07-07 12:34:01: Check Point: oRecCount: 4005
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO391
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO391
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4006
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4006
+2019-07-07 12:34:01: Check Point: oRecCount: 4006
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO392
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO392
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4007
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4007
+2019-07-07 12:34:01: Check Point: oRecCount: 4007
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:01: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:01: Check Point: Value: CC.WO393
+2019-07-07 12:34:01: Check Point: Line: 1
+2019-07-07 12:34:01: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:01: Check Point: Value: Contra Charge to Works Order WO393
+2019-07-07 12:34:01: Check Point: Line: 2
+2019-07-07 12:34:01: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:01: Check Point: Value: D25
+2019-07-07 12:34:01: Check Point: RecCount4008
+2019-07-07 12:34:01: Check Point: oRow Lenght: 4008
+2019-07-07 12:34:01: Check Point: oRecCount: 4008
+2019-07-07 12:34:01: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO394
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO394
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4009
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4009
+2019-07-07 12:34:02: Check Point: oRecCount: 4009
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO395
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO395
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4010
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4010
+2019-07-07 12:34:02: Check Point: oRecCount: 4010
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO396
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO396
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4011
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4011
+2019-07-07 12:34:02: Check Point: oRecCount: 4011
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO397
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO397
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4012
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4012
+2019-07-07 12:34:02: Check Point: oRecCount: 4012
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO398
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO398
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4013
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4013
+2019-07-07 12:34:02: Check Point: oRecCount: 4013
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO399
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO399
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4014
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4014
+2019-07-07 12:34:02: Check Point: oRecCount: 4014
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO400
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO400
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4015
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4015
+2019-07-07 12:34:02: Check Point: oRecCount: 4015
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO401
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO401
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4016
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4016
+2019-07-07 12:34:02: Check Point: oRecCount: 4016
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO402
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO402
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4017
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4017
+2019-07-07 12:34:02: Check Point: oRecCount: 4017
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO403
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO403
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4018
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4018
+2019-07-07 12:34:02: Check Point: oRecCount: 4018
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO404
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO404
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4019
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4019
+2019-07-07 12:34:02: Check Point: oRecCount: 4019
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO405
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO405
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4020
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4020
+2019-07-07 12:34:02: Check Point: oRecCount: 4020
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO406
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO406
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4021
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4021
+2019-07-07 12:34:02: Check Point: oRecCount: 4021
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO407
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO407
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4022
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4022
+2019-07-07 12:34:02: Check Point: oRecCount: 4022
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO408
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO408
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4023
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4023
+2019-07-07 12:34:02: Check Point: oRecCount: 4023
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO409
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO409
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:02: Check Point: Value: D25
+2019-07-07 12:34:02: Check Point: RecCount4024
+2019-07-07 12:34:02: Check Point: oRow Lenght: 4024
+2019-07-07 12:34:02: Check Point: oRecCount: 4024
+2019-07-07 12:34:02: Check Point: Line: 0
+2019-07-07 12:34:02: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:02: Check Point: Value: CC.WO410
+2019-07-07 12:34:02: Check Point: Line: 1
+2019-07-07 12:34:02: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:02: Check Point: Value: Contra Charge to Works Order WO410
+2019-07-07 12:34:02: Check Point: Line: 2
+2019-07-07 12:34:02: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4025
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4025
+2019-07-07 12:34:03: Check Point: oRecCount: 4025
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO411
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO411
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4026
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4026
+2019-07-07 12:34:03: Check Point: oRecCount: 4026
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO412
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO412
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4027
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4027
+2019-07-07 12:34:03: Check Point: oRecCount: 4027
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO413
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO413
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4028
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4028
+2019-07-07 12:34:03: Check Point: oRecCount: 4028
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO414
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO414
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4029
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4029
+2019-07-07 12:34:03: Check Point: oRecCount: 4029
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO415
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO415
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4030
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4030
+2019-07-07 12:34:03: Check Point: oRecCount: 4030
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO416
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO416
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4031
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4031
+2019-07-07 12:34:03: Check Point: oRecCount: 4031
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO417
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO417
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4032
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4032
+2019-07-07 12:34:03: Check Point: oRecCount: 4032
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO418
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO418
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4033
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4033
+2019-07-07 12:34:03: Check Point: oRecCount: 4033
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO419
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO419
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4034
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4034
+2019-07-07 12:34:03: Check Point: oRecCount: 4034
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO420
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO420
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4035
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4035
+2019-07-07 12:34:03: Check Point: oRecCount: 4035
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO421
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO421
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4036
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4036
+2019-07-07 12:34:03: Check Point: oRecCount: 4036
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO422
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO422
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4037
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4037
+2019-07-07 12:34:03: Check Point: oRecCount: 4037
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO423
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO423
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4038
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4038
+2019-07-07 12:34:03: Check Point: oRecCount: 4038
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO424
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO424
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4039
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4039
+2019-07-07 12:34:03: Check Point: oRecCount: 4039
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO425
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:03: Check Point: Value: Contra Charge to Works Order WO425
+2019-07-07 12:34:03: Check Point: Line: 2
+2019-07-07 12:34:03: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:03: Check Point: Value: D25
+2019-07-07 12:34:03: Check Point: RecCount4040
+2019-07-07 12:34:03: Check Point: oRow Lenght: 4040
+2019-07-07 12:34:03: Check Point: oRecCount: 4040
+2019-07-07 12:34:03: Check Point: Line: 0
+2019-07-07 12:34:03: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:03: Check Point: Value: CC.WO426
+2019-07-07 12:34:03: Check Point: Line: 1
+2019-07-07 12:34:03: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO426
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4041
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4041
+2019-07-07 12:34:04: Check Point: oRecCount: 4041
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO427
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO427
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4042
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4042
+2019-07-07 12:34:04: Check Point: oRecCount: 4042
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO428
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO428
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4043
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4043
+2019-07-07 12:34:04: Check Point: oRecCount: 4043
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO429
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO429
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4044
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4044
+2019-07-07 12:34:04: Check Point: oRecCount: 4044
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO430
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO430
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4045
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4045
+2019-07-07 12:34:04: Check Point: oRecCount: 4045
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO431
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO431
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4046
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4046
+2019-07-07 12:34:04: Check Point: oRecCount: 4046
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO432
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO432
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4047
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4047
+2019-07-07 12:34:04: Check Point: oRecCount: 4047
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO433
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO433
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4048
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4048
+2019-07-07 12:34:04: Check Point: oRecCount: 4048
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO434
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO434
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4049
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4049
+2019-07-07 12:34:04: Check Point: oRecCount: 4049
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO435
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO435
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4050
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4050
+2019-07-07 12:34:04: Check Point: oRecCount: 4050
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO436
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO436
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4051
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4051
+2019-07-07 12:34:04: Check Point: oRecCount: 4051
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO437
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO437
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4052
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4052
+2019-07-07 12:34:04: Check Point: oRecCount: 4052
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO438
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO438
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4053
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4053
+2019-07-07 12:34:04: Check Point: oRecCount: 4053
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO439
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO439
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4054
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4054
+2019-07-07 12:34:04: Check Point: oRecCount: 4054
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO440
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO440
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:04: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:04: Check Point: Value: D25
+2019-07-07 12:34:04: Check Point: RecCount4055
+2019-07-07 12:34:04: Check Point: oRow Lenght: 4055
+2019-07-07 12:34:04: Check Point: oRecCount: 4055
+2019-07-07 12:34:04: Check Point: Line: 0
+2019-07-07 12:34:04: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:04: Check Point: Value: CC.WO441
+2019-07-07 12:34:04: Check Point: Line: 1
+2019-07-07 12:34:04: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:04: Check Point: Value: Contra Charge to Works Order WO441
+2019-07-07 12:34:04: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4056
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4056
+2019-07-07 12:34:05: Check Point: oRecCount: 4056
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO442
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO442
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4057
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4057
+2019-07-07 12:34:05: Check Point: oRecCount: 4057
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO443
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO443
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4058
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4058
+2019-07-07 12:34:05: Check Point: oRecCount: 4058
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO444
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO444
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4059
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4059
+2019-07-07 12:34:05: Check Point: oRecCount: 4059
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO445
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO445
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4060
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4060
+2019-07-07 12:34:05: Check Point: oRecCount: 4060
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO446
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO446
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4061
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4061
+2019-07-07 12:34:05: Check Point: oRecCount: 4061
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO447
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO447
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4062
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4062
+2019-07-07 12:34:05: Check Point: oRecCount: 4062
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO448
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO448
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4063
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4063
+2019-07-07 12:34:05: Check Point: oRecCount: 4063
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO449
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO449
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4064
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4064
+2019-07-07 12:34:05: Check Point: oRecCount: 4064
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO450
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO450
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4065
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4065
+2019-07-07 12:34:05: Check Point: oRecCount: 4065
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO451
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO451
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4066
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4066
+2019-07-07 12:34:05: Check Point: oRecCount: 4066
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO452
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO452
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4067
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4067
+2019-07-07 12:34:05: Check Point: oRecCount: 4067
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO453
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO453
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4068
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4068
+2019-07-07 12:34:05: Check Point: oRecCount: 4068
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO454
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO454
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4069
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4069
+2019-07-07 12:34:05: Check Point: oRecCount: 4069
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO455
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:05: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:05: Check Point: Value: Contra Charge to Works Order WO455
+2019-07-07 12:34:05: Check Point: Line: 2
+2019-07-07 12:34:05: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:05: Check Point: Value: D25
+2019-07-07 12:34:05: Check Point: RecCount4070
+2019-07-07 12:34:05: Check Point: oRow Lenght: 4070
+2019-07-07 12:34:05: Check Point: oRecCount: 4070
+2019-07-07 12:34:05: Check Point: Line: 0
+2019-07-07 12:34:05: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:05: Check Point: Value: CC.WO456
+2019-07-07 12:34:05: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO456
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4071
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4071
+2019-07-07 12:34:06: Check Point: oRecCount: 4071
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO457
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO457
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4072
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4072
+2019-07-07 12:34:06: Check Point: oRecCount: 4072
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO458
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO458
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4073
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4073
+2019-07-07 12:34:06: Check Point: oRecCount: 4073
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO459
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO459
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4074
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4074
+2019-07-07 12:34:06: Check Point: oRecCount: 4074
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO460
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO460
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4075
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4075
+2019-07-07 12:34:06: Check Point: oRecCount: 4075
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO461
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO461
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4076
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4076
+2019-07-07 12:34:06: Check Point: oRecCount: 4076
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO462
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO462
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4077
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4077
+2019-07-07 12:34:06: Check Point: oRecCount: 4077
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO463
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO463
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4078
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4078
+2019-07-07 12:34:06: Check Point: oRecCount: 4078
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO464
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO464
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4079
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4079
+2019-07-07 12:34:06: Check Point: oRecCount: 4079
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO465
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO465
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4080
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4080
+2019-07-07 12:34:06: Check Point: oRecCount: 4080
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO466
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO466
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4081
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4081
+2019-07-07 12:34:06: Check Point: oRecCount: 4081
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO467
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO467
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4082
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4082
+2019-07-07 12:34:06: Check Point: oRecCount: 4082
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO468
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO468
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4083
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4083
+2019-07-07 12:34:06: Check Point: oRecCount: 4083
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO469
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO469
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4084
+2019-07-07 12:34:06: Check Point: oRow Lenght: 4084
+2019-07-07 12:34:06: Check Point: oRecCount: 4084
+2019-07-07 12:34:06: Check Point: Line: 0
+2019-07-07 12:34:06: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:06: Check Point: Value: CC.WO470
+2019-07-07 12:34:06: Check Point: Line: 1
+2019-07-07 12:34:06: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:06: Check Point: Value: Contra Charge to Works Order WO470
+2019-07-07 12:34:06: Check Point: Line: 2
+2019-07-07 12:34:06: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:06: Check Point: Value: D25
+2019-07-07 12:34:06: Check Point: RecCount4085
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4085
+2019-07-07 12:34:07: Check Point: oRecCount: 4085
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO471
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO471
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4086
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4086
+2019-07-07 12:34:07: Check Point: oRecCount: 4086
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO472
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO472
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4087
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4087
+2019-07-07 12:34:07: Check Point: oRecCount: 4087
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO473
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO473
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4088
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4088
+2019-07-07 12:34:07: Check Point: oRecCount: 4088
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO474
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO474
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4089
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4089
+2019-07-07 12:34:07: Check Point: oRecCount: 4089
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO475
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO475
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4090
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4090
+2019-07-07 12:34:07: Check Point: oRecCount: 4090
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO476
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO476
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4091
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4091
+2019-07-07 12:34:07: Check Point: oRecCount: 4091
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO477
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO477
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4092
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4092
+2019-07-07 12:34:07: Check Point: oRecCount: 4092
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO478
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO478
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4093
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4093
+2019-07-07 12:34:07: Check Point: oRecCount: 4093
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO479
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO479
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4094
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4094
+2019-07-07 12:34:07: Check Point: oRecCount: 4094
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO480
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO480
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4095
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4095
+2019-07-07 12:34:07: Check Point: oRecCount: 4095
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO481
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO481
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4096
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4096
+2019-07-07 12:34:07: Check Point: oRecCount: 4096
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO482
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO482
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4097
+2019-07-07 12:34:07: Check Point: oRow Lenght: 4097
+2019-07-07 12:34:07: Check Point: oRecCount: 4097
+2019-07-07 12:34:07: Check Point: Line: 0
+2019-07-07 12:34:07: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:07: Check Point: Value: CC.WO483
+2019-07-07 12:34:07: Check Point: Line: 1
+2019-07-07 12:34:07: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:07: Check Point: Value: Contra Charge to Works Order WO483
+2019-07-07 12:34:07: Check Point: Line: 2
+2019-07-07 12:34:07: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:07: Check Point: Value: D25
+2019-07-07 12:34:07: Check Point: RecCount4098
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4098
+2019-07-07 12:34:08: Check Point: oRecCount: 4098
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO484
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO484
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4099
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4099
+2019-07-07 12:34:08: Check Point: oRecCount: 4099
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO485
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO485
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4100
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4100
+2019-07-07 12:34:08: Check Point: oRecCount: 4100
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO486
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO486
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4101
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4101
+2019-07-07 12:34:08: Check Point: oRecCount: 4101
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO487
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO487
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4102
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4102
+2019-07-07 12:34:08: Check Point: oRecCount: 4102
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO488
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO488
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4103
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4103
+2019-07-07 12:34:08: Check Point: oRecCount: 4103
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO489
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO489
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4104
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4104
+2019-07-07 12:34:08: Check Point: oRecCount: 4104
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO490
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO490
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4105
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4105
+2019-07-07 12:34:08: Check Point: oRecCount: 4105
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO491
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO491
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4106
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4106
+2019-07-07 12:34:08: Check Point: oRecCount: 4106
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO492
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO492
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4107
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4107
+2019-07-07 12:34:08: Check Point: oRecCount: 4107
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO493
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO493
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4108
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4108
+2019-07-07 12:34:08: Check Point: oRecCount: 4108
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO494
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO494
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4109
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4109
+2019-07-07 12:34:08: Check Point: oRecCount: 4109
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:08: Check Point: Value: CC.WO495
+2019-07-07 12:34:08: Check Point: Line: 1
+2019-07-07 12:34:08: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:08: Check Point: Value: Contra Charge to Works Order WO495
+2019-07-07 12:34:08: Check Point: Line: 2
+2019-07-07 12:34:08: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:08: Check Point: Value: D25
+2019-07-07 12:34:08: Check Point: RecCount4110
+2019-07-07 12:34:08: Check Point: oRow Lenght: 4110
+2019-07-07 12:34:08: Check Point: oRecCount: 4110
+2019-07-07 12:34:08: Check Point: Line: 0
+2019-07-07 12:34:08: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO496
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO496
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4111
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4111
+2019-07-07 12:34:09: Check Point: oRecCount: 4111
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO497
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO497
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4112
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4112
+2019-07-07 12:34:09: Check Point: oRecCount: 4112
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO498
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO498
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4113
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4113
+2019-07-07 12:34:09: Check Point: oRecCount: 4113
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO499
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO499
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4114
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4114
+2019-07-07 12:34:09: Check Point: oRecCount: 4114
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO500
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO500
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4115
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4115
+2019-07-07 12:34:09: Check Point: oRecCount: 4115
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO501
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO501
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4116
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4116
+2019-07-07 12:34:09: Check Point: oRecCount: 4116
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO502
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO502
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4117
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4117
+2019-07-07 12:34:09: Check Point: oRecCount: 4117
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO503
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO503
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4118
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4118
+2019-07-07 12:34:09: Check Point: oRecCount: 4118
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO504
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO504
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4119
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4119
+2019-07-07 12:34:09: Check Point: oRecCount: 4119
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO505
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO505
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4120
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4120
+2019-07-07 12:34:09: Check Point: oRecCount: 4120
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:09: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:09: Check Point: Value: CC.WO506
+2019-07-07 12:34:09: Check Point: Line: 1
+2019-07-07 12:34:09: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:09: Check Point: Value: Contra Charge to Works Order WO506
+2019-07-07 12:34:09: Check Point: Line: 2
+2019-07-07 12:34:09: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:09: Check Point: Value: D25
+2019-07-07 12:34:09: Check Point: RecCount4121
+2019-07-07 12:34:09: Check Point: oRow Lenght: 4121
+2019-07-07 12:34:09: Check Point: oRecCount: 4121
+2019-07-07 12:34:09: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO507
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO507
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4122
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4122
+2019-07-07 12:34:10: Check Point: oRecCount: 4122
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO508
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO508
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4123
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4123
+2019-07-07 12:34:10: Check Point: oRecCount: 4123
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO509
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO509
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4124
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4124
+2019-07-07 12:34:10: Check Point: oRecCount: 4124
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO510
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO510
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4125
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4125
+2019-07-07 12:34:10: Check Point: oRecCount: 4125
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO511
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO511
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4126
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4126
+2019-07-07 12:34:10: Check Point: oRecCount: 4126
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO512
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO512
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4127
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4127
+2019-07-07 12:34:10: Check Point: oRecCount: 4127
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO513
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO513
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4128
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4128
+2019-07-07 12:34:10: Check Point: oRecCount: 4128
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO514
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO514
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4129
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4129
+2019-07-07 12:34:10: Check Point: oRecCount: 4129
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO515
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO515
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4130
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4130
+2019-07-07 12:34:10: Check Point: oRecCount: 4130
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO516
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO516
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4131
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4131
+2019-07-07 12:34:10: Check Point: oRecCount: 4131
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO517
+2019-07-07 12:34:10: Check Point: Line: 1
+2019-07-07 12:34:10: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:10: Check Point: Value: Contra Charge to Works Order WO517
+2019-07-07 12:34:10: Check Point: Line: 2
+2019-07-07 12:34:10: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:10: Check Point: Value: D25
+2019-07-07 12:34:10: Check Point: RecCount4132
+2019-07-07 12:34:10: Check Point: oRow Lenght: 4132
+2019-07-07 12:34:10: Check Point: oRecCount: 4132
+2019-07-07 12:34:10: Check Point: Line: 0
+2019-07-07 12:34:10: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:10: Check Point: Value: CC.WO518
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO518
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4133
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4133
+2019-07-07 12:34:11: Check Point: oRecCount: 4133
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO519
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO519
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4134
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4134
+2019-07-07 12:34:11: Check Point: oRecCount: 4134
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO520
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO520
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4135
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4135
+2019-07-07 12:34:11: Check Point: oRecCount: 4135
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO521
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO521
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4136
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4136
+2019-07-07 12:34:11: Check Point: oRecCount: 4136
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO522
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO522
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4137
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4137
+2019-07-07 12:34:11: Check Point: oRecCount: 4137
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO523
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO523
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4138
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4138
+2019-07-07 12:34:11: Check Point: oRecCount: 4138
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO524
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO524
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4139
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4139
+2019-07-07 12:34:11: Check Point: oRecCount: 4139
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO525
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO525
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4140
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4140
+2019-07-07 12:34:11: Check Point: oRecCount: 4140
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO526
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO526
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4141
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4141
+2019-07-07 12:34:11: Check Point: oRecCount: 4141
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO527
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO527
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4142
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4142
+2019-07-07 12:34:11: Check Point: oRecCount: 4142
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:11: Check Point: Value: CC.WO528
+2019-07-07 12:34:11: Check Point: Line: 1
+2019-07-07 12:34:11: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:11: Check Point: Value: Contra Charge to Works Order WO528
+2019-07-07 12:34:11: Check Point: Line: 2
+2019-07-07 12:34:11: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:11: Check Point: Value: D25
+2019-07-07 12:34:11: Check Point: RecCount4143
+2019-07-07 12:34:11: Check Point: oRow Lenght: 4143
+2019-07-07 12:34:11: Check Point: oRecCount: 4143
+2019-07-07 12:34:11: Check Point: Line: 0
+2019-07-07 12:34:11: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO529
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO529
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4144
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4144
+2019-07-07 12:34:12: Check Point: oRecCount: 4144
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO530
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO530
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4145
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4145
+2019-07-07 12:34:12: Check Point: oRecCount: 4145
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO531
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO531
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4146
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4146
+2019-07-07 12:34:12: Check Point: oRecCount: 4146
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO532
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO532
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4147
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4147
+2019-07-07 12:34:12: Check Point: oRecCount: 4147
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO533
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO533
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4148
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4148
+2019-07-07 12:34:12: Check Point: oRecCount: 4148
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO534
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO534
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4149
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4149
+2019-07-07 12:34:12: Check Point: oRecCount: 4149
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO535
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO535
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4150
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4150
+2019-07-07 12:34:12: Check Point: oRecCount: 4150
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO536
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO536
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4151
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4151
+2019-07-07 12:34:12: Check Point: oRecCount: 4151
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO537
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO537
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4152
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4152
+2019-07-07 12:34:12: Check Point: oRecCount: 4152
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO538
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO538
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:12: Check Point: RecCount4153
+2019-07-07 12:34:12: Check Point: oRow Lenght: 4153
+2019-07-07 12:34:12: Check Point: oRecCount: 4153
+2019-07-07 12:34:12: Check Point: Line: 0
+2019-07-07 12:34:12: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:12: Check Point: Value: CC.WO539
+2019-07-07 12:34:12: Check Point: Line: 1
+2019-07-07 12:34:12: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:12: Check Point: Value: Contra Charge to Works Order WO539
+2019-07-07 12:34:12: Check Point: Line: 2
+2019-07-07 12:34:12: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:12: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4154
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4154
+2019-07-07 12:34:13: Check Point: oRecCount: 4154
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO540
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO540
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4155
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4155
+2019-07-07 12:34:13: Check Point: oRecCount: 4155
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO541
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO541
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4156
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4156
+2019-07-07 12:34:13: Check Point: oRecCount: 4156
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO542
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO542
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4157
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4157
+2019-07-07 12:34:13: Check Point: oRecCount: 4157
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO543
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO543
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4158
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4158
+2019-07-07 12:34:13: Check Point: oRecCount: 4158
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO544
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO544
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4159
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4159
+2019-07-07 12:34:13: Check Point: oRecCount: 4159
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO545
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO545
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4160
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4160
+2019-07-07 12:34:13: Check Point: oRecCount: 4160
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO546
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO546
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4161
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4161
+2019-07-07 12:34:13: Check Point: oRecCount: 4161
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO547
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO547
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4162
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4162
+2019-07-07 12:34:13: Check Point: oRecCount: 4162
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO548
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO548
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4163
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4163
+2019-07-07 12:34:13: Check Point: oRecCount: 4163
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO549
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO549
+2019-07-07 12:34:13: Check Point: Line: 2
+2019-07-07 12:34:13: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:13: Check Point: Value: D25
+2019-07-07 12:34:13: Check Point: RecCount4164
+2019-07-07 12:34:13: Check Point: oRow Lenght: 4164
+2019-07-07 12:34:13: Check Point: oRecCount: 4164
+2019-07-07 12:34:13: Check Point: Line: 0
+2019-07-07 12:34:13: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:13: Check Point: Value: CC.WO550
+2019-07-07 12:34:13: Check Point: Line: 1
+2019-07-07 12:34:13: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:13: Check Point: Value: Contra Charge to Works Order WO550
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4165
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4165
+2019-07-07 12:34:14: Check Point: oRecCount: 4165
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO551
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO551
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4166
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4166
+2019-07-07 12:34:14: Check Point: oRecCount: 4166
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO552
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO552
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4167
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4167
+2019-07-07 12:34:14: Check Point: oRecCount: 4167
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO553
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO553
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4168
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4168
+2019-07-07 12:34:14: Check Point: oRecCount: 4168
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO554
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO554
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4169
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4169
+2019-07-07 12:34:14: Check Point: oRecCount: 4169
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO555
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO555
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4170
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4170
+2019-07-07 12:34:14: Check Point: oRecCount: 4170
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO556
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO556
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4171
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4171
+2019-07-07 12:34:14: Check Point: oRecCount: 4171
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO557
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO557
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4172
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4172
+2019-07-07 12:34:14: Check Point: oRecCount: 4172
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO558
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO558
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4173
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4173
+2019-07-07 12:34:14: Check Point: oRecCount: 4173
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO559
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO559
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4174
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4174
+2019-07-07 12:34:14: Check Point: oRecCount: 4174
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO560
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:14: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:14: Check Point: Value: Contra Charge to Works Order WO560
+2019-07-07 12:34:14: Check Point: Line: 2
+2019-07-07 12:34:14: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:14: Check Point: Value: D25
+2019-07-07 12:34:14: Check Point: RecCount4175
+2019-07-07 12:34:14: Check Point: oRow Lenght: 4175
+2019-07-07 12:34:14: Check Point: oRecCount: 4175
+2019-07-07 12:34:14: Check Point: Line: 0
+2019-07-07 12:34:14: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:14: Check Point: Value: CC.WO561
+2019-07-07 12:34:14: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO561
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4176
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4176
+2019-07-07 12:34:15: Check Point: oRecCount: 4176
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO562
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO562
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4177
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4177
+2019-07-07 12:34:15: Check Point: oRecCount: 4177
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO563
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO563
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4178
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4178
+2019-07-07 12:34:15: Check Point: oRecCount: 4178
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO564
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO564
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4179
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4179
+2019-07-07 12:34:15: Check Point: oRecCount: 4179
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO565
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO565
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4180
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4180
+2019-07-07 12:34:15: Check Point: oRecCount: 4180
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO566
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO566
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4181
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4181
+2019-07-07 12:34:15: Check Point: oRecCount: 4181
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO567
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO567
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4182
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4182
+2019-07-07 12:34:15: Check Point: oRecCount: 4182
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO568
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO568
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4183
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4183
+2019-07-07 12:34:15: Check Point: oRecCount: 4183
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO569
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO569
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4184
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4184
+2019-07-07 12:34:15: Check Point: oRecCount: 4184
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:15: Check Point: Value: CC.WO570
+2019-07-07 12:34:15: Check Point: Line: 1
+2019-07-07 12:34:15: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:15: Check Point: Value: Contra Charge to Works Order WO570
+2019-07-07 12:34:15: Check Point: Line: 2
+2019-07-07 12:34:15: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:15: Check Point: Value: D25
+2019-07-07 12:34:15: Check Point: RecCount4185
+2019-07-07 12:34:15: Check Point: oRow Lenght: 4185
+2019-07-07 12:34:15: Check Point: oRecCount: 4185
+2019-07-07 12:34:15: Check Point: Line: 0
+2019-07-07 12:34:15: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO571
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO571
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4186
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4186
+2019-07-07 12:34:16: Check Point: oRecCount: 4186
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO572
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO572
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4187
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4187
+2019-07-07 12:34:16: Check Point: oRecCount: 4187
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO573
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO573
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4188
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4188
+2019-07-07 12:34:16: Check Point: oRecCount: 4188
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO574
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO574
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4189
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4189
+2019-07-07 12:34:16: Check Point: oRecCount: 4189
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO575
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO575
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4190
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4190
+2019-07-07 12:34:16: Check Point: oRecCount: 4190
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO576
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO576
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4191
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4191
+2019-07-07 12:34:16: Check Point: oRecCount: 4191
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO577
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO577
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4192
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4192
+2019-07-07 12:34:16: Check Point: oRecCount: 4192
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO578
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO578
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4193
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4193
+2019-07-07 12:34:16: Check Point: oRecCount: 4193
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:16: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:16: Check Point: Value: CC.WO579
+2019-07-07 12:34:16: Check Point: Line: 1
+2019-07-07 12:34:16: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:16: Check Point: Value: Contra Charge to Works Order WO579
+2019-07-07 12:34:16: Check Point: Line: 2
+2019-07-07 12:34:16: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:16: Check Point: Value: D25
+2019-07-07 12:34:16: Check Point: RecCount4194
+2019-07-07 12:34:16: Check Point: oRow Lenght: 4194
+2019-07-07 12:34:16: Check Point: oRecCount: 4194
+2019-07-07 12:34:16: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO580
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO580
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4195
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4195
+2019-07-07 12:34:17: Check Point: oRecCount: 4195
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO581
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO581
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4196
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4196
+2019-07-07 12:34:17: Check Point: oRecCount: 4196
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO582
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO582
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4197
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4197
+2019-07-07 12:34:17: Check Point: oRecCount: 4197
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO583
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO583
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4198
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4198
+2019-07-07 12:34:17: Check Point: oRecCount: 4198
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO584
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO584
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4199
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4199
+2019-07-07 12:34:17: Check Point: oRecCount: 4199
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO585
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO585
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4200
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4200
+2019-07-07 12:34:17: Check Point: oRecCount: 4200
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO586
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO586
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4201
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4201
+2019-07-07 12:34:17: Check Point: oRecCount: 4201
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO587
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO587
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4202
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4202
+2019-07-07 12:34:17: Check Point: oRecCount: 4202
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO588
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO588
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4203
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4203
+2019-07-07 12:34:17: Check Point: oRecCount: 4203
+2019-07-07 12:34:17: Check Point: Line: 0
+2019-07-07 12:34:17: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:17: Check Point: Value: CC.WO589
+2019-07-07 12:34:17: Check Point: Line: 1
+2019-07-07 12:34:17: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:17: Check Point: Value: Contra Charge to Works Order WO589
+2019-07-07 12:34:17: Check Point: Line: 2
+2019-07-07 12:34:17: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:17: Check Point: Value: D25
+2019-07-07 12:34:17: Check Point: RecCount4204
+2019-07-07 12:34:17: Check Point: oRow Lenght: 4204
+2019-07-07 12:34:18: Check Point: oRecCount: 4204
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO590
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO590
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4205
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4205
+2019-07-07 12:34:18: Check Point: oRecCount: 4205
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO591
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO591
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4206
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4206
+2019-07-07 12:34:18: Check Point: oRecCount: 4206
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO592
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO592
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4207
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4207
+2019-07-07 12:34:18: Check Point: oRecCount: 4207
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO593
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO593
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4208
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4208
+2019-07-07 12:34:18: Check Point: oRecCount: 4208
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO594
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO594
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4209
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4209
+2019-07-07 12:34:18: Check Point: oRecCount: 4209
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO595
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO595
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4210
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4210
+2019-07-07 12:34:18: Check Point: oRecCount: 4210
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO596
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO596
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4211
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4211
+2019-07-07 12:34:18: Check Point: oRecCount: 4211
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO597
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO597
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4212
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4212
+2019-07-07 12:34:18: Check Point: oRecCount: 4212
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO598
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO598
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:18: Check Point: RecCount4213
+2019-07-07 12:34:18: Check Point: oRow Lenght: 4213
+2019-07-07 12:34:18: Check Point: oRecCount: 4213
+2019-07-07 12:34:18: Check Point: Line: 0
+2019-07-07 12:34:18: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:18: Check Point: Value: CC.WO599
+2019-07-07 12:34:18: Check Point: Line: 1
+2019-07-07 12:34:18: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:18: Check Point: Value: Contra Charge to Works Order WO599
+2019-07-07 12:34:18: Check Point: Line: 2
+2019-07-07 12:34:18: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:18: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4214
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4214
+2019-07-07 12:34:19: Check Point: oRecCount: 4214
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO600
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO600
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4215
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4215
+2019-07-07 12:34:19: Check Point: oRecCount: 4215
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO601
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO601
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4216
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4216
+2019-07-07 12:34:19: Check Point: oRecCount: 4216
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO602
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO602
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4217
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4217
+2019-07-07 12:34:19: Check Point: oRecCount: 4217
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO603
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO603
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4218
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4218
+2019-07-07 12:34:19: Check Point: oRecCount: 4218
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO604
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO604
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4219
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4219
+2019-07-07 12:34:19: Check Point: oRecCount: 4219
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO605
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO605
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4220
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4220
+2019-07-07 12:34:19: Check Point: oRecCount: 4220
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO606
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO606
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4221
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4221
+2019-07-07 12:34:19: Check Point: oRecCount: 4221
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO607
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO607
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4222
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4222
+2019-07-07 12:34:19: Check Point: oRecCount: 4222
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO608
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO608
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:19: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:19: Check Point: Value: D25
+2019-07-07 12:34:19: Check Point: RecCount4223
+2019-07-07 12:34:19: Check Point: oRow Lenght: 4223
+2019-07-07 12:34:19: Check Point: oRecCount: 4223
+2019-07-07 12:34:19: Check Point: Line: 0
+2019-07-07 12:34:19: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:19: Check Point: Value: CC.WO609
+2019-07-07 12:34:19: Check Point: Line: 1
+2019-07-07 12:34:19: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:19: Check Point: Value: Contra Charge to Works Order WO609
+2019-07-07 12:34:19: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4224
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4224
+2019-07-07 12:34:20: Check Point: oRecCount: 4224
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO610
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO610
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4225
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4225
+2019-07-07 12:34:20: Check Point: oRecCount: 4225
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO611
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO611
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4226
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4226
+2019-07-07 12:34:20: Check Point: oRecCount: 4226
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO612
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO612
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4227
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4227
+2019-07-07 12:34:20: Check Point: oRecCount: 4227
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO613
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO613
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4228
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4228
+2019-07-07 12:34:20: Check Point: oRecCount: 4228
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO614
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO614
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4229
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4229
+2019-07-07 12:34:20: Check Point: oRecCount: 4229
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO615
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO615
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4230
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4230
+2019-07-07 12:34:20: Check Point: oRecCount: 4230
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO616
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO616
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4231
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4231
+2019-07-07 12:34:20: Check Point: oRecCount: 4231
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO617
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO617
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4232
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4232
+2019-07-07 12:34:20: Check Point: oRecCount: 4232
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO618
+2019-07-07 12:34:20: Check Point: Line: 1
+2019-07-07 12:34:20: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:20: Check Point: Value: Contra Charge to Works Order WO618
+2019-07-07 12:34:20: Check Point: Line: 2
+2019-07-07 12:34:20: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:20: Check Point: Value: D25
+2019-07-07 12:34:20: Check Point: RecCount4233
+2019-07-07 12:34:20: Check Point: oRow Lenght: 4233
+2019-07-07 12:34:20: Check Point: oRecCount: 4233
+2019-07-07 12:34:20: Check Point: Line: 0
+2019-07-07 12:34:20: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:20: Check Point: Value: CC.WO619
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO619
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4234
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4234
+2019-07-07 12:34:21: Check Point: oRecCount: 4234
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO620
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO620
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4235
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4235
+2019-07-07 12:34:21: Check Point: oRecCount: 4235
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO621
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO621
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4236
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4236
+2019-07-07 12:34:21: Check Point: oRecCount: 4236
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO622
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO622
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4237
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4237
+2019-07-07 12:34:21: Check Point: oRecCount: 4237
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO623
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO623
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4238
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4238
+2019-07-07 12:34:21: Check Point: oRecCount: 4238
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO624
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO624
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4239
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4239
+2019-07-07 12:34:21: Check Point: oRecCount: 4239
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO625
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO625
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4240
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4240
+2019-07-07 12:34:21: Check Point: oRecCount: 4240
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO626
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO626
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4241
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4241
+2019-07-07 12:34:21: Check Point: oRecCount: 4241
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO627
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO627
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:21: Check Point: RecCount4242
+2019-07-07 12:34:21: Check Point: oRow Lenght: 4242
+2019-07-07 12:34:21: Check Point: oRecCount: 4242
+2019-07-07 12:34:21: Check Point: Line: 0
+2019-07-07 12:34:21: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:21: Check Point: Value: CC.WO628
+2019-07-07 12:34:21: Check Point: Line: 1
+2019-07-07 12:34:21: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:21: Check Point: Value: Contra Charge to Works Order WO628
+2019-07-07 12:34:21: Check Point: Line: 2
+2019-07-07 12:34:21: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:21: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4243
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4243
+2019-07-07 12:34:22: Check Point: oRecCount: 4243
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO629
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO629
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4244
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4244
+2019-07-07 12:34:22: Check Point: oRecCount: 4244
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO630
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO630
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4245
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4245
+2019-07-07 12:34:22: Check Point: oRecCount: 4245
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO631
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO631
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4246
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4246
+2019-07-07 12:34:22: Check Point: oRecCount: 4246
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO632
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO632
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4247
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4247
+2019-07-07 12:34:22: Check Point: oRecCount: 4247
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO633
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO633
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4248
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4248
+2019-07-07 12:34:22: Check Point: oRecCount: 4248
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO634
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO634
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4249
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4249
+2019-07-07 12:34:22: Check Point: oRecCount: 4249
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO635
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO635
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4250
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4250
+2019-07-07 12:34:22: Check Point: oRecCount: 4250
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO636
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO636
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4251
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4251
+2019-07-07 12:34:22: Check Point: oRecCount: 4251
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO637
+2019-07-07 12:34:22: Check Point: Line: 1
+2019-07-07 12:34:22: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:22: Check Point: Value: Contra Charge to Works Order WO637
+2019-07-07 12:34:22: Check Point: Line: 2
+2019-07-07 12:34:22: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:22: Check Point: Value: D25
+2019-07-07 12:34:22: Check Point: RecCount4252
+2019-07-07 12:34:22: Check Point: oRow Lenght: 4252
+2019-07-07 12:34:22: Check Point: oRecCount: 4252
+2019-07-07 12:34:22: Check Point: Line: 0
+2019-07-07 12:34:22: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:22: Check Point: Value: CC.WO638
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO638
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4253
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4253
+2019-07-07 12:34:23: Check Point: oRecCount: 4253
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO639
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO639
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4254
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4254
+2019-07-07 12:34:23: Check Point: oRecCount: 4254
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO640
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO640
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4255
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4255
+2019-07-07 12:34:23: Check Point: oRecCount: 4255
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO641
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO641
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4256
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4256
+2019-07-07 12:34:23: Check Point: oRecCount: 4256
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO642
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO642
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4257
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4257
+2019-07-07 12:34:23: Check Point: oRecCount: 4257
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO643
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO643
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4258
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4258
+2019-07-07 12:34:23: Check Point: oRecCount: 4258
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO644
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO644
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4259
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4259
+2019-07-07 12:34:23: Check Point: oRecCount: 4259
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO645
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO645
+2019-07-07 12:34:23: Check Point: Line: 2
+2019-07-07 12:34:23: Check Point: Column: LIST_RptCode
+2019-07-07 12:34:23: Check Point: Value: D25
+2019-07-07 12:34:23: Check Point: RecCount4260
+2019-07-07 12:34:23: Check Point: oRow Lenght: 4260
+2019-07-07 12:34:23: Check Point: oRecCount: 4260
+2019-07-07 12:34:23: Check Point: Line: 0
+2019-07-07 12:34:23: Check Point: Column: LIST_CostCode
+2019-07-07 12:34:23: Check Point: Value: CC.WO646
+2019-07-07 12:34:23: Check Point: Line: 1
+2019-07-07 12:34:23: Check Point: Column: List_COSTDESC
+2019-07-07 12:34:23: Check Point: Value: Contra Charge to Works Order WO646

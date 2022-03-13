@@ -1,0 +1,7 @@
+2019-11-13 02:49:50: Check Point: Import: RsToCollection
+2019-11-13 02:49:50: Check Point: Select '00000000' PRJCODE, 'TEMPORARY FOR CONVERSION' PRJNAME 
+2019-11-13 02:49:50: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 02:49:51: Check Point: SELECT COSTCODE as LIST_CostCode, COSTNAME AS List_COSTDESC FROM CPS_View_CostCodeList WHERE COSTTYPE IN ('E','M','N','P','PS','S')
+2019-11-13 02:49:51: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 02:49:57: Check Point: select CardCode as List_SCCode, CardName as List_SCName From CPS_View_SubContractorList
+2019-11-13 02:49:57: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

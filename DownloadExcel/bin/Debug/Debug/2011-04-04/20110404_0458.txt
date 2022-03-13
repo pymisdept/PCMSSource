@@ -1,0 +1,15 @@
+2011-04-04 04:58:04: Check Point: Next
+2011-04-04 04:58:05: Check Point: Now is replace: Cost Code
+2011-04-04 04:58:07: Check Point: Next
+2011-04-04 04:58:07: Check Point: Now is replace: SubContractor
+2011-04-04 04:58:09: Check Point: Next
+2011-04-04 04:58:10: Check Point: Now is replace: Request Type
+2011-04-04 04:58:12: Check Point: Next
+2011-04-04 04:58:13: Check Point: Now is replace: Item Code
+2011-04-04 04:58:15: Check Point: Next
+2011-04-04 04:58:16: Check Point: Now is replace: Material Type
+2011-04-04 04:58:16: Check Point: Next
+2011-04-04 04:58:16: Check Point: Import: ProtectSheet
+2011-04-04 04:58:23: Check Point: Import: Save
+2011-04-04 04:58:23: Check Point: End
+2011-04-04 04:58:23: Check Point: Disconnect

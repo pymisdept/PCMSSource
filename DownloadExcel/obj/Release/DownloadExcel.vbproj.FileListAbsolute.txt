@@ -1,0 +1,113 @@
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\DownloadExcel.exe
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\DownloadExcel.pdb
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\DownloadExcel.xml
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\office.dll
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\Interop.VBA.dll
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\ResolveAssemblyReference.cache
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\Interop.VBA.dll
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.Resources.resources
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.vbproj.GenerateResource.Cache
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.exe
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.xml
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.pdb
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\DI Library (Console).dll
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\bin\Release\Interop.SAPbobsCOM.dll
+D:\1. Compass Project\PaulY\Program\DownloadExcel\DownloadExcel\obj\Release\Interop.SAPbobsCOM.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\DownloadExcel\obj\Release\Interop.SAPbobsCOM.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\DownloadExcel\obj\Release\Interop.VBA.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+E:\Project\PaulY\Programming\App\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.exe
+E:\Project\PaulY\Programming\App\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.xml
+E:\Project\PaulY\Programming\App\DownloadExcel\DownloadExcel\obj\Release\DownloadExcel.pdb
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\bin\Release\DownloadExcel.exe
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\bin\Release\DownloadExcel.pdb
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\bin\Release\DownloadExcel.xml
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\bin\Release\DI Library (Console).dll
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\DownloadExcel.Resources.resources
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\DownloadExcel.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\DownloadExcel.exe
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\DownloadExcel.xml
+C:\Documents and Settings\Jesse So\Desktop\20090914\DownloadExcel\obj\Release\DownloadExcel.pdb
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\ResolveAssemblyReference.cache
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\Interop.SAPbobsCOM.dll
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\Interop.VBA.dll
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\DownloadExcel.Resources.resources
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\DownloadExcel.vbproj.GenerateResource.Cache
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\bin\Release\DownloadExcel.exe
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\bin\Release\DownloadExcel.pdb
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\bin\Release\DownloadExcel.xml
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\bin\Release\DI Library (Console).dll
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\bin\Release\Interop.SAPbobsCOM.dll
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\bin\Release\Interop.VBA.dll
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\DownloadExcel.exe
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\DownloadExcel.xml
+E:\Personal Folder\Jesse\20090914 1542\DownloadExcel\obj\Release\DownloadExcel.pdb
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\Interop.SAPbobsCOM.dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\Interop.VBA.dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\DownloadExcel.exe
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\DownloadExcel.xml
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\DownloadExcel.pdb
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\DownloadExcel.exe
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\DownloadExcel.pdb
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\DownloadExcel.xml
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\DI Library (Console).dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\Interop.SAPbobsCOM.dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\office.dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\bin\Release\Interop.VBA.dll
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\ResolveAssemblyReference.cache
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\DownloadExcel.Resources.resources
+E:\Personal Folder\Jesse\20090921 1518\DownloadExcel\obj\Release\DownloadExcel.vbproj.GenerateResource.Cache
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\Interop.SAPbobsCOM.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\Interop.VBA.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\DownloadExcel.exe
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\DownloadExcel.xml
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\DownloadExcel.pdb
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\DownloadExcel.exe
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\DownloadExcel.pdb
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\DownloadExcel.xml
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\DI Library (Console).dll
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\Interop.SAPbobsCOM.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\office.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\bin\Release\Interop.VBA.dll
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\ResolveAssemblyReference.cache
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\DownloadExcel.Resources.resources
+E:\Project\PaulY\Programming\App\DownloadExcel\obj\Release\DownloadExcel.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\DownloadExcel.exe
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\DownloadExcel.xml
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\DownloadExcel.pdb
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\DownloadExcel.exe
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\DownloadExcel.pdb
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\DownloadExcel.xml
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\DI Library (Console).dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\Office.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\bin\Release\Interop.VBA.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\DownloadExcel.Resources.resources
+C:\Documents and Settings\Jesse So\Desktop\20090925 1632\obj\Release\DownloadExcel.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jesse So\Desktop\20090925 1637\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1637\obj\Release\Interop.VBA.dll
+C:\Documents and Settings\Jesse So\Desktop\20090925 1637\obj\Release\DownloadExcel.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Jesse So\Desktop\20090925 1637\obj\Release\DownloadExcel.exe
+C:\Documents and Settings\Jesse So\Desktop\20090925 1637\obj\Release\DownloadExcel.xml
+C:\Documents and Settings\Jesse So\Desktop\20090925 1637\obj\Release\DownloadExcel.pdb

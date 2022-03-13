@@ -1,0 +1,2 @@
+2012-06-14 02:04:47: Check Point: QSI01_0005
+2012-06-14 02:04:53: Check Point: Release Resource

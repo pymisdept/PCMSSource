@@ -1,0 +1,16 @@
+2012-01-27 02:13:01: Check Point: Import: Run Application
+2012-01-27 02:13:01: Check Point: Import: set FileName
+2012-01-27 02:13:01: Check Point: Import: Open Workbook
+2012-01-27 02:13:01: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI41.xls
+2012-01-27 02:13:01: Check Point: Import: UnProtectSheet
+2012-01-27 02:13:01: Check Point: Import: BreakLinked
+2012-01-27 02:13:01: Check Point: Import: ReplaceAllData
+2012-01-27 02:13:01: Check Point: Now is replace: Form
+2012-01-27 02:13:01: Check Point: Next
+2012-01-27 02:13:01: Check Point: Import: ProtectSheet
+2012-01-27 02:13:01: Check Point: Import: Save
+2012-01-27 02:13:01: Check Point: Import: Close
+2012-01-27 02:13:01: Check Point: Import: Closed
+2012-01-27 02:13:01: Check Point: End
+2012-01-27 02:13:01: Check Point: Disconnect
+2012-01-27 02:13:01: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

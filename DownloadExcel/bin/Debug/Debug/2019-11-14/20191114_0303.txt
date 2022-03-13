@@ -1,0 +1,27 @@
+2019-11-14 03:03:15: Check Point: Import: RsToCollection
+2019-11-14 03:03:15: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('03049CJM', 'COM22Z00S', '03049CJM/SC028') 
+2019-11-14 03:03:19: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:20: Check Point: select * from QSI12_Work('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:22: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:22: Check Point: select * from QSI12_MOS('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:25: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:25: Check Point: select * from QSI12_EVO('03049CJM','03049CJM/SC028') ORDER BY EVO_SubLineNum asc
+2019-11-14 03:03:27: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:27: Check Point: select * from QSI12_IVO('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:29: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:29: Check Point: select * from QSI12_CCVO('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:32: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:32: Check Point: select * from QSI12_EDW('03049CJM','03049CJM/SC028') ORDER BY EDW_SubLineNum asc
+2019-11-14 03:03:34: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:34: Check Point: select * from QSI12_IDW('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:36: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:36: Check Point: select * from QSI12_CCDW('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:39: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:39: Check Point: select * from QSI12_CC('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:41: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:41: Check Point: select * from QSI12_DAP('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:43: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:43: Check Point: select * from QSI12_Approval('03049CJM','03049CJM/SC028')
+2019-11-14 03:03:44: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:03:44: Check Point: SELECT c.COSTCODE as LIST_CostCode, c.COSTNAME AS List_COSTDESC, a.U_ReportCode AS LIST_RptCode FROM CPS_View_CostCodeList c, OACT a WHERE c.COSTTYPE IN ('E','M','N','P','PS','S','CC') AND c.COSTCODE = a.AcctCode AND c.COSTCODE <> 'CC.SC028'
+2019-11-14 03:03:44: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

@@ -1,0 +1,22 @@
+2011-09-01 05:47:06: Check Point: Import: Run Application
+2011-09-01 05:47:06: Check Point: Import: set FileName
+2011-09-01 05:47:09: Check Point: Import: Open Workbook
+2011-09-01 05:47:09: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\MAI08.xls
+2011-09-01 05:47:09: Check Point: Import: UnProtectSheet
+2011-09-01 05:47:09: Check Point: Import: BreakLinked
+2011-09-01 05:47:09: Check Point: Import: ReplaceAllData
+2011-09-01 05:47:09: Check Point: Now is replace: xxxxxx
+2011-09-01 05:47:09: Check Point: Next
+2011-09-01 05:47:09: Check Point: Now is replace: Form
+2011-09-01 05:47:09: Check Point: Next
+2011-09-01 05:47:09: Check Point: Now is replace: Sheet1
+2011-09-01 05:47:09: Check Point: Next
+2011-09-01 05:47:09: Check Point: Now is replace: Sheet1 (2)
+2011-09-01 05:47:09: Check Point: Next
+2011-09-01 05:47:09: Check Point: Import: ProtectSheet
+2011-09-01 05:47:22: Check Point: Import: Save
+2011-09-01 05:47:22: Check Point: Import: Close
+2011-09-01 05:47:22: Check Point: Import: Closed
+2011-09-01 05:47:22: Check Point: End
+2011-09-01 05:47:22: Check Point: Disconnect
+2011-09-01 05:47:23: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

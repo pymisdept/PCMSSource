@@ -1,0 +1,924 @@
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE40Z83C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG CHI PANG
+2012-06-20 02:13:00: Check Point: RecCount607
+2012-06-20 02:13:00: Check Point: oRow Lenght: 607
+2012-06-20 02:13:00: Check Point: oRecCount: 607
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE41Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEONG FAT SHIPSCHANDLER
+2012-06-20 02:13:00: Check Point: RecCount608
+2012-06-20 02:13:00: Check Point: oRow Lenght: 608
+2012-06-20 02:13:00: Check Point: oRecCount: 608
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE42Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEER COME ASIA LTD
+2012-06-20 02:13:00: Check Point: RecCount609
+2012-06-20 02:13:00: Check Point: oRow Lenght: 609
+2012-06-20 02:13:00: Check Point: oRecCount: 609
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE43Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEVALIER PIPE REHABILITATION HK LTD
+2012-06-20 02:13:00: Check Point: RecCount610
+2012-06-20 02:13:00: Check Point: oRow Lenght: 610
+2012-06-20 02:13:00: Check Point: oRecCount: 610
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE44Z83C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHENG KAM MAN
+2012-06-20 02:13:00: Check Point: RecCount611
+2012-06-20 02:13:00: Check Point: oRow Lenght: 611
+2012-06-20 02:13:00: Check Point: oRecCount: 611
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE45Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHENG CHI KEUNG (鄭志強)
+2012-06-20 02:13:00: Check Point: RecCount612
+2012-06-20 02:13:00: Check Point: oRow Lenght: 612
+2012-06-20 02:13:00: Check Point: oRecCount: 612
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE46Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG YUK YING (張玉英)
+2012-06-20 02:13:00: Check Point: RecCount613
+2012-06-20 02:13:00: Check Point: oRow Lenght: 613
+2012-06-20 02:13:00: Check Point: oRecCount: 613
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE47Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEERY CHEMICALS COMPANY
+2012-06-20 02:13:00: Check Point: RecCount614
+2012-06-20 02:13:00: Check Point: oRow Lenght: 614
+2012-06-20 02:13:00: Check Point: oRecCount: 614
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE48Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG LAP ENGINEERING LTD
+2012-06-20 02:13:00: Check Point: RecCount615
+2012-06-20 02:13:00: Check Point: oRow Lenght: 615
+2012-06-20 02:13:00: Check Point: oRecCount: 615
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE49Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEVALIER (E&M CONTRACTING) LIMITED
+2012-06-20 02:13:00: Check Point: RecCount616
+2012-06-20 02:13:00: Check Point: oRow Lenght: 616
+2012-06-20 02:13:00: Check Point: oRecCount: 616
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE50Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEST APPLY (ASIA) LIMITED
+2012-06-20 02:13:00: Check Point: RecCount617
+2012-06-20 02:13:00: Check Point: oRow Lenght: 617
+2012-06-20 02:13:00: Check Point: oRecCount: 617
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE51Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHENG, YEUNG & CO
+2012-06-20 02:13:00: Check Point: RecCount618
+2012-06-20 02:13:00: Check Point: oRow Lenght: 618
+2012-06-20 02:13:00: Check Point: oRecCount: 618
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE52Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEONG WING TRADING CO
+2012-06-20 02:13:00: Check Point: RecCount619
+2012-06-20 02:13:00: Check Point: oRow Lenght: 619
+2012-06-20 02:13:00: Check Point: oRecCount: 619
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE53Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG YING TRANSPORTATION CO.
+2012-06-20 02:13:00: Check Point: RecCount620
+2012-06-20 02:13:00: Check Point: oRow Lenght: 620
+2012-06-20 02:13:00: Check Point: oRecCount: 620
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE54Z83C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHENG KAM SAN
+2012-06-20 02:13:00: Check Point: RecCount621
+2012-06-20 02:13:00: Check Point: oRow Lenght: 621
+2012-06-20 02:13:00: Check Point: oRecCount: 621
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE55Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHERIE CHEUNG HIU-YAN
+2012-06-20 02:13:00: Check Point: RecCount622
+2012-06-20 02:13:00: Check Point: oRow Lenght: 622
+2012-06-20 02:13:00: Check Point: oRecCount: 622
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE56Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG FAT GLASS COMPANY
+2012-06-20 02:13:00: Check Point: RecCount623
+2012-06-20 02:13:00: Check Point: oRow Lenght: 623
+2012-06-20 02:13:00: Check Point: oRecCount: 623
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE57Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEE SHING ENGINEERING CO.
+2012-06-20 02:13:00: Check Point: RecCount624
+2012-06-20 02:13:00: Check Point: oRow Lenght: 624
+2012-06-20 02:13:00: Check Point: oRecCount: 624
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE59Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG HING ELECT. & ELECT. ENG. CO LTD
+2012-06-20 02:13:00: Check Point: RecCount625
+2012-06-20 02:13:00: Check Point: oRow Lenght: 625
+2012-06-20 02:13:00: Check Point: oRecCount: 625
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE60Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEONG LEE MACHINERY ENGINEERING CO
+2012-06-20 02:13:00: Check Point: RecCount626
+2012-06-20 02:13:00: Check Point: oRow Lenght: 626
+2012-06-20 02:13:00: Check Point: oRecCount: 626
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE61Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEONG FU CO.
+2012-06-20 02:13:00: Check Point: RecCount627
+2012-06-20 02:13:00: Check Point: oRow Lenght: 627
+2012-06-20 02:13:00: Check Point: oRecCount: 627
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE62Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG KONG CENTER PROPERTY MGT LTD
+2012-06-20 02:13:00: Check Point: RecCount628
+2012-06-20 02:13:00: Check Point: oRow Lenght: 628
+2012-06-20 02:13:00: Check Point: oRecCount: 628
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE63Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEONG YUN ENGINEERING CO LTD
+2012-06-20 02:13:00: Check Point: RecCount629
+2012-06-20 02:13:00: Check Point: oRow Lenght: 629
+2012-06-20 02:13:00: Check Point: oRecCount: 629
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE64Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: 張麗英
+2012-06-20 02:13:00: Check Point: RecCount630
+2012-06-20 02:13:00: Check Point: oRow Lenght: 630
+2012-06-20 02:13:00: Check Point: oRecCount: 630
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE65Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG KEE ENVIRONMENTAL LIMITED
+2012-06-20 02:13:00: Check Point: RecCount631
+2012-06-20 02:13:00: Check Point: oRow Lenght: 631
+2012-06-20 02:13:00: Check Point: oRecCount: 631
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE66Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG FAT METAL TRADING CO LTD
+2012-06-20 02:13:00: Check Point: RecCount632
+2012-06-20 02:13:00: Check Point: oRow Lenght: 632
+2012-06-20 02:13:00: Check Point: oRecCount: 632
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE67Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: 鄭玲
+2012-06-20 02:13:00: Check Point: RecCount633
+2012-06-20 02:13:00: Check Point: oRow Lenght: 633
+2012-06-20 02:13:00: Check Point: oRecCount: 633
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE68Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG CHOI FUNG
+2012-06-20 02:13:00: Check Point: RecCount634
+2012-06-20 02:13:00: Check Point: oRow Lenght: 634
+2012-06-20 02:13:00: Check Point: oRecCount: 634
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE69Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG FAT PROFESSIONAL ENG CO., LTD
+2012-06-20 02:13:00: Check Point: RecCount635
+2012-06-20 02:13:00: Check Point: oRow Lenght: 635
+2012-06-20 02:13:00: Check Point: oRecCount: 635
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE70Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEONG SHING PROPERTY COMPANY LIMITED
+2012-06-20 02:13:00: Check Point: RecCount636
+2012-06-20 02:13:00: Check Point: oRow Lenght: 636
+2012-06-20 02:13:00: Check Point: oRecCount: 636
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE71Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEER BUILDING SUPPLIES COMPANY LIMITED
+2012-06-20 02:13:00: Check Point: RecCount637
+2012-06-20 02:13:00: Check Point: oRow Lenght: 637
+2012-06-20 02:13:00: Check Point: oRecCount: 637
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE72Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEIN FUNG ENGINEERING COMPANY
+2012-06-20 02:13:00: Check Point: RecCount638
+2012-06-20 02:13:00: Check Point: oRow Lenght: 638
+2012-06-20 02:13:00: Check Point: oRecCount: 638
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE73Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEONG KONG CONSTRUCTION CO., LTD.
+2012-06-20 02:13:00: Check Point: RecCount639
+2012-06-20 02:13:00: Check Point: oRow Lenght: 639
+2012-06-20 02:13:00: Check Point: oRecCount: 639
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHE74Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHEUNG KIN HONG KONG LIMITED
+2012-06-20 02:13:00: Check Point: RecCount640
+2012-06-20 02:13:00: Check Point: oRow Lenght: 640
+2012-06-20 02:13:00: Check Point: oRecCount: 640
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI01Z99C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA STRATEGIC HOLDINGS
+2012-06-20 02:13:00: Check Point: RecCount641
+2012-06-20 02:13:00: Check Point: oRow Lenght: 641
+2012-06-20 02:13:00: Check Point: oRecCount: 641
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI02Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINACHEM GROUP
+2012-06-20 02:13:00: Check Point: RecCount642
+2012-06-20 02:13:00: Check Point: oRow Lenght: 642
+2012-06-20 02:13:00: Check Point: oRecCount: 642
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI03Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA JIANGSU WAH YAN INTL
+2012-06-20 02:13:00: Check Point: RecCount643
+2012-06-20 02:13:00: Check Point: oRow Lenght: 643
+2012-06-20 02:13:00: Check Point: oRecCount: 643
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI04Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA CIVIL ENG CONST'N
+2012-06-20 02:13:00: Check Point: RecCount644
+2012-06-20 02:13:00: Check Point: oRow Lenght: 644
+2012-06-20 02:13:00: Check Point: oRecCount: 644
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI05Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHING TIN ADVERTISING ENGINEERING LTD
+2012-06-20 02:13:00: Check Point: RecCount645
+2012-06-20 02:13:00: Check Point: oRow Lenght: 645
+2012-06-20 02:13:00: Check Point: oRecCount: 645
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI06Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIT SHING MOTOR CAR SERV
+2012-06-20 02:13:00: Check Point: RecCount646
+2012-06-20 02:13:00: Check Point: oRow Lenght: 646
+2012-06-20 02:13:00: Check Point: oRecCount: 646
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI07Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA UNITED SURVEYORS & ENGINEERS LTD
+2012-06-20 02:13:00: Check Point: RecCount647
+2012-06-20 02:13:00: Check Point: oRow Lenght: 647
+2012-06-20 02:13:00: Check Point: oRecCount: 647
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI08Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI SHING ENGINEERING CO
+2012-06-20 02:13:00: Check Point: RecCount648
+2012-06-20 02:13:00: Check Point: oRow Lenght: 648
+2012-06-20 02:13:00: Check Point: oRecCount: 648
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI09Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA OVERSEAS FDTN ENG
+2012-06-20 02:13:00: Check Point: RecCount649
+2012-06-20 02:13:00: Check Point: oRow Lenght: 649
+2012-06-20 02:13:00: Check Point: oRecCount: 649
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI10Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: THE CHINA ENGINEERS LTD
+2012-06-20 02:13:00: Check Point: RecCount650
+2012-06-20 02:13:00: Check Point: oRow Lenght: 650
+2012-06-20 02:13:00: Check Point: oRecCount: 650
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI11Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI WO ENGINEERING CO LTD
+2012-06-20 02:13:00: Check Point: RecCount651
+2012-06-20 02:13:00: Check Point: oRow Lenght: 651
+2012-06-20 02:13:00: Check Point: oRecCount: 651
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI12Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA CONCRETE CO LTD
+2012-06-20 02:13:00: Check Point: RecCount652
+2012-06-20 02:13:00: Check Point: oRow Lenght: 652
+2012-06-20 02:13:00: Check Point: oRecCount: 652
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI13Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA LIGHT & POWER CO LTD
+2012-06-20 02:13:00: Check Point: RecCount653
+2012-06-20 02:13:00: Check Point: oRow Lenght: 653
+2012-06-20 02:13:00: Check Point: oRecCount: 653
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI14Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA CASTLE HONG KONG LTD
+2012-06-20 02:13:00: Check Point: RecCount654
+2012-06-20 02:13:00: Check Point: oRow Lenght: 654
+2012-06-20 02:13:00: Check Point: oRecCount: 654
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI15Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI FUNG PUMPING WORKS CO., LTD
+2012-06-20 02:13:00: Check Point: RecCount655
+2012-06-20 02:13:00: Check Point: oRow Lenght: 655
+2012-06-20 02:13:00: Check Point: oRecCount: 655
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI16Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA WEALTH (ASIA) MACHINE LTD
+2012-06-20 02:13:00: Check Point: RecCount656
+2012-06-20 02:13:00: Check Point: oRow Lenght: 656
+2012-06-20 02:13:00: Check Point: oRecCount: 656
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI17Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA INT'L ENG
+2012-06-20 02:13:00: Check Point: RecCount657
+2012-06-20 02:13:00: Check Point: oRow Lenght: 657
+2012-06-20 02:13:00: Check Point: oRecCount: 657
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI18Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA MOTION TELECOM (HK) LIMITED
+2012-06-20 02:13:00: Check Point: RecCount658
+2012-06-20 02:13:00: Check Point: oRow Lenght: 658
+2012-06-20 02:13:00: Check Point: oRecCount: 658
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI19Z51C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA CONSTRUCTION BANK CORPORATION
+2012-06-20 02:13:00: Check Point: RecCount659
+2012-06-20 02:13:00: Check Point: oRow Lenght: 659
+2012-06-20 02:13:00: Check Point: oRecCount: 659
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI20Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA TREND BUILDING PRESS LTD
+2012-06-20 02:13:00: Check Point: RecCount660
+2012-06-20 02:13:00: Check Point: oRow Lenght: 660
+2012-06-20 02:13:00: Check Point: oRecCount: 660
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI21Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIEF INTERIOR DESIGN & CO
+2012-06-20 02:13:00: Check Point: RecCount661
+2012-06-20 02:13:00: Check Point: oRow Lenght: 661
+2012-06-20 02:13:00: Check Point: oRecCount: 661
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI22Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA STATE CONST ENG (HK) LTD
+2012-06-20 02:13:00: Check Point: RecCount662
+2012-06-20 02:13:00: Check Point: oRow Lenght: 662
+2012-06-20 02:13:00: Check Point: oRecCount: 662
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI23Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIEF CONTAINER SERV CO LTD
+2012-06-20 02:13:00: Check Point: RecCount663
+2012-06-20 02:13:00: Check Point: oRow Lenght: 663
+2012-06-20 02:13:00: Check Point: oRecCount: 663
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI24Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA INSPECTION COMPANY LIMITED
+2012-06-20 02:13:00: Check Point: RecCount664
+2012-06-20 02:13:00: Check Point: oRow Lenght: 664
+2012-06-20 02:13:00: Check Point: oRecCount: 664
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI25Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIM KEE CO LTD
+2012-06-20 02:13:00: Check Point: RecCount665
+2012-06-20 02:13:00: Check Point: oRow Lenght: 665
+2012-06-20 02:13:00: Check Point: oRecCount: 665
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI26Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA STANDARD ENGINEERING LTD
+2012-06-20 02:13:00: Check Point: RecCount666
+2012-06-20 02:13:00: Check Point: oRow Lenght: 666
+2012-06-20 02:13:00: Check Point: oRecCount: 666
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI27Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA VIEW MATERIALS SUPPLY & ENG CO LTD
+2012-06-20 02:13:00: Check Point: RecCount667
+2012-06-20 02:13:00: Check Point: oRow Lenght: 667
+2012-06-20 02:13:00: Check Point: oRecCount: 667
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI28Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA RAILWAY ENGINEERING CORPORATION
+2012-06-20 02:13:00: Check Point: RecCount668
+2012-06-20 02:13:00: Check Point: oRow Lenght: 668
+2012-06-20 02:13:00: Check Point: oRecCount: 668
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI29Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA OVERSEAS CIVIL ENGINEERING LTD
+2012-06-20 02:13:00: Check Point: RecCount669
+2012-06-20 02:13:00: Check Point: oRow Lenght: 669
+2012-06-20 02:13:00: Check Point: oRecCount: 669
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI30Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI WING CONSTRUCTION COMPANY LTD
+2012-06-20 02:13:00: Check Point: RecCount670
+2012-06-20 02:13:00: Check Point: oRow Lenght: 670
+2012-06-20 02:13:00: Check Point: oRecCount: 670
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI31Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: HK CHINA-ASIA ENTERPRISE & TRADE LTD
+2012-06-20 02:13:00: Check Point: RecCount671
+2012-06-20 02:13:00: Check Point: oRow Lenght: 671
+2012-06-20 02:13:00: Check Point: oRecCount: 671
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI32Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA-HONGKONG TELECOM LIMITED
+2012-06-20 02:13:00: Check Point: RecCount672
+2012-06-20 02:13:00: Check Point: oRow Lenght: 672
+2012-06-20 02:13:00: Check Point: oRecCount: 672
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI33Z83C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIU MAN WAI
+2012-06-20 02:13:00: Check Point: RecCount673
+2012-06-20 02:13:00: Check Point: oRow Lenght: 673
+2012-06-20 02:13:00: Check Point: oRecCount: 673
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI34Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: HONG KONG-CHINA CONCRETE CO LTD
+2012-06-20 02:13:00: Check Point: RecCount674
+2012-06-20 02:13:00: Check Point: oRow Lenght: 674
+2012-06-20 02:13:00: Check Point: oRecCount: 674
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI35Q61C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: PY (ASIA PACIFIC) LIMITED
+2012-06-20 02:13:00: Check Point: RecCount675
+2012-06-20 02:13:00: Check Point: oRow Lenght: 675
+2012-06-20 02:13:00: Check Point: oRecCount: 675
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI36Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA CONSTRUCTION BANK (ASIA) CORP LTD
+2012-06-20 02:13:00: Check Point: RecCount676
+2012-06-20 02:13:00: Check Point: oRow Lenght: 676
+2012-06-20 02:13:00: Check Point: oRecCount: 676
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI37Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIN HUNG IRON ENGINEERING CO., LTD
+2012-06-20 02:13:00: Check Point: RecCount677
+2012-06-20 02:13:00: Check Point: oRow Lenght: 677
+2012-06-20 02:13:00: Check Point: oRecCount: 677
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI38Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA GEO-ENGINEERING CORPORATION
+2012-06-20 02:13:00: Check Point: RecCount678
+2012-06-20 02:13:00: Check Point: oRow Lenght: 678
+2012-06-20 02:13:00: Check Point: oRecCount: 678
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI39Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINNEY ALLIANCE ENGINEERING LTD
+2012-06-20 02:13:00: Check Point: RecCount679
+2012-06-20 02:13:00: Check Point: oRow Lenght: 679
+2012-06-20 02:13:00: Check Point: oRecCount: 679
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI40Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIT HING CONSTRUCTION LIMITED
+2012-06-20 02:13:00: Check Point: RecCount680
+2012-06-20 02:13:00: Check Point: oRow Lenght: 680
+2012-06-20 02:13:00: Check Point: oRecCount: 680
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI41Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA OVERSEAS BUILDING CONSTRUCTION LTD
+2012-06-20 02:13:00: Check Point: RecCount681
+2012-06-20 02:13:00: Check Point: oRow Lenght: 681
+2012-06-20 02:13:00: Check Point: oRecCount: 681
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI42Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIT HING CONSTRUCTION ENG
+2012-06-20 02:13:00: Check Point: RecCount682
+2012-06-20 02:13:00: Check Point: oRow Lenght: 682
+2012-06-20 02:13:00: Check Point: oRecCount: 682
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI43Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI KO SURVEYORS CO
+2012-06-20 02:13:00: Check Point: RecCount683
+2012-06-20 02:13:00: Check Point: oRow Lenght: 683
+2012-06-20 02:13:00: Check Point: oRecCount: 683
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI44Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIEF LINK INTERNATIONAL LIMITED
+2012-06-20 02:13:00: Check Point: RecCount684
+2012-06-20 02:13:00: Check Point: oRow Lenght: 684
+2012-06-20 02:13:00: Check Point: oRecCount: 684
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI45Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIM KEE MACHINERY CO LTD
+2012-06-20 02:13:00: Check Point: RecCount685
+2012-06-20 02:13:00: Check Point: oRow Lenght: 685
+2012-06-20 02:13:00: Check Point: oRecCount: 685
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI46Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA TIME ENGINEERING LIMITED
+2012-06-20 02:13:00: Check Point: RecCount686
+2012-06-20 02:13:00: Check Point: oRow Lenght: 686
+2012-06-20 02:13:00: Check Point: oRecCount: 686
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI47Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHISTA, INC.
+2012-06-20 02:13:00: Check Point: RecCount687
+2012-06-20 02:13:00: Check Point: oRow Lenght: 687
+2012-06-20 02:13:00: Check Point: oRecCount: 687
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI48Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIU HING CONSTRUCTION & TRANSP'N CO LTD
+2012-06-20 02:13:00: Check Point: RecCount688
+2012-06-20 02:13:00: Check Point: oRow Lenght: 688
+2012-06-20 02:13:00: Check Point: oRecCount: 688
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI49Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA WEALTH (MACAU) MACHINE LTD
+2012-06-20 02:13:00: Check Point: RecCount689
+2012-06-20 02:13:00: Check Point: oRow Lenght: 689
+2012-06-20 02:13:00: Check Point: oRecCount: 689
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI50Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINNEY DOUBLE MECHANIC ENG'G CO LTD
+2012-06-20 02:13:00: Check Point: RecCount690
+2012-06-20 02:13:00: Check Point: oRow Lenght: 690
+2012-06-20 02:13:00: Check Point: oRecCount: 690
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI51Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIU LAI CONSTRUCTION
+2012-06-20 02:13:00: Check Point: RecCount691
+2012-06-20 02:13:00: Check Point: oRow Lenght: 691
+2012-06-20 02:13:00: Check Point: oRecCount: 691
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI52Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI TAT ENGINEERING CO
+2012-06-20 02:13:00: Check Point: RecCount692
+2012-06-20 02:13:00: Check Point: oRow Lenght: 692
+2012-06-20 02:13:00: Check Point: oRecCount: 692
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI53Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI SHING HOT BLOCKING CO LTD
+2012-06-20 02:13:00: Check Point: RecCount693
+2012-06-20 02:13:00: Check Point: oRow Lenght: 693
+2012-06-20 02:13:00: Check Point: oRecCount: 693
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI54Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI SHING MACHINERY RENTAL CO LTD
+2012-06-20 02:13:00: Check Point: RecCount694
+2012-06-20 02:13:00: Check Point: oRow Lenght: 694
+2012-06-20 02:13:00: Check Point: oRecCount: 694
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI55Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA TRAVEL SERVICE (HONG KONG) LTD
+2012-06-20 02:13:00: Check Point: RecCount695
+2012-06-20 02:13:00: Check Point: oRow Lenght: 695
+2012-06-20 02:13:00: Check Point: oRecCount: 695
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI56Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHI EAST ENGINEERING CO.
+2012-06-20 02:13:00: Check Point: RecCount696
+2012-06-20 02:13:00: Check Point: oRow Lenght: 696
+2012-06-20 02:13:00: Check Point: oRecCount: 696
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI57Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHING SZE BUN
+2012-06-20 02:13:00: Check Point: RecCount697
+2012-06-20 02:13:00: Check Point: oRow Lenght: 697
+2012-06-20 02:13:00: Check Point: oRecCount: 697
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI58Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA KING ENGINEERING LIMITED
+2012-06-20 02:13:00: Check Point: RecCount698
+2012-06-20 02:13:00: Check Point: oRow Lenght: 698
+2012-06-20 02:13:00: Check Point: oRecCount: 698
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI59Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIM K SOC UNI, LDA. (占記一人有限公司)
+2012-06-20 02:13:00: Check Point: RecCount699
+2012-06-20 02:13:00: Check Point: oRow Lenght: 699
+2012-06-20 02:13:00: Check Point: oRecCount: 699
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI60Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA GROUP ENGINEERING LIMITED
+2012-06-20 02:13:00: Check Point: RecCount700
+2012-06-20 02:13:00: Check Point: oRow Lenght: 700
+2012-06-20 02:13:00: Check Point: oRecCount: 700
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI61Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA TAIPING INSURANCE (MACAU) CO LTD
+2012-06-20 02:13:00: Check Point: RecCount701
+2012-06-20 02:13:00: Check Point: oRow Lenght: 701
+2012-06-20 02:13:00: Check Point: oRecCount: 701
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI62Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA ASIA CONSTRUCTION ENGINEERING LTD
+2012-06-20 02:13:00: Check Point: RecCount702
+2012-06-20 02:13:00: Check Point: oRow Lenght: 702
+2012-06-20 02:13:00: Check Point: oRecCount: 702
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI63Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIT CHEUNG CONSTRUCTION CO LTD
+2012-06-20 02:13:00: Check Point: RecCount703
+2012-06-20 02:13:00: Check Point: oRow Lenght: 703
+2012-06-20 02:13:00: Check Point: oRecCount: 703
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI64Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA SCIENTIFIC (HONG KONG) LIMITED
+2012-06-20 02:13:00: Check Point: RecCount704
+2012-06-20 02:13:00: Check Point: oRow Lenght: 704
+2012-06-20 02:13:00: Check Point: oRecCount: 704
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI65Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHING CHIU PLUMBING ENGINEERING LIMITED
+2012-06-20 02:13:00: Check Point: RecCount705
+2012-06-20 02:13:00: Check Point: oRow Lenght: 705
+2012-06-20 02:13:00: Check Point: oRecCount: 705
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI66Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA GREAT WALL CONSTRUCTION MATERIALS
+2012-06-20 02:13:00: Check Point: RecCount706
+2012-06-20 02:13:00: Check Point: oRow Lenght: 706
+2012-06-20 02:13:00: Check Point: oRecCount: 706
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI67Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHICARDO INVESTMENT LIMITED
+2012-06-20 02:13:00: Check Point: RecCount707
+2012-06-20 02:13:00: Check Point: oRow Lenght: 707
+2012-06-20 02:13:00: Check Point: oRecCount: 707
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHI68Z00C
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHIAP HUA INTERNATIONAL LIMITED
+2012-06-20 02:13:00: Check Point: RecCount708
+2012-06-20 02:13:00: Check Point: oRow Lenght: 708
+2012-06-20 02:13:00: Check Point: oRecCount: 708
+2012-06-20 02:13:00: Check Point: Line: 0
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:13:00: Check Point: Value: CHIC1ENCC
+2012-06-20 02:13:00: Check Point: Line: 1
+2012-06-20 02:13:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:13:00: Check Point: Value: CHINA EARTH LIMITED

@@ -1,0 +1,6 @@
+2019-11-14 10:31:00: Check Point: Now is replace: Sheet1 (2)
+2019-11-14 10:31:01: Check Point: Next
+2019-11-14 10:31:03: Check Point: Import: ProtectSheet
+2019-11-14 10:31:13: Check Point: Import: Save
+2019-11-14 10:31:53: Check Point: Import: Close
+2019-11-14 10:31:55: Check Point: Import: Closed

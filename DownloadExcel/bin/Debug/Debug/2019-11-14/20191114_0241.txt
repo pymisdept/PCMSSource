@@ -1,0 +1,13 @@
+2019-11-14 02:41:37: Check Point: Now is replace: Form
+2019-11-14 02:41:42: Check Point: Next
+2019-11-14 02:41:44: Check Point: Now is replace: Cost Code
+2019-11-14 02:41:44: Check Point: Next
+2019-11-14 02:41:45: Check Point: Now is replace: SubContractor
+2019-11-14 02:41:45: Check Point: Next
+2019-11-14 02:41:45: Check Point: Now is replace: Request Type
+2019-11-14 02:41:45: Check Point: Next
+2019-11-14 02:41:46: Check Point: Now is replace: Item Code
+2019-11-14 02:41:46: Check Point: Next
+2019-11-14 02:41:46: Check Point: Now is replace: Material Type
+2019-11-14 02:41:47: Check Point: Next
+2019-11-14 02:41:47: Check Point: Import: ProtectSheet

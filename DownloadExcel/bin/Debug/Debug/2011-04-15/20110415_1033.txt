@@ -1,0 +1,15 @@
+2011-04-15 10:33:01: Check Point: select * from QSI17_EVO ('00000F3H')
+2011-04-15 10:33:03: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:33:13: Check Point: select * from QSI17_EDW ('00000F3H')
+2011-04-15 10:33:20: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:33:31: Check Point: select * from QSI17_ECL ('00000F3H')
+2011-04-15 10:33:33: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:33:37: Check Point: select * from QSI17_Bill ('00000F3H')
+2011-04-15 10:33:39: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:33:47: Check Point: Import: Run Application
+2011-04-15 10:33:48: Check Point: Import: set FileName
+2011-04-15 10:33:49: Check Point: Import: Open Workbook
+2011-04-15 10:33:49: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI17.xls
+2011-04-15 10:33:54: Check Point: Import: UnProtectSheet
+2011-04-15 10:33:55: Check Point: Import: BreakLinked
+2011-04-15 10:33:58: Check Point: Import: ReplaceAllData

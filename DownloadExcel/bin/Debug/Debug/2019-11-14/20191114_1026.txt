@@ -1,0 +1,2 @@
+2019-11-14 10:26:58: Check Point: Import: RsToCollection
+2019-11-14 10:26:59: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('03049CJM', 'COM22Z00S', '03049CJM/SC028') 

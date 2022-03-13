@@ -1,0 +1,20 @@
+2019-11-13 10:46:31: Check Point: Import: UnProtectSheet
+2019-11-13 10:46:33: Check Point: Import: BreakLinked
+2019-11-13 10:46:34: Check Point: Import: ReplaceAllData
+2019-11-13 10:46:35: Check Point: Now is replace: Form
+2019-11-13 10:46:37: Check Point: Next
+2019-11-13 10:46:38: Check Point: Now is replace: Cost Code
+2019-11-13 10:46:38: Check Point: Next
+2019-11-13 10:46:38: Check Point: Now is replace: SubContractor
+2019-11-13 10:46:38: Check Point: Next
+2019-11-13 10:46:39: Check Point: Now is replace: Request Type
+2019-11-13 10:46:39: Check Point: Next
+2019-11-13 10:46:39: Check Point: Now is replace: Item Code
+2019-11-13 10:46:40: Check Point: Next
+2019-11-13 10:46:40: Check Point: Now is replace: Material Type
+2019-11-13 10:46:40: Check Point: Next
+2019-11-13 10:46:40: Check Point: Import: ProtectSheet
+2019-11-13 10:46:44: Check Point: Import: Save
+2019-11-13 10:46:51: Check Point: End
+2019-11-13 10:46:51: Check Point: Disconnect
+2019-11-13 10:46:51: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\

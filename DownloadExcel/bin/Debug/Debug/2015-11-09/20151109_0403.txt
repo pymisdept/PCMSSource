@@ -1,0 +1,6 @@
+2015-11-09 04:03:14: Check Point: Import: RsToCollection
+2015-11-09 04:03:17: Check Point: Select '00329F1H' PRJCODE, '00329F1H ' + ' - ' + 'Queen''''s Rd. No.2 Ph. 2' PrjDesc
+2015-11-09 04:03:17: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 04:03:17: Check Point: RecCount1
+2015-11-09 04:03:17: Check Point: oRow Lenght: 1
+2015-11-09 04:03:17: Check Point: oRecCount: 1

@@ -1,0 +1,292 @@
+2012-01-27 01:48:31: Check Point: Import: RsToCollection
+2012-01-27 01:48:32: Check Point: Select * from QSI41_Form('20055BAH', 'CIT03Z00S', '20055BAH/SC027') 
+2012-01-27 01:48:32: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-01-27 01:48:32: Check Point: RecCount1
+2012-01-27 01:48:32: Check Point: oRow Lenght: 1
+2012-01-27 01:48:32: Check Point: oRecCount: 1
+2012-01-27 01:48:33: Check Point: Line: 0
+2012-01-27 01:48:33: Check Point: Column: PrjCode
+2012-01-27 01:48:33: Check Point: Value: 20055BAH
+2012-01-27 01:48:33: Check Point: Line: 1
+2012-01-27 01:48:33: Check Point: Column: PrjDesc
+2012-01-27 01:48:33: Check Point: Value: Tuen Mun Swimming Pool
+2012-01-27 01:48:33: Check Point: Line: 2
+2012-01-27 01:48:33: Check Point: Column: SCName
+2012-01-27 01:48:33: Check Point: Value: CITY CONCRETE PUMP LTD
+2012-01-27 01:48:33: Check Point: Line: 3
+2012-01-27 01:48:33: Check Point: Column: SCCode
+2012-01-27 01:48:33: Check Point: Value: CIT03Z00S
+2012-01-27 01:48:33: Check Point: Line: 4
+2012-01-27 01:48:33: Check Point: Column: SCNo
+2012-01-27 01:48:33: Check Point: Value: SC027
+2012-01-27 01:48:33: Check Point: Line: 5
+2012-01-27 01:48:33: Check Point: Column: SCWorks
+2012-01-27 01:48:33: Check Point: Value: 
+2012-01-27 01:48:33: Check Point: Line: 6
+2012-01-27 01:48:33: Check Point: Column: SCPayTerm
+2012-01-27 01:48:33: Check Point: Value: 33 days
+2012-01-27 01:48:33: Check Point: Line: 7
+2012-01-27 01:48:33: Check Point: Column: SCItemNo
+2012-01-27 01:48:33: Check Point: Value: 1
+2012-01-27 01:48:33: Check Point: Line: 8
+2012-01-27 01:48:33: Check Point: Column: SCDesc
+2012-01-27 01:48:33: Check Point: Value: Rental of concrete pump
+2012-01-27 01:48:33: Check Point: Line: 9
+2012-01-27 01:48:33: Check Point: Column: ItemType
+2012-01-27 01:48:33: Check Point: Value: QR
+2012-01-27 01:48:33: Check Point: Line: 10
+2012-01-27 01:48:33: Check Point: Column: Quantity
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 11
+2012-01-27 01:48:33: Check Point: Column: UOM
+2012-01-27 01:48:33: Check Point: Value: Plant Day
+2012-01-27 01:48:33: Check Point: Line: 12
+2012-01-27 01:48:33: Check Point: Column: Rate
+2012-01-27 01:48:33: Check Point: Value: 2500.000000
+2012-01-27 01:48:33: Check Point: Line: 13
+2012-01-27 01:48:33: Check Point: Column: Amt
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 14
+2012-01-27 01:48:33: Check Point: Column: ClientRef
+2012-01-27 01:48:33: Check Point: Value: 1
+2012-01-27 01:48:33: Check Point: Line: 15
+2012-01-27 01:48:33: Check Point: Column: CostCode
+2012-01-27 01:48:33: Check Point: Value: 09P01
+2012-01-27 01:48:33: Check Point: Line: 16
+2012-01-27 01:48:33: Check Point: Column: CostCodeDesc
+2012-01-27 01:48:33: Check Point: Value: Plant & machinery
+2012-01-27 01:48:33: Check Point: Line: 17
+2012-01-27 01:48:33: Check Point: Column: CommitBudget
+2012-01-27 01:48:33: Check Point: Value: 12200.000000
+2012-01-27 01:48:33: Check Point: RecCount2
+2012-01-27 01:48:33: Check Point: oRow Lenght: 2
+2012-01-27 01:48:33: Check Point: oRecCount: 2
+2012-01-27 01:48:33: Check Point: Line: 0
+2012-01-27 01:48:33: Check Point: Column: PrjCode
+2012-01-27 01:48:33: Check Point: Value: 20055BAH
+2012-01-27 01:48:33: Check Point: Line: 1
+2012-01-27 01:48:33: Check Point: Column: PrjDesc
+2012-01-27 01:48:33: Check Point: Value: Tuen Mun Swimming Pool
+2012-01-27 01:48:33: Check Point: Line: 2
+2012-01-27 01:48:33: Check Point: Column: SCName
+2012-01-27 01:48:33: Check Point: Value: CITY CONCRETE PUMP LTD
+2012-01-27 01:48:33: Check Point: Line: 3
+2012-01-27 01:48:33: Check Point: Column: SCCode
+2012-01-27 01:48:33: Check Point: Value: CIT03Z00S
+2012-01-27 01:48:33: Check Point: Line: 4
+2012-01-27 01:48:33: Check Point: Column: SCNo
+2012-01-27 01:48:33: Check Point: Value: SC027
+2012-01-27 01:48:33: Check Point: Line: 5
+2012-01-27 01:48:33: Check Point: Column: SCWorks
+2012-01-27 01:48:33: Check Point: Value: 
+2012-01-27 01:48:33: Check Point: Line: 6
+2012-01-27 01:48:33: Check Point: Column: SCPayTerm
+2012-01-27 01:48:33: Check Point: Value: 33 days
+2012-01-27 01:48:33: Check Point: Line: 7
+2012-01-27 01:48:33: Check Point: Column: SCItemNo
+2012-01-27 01:48:33: Check Point: Value: 2
+2012-01-27 01:48:33: Check Point: Line: 8
+2012-01-27 01:48:33: Check Point: Column: SCDesc
+2012-01-27 01:48:33: Check Point: Value: Transportation charge for concrete pump
+2012-01-27 01:48:33: Check Point: Line: 9
+2012-01-27 01:48:33: Check Point: Column: ItemType
+2012-01-27 01:48:33: Check Point: Value: QR
+2012-01-27 01:48:33: Check Point: Line: 10
+2012-01-27 01:48:33: Check Point: Column: Quantity
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 11
+2012-01-27 01:48:33: Check Point: Column: UOM
+2012-01-27 01:48:33: Check Point: Value: Trip
+2012-01-27 01:48:33: Check Point: Line: 12
+2012-01-27 01:48:33: Check Point: Column: Rate
+2012-01-27 01:48:33: Check Point: Value: 500.000000
+2012-01-27 01:48:33: Check Point: Line: 13
+2012-01-27 01:48:33: Check Point: Column: Amt
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 14
+2012-01-27 01:48:33: Check Point: Column: ClientRef
+2012-01-27 01:48:33: Check Point: Value: 1
+2012-01-27 01:48:33: Check Point: Line: 15
+2012-01-27 01:48:33: Check Point: Column: CostCode
+2012-01-27 01:48:33: Check Point: Value: 09P01
+2012-01-27 01:48:33: Check Point: Line: 16
+2012-01-27 01:48:33: Check Point: Column: CostCodeDesc
+2012-01-27 01:48:33: Check Point: Value: Plant & machinery
+2012-01-27 01:48:33: Check Point: Line: 17
+2012-01-27 01:48:33: Check Point: Column: CommitBudget
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: RecCount3
+2012-01-27 01:48:33: Check Point: oRow Lenght: 3
+2012-01-27 01:48:33: Check Point: oRecCount: 3
+2012-01-27 01:48:33: Check Point: Line: 0
+2012-01-27 01:48:33: Check Point: Column: PrjCode
+2012-01-27 01:48:33: Check Point: Value: 20055BAH
+2012-01-27 01:48:33: Check Point: Line: 1
+2012-01-27 01:48:33: Check Point: Column: PrjDesc
+2012-01-27 01:48:33: Check Point: Value: Tuen Mun Swimming Pool
+2012-01-27 01:48:33: Check Point: Line: 2
+2012-01-27 01:48:33: Check Point: Column: SCName
+2012-01-27 01:48:33: Check Point: Value: CITY CONCRETE PUMP LTD
+2012-01-27 01:48:33: Check Point: Line: 3
+2012-01-27 01:48:33: Check Point: Column: SCCode
+2012-01-27 01:48:33: Check Point: Value: CIT03Z00S
+2012-01-27 01:48:33: Check Point: Line: 4
+2012-01-27 01:48:33: Check Point: Column: SCNo
+2012-01-27 01:48:33: Check Point: Value: SC027
+2012-01-27 01:48:33: Check Point: Line: 5
+2012-01-27 01:48:33: Check Point: Column: SCWorks
+2012-01-27 01:48:33: Check Point: Value: 
+2012-01-27 01:48:33: Check Point: Line: 6
+2012-01-27 01:48:33: Check Point: Column: SCPayTerm
+2012-01-27 01:48:33: Check Point: Value: 33 days
+2012-01-27 01:48:33: Check Point: Line: 7
+2012-01-27 01:48:33: Check Point: Column: SCItemNo
+2012-01-27 01:48:33: Check Point: Value: 3
+2012-01-27 01:48:33: Check Point: Line: 8
+2012-01-27 01:48:33: Check Point: Column: SCDesc
+2012-01-27 01:48:33: Check Point: Value: Provision of concrete delivery pipe
+2012-01-27 01:48:33: Check Point: Line: 9
+2012-01-27 01:48:33: Check Point: Column: ItemType
+2012-01-27 01:48:33: Check Point: Value: QR
+2012-01-27 01:48:33: Check Point: Line: 10
+2012-01-27 01:48:33: Check Point: Column: Quantity
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 11
+2012-01-27 01:48:33: Check Point: Column: UOM
+2012-01-27 01:48:33: Check Point: Value: M
+2012-01-27 01:48:33: Check Point: Line: 12
+2012-01-27 01:48:33: Check Point: Column: Rate
+2012-01-27 01:48:33: Check Point: Value: 5.000000
+2012-01-27 01:48:33: Check Point: Line: 13
+2012-01-27 01:48:33: Check Point: Column: Amt
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 14
+2012-01-27 01:48:33: Check Point: Column: ClientRef
+2012-01-27 01:48:33: Check Point: Value: 1
+2012-01-27 01:48:33: Check Point: Line: 15
+2012-01-27 01:48:33: Check Point: Column: CostCode
+2012-01-27 01:48:33: Check Point: Value: 09P01
+2012-01-27 01:48:33: Check Point: Line: 16
+2012-01-27 01:48:33: Check Point: Column: CostCodeDesc
+2012-01-27 01:48:33: Check Point: Value: Plant & machinery
+2012-01-27 01:48:33: Check Point: Line: 17
+2012-01-27 01:48:33: Check Point: Column: CommitBudget
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: RecCount4
+2012-01-27 01:48:33: Check Point: oRow Lenght: 4
+2012-01-27 01:48:33: Check Point: oRecCount: 4
+2012-01-27 01:48:33: Check Point: Line: 0
+2012-01-27 01:48:33: Check Point: Column: PrjCode
+2012-01-27 01:48:33: Check Point: Value: 20055BAH
+2012-01-27 01:48:33: Check Point: Line: 1
+2012-01-27 01:48:33: Check Point: Column: PrjDesc
+2012-01-27 01:48:33: Check Point: Value: Tuen Mun Swimming Pool
+2012-01-27 01:48:33: Check Point: Line: 2
+2012-01-27 01:48:33: Check Point: Column: SCName
+2012-01-27 01:48:33: Check Point: Value: CITY CONCRETE PUMP LTD
+2012-01-27 01:48:33: Check Point: Line: 3
+2012-01-27 01:48:33: Check Point: Column: SCCode
+2012-01-27 01:48:33: Check Point: Value: CIT03Z00S
+2012-01-27 01:48:33: Check Point: Line: 4
+2012-01-27 01:48:33: Check Point: Column: SCNo
+2012-01-27 01:48:33: Check Point: Value: SC027
+2012-01-27 01:48:33: Check Point: Line: 5
+2012-01-27 01:48:33: Check Point: Column: SCWorks
+2012-01-27 01:48:33: Check Point: Value: 
+2012-01-27 01:48:33: Check Point: Line: 6
+2012-01-27 01:48:33: Check Point: Column: SCPayTerm
+2012-01-27 01:48:33: Check Point: Value: 33 days
+2012-01-27 01:48:33: Check Point: Line: 7
+2012-01-27 01:48:33: Check Point: Column: SCItemNo
+2012-01-27 01:48:33: Check Point: Value: 4
+2012-01-27 01:48:33: Check Point: Line: 8
+2012-01-27 01:48:33: Check Point: Column: SCDesc
+2012-01-27 01:48:33: Check Point: Value: Delivery & return of concrete pipe
+2012-01-27 01:48:33: Check Point: Line: 9
+2012-01-27 01:48:33: Check Point: Column: ItemType
+2012-01-27 01:48:33: Check Point: Value: QR
+2012-01-27 01:48:33: Check Point: Line: 10
+2012-01-27 01:48:33: Check Point: Column: Quantity
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 11
+2012-01-27 01:48:33: Check Point: Column: UOM
+2012-01-27 01:48:33: Check Point: Value: Trip
+2012-01-27 01:48:33: Check Point: Line: 12
+2012-01-27 01:48:33: Check Point: Column: Rate
+2012-01-27 01:48:33: Check Point: Value: 600.000000
+2012-01-27 01:48:33: Check Point: Line: 13
+2012-01-27 01:48:33: Check Point: Column: Amt
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 14
+2012-01-27 01:48:33: Check Point: Column: ClientRef
+2012-01-27 01:48:33: Check Point: Value: 1
+2012-01-27 01:48:33: Check Point: Line: 15
+2012-01-27 01:48:33: Check Point: Column: CostCode
+2012-01-27 01:48:33: Check Point: Value: 09P01
+2012-01-27 01:48:33: Check Point: Line: 16
+2012-01-27 01:48:33: Check Point: Column: CostCodeDesc
+2012-01-27 01:48:33: Check Point: Value: Plant & machinery
+2012-01-27 01:48:33: Check Point: Line: 17
+2012-01-27 01:48:33: Check Point: Column: CommitBudget
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: RecCount5
+2012-01-27 01:48:33: Check Point: oRow Lenght: 5
+2012-01-27 01:48:33: Check Point: oRecCount: 5
+2012-01-27 01:48:33: Check Point: Line: 0
+2012-01-27 01:48:33: Check Point: Column: PrjCode
+2012-01-27 01:48:33: Check Point: Value: 20055BAH
+2012-01-27 01:48:33: Check Point: Line: 1
+2012-01-27 01:48:33: Check Point: Column: PrjDesc
+2012-01-27 01:48:33: Check Point: Value: Tuen Mun Swimming Pool
+2012-01-27 01:48:33: Check Point: Line: 2
+2012-01-27 01:48:33: Check Point: Column: SCName
+2012-01-27 01:48:33: Check Point: Value: CITY CONCRETE PUMP LTD
+2012-01-27 01:48:33: Check Point: Line: 3
+2012-01-27 01:48:33: Check Point: Column: SCCode
+2012-01-27 01:48:33: Check Point: Value: CIT03Z00S
+2012-01-27 01:48:33: Check Point: Line: 4
+2012-01-27 01:48:33: Check Point: Column: SCNo
+2012-01-27 01:48:33: Check Point: Value: SC027
+2012-01-27 01:48:33: Check Point: Line: 5
+2012-01-27 01:48:33: Check Point: Column: SCWorks
+2012-01-27 01:48:33: Check Point: Value: 
+2012-01-27 01:48:33: Check Point: Line: 6
+2012-01-27 01:48:33: Check Point: Column: SCPayTerm
+2012-01-27 01:48:33: Check Point: Value: 33 days
+2012-01-27 01:48:33: Check Point: Line: 7
+2012-01-27 01:48:33: Check Point: Column: SCItemNo
+2012-01-27 01:48:33: Check Point: Value: 5
+2012-01-27 01:48:33: Check Point: Line: 8
+2012-01-27 01:48:33: Check Point: Column: SCDesc
+2012-01-27 01:48:33: Check Point: Value: Provision of pipe fixer
+2012-01-27 01:48:33: Check Point: Line: 9
+2012-01-27 01:48:33: Check Point: Column: ItemType
+2012-01-27 01:48:33: Check Point: Value: QR
+2012-01-27 01:48:33: Check Point: Line: 10
+2012-01-27 01:48:33: Check Point: Column: Quantity
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 11
+2012-01-27 01:48:33: Check Point: Column: UOM
+2012-01-27 01:48:33: Check Point: Value: Manday
+2012-01-27 01:48:33: Check Point: Line: 12
+2012-01-27 01:48:33: Check Point: Column: Rate
+2012-01-27 01:48:33: Check Point: Value: 900.000000
+2012-01-27 01:48:33: Check Point: Line: 13
+2012-01-27 01:48:33: Check Point: Column: Amt
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: Line: 14
+2012-01-27 01:48:33: Check Point: Column: ClientRef
+2012-01-27 01:48:33: Check Point: Value: 1
+2012-01-27 01:48:33: Check Point: Line: 15
+2012-01-27 01:48:33: Check Point: Column: CostCode
+2012-01-27 01:48:33: Check Point: Value: 09P01
+2012-01-27 01:48:33: Check Point: Line: 16
+2012-01-27 01:48:33: Check Point: Column: CostCodeDesc
+2012-01-27 01:48:33: Check Point: Value: Plant & machinery
+2012-01-27 01:48:33: Check Point: Line: 17
+2012-01-27 01:48:33: Check Point: Column: CommitBudget
+2012-01-27 01:48:33: Check Point: Value: 0.000000
+2012-01-27 01:48:33: Check Point: 
+2012-01-27 01:48:45: Check Point: End
+2012-01-27 01:48:45: Check Point: Disconnect
+2012-01-27 01:48:45: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

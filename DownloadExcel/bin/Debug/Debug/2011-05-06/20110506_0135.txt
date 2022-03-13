@@ -1,0 +1,15 @@
+2011-05-06 01:35:20: Check Point: Line: 4
+2011-05-06 01:35:20: Check Point: Column: AppNo
+2011-05-06 01:35:20: Check Point: Value: 
+2011-05-06 01:35:44: Check Point: Line: 5
+2011-05-06 01:35:44: Check Point: Column: CertNo
+2011-05-06 01:35:44: Check Point: Value: 
+2011-05-06 01:35:53: Check Point: Line: 6
+2011-05-06 01:35:53: Check Point: Column: AppPCMSDocNum
+2011-05-06 01:35:53: Check Point: Value: 
+2011-05-06 01:35:55: Check Point: Line: 7
+2011-05-06 01:35:55: Check Point: Column: CertPCMSDocNum
+2011-05-06 01:35:55: Check Point: Value: 
+2011-05-06 01:35:58: Check Point: Line: 8
+2011-05-06 01:35:58: Check Point: Column: AppAmt
+2011-05-06 01:35:58: Check Point: Value: 

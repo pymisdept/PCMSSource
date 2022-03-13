@@ -1,0 +1,7 @@
+2019-11-13 03:25:47: Check Point: Next
+2019-11-13 03:25:49: Check Point: Now is replace: SubContractor
+2019-11-13 03:25:52: Check Point: Next
+2019-11-13 03:25:53: Check Point: Now is replace: Request Type
+2019-11-13 03:25:55: Check Point: Next
+2019-11-13 03:25:57: Check Point: Now is replace: Item Code
+2019-11-13 03:25:59: Check Point: Next

@@ -1,0 +1,1384 @@
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: ACOUSTICS AND AIR TESTING LAB. CO. LTD.
+2019-07-07 12:13:24: Check Point: RecCount2
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 2
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: ALG01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: ALGA (FAR EAST) LIMITED
+2019-07-07 12:13:24: Check Point: RecCount3
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 3
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: ALS01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: ALS TECHNICHEM (HK) PTY LTD
+2019-07-07 12:13:24: Check Point: RecCount4
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 4
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: AMZ01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: AMZON (HK) LIMITED
+2019-07-07 12:13:24: Check Point: RecCount5
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 5
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: BAR02Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: BARNSBURRY EQUIPMENT (HK) LTD
+2019-07-07 12:13:24: Check Point: RecCount6
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 6
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: BAS01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: BASE PRODUCTION
+2019-07-07 12:13:24: Check Point: RecCount7
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 7
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: BUI07Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: BUILDMATES (H.K.) LIMITED
+2019-07-07 12:13:24: Check Point: RecCount8
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 8
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CAS02Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CASTCO TESTING CENTRE LTD.
+2019-07-07 12:13:24: Check Point: RecCount9
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 9
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CCR02Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: C.CROSSFIELD MACHINERY RENTAL CO LTD
+2019-07-07 12:13:24: Check Point: RecCount10
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 10
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CHA73Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CHANG WOON KAY
+2019-07-07 12:13:24: Check Point: RecCount11
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 11
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CHE10Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CHEVALIER (HK) LTD
+2019-07-07 12:13:24: Check Point: RecCount12
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 12
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CHI26Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CHINA STANDARD ENGINEERING LTD
+2019-07-07 12:13:24: Check Point: RecCount13
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 13
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CHO02Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CHOI SUM WATER PIPE SERVICE CO LTD
+2019-07-07 12:13:24: Check Point: RecCount14
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 14
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CHU22Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CHUNG MING CONSTRUCT CO
+2019-07-07 12:13:24: Check Point: RecCount15
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 15
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CHU79Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CHUNG YING BLDG (ENG) MAT LTD
+2019-07-07 12:13:24: Check Point: RecCount16
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 16
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CIT03Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CITY CONCRETE PUMP LTD
+2019-07-07 12:13:24: Check Point: RecCount17
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 17
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CIT07Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CITYSCAPE (HK) LIMITED
+2019-07-07 12:13:24: Check Point: RecCount18
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 18
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CIT26Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CITY LANDSCAPING CO. LIMITED
+2019-07-07 12:13:24: Check Point: RecCount19
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 19
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CKH01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: C K HO CONSULTANTS LIMITED
+2019-07-07 12:13:24: Check Point: RecCount20
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 20
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CON01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: CONSTRUCTION INDUSTRY COUNCIL
+2019-07-07 12:13:24: Check Point: RecCount21
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 21
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: CON04Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: THE HK CONSTRUCTION ASSOCIATION, LTD
+2019-07-07 12:13:24: Check Point: RecCount22
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 22
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: DEX01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: DEXTRA PACIFIC LIMITED
+2019-07-07 12:13:24: Check Point: RecCount23
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 23
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: DRI03Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: DRILLCUT LIMITED
+2019-07-07 12:13:24: Check Point: RecCount24
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 24
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: EAS01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: EAST OCEAN ELECTRICAL ENGINEERING CO LTD
+2019-07-07 12:13:24: Check Point: RecCount25
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 25
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: EAS12Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: EASY SMART ENGINEERING LTD
+2019-07-07 12:13:24: Check Point: RecCount26
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 26
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: ENV03Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: ENVIRONMENTAL PIONEERS AND SOLUTIONS LTD
+2019-07-07 12:13:24: Check Point: RecCount27
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 27
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: ENV05Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: ENVIRO LABS LIMITED
+2019-07-07 12:13:24: Check Point: RecCount28
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 28
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: ETS01Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: ETS-TESTCONSULT LTD
+2019-07-07 12:13:24: Check Point: RecCount29
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 29
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:24: Check Point: Value: FAM02Z00S
+2019-07-07 12:13:24: Check Point: Line: 1
+2019-07-07 12:13:24: Check Point: Column: List_CardName
+2019-07-07 12:13:24: Check Point: Value: FAMTECK ENGINEERING LIMITED
+2019-07-07 12:13:24: Check Point: RecCount30
+2019-07-07 12:13:24: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:24: Check Point: oRecCount: 30
+2019-07-07 12:13:24: Check Point: Line: 0
+2019-07-07 12:13:24: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: FAM03Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: FAMOUS CHANNEL LIMITED
+2019-07-07 12:13:25: Check Point: RecCount31
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 31
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: FUL03Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: FULL WEALTH (J.F.) COMPANY LIMITED
+2019-07-07 12:13:25: Check Point: RecCount32
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 32
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: GEO01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: GEOTECHNICS & CONCRETE ENG (HK) LTD
+2019-07-07 12:13:25: Check Point: RecCount33
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 33
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: GOL05Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: GOLIK METAL MFG CO LTD
+2019-07-07 12:13:25: Check Point: RecCount34
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 34
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: GOV01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: THE GOVERNMENT OF THE HKSAR
+2019-07-07 12:13:25: Check Point: RecCount35
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 35
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HAN14Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HANG YICK GATE ENG LTD
+2019-07-07 12:13:25: Check Point: RecCount36
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 36
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HAN27Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HANG KEE CRANE COMPANY LIMITED
+2019-07-07 12:13:25: Check Point: RecCount37
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 37
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HIN02Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HING MING GONDOLA (HK) CO LTD
+2019-07-07 12:13:25: Check Point: RecCount38
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 38
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HOI01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HOIST LEASING CO LTD
+2019-07-07 12:13:25: Check Point: RecCount39
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 39
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HON07Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HONEST COMPLEX SCAFFOLDING CO LTD
+2019-07-07 12:13:25: Check Point: RecCount40
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 40
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HON16Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HONOR US EQUIPMENT (HK) LIMITED
+2019-07-07 12:13:25: Check Point: RecCount41
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 41
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HOP13Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HOP CHUNG SCAFFOLDING CO LIMITED
+2019-07-07 12:13:25: Check Point: RecCount42
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 42
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HOW01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HO WANG SPB LTD
+2019-07-07 12:13:25: Check Point: RecCount43
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 43
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HUN19Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HUNG SHUN CONSTRUCTION CO LTD
+2019-07-07 12:13:25: Check Point: RecCount44
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 44
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: HUN28Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: HUNG TUNG CONSTRUCTION COMPANY LIMITED
+2019-07-07 12:13:25: Check Point: RecCount45
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 45
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: ICG01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: ICGL TECHNICAL WORKS (HK) LTD
+2019-07-07 12:13:25: Check Point: RecCount46
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 46
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: INF11Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: INFRACOM BUILDING MACHINERY LIMITED
+2019-07-07 12:13:25: Check Point: RecCount47
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 47
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: ISS01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: ISS ENVIRONMENTAL SERVICES (HK) LTD
+2019-07-07 12:13:25: Check Point: RecCount48
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 48
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: JOH07Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: JOHNSON GROUP PEST SPECIALIST LTD
+2019-07-07 12:13:25: Check Point: RecCount49
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 49
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: KAN02Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: KANSON CRANE & HEAVY TRANSPORT CO LTD
+2019-07-07 12:13:25: Check Point: RecCount50
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 50
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: KCS01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: KC SURVEYORS LIMITED
+2019-07-07 12:13:25: Check Point: RecCount51
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 51
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: KIN17Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: KINGSFIELD ENGINEERING LTD
+2019-07-07 12:13:25: Check Point: RecCount52
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 52
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: KNS01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: KNS ENGINEERING LIMITED
+2019-07-07 12:13:25: Check Point: RecCount53
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 53
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: KON17Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: KONWO MODULAR HOUSE LIMITED
+2019-07-07 12:13:25: Check Point: RecCount54
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 54
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: KUN01Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: KUNG WO GLASS CO LTD
+2019-07-07 12:13:25: Check Point: RecCount55
+2019-07-07 12:13:25: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:25: Check Point: oRecCount: 55
+2019-07-07 12:13:25: Check Point: Line: 0
+2019-07-07 12:13:25: Check Point: Column: List_CardCode
+2019-07-07 12:13:25: Check Point: Value: KWO24Z00S
+2019-07-07 12:13:25: Check Point: Line: 1
+2019-07-07 12:13:25: Check Point: Column: List_CardName
+2019-07-07 12:13:25: Check Point: Value: KWONG YIN WING KOO TIMBER COMPANY LTD
+2019-07-07 12:13:25: Check Point: RecCount56
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 56
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: LAP02Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: LAP KAI ENGINEERING CO LTD
+2019-07-07 12:13:26: Check Point: RecCount57
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 57
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: LEE07Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: LEE YU KEE FIRE PROTECTION LIMITED
+2019-07-07 12:13:26: Check Point: RecCount58
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 58
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: LEG05Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: LEGENDZ CONSULTANTS LIMITED
+2019-07-07 12:13:26: Check Point: RecCount59
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 59
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: LIK04Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: LIK TIM PLANT HIRE COMPANY
+2019-07-07 12:13:26: Check Point: RecCount60
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 60
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: LIN15Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: LIN TUNG LOGISTICS EXPRESS COMPANY LTD
+2019-07-07 12:13:26: Check Point: RecCount61
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 61
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: LUX01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: LUXCOAT INTERNATIONAL LTD
+2019-07-07 12:13:26: Check Point: RecCount62
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 62
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MAI01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MAIN KIND INDUSTRIAL LIMITED
+2019-07-07 12:13:26: Check Point: RecCount63
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 63
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MAN28Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MAN CHEONG IRON WORK CO LTD
+2019-07-07 12:13:26: Check Point: RecCount64
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 64
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MCM01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MCM CONSTRUCTION MATERIALS SUPPLY CO LTD
+2019-07-07 12:13:26: Check Point: RecCount65
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 65
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MEI04Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MEINHARDT (C&S) LTD
+2019-07-07 12:13:26: Check Point: RecCount66
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 66
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MOD01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MODERN CONCRETE DRILL CUT CO LTD
+2019-07-07 12:13:26: Check Point: RecCount67
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 67
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MOD02Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MODERN (INT'L) ACCESS & SCAFFOLDING LTD
+2019-07-07 12:13:26: Check Point: RecCount68
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 68
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MOR01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MORETON ENGINEERING & EQUIPMENT CO LTD
+2019-07-07 12:13:26: Check Point: RecCount69
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 69
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: MUL06Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: MULTIPIPE RENOVATION LIMITED
+2019-07-07 12:13:26: Check Point: RecCount70
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 70
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: NIC03Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: NICE MATERIAL TRADING COMPANY LTD
+2019-07-07 12:13:26: Check Point: RecCount71
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 71
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: OSI02Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: OSISS LIMITED
+2019-07-07 12:13:26: Check Point: RecCount72
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 72
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: PAU01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: PAUL LAM'N CO LTD
+2019-07-07 12:13:26: Check Point: RecCount73
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 73
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: PEK01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: PEKKO ENGINEERS LTD
+2019-07-07 12:13:26: Check Point: RecCount74
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 74
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: PER01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: PERFECT CONSTRUCTION ENG
+2019-07-07 12:13:26: Check Point: RecCount75
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 75
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: PES04Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: PEST GUY EXTERMINATING COMPANY LIMITED
+2019-07-07 12:13:26: Check Point: RecCount76
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 76
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: PLA91EE9S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: PAUL Y. PLANT HIRE LIMITED
+2019-07-07 12:13:26: Check Point: RecCount77
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 77
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: PNE01Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: PNEUMOCONIOSIS COMP FUND BOARD
+2019-07-07 12:13:26: Check Point: RecCount78
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 78
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: POW04Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: POWER WAY ENGINEERING LIMITED
+2019-07-07 12:13:26: Check Point: RecCount79
+2019-07-07 12:13:26: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:26: Check Point: oRecCount: 79
+2019-07-07 12:13:26: Check Point: Line: 0
+2019-07-07 12:13:26: Check Point: Column: List_CardCode
+2019-07-07 12:13:26: Check Point: Value: POW15Z00S
+2019-07-07 12:13:26: Check Point: Line: 1
+2019-07-07 12:13:26: Check Point: Column: List_CardName
+2019-07-07 12:13:26: Check Point: Value: PO WING ENGINEERING COMPANY
+2019-07-07 12:13:27: Check Point: RecCount80
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 80
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: PRO15Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: PROFIELD CONSTRUCTION ENGINEERING LTD
+2019-07-07 12:13:27: Check Point: RecCount81
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 81
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: PRO16Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: PROSPERITY BUILDING MATERIALS CO LTD
+2019-07-07 12:13:27: Check Point: RecCount82
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 82
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: QUA11Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: QUALITECH TESTING & CONSULTANCY LTD
+2019-07-07 12:13:27: Check Point: RecCount83
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 83
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SAM09Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SAM & SAM TESTING & SURVEYOR SERV CO LTD
+2019-07-07 12:13:27: Check Point: RecCount84
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 84
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SHU03Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SHUI WING CONSTRUCTION CO LTD
+2019-07-07 12:13:27: Check Point: RecCount85
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 85
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SHU29Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SHUN HING WOOD WORKING CO LTD
+2019-07-07 12:13:27: Check Point: RecCount86
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 86
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SHU30Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SHUN SHING ENGINEERING COMPANY
+2019-07-07 12:13:27: Check Point: RecCount87
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 87
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SHU36Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SHUN HING WOOD WORKING CO.
+2019-07-07 12:13:27: Check Point: RecCount88
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 88
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SIG04Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SIGN-TECH ENGINEERING CO., LTD
+2019-07-07 12:13:27: Check Point: RecCount89
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 89
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SIG07Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SIGNAL PLUS BUILDING SUPPLIES LIMITED
+2019-07-07 12:13:27: Check Point: RecCount90
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 90
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SKK01Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SKK (HONG KONG) CO LTD
+2019-07-07 12:13:27: Check Point: RecCount91
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 91
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SOA01Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SOAR CONSULTANTS LIMITED
+2019-07-07 12:13:27: Check Point: RecCount92
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 92
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: STA30Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: THE STANDARD ENGINEERING & CONSULT. LTD
+2019-07-07 12:13:27: Check Point: RecCount93
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 93
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SUC02Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SUCCESS DRAINAGE ENGINEERING LTD
+2019-07-07 12:13:27: Check Point: RecCount94
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 94
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SUI01Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SUI KI METAL CO
+2019-07-07 12:13:27: Check Point: RecCount95
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 95
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: SUN10Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: SUNRAY ENGINEERING CO
+2019-07-07 12:13:27: Check Point: RecCount96
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 96
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: TAI13Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: TAI WAH ALUMINIUM ENGINEERING CO LTD
+2019-07-07 12:13:27: Check Point: RecCount97
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 97
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: TAI14Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: TAI WAH CONSTRUCTION ENG
+2019-07-07 12:13:27: Check Point: RecCount98
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 98
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: TAR02Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: K. WAH ASPHALT LTD
+2019-07-07 12:13:27: Check Point: RecCount99
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 99
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: TAT03Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: TAT WAH CONST ENG CO
+2019-07-07 12:13:27: Check Point: RecCount100
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 100
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: TEC02Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: TECHNICIENT ENGINEERING CO
+2019-07-07 12:13:27: Check Point: RecCount101
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:27: Check Point: oRecCount: 101
+2019-07-07 12:13:27: Check Point: Line: 0
+2019-07-07 12:13:27: Check Point: Column: List_CardCode
+2019-07-07 12:13:27: Check Point: Value: TOP19Z00S
+2019-07-07 12:13:27: Check Point: Line: 1
+2019-07-07 12:13:27: Check Point: Column: List_CardName
+2019-07-07 12:13:27: Check Point: Value: TOP ONE SCAFFOLD EQUIPMENT LIMITED
+2019-07-07 12:13:27: Check Point: RecCount102
+2019-07-07 12:13:27: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 102
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: TRI12Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: TRITON DEVELOPMENT LIMITED
+2019-07-07 12:13:28: Check Point: RecCount103
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 103
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: TSU12Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: TSUN FAI CONSTRUCTION ENGINEERING LTD
+2019-07-07 12:13:28: Check Point: RecCount104
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 104
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: UTI03Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: UTILITYINFO (ONE CALL) LIMITED
+2019-07-07 12:13:28: Check Point: RecCount105
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 105
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: VIB01Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: VIBRO (HK) LTD
+2019-07-07 12:13:28: Check Point: RecCount106
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 106
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: VIC01Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: VIC-FORM CO LTD
+2019-07-07 12:13:28: Check Point: RecCount107
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 107
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: VIR02Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: VIRCON LIMITED
+2019-07-07 12:13:28: Check Point: RecCount108
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 108
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WAH11Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: HONG KONG WAH KIU (OVERSEAS) SERV LTD
+2019-07-07 12:13:28: Check Point: RecCount109
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 109
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WAH34Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WAH HING SCAFFOLDING ENGINEERING LIMITED
+2019-07-07 12:13:28: Check Point: RecCount110
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 110
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WAI03Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WAI YIP ELECTRICAL MECHANICAL ENG LTD
+2019-07-07 12:13:28: Check Point: RecCount111
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 111
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WAI64Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WAI TAK ENGINEERING LIMITED
+2019-07-07 12:13:28: Check Point: RecCount112
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 112
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WAN10Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WANG FU CONSTRUCTION ENGINEERING CO
+2019-07-07 12:13:28: Check Point: RecCount113
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 113
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WAN11Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WANG KWONG MATERIALS SUPPLY LTD
+2019-07-07 12:13:28: Check Point: RecCount114
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 114
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WEL40Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WELLBORNE MATERIAL COMPANY LIMITED
+2019-07-07 12:13:28: Check Point: RecCount115
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 115
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WID12Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WIDE WELL ENGINEERING LIMITED
+2019-07-07 12:13:28: Check Point: RecCount116
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 116
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WOL03Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WOLIK LTD
+2019-07-07 12:13:28: Check Point: RecCount117
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 117
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WON11Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WONG & CHENG CONSULTING ENGINEERS LTD
+2019-07-07 12:13:28: Check Point: RecCount118
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 118
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: WOR10Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: WORLD FAITH C. ENGINEERING LIMITED
+2019-07-07 12:13:28: Check Point: RecCount119
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 119
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: YAM02Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: YAM KEE CIVIL ENGINEERING CO LTD
+2019-07-07 12:13:28: Check Point: RecCount120
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 120
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: YAN02Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: YAN KWOK WING (BARRISTER-AT-LAW)
+2019-07-07 12:13:28: Check Point: RecCount121
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 121
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: YAU07Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: YAU HOP SCAFFOLD GEN. CONTRACTOR CO. LTD.
+2019-07-07 12:13:28: Check Point: RecCount122
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 122
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: YAU14Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: YAU LEE WAH CONCRETE PRECAST PRODUCTS
+2019-07-07 12:13:28: Check Point: RecCount123
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 123
+2019-07-07 12:13:28: Check Point: Line: 0
+2019-07-07 12:13:28: Check Point: Column: List_CardCode
+2019-07-07 12:13:28: Check Point: Value: YEU06Z00S
+2019-07-07 12:13:28: Check Point: Line: 1
+2019-07-07 12:13:28: Check Point: Column: List_CardName
+2019-07-07 12:13:28: Check Point: Value: YEUNG'S FIBERGLASS COMPANY
+2019-07-07 12:13:28: Check Point: RecCount124
+2019-07-07 12:13:28: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:28: Check Point: oRecCount: 124
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: YIN05Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: YING WAH CIVIL ENGINEERING CO LTD
+2019-07-07 12:13:29: Check Point: RecCount125
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 125
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: YIN09Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: YING LEE ENGINEERING LTD
+2019-07-07 12:13:29: Check Point: RecCount126
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 126
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: YUN03Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: YUN KEE SHUI TUNG WOODEN WORK CO LIMITED
+2019-07-07 12:13:29: Check Point: RecCount127
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 127
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: SOU04Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: SOUTH CHINA PLASTIC BUILD’G MAT MFG LTD
+2019-07-07 12:13:29: Check Point: RecCount128
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 128
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: SIK01Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: SIKA HONGKONG LTD
+2019-07-07 12:13:29: Check Point: RecCount129
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 129
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: SCO03Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: SCORE TECH MORTARS CO LTD
+2019-07-07 12:13:29: Check Point: RecCount130
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 130
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: PTH01Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: PTH (HK) LIMITED
+2019-07-07 12:13:29: Check Point: RecCount131
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 131
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: KYH01Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: K.Y.H. STEEL COMPANY LTD
+2019-07-07 12:13:29: Check Point: RecCount132
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 132
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: KWA03Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: K. WAH QUARRY COMPANY LTD
+2019-07-07 12:13:29: Check Point: RecCount133
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 133
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: IND05Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: THE INDEPENDENT SCHOOLS FDN ACADEMY LTD
+2019-07-07 12:13:29: Check Point: RecCount134
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 134
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: HOP12Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: HOP HING SAW MILL
+2019-07-07 12:13:29: Check Point: RecCount135
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 135
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: HIL01Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: HILTI (HONG KONG) LTD
+2019-07-07 12:13:29: Check Point: RecCount136
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 136
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: EMP01Z83S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: EMPLOYEE OF PYE - REIMBURSEMENT
+2019-07-07 12:13:29: Check Point: RecCount137
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 137
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: CHU87Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: CHUNG SHUN CHEMICAL (H.K.) CO., LIMITED
+2019-07-07 12:13:29: Check Point: RecCount138
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 138
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: CHI67Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: CHICARDO INVESTMENT LIMITED
+2019-07-07 12:13:29: Check Point: RecCount139
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 139
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: BUN01Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: BUN KEE (INTERNATIONAL) LTD
+2019-07-07 12:13:29: Check Point: RecCount140
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 140
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: BET01Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: BETHAMESH HONG KONG
+2019-07-07 12:13:29: Check Point: RecCount141
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 141
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: ALL03Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: ALLIANCE CONSTRUCTION MATERIALS LTD
+2019-07-07 12:13:29: Check Point: RecCount142
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 142
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: WOR24Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: WORKMEN COMP'N - 2014-15 EC POLICY (QBE)
+2019-07-07 12:13:29: Check Point: RecCount143
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 143
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: VIN03Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: VINCENT SCAFFOLDING & TRADING CO LTD
+2019-07-07 12:13:29: Check Point: RecCount144
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 144
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: TOM01Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: TOMS WORKS LIMITED
+2019-07-07 12:13:29: Check Point: RecCount145
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 145
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: THO02Z00S
+2019-07-07 12:13:29: Check Point: Line: 1
+2019-07-07 12:13:29: Check Point: Column: List_CardName
+2019-07-07 12:13:29: Check Point: Value: THORON (HONG KONG) LTD
+2019-07-07 12:13:29: Check Point: RecCount146
+2019-07-07 12:13:29: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:29: Check Point: oRecCount: 146
+2019-07-07 12:13:29: Check Point: Line: 0
+2019-07-07 12:13:29: Check Point: Column: List_CardCode
+2019-07-07 12:13:29: Check Point: Value: TAT15Z00S
+2019-07-07 12:13:30: Check Point: Line: 1
+2019-07-07 12:13:30: Check Point: Column: List_CardName
+2019-07-07 12:13:30: Check Point: Value: TAT YIN (HK) COMPANY LIMITED
+2019-07-07 12:13:30: Check Point: RecCount147
+2019-07-07 12:13:30: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:30: Check Point: oRecCount: 147
+2019-07-07 12:13:30: Check Point: Line: 0
+2019-07-07 12:13:30: Check Point: Column: List_CardCode
+2019-07-07 12:13:30: Check Point: Value: SUP01Z00S
+2019-07-07 12:13:30: Check Point: Line: 1
+2019-07-07 12:13:30: Check Point: Column: List_CardName
+2019-07-07 12:13:30: Check Point: Value: SUPREME HARDWARE & SAFETY PRODUCTS CO
+2019-07-07 12:13:30: Check Point: RecCount148
+2019-07-07 12:13:30: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:30: Check Point: oRecCount: 148
+2019-07-07 12:13:30: Check Point: Line: 0
+2019-07-07 12:13:30: Check Point: Column: List_CardCode
+2019-07-07 12:13:30: Check Point: Value: SUN07Z00S
+2019-07-07 12:13:30: Check Point: Line: 1
+2019-07-07 12:13:30: Check Point: Column: List_CardName
+2019-07-07 12:13:30: Check Point: Value: SUN LUEN COMPANY
+2019-07-07 12:13:30: Check Point: RecCount149
+2019-07-07 12:13:30: Check Point: oRow Lenght: 4614
+2019-07-07 12:13:30: Check Point: oRecCount: 149
+2019-07-07 12:13:30: Check Point: Line: 0
+2019-07-07 12:13:30: Check Point: Column: List_CardCode
+2019-07-07 12:13:30: Check Point: Value: TAI03Z00S
+2019-07-07 12:13:30: Check Point: Line: 1
+2019-07-07 12:13:30: Check Point: Column: List_CardName
+2019-07-07 12:13:30: Check Point: Value: TAI WAH HARDWARE CO
+2019-07-07 12:13:34: Check Point: Import: Run Application
+2019-07-07 12:13:35: Check Point: Import: set FileName
+2019-07-07 12:13:36: Check Point: Import: Open Workbook
+2019-07-07 12:13:36: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI12.xls
+2019-07-07 12:13:41: Check Point: Import: UnProtectSheet
+2019-07-07 12:13:42: Check Point: Import: BreakLinked
+2019-07-07 12:13:47: Check Point: Import: ReplaceAllData
+2019-07-07 12:13:48: Check Point: Now is replace: xxxxxx
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: Cert
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: Works
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: MOS
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: EVO
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: IVO
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: CCVO
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: EDW
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: IDW
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: CCDW
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: ContraCharge
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: PaulYCharge
+2019-07-07 12:13:48: Check Point: Next
+2019-07-07 12:13:48: Check Point: Now is replace: DAP
+2019-07-07 12:13:49: Check Point: Next
+2019-07-07 12:13:49: Check Point: Now is replace: Approval
+2019-07-07 12:13:49: Check Point: Next
+2019-07-07 12:13:49: Check Point: Now is replace: Cost Code
+2019-07-07 12:13:49: Check Point: Next
+2019-07-07 12:13:49: Check Point: Now is replace: SubContractor
+2019-07-07 12:13:49: Check Point: Next
+2019-07-07 12:13:49: Check Point: Now is replace: Add SubContractor
+2019-07-07 12:13:49: Check Point: Next
+2019-07-07 12:13:49: Check Point: Now is replace: Sheet1
+2019-07-07 12:13:49: Check Point: Next
+2019-07-07 12:13:49: Check Point: Now is replace: Sheet1 (2)
+2019-07-07 12:13:49: Check Point: Next
+2019-07-07 12:13:49: Check Point: Import: ProtectSheet
+2019-07-07 12:13:52: Check Point: Import: Save
+2019-07-07 12:13:53: Check Point: Import: Close
+2019-07-07 12:13:54: Check Point: Import: Closed

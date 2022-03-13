@@ -1,0 +1,15 @@
+2011-05-06 01:37:07: Check Point: Import: RsToCollection
+2011-05-06 01:37:18: Check Point: Select * from QSI40_Cost('00000CVL','20110531')
+2011-05-06 01:37:19: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:37:19: Check Point: RecCount1
+2011-05-06 01:37:19: Check Point: oRow Lenght: 1
+2011-05-06 01:37:19: Check Point: oRecCount: 1
+2011-05-06 01:37:27: Check Point: Line: 0
+2011-05-06 01:37:27: Check Point: Column: CutOffdate
+2011-05-06 01:37:28: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:37:48: Check Point: Line: 1
+2011-05-06 01:37:48: Check Point: Column: PrjCode
+2011-05-06 01:37:48: Check Point: Value: 00000CVL
+2011-05-06 01:37:54: Check Point: Line: 2
+2011-05-06 01:37:54: Check Point: Column: PrjName
+2011-05-06 01:37:54: Check Point: Value: PCMS testing project CVL

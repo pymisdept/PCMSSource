@@ -1,0 +1,4 @@
+2019-11-14 02:09:27: Check Point: SELECT * from PrjBP_List('03049CJM')
+2019-11-14 02:09:27: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 02:09:27: Check Point: Import: Run Application
+2019-11-14 02:09:27: Check Point: Import: set FileName

@@ -1,0 +1,87 @@
+2015-11-11 04:54:17: Check Point: Import: RsToCollection
+2015-11-11 04:54:17: Check Point: Select '00000Z2H' PRJCODE, '00000Z2H ' + ' - ' + 'NOBLE IMAGE LIMITED' PrjDesc
+2015-11-11 04:54:17: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-11 04:54:17: Check Point: RecCount1
+2015-11-11 04:54:17: Check Point: oRow Lenght: 1
+2015-11-11 04:54:17: Check Point: oRecCount: 1
+2015-11-11 04:54:17: Check Point: Line: 0
+2015-11-11 04:54:17: Check Point: Column: PRJCODE
+2015-11-11 04:54:17: Check Point: Value: 00000Z2H
+2015-11-11 04:54:17: Check Point: Line: 1
+2015-11-11 04:54:17: Check Point: Column: PrjDesc
+2015-11-11 04:54:17: Check Point: Value: 00000Z2H  - NOBLE IMAGE LIMITED
+2015-11-11 04:54:17: Check Point: select * from QSI43_Form ('00000Z2H')
+2015-11-11 04:54:17: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-11 04:54:17: Check Point: RecCount1
+2015-11-11 04:54:17: Check Point: oRow Lenght: 2
+2015-11-11 04:54:17: Check Point: oRecCount: 1
+2015-11-11 04:54:17: Check Point: Line: 0
+2015-11-11 04:54:17: Check Point: Column: AppNum
+2015-11-11 04:54:17: Check Point: Value: 1
+2015-11-11 04:54:17: Check Point: Line: 1
+2015-11-11 04:54:17: Check Point: Column: PrjCode
+2015-11-11 04:54:17: Check Point: Value: 00000Z2H
+2015-11-11 04:54:17: Check Point: Line: 2
+2015-11-11 04:54:17: Check Point: Column: PrjDesc
+2015-11-11 04:54:17: Check Point: Value: 00000Z2H - NOBLE IMAGE LIMITED
+2015-11-11 04:54:17: Check Point: Line: 3
+2015-11-11 04:54:17: Check Point: Column: DocEntry
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 4
+2015-11-11 04:54:17: Check Point: Column: LineNum
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 5
+2015-11-11 04:54:17: Check Point: Column: ItemNum
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 6
+2015-11-11 04:54:17: Check Point: Column: OtherIncomeDesc
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 7
+2015-11-11 04:54:17: Check Point: Column: PreAppAmt
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 8
+2015-11-11 04:54:17: Check Point: Column: AppDate
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 9
+2015-11-11 04:54:17: Check Point: Column: CertAmt
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 10
+2015-11-11 04:54:17: Check Point: Column: CertDate
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 11
+2015-11-11 04:54:17: Check Point: Column: SCPCMSDocNum
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 12
+2015-11-11 04:54:17: Check Point: Column: PCMSDocNum
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: Line: 13
+2015-11-11 04:54:17: Check Point: Column: AcctCode
+2015-11-11 04:54:17: Check Point: Value: 
+2015-11-11 04:54:17: Check Point: select CardCode as List_CardCode, CardName as List_CardName From CPS_View_ClientList where 1=2
+2015-11-11 04:54:17: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-11 04:54:17: Check Point: select 'MAGNUM TRAVEL' CustName 
+2015-11-11 04:54:17: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-11 04:54:17: Check Point: RecCount1
+2015-11-11 04:54:17: Check Point: oRow Lenght: 2
+2015-11-11 04:54:17: Check Point: oRecCount: 1
+2015-11-11 04:54:17: Check Point: Line: 0
+2015-11-11 04:54:17: Check Point: Column: CustName
+2015-11-11 04:54:17: Check Point: Value: MAGNUM TRAVEL
+2015-11-11 04:54:17: Check Point: Import: Run Application
+2015-11-11 04:54:17: Check Point: Import: set FileName
+2015-11-11 04:54:17: Check Point: Import: Open Workbook
+2015-11-11 04:54:17: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI43.xls
+2015-11-11 04:54:23: Check Point: Import: UnProtectSheet
+2015-11-11 04:54:23: Check Point: Import: BreakLinked
+2015-11-11 04:54:23: Check Point: Import: ReplaceAllData
+2015-11-11 04:54:23: Check Point: Now is replace: Form
+2015-11-11 04:54:23: Check Point: Next
+2015-11-11 04:54:23: Check Point: Now is replace: Customer
+2015-11-11 04:54:23: Check Point: Next
+2015-11-11 04:54:23: Check Point: Import: ProtectSheet
+2015-11-11 04:54:23: Check Point: Import: Save
+2015-11-11 04:54:23: Check Point: Import: Close
+2015-11-11 04:54:23: Check Point: Import: Closed
+2015-11-11 04:54:23: Check Point: End
+2015-11-11 04:54:23: Check Point: Disconnect
+2015-11-11 04:54:23: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

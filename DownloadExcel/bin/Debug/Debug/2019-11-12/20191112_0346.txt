@@ -1,0 +1,11 @@
+2019-11-12 03:46:09: Check Point: select Code as List_RequestCode,U_ReasonDesc as List_RequestName from [@reasoncode] where U_ReasonType='MR'
+2019-11-12 03:46:09: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:46:09: Check Point: select ItemCode as List_ItemCode,ItemName as List_ItemName From CPS_View_MaterialList
+2019-11-12 03:46:09: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:46:09: Check Point: select MaterialType as List_MaterialType, MaterialDesc as List_MaterialDesc From CPS_View_MaterialTypeList
+2019-11-12 03:46:09: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:46:46: Check Point: Import: Run Application
+2019-11-12 03:46:50: Check Point: Import: set FileName
+2019-11-12 03:46:52: Check Point: Import: Open Workbook
+2019-11-12 03:46:53: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\PUI01.xlsm
+2019-11-12 03:46:59: Check Point: Import: UnProtectSheet

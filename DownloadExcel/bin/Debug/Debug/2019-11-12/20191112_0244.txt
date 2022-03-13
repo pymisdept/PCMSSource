@@ -1,0 +1,26 @@
+2019-11-12 02:44:02: Check Point: Import: UnProtectSheet
+2019-11-12 02:44:02: Check Point: Import: BreakLinked
+2019-11-12 02:44:05: Check Point: Import: ReplaceAllData
+2019-11-12 02:44:05: Check Point: Now is replace: xxxxxx
+2019-11-12 02:44:07: Check Point: Next
+2019-11-12 02:44:07: Check Point: Now is replace: Cert
+2019-11-12 02:44:08: Check Point: Next
+2019-11-12 02:44:08: Check Point: Now is replace: Works
+2019-11-12 02:44:08: Check Point: Next
+2019-11-12 02:44:08: Check Point: Now is replace: MOS
+2019-11-12 02:44:08: Check Point: Next
+2019-11-12 02:44:08: Check Point: Now is replace: EVO
+2019-11-12 02:44:08: Check Point: Next
+2019-11-12 02:44:08: Check Point: Now is replace: IVO
+2019-11-12 02:44:09: Check Point: Next
+2019-11-12 02:44:09: Check Point: Now is replace: CCVO
+2019-11-12 02:44:09: Check Point: Next
+2019-11-12 02:44:09: Check Point: Now is replace: EDW
+2019-11-12 02:44:09: Check Point: Next
+2019-11-12 02:44:09: Check Point: Now is replace: IDW
+2019-11-12 02:44:09: Check Point: Next
+2019-11-12 02:44:09: Check Point: Now is replace: CCDW
+2019-11-12 02:44:09: Check Point: Next
+2019-11-12 02:44:09: Check Point: Now is replace: ContraCharge
+2019-11-12 02:44:09: Check Point: Next
+2019-11-12 02:44:09: Check Point: Now is replace: PaulYCharge

@@ -1,0 +1,9 @@
+2011-05-06 01:34:43: Check Point: Line: 1
+2011-05-06 01:34:43: Check Point: Column: ValueDate
+2011-05-06 01:34:43: Check Point: Value: 
+2011-05-06 01:34:43: Check Point: Line: 2
+2011-05-06 01:34:43: Check Point: Column: PrjCode
+2011-05-06 01:34:43: Check Point: Value: 00000CVL
+2011-05-06 01:34:44: Check Point: Line: 3
+2011-05-06 01:34:44: Check Point: Column: PrjName
+2011-05-06 01:34:44: Check Point: Value: PCMS testing project CVL

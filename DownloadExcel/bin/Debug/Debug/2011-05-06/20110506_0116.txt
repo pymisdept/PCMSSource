@@ -1,0 +1,270 @@
+2011-05-06 01:16:51: Check Point: Import: RsToCollection
+2011-05-06 01:16:53: Check Point: Select * from QSI40_Blank('00008CVL')
+2011-05-06 01:16:53: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:16:53: Check Point: RecCount1
+2011-05-06 01:16:53: Check Point: oRow Lenght: 1
+2011-05-06 01:16:53: Check Point: oRecCount: 1
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: D10
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Direct Labour (skillful)
+2011-05-06 01:16:54: Check Point: RecCount2
+2011-05-06 01:16:54: Check Point: oRow Lenght: 2
+2011-05-06 01:16:54: Check Point: oRecCount: 2
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: D15
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Materials
+2011-05-06 01:16:54: Check Point: RecCount3
+2011-05-06 01:16:54: Check Point: oRow Lenght: 3
+2011-05-06 01:16:54: Check Point: oRecCount: 3
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: D20
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Plant (incl. Fuel)
+2011-05-06 01:16:54: Check Point: RecCount4
+2011-05-06 01:16:54: Check Point: oRow Lenght: 4
+2011-05-06 01:16:54: Check Point: oRecCount: 4
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: D25
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Sub-Contractors
+2011-05-06 01:16:54: Check Point: RecCount5
+2011-05-06 01:16:54: Check Point: oRow Lenght: 5
+2011-05-06 01:16:54: Check Point: oRecCount: 5
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: D30
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: N/Sub-Contractors
+2011-05-06 01:16:54: Check Point: RecCount6
+2011-05-06 01:16:54: Check Point: oRow Lenght: 6
+2011-05-06 01:16:54: Check Point: oRecCount: 6
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I10
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: On-site Staff (supervision)
+2011-05-06 01:16:54: Check Point: RecCount7
+2011-05-06 01:16:54: Check Point: oRow Lenght: 7
+2011-05-06 01:16:54: Check Point: oRecCount: 7
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I15
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Off-site Staff (supportive)
+2011-05-06 01:16:54: Check Point: RecCount8
+2011-05-06 01:16:54: Check Point: oRow Lenght: 8
+2011-05-06 01:16:54: Check Point: oRecCount: 8
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I20
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Direct Labour (general)
+2011-05-06 01:16:54: Check Point: RecCount9
+2011-05-06 01:16:54: Check Point: oRow Lenght: 9
+2011-05-06 01:16:54: Check Point: oRecCount: 9
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I25
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Prelim. Plant & Machinery
+2011-05-06 01:16:54: Check Point: RecCount10
+2011-05-06 01:16:54: Check Point: oRow Lenght: 10
+2011-05-06 01:16:54: Check Point: oRecCount: 10
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I30
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Minor Tools (Incl. Consumable)
+2011-05-06 01:16:54: Check Point: RecCount11
+2011-05-06 01:16:54: Check Point: oRow Lenght: 11
+2011-05-06 01:16:54: Check Point: oRecCount: 11
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I35
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Temp Access & Scaffolding
+2011-05-06 01:16:54: Check Point: RecCount12
+2011-05-06 01:16:54: Check Point: oRow Lenght: 12
+2011-05-06 01:16:54: Check Point: oRecCount: 12
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I40
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Fixed Site Costs (site set-up)
+2011-05-06 01:16:54: Check Point: RecCount13
+2011-05-06 01:16:54: Check Point: oRow Lenght: 13
+2011-05-06 01:16:54: Check Point: oRecCount: 13
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I45
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Safety & Environmental
+2011-05-06 01:16:54: Check Point: RecCount14
+2011-05-06 01:16:54: Check Point: oRow Lenght: 14
+2011-05-06 01:16:54: Check Point: oRecCount: 14
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I50
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Temp Power/Water
+2011-05-06 01:16:54: Check Point: RecCount15
+2011-05-06 01:16:54: Check Point: oRow Lenght: 15
+2011-05-06 01:16:54: Check Point: oRecCount: 15
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I55
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Debris Removal/Disposal
+2011-05-06 01:16:54: Check Point: RecCount16
+2011-05-06 01:16:54: Check Point: oRow Lenght: 16
+2011-05-06 01:16:54: Check Point: oRecCount: 16
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I60
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Ceremony & Messing Allowances
+2011-05-06 01:16:54: Check Point: RecCount17
+2011-05-06 01:16:54: Check Point: oRow Lenght: 17
+2011-05-06 01:16:54: Check Point: oRecCount: 17
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I65
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Other Site Running Costs
+2011-05-06 01:16:54: Check Point: RecCount18
+2011-05-06 01:16:54: Check Point: oRow Lenght: 18
+2011-05-06 01:16:54: Check Point: oRecCount: 18
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I70
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: External Consultants
+2011-05-06 01:16:54: Check Point: RecCount19
+2011-05-06 01:16:54: Check Point: oRow Lenght: 19
+2011-05-06 01:16:54: Check Point: oRecCount: 19
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I75
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Financial/Securities/Insurance
+2011-05-06 01:16:54: Check Point: RecCount20
+2011-05-06 01:16:54: Check Point: oRow Lenght: 20
+2011-05-06 01:16:54: Check Point: oRecCount: 20
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I80
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Levies
+2011-05-06 01:16:54: Check Point: RecCount21
+2011-05-06 01:16:54: Check Point: oRow Lenght: 21
+2011-05-06 01:16:54: Check Point: oRecCount: 21
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I85
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Client's Deduction / LD
+2011-05-06 01:16:54: Check Point: RecCount22
+2011-05-06 01:16:54: Check Point: oRow Lenght: 22
+2011-05-06 01:16:54: Check Point: oRecCount: 22
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: I90
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Leaders Fee
+2011-05-06 01:16:54: Check Point: RecCount23
+2011-05-06 01:16:54: Check Point: oRow Lenght: 23
+2011-05-06 01:16:54: Check Point: oRecCount: 23
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: K10
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Dayworks
+2011-05-06 01:16:54: Check Point: RecCount24
+2011-05-06 01:16:54: Check Point: oRow Lenght: 24
+2011-05-06 01:16:54: Check Point: oRecCount: 24
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: K20
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Provisional Sums
+2011-05-06 01:16:54: Check Point: RecCount25
+2011-05-06 01:16:54: Check Point: oRow Lenght: 25
+2011-05-06 01:16:54: Check Point: oRecCount: 25
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: RptCode
+2011-05-06 01:16:54: Check Point: Value: K30
+2011-05-06 01:16:54: Check Point: Line: 1
+2011-05-06 01:16:54: Check Point: Column: RptName
+2011-05-06 01:16:54: Check Point: Value: Contingencies
+2011-05-06 01:16:54: Check Point: Select '00008CVL' as PrjCode
+2011-05-06 01:16:54: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:16:54: Check Point: RecCount1
+2011-05-06 01:16:54: Check Point: oRow Lenght: 26
+2011-05-06 01:16:54: Check Point: oRecCount: 1
+2011-05-06 01:16:54: Check Point: Line: 0
+2011-05-06 01:16:54: Check Point: Column: PrjCode
+2011-05-06 01:16:54: Check Point: Value: 00008CVL
+2011-05-06 01:16:55: Check Point: Select '00008CVL' as PrjCode1
+2011-05-06 01:16:55: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:16:55: Check Point: RecCount1
+2011-05-06 01:16:55: Check Point: oRow Lenght: 26
+2011-05-06 01:16:55: Check Point: oRecCount: 1
+2011-05-06 01:16:55: Check Point: Line: 0
+2011-05-06 01:16:55: Check Point: Column: PrjCode1
+2011-05-06 01:16:55: Check Point: Value: 00008CVL
+2011-05-06 01:16:56: Check Point: Select '00008CVL' as PrjCode2
+2011-05-06 01:16:56: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:16:56: Check Point: RecCount1
+2011-05-06 01:16:56: Check Point: oRow Lenght: 26
+2011-05-06 01:16:56: Check Point: oRecCount: 1
+2011-05-06 01:16:56: Check Point: Line: 0
+2011-05-06 01:16:56: Check Point: Column: PrjCode2
+2011-05-06 01:16:56: Check Point: Value: 00008CVL
+2011-05-06 01:16:56: Check Point: Select '00008CVL' as PrjCode3
+2011-05-06 01:16:56: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:16:56: Check Point: RecCount1
+2011-05-06 01:16:56: Check Point: oRow Lenght: 26
+2011-05-06 01:16:56: Check Point: oRecCount: 1
+2011-05-06 01:16:56: Check Point: Line: 0
+2011-05-06 01:16:56: Check Point: Column: PrjCode3
+2011-05-06 01:16:56: Check Point: Value: 00008CVL
+2011-05-06 01:16:57: Check Point: Select '00008CVL' as PrjCode4
+2011-05-06 01:16:57: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:16:57: Check Point: RecCount1
+2011-05-06 01:16:57: Check Point: oRow Lenght: 26
+2011-05-06 01:16:57: Check Point: oRecCount: 1
+2011-05-06 01:16:57: Check Point: Line: 0
+2011-05-06 01:16:57: Check Point: Column: PrjCode4
+2011-05-06 01:16:57: Check Point: Value: 00008CVL
+2011-05-06 01:16:59: Check Point: Import: Run Application
+2011-05-06 01:16:59: Check Point: Import: set FileName

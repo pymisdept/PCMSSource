@@ -1,0 +1,14 @@
+2019-11-12 02:42:40: Check Point: Import: RsToCollection
+2019-11-12 02:42:40: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('80605E1H', 'GEN01Z00S', '80605E1H/SC001') 
+2019-11-12 02:42:46: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 02:42:47: Check Point: select * from QSI12_Work('80605E1H','80605E1H/SC001')
+2019-11-12 02:42:50: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 02:42:50: Check Point: select * from QSI12_MOS('80605E1H','80605E1H/SC001')
+2019-11-12 02:42:52: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 02:42:52: Check Point: select * from QSI12_EVO('80605E1H','80605E1H/SC001') ORDER BY EVO_SubLineNum asc
+2019-11-12 02:42:54: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 02:42:54: Check Point: select * from QSI12_IVO('80605E1H','80605E1H/SC001')
+2019-11-12 02:42:56: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 02:42:56: Check Point: select * from QSI12_CCVO('80605E1H','80605E1H/SC001')
+2019-11-12 02:42:58: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 02:42:58: Check Point: select * from QSI12_EDW('80605E1H','80605E1H/SC001') ORDER BY EDW_SubLineNum asc

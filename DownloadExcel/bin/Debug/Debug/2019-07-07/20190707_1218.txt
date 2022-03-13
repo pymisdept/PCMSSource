@@ -1,0 +1,374 @@
+2019-07-07 12:18:01: Check Point: select Code as LIST_LNCode,[Name] as LIST_LNName from [@LNType]
+2019-07-07 12:18:04: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:18:08: Check Point: RecCount1
+2019-07-07 12:18:10: Check Point: oRow Lenght: 2
+2019-07-07 12:18:10: Check Point: oRecCount: 1
+2019-07-07 12:18:13: Check Point: Line: 0
+2019-07-07 12:18:13: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:13: Check Point: Value: DED
+2019-07-07 12:18:23: Check Point: Line: 1
+2019-07-07 12:18:23: Check Point: Column: LIST_LNName
+2019-07-07 12:18:24: Check Point: Value: Client's Deduction
+2019-07-07 12:18:31: Check Point: RecCount2
+2019-07-07 12:18:33: Check Point: oRow Lenght: 2
+2019-07-07 12:18:33: Check Point: oRecCount: 2
+2019-07-07 12:18:37: Check Point: Line: 0
+2019-07-07 12:18:37: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:37: Check Point: Value: CC
+2019-07-07 12:18:44: Check Point: Line: 1
+2019-07-07 12:18:44: Check Point: Column: LIST_LNName
+2019-07-07 12:18:44: Check Point: Value: Contra Charge
+2019-07-07 12:18:44: Check Point: RecCount3
+2019-07-07 12:18:44: Check Point: oRow Lenght: 3
+2019-07-07 12:18:44: Check Point: oRecCount: 3
+2019-07-07 12:18:44: Check Point: Line: 0
+2019-07-07 12:18:44: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:44: Check Point: Value: CCCL
+2019-07-07 12:18:44: Check Point: Line: 1
+2019-07-07 12:18:44: Check Point: Column: LIST_LNName
+2019-07-07 12:18:44: Check Point: Value: Contra Charge Claims
+2019-07-07 12:18:44: Check Point: RecCount4
+2019-07-07 12:18:44: Check Point: oRow Lenght: 4
+2019-07-07 12:18:44: Check Point: oRecCount: 4
+2019-07-07 12:18:44: Check Point: Line: 0
+2019-07-07 12:18:44: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:44: Check Point: Value: CCDW
+2019-07-07 12:18:44: Check Point: Line: 1
+2019-07-07 12:18:44: Check Point: Column: LIST_LNName
+2019-07-07 12:18:44: Check Point: Value: Contra Charge Daywork
+2019-07-07 12:18:44: Check Point: RecCount5
+2019-07-07 12:18:44: Check Point: oRow Lenght: 5
+2019-07-07 12:18:44: Check Point: oRecCount: 5
+2019-07-07 12:18:44: Check Point: Line: 0
+2019-07-07 12:18:44: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:44: Check Point: Value: CCVO
+2019-07-07 12:18:44: Check Point: Line: 1
+2019-07-07 12:18:44: Check Point: Column: LIST_LNName
+2019-07-07 12:18:44: Check Point: Value: Contra Charge Variation Order
+2019-07-07 12:18:44: Check Point: RecCount6
+2019-07-07 12:18:44: Check Point: oRow Lenght: 6
+2019-07-07 12:18:44: Check Point: oRecCount: 6
+2019-07-07 12:18:44: Check Point: Line: 0
+2019-07-07 12:18:44: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:44: Check Point: Value: A
+2019-07-07 12:18:44: Check Point: Line: 1
+2019-07-07 12:18:44: Check Point: Column: LIST_LNName
+2019-07-07 12:18:44: Check Point: Value: Contract Works
+2019-07-07 12:18:44: Check Point: RecCount7
+2019-07-07 12:18:44: Check Point: oRow Lenght: 7
+2019-07-07 12:18:44: Check Point: oRecCount: 7
+2019-07-07 12:18:44: Check Point: Line: 0
+2019-07-07 12:18:44: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:44: Check Point: Value: DEP
+2019-07-07 12:18:44: Check Point: Line: 1
+2019-07-07 12:18:44: Check Point: Column: LIST_LNName
+2019-07-07 12:18:44: Check Point: Value: Deposit / Advance
+2019-07-07 12:18:44: Check Point: RecCount8
+2019-07-07 12:18:44: Check Point: oRow Lenght: 8
+2019-07-07 12:18:44: Check Point: oRecCount: 8
+2019-07-07 12:18:44: Check Point: Line: 0
+2019-07-07 12:18:44: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:44: Check Point: Value: DAP
+2019-07-07 12:18:44: Check Point: Line: 1
+2019-07-07 12:18:44: Check Point: Column: LIST_LNName
+2019-07-07 12:18:44: Check Point: Value: Deposit / Advanced payment
+2019-07-07 12:18:45: Check Point: RecCount9
+2019-07-07 12:18:45: Check Point: oRow Lenght: 9
+2019-07-07 12:18:45: Check Point: oRecCount: 9
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: DIS
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Discount
+2019-07-07 12:18:45: Check Point: RecCount10
+2019-07-07 12:18:45: Check Point: oRow Lenght: 10
+2019-07-07 12:18:45: Check Point: oRecCount: 10
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: ECL
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: External Claims
+2019-07-07 12:18:45: Check Point: RecCount11
+2019-07-07 12:18:45: Check Point: oRow Lenght: 11
+2019-07-07 12:18:45: Check Point: oRecCount: 11
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: EDW
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: External Daywork
+2019-07-07 12:18:45: Check Point: RecCount12
+2019-07-07 12:18:45: Check Point: oRow Lenght: 12
+2019-07-07 12:18:45: Check Point: oRecCount: 12
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: EVO
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: External Variation Order
+2019-07-07 12:18:45: Check Point: RecCount13
+2019-07-07 12:18:45: Check Point: oRow Lenght: 13
+2019-07-07 12:18:45: Check Point: oRecCount: 13
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: ADJ
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Figures Rounding Adjustment
+2019-07-07 12:18:45: Check Point: RecCount14
+2019-07-07 12:18:45: Check Point: oRow Lenght: 14
+2019-07-07 12:18:45: Check Point: oRecCount: 14
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: FLU
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Fluctuation
+2019-07-07 12:18:45: Check Point: RecCount15
+2019-07-07 12:18:45: Check Point: oRow Lenght: 15
+2019-07-07 12:18:45: Check Point: oRecCount: 15
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: GST
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: GST
+2019-07-07 12:18:45: Check Point: RecCount16
+2019-07-07 12:18:45: Check Point: oRow Lenght: 16
+2019-07-07 12:18:45: Check Point: oRecCount: 16
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: ICL
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Internal Claims
+2019-07-07 12:18:45: Check Point: RecCount17
+2019-07-07 12:18:45: Check Point: oRow Lenght: 17
+2019-07-07 12:18:45: Check Point: oRecCount: 17
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: IDW
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Internal Daywork
+2019-07-07 12:18:45: Check Point: RecCount18
+2019-07-07 12:18:45: Check Point: oRow Lenght: 18
+2019-07-07 12:18:45: Check Point: oRecCount: 18
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: IVO
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Internal Variation Order
+2019-07-07 12:18:45: Check Point: RecCount19
+2019-07-07 12:18:45: Check Point: oRow Lenght: 19
+2019-07-07 12:18:45: Check Point: oRecCount: 19
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: LD
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: LD
+2019-07-07 12:18:45: Check Point: RecCount20
+2019-07-07 12:18:45: Check Point: oRow Lenght: 20
+2019-07-07 12:18:45: Check Point: oRecCount: 20
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: MFS
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Material Off Site
+2019-07-07 12:18:45: Check Point: RecCount21
+2019-07-07 12:18:45: Check Point: oRow Lenght: 21
+2019-07-07 12:18:45: Check Point: oRecCount: 21
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: MOS
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Material On Site
+2019-07-07 12:18:45: Check Point: RecCount22
+2019-07-07 12:18:45: Check Point: oRow Lenght: 22
+2019-07-07 12:18:45: Check Point: oRecCount: 22
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: OC
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: PaulY Own Charge
+2019-07-07 12:18:45: Check Point: RecCount23
+2019-07-07 12:18:45: Check Point: oRow Lenght: 23
+2019-07-07 12:18:45: Check Point: oRecCount: 23
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: PC
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Prime Cost
+2019-07-07 12:18:45: Check Point: RecCount24
+2019-07-07 12:18:45: Check Point: oRow Lenght: 24
+2019-07-07 12:18:45: Check Point: oRecCount: 24
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: RDAP
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Refund of Deposit/Adv. payment
+2019-07-07 12:18:45: Check Point: RecCount25
+2019-07-07 12:18:45: Check Point: oRow Lenght: 25
+2019-07-07 12:18:45: Check Point: oRecCount: 25
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: REP
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Repayment
+2019-07-07 12:18:45: Check Point: RecCount26
+2019-07-07 12:18:45: Check Point: oRow Lenght: 26
+2019-07-07 12:18:45: Check Point: oRecCount: 26
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: BRE
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Retention for Builder
+2019-07-07 12:18:45: Check Point: RecCount27
+2019-07-07 12:18:45: Check Point: oRow Lenght: 27
+2019-07-07 12:18:45: Check Point: oRecCount: 27
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: NRE
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Retention for NSC
+2019-07-07 12:18:45: Check Point: RecCount28
+2019-07-07 12:18:45: Check Point: oRow Lenght: 28
+2019-07-07 12:18:45: Check Point: oRecCount: 28
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: SUP
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:45: Check Point: Value: Supplimentary Agreement
+2019-07-07 12:18:45: Check Point: RecCount29
+2019-07-07 12:18:45: Check Point: oRow Lenght: 29
+2019-07-07 12:18:45: Check Point: oRecCount: 29
+2019-07-07 12:18:45: Check Point: Line: 0
+2019-07-07 12:18:45: Check Point: Column: LIST_LNCode
+2019-07-07 12:18:45: Check Point: Value: T
+2019-07-07 12:18:45: Check Point: Line: 1
+2019-07-07 12:18:45: Check Point: Column: LIST_LNName
+2019-07-07 12:18:46: Check Point: Value: Title
+2019-07-07 12:18:46: Check Point: SELECT CODE AS LIST_PriceType, [NAME] AS LIST_PriceDesc FROM [@PRICETYPE]
+2019-07-07 12:18:46: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:18:46: Check Point: RecCount1
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 1
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 06
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Contingencies
+2019-07-07 12:18:46: Check Point: RecCount2
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 2
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 07
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Discount
+2019-07-07 12:18:46: Check Point: RecCount3
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 3
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 01
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Fixed Price
+2019-07-07 12:18:46: Check Point: RecCount4
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 4
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 05
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Fluctuation
+2019-07-07 12:18:46: Check Point: RecCount5
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 5
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 04
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Prime Cost / NSC
+2019-07-07 12:18:46: Check Point: RecCount6
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 6
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 03
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Provision Sum
+2019-07-07 12:18:46: Check Point: RecCount7
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 7
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 02
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Remeasured
+2019-07-07 12:18:46: Check Point: RecCount8
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 8
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceType
+2019-07-07 12:18:46: Check Point: Value: 08
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_PriceDesc
+2019-07-07 12:18:46: Check Point: Value: Supplementary Agreement
+2019-07-07 12:18:46: Check Point: select Code AS LIST_ItemType,[NAME] AS LIST_ItemDesc from [@ITMTYPE]
+2019-07-07 12:18:46: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:18:46: Check Point: RecCount1
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 1
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_ItemType
+2019-07-07 12:18:46: Check Point: Value: LS
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_ItemDesc
+2019-07-07 12:18:46: Check Point: Value: Lump Sum
+2019-07-07 12:18:46: Check Point: RecCount2
+2019-07-07 12:18:46: Check Point: oRow Lenght: 30
+2019-07-07 12:18:46: Check Point: oRecCount: 2
+2019-07-07 12:18:46: Check Point: Line: 0
+2019-07-07 12:18:46: Check Point: Column: LIST_ItemType
+2019-07-07 12:18:46: Check Point: Value: QR
+2019-07-07 12:18:46: Check Point: Line: 1
+2019-07-07 12:18:46: Check Point: Column: LIST_ItemDesc
+2019-07-07 12:18:46: Check Point: Value: Quantity x Rate
+2019-07-07 12:18:50: Check Point: Import: Run Application
+2019-07-07 12:18:50: Check Point: Import: set FileName
+2019-07-07 12:18:51: Check Point: Import: Open Workbook
+2019-07-07 12:18:51: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI02.xls
+2019-07-07 12:18:52: Check Point: Import: UnProtectSheet
+2019-07-07 12:18:53: Check Point: Import: BreakLinked
+2019-07-07 12:18:53: Check Point: Import: ReplaceAllData
+2019-07-07 12:18:53: Check Point: Now is replace: Form
+2019-07-07 12:18:53: Check Point: Next
+2019-07-07 12:18:53: Check Point: Now is replace: Price Type
+2019-07-07 12:18:53: Check Point: Next
+2019-07-07 12:18:53: Check Point: Now is replace: Item Type
+2019-07-07 12:18:53: Check Point: Next
+2019-07-07 12:18:54: Check Point: Import: ProtectSheet
+2019-07-07 12:18:55: Check Point: Import: Save
+2019-07-07 12:18:56: Check Point: Import: Close
+2019-07-07 12:18:56: Check Point: Import: Closed

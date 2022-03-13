@@ -1,0 +1,15 @@
+2019-11-14 03:38:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:38:00: Check Point: select * from QSI12_EDW('03049CJM','03049CJM/SC028') ORDER BY EDW_SubLineNum asc
+2019-11-14 03:38:02: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:38:02: Check Point: select * from QSI12_IDW('03049CJM','03049CJM/SC028')
+2019-11-14 03:38:05: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:38:05: Check Point: select * from QSI12_CCDW('03049CJM','03049CJM/SC028')
+2019-11-14 03:38:07: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:38:07: Check Point: select * from QSI12_CC('03049CJM','03049CJM/SC028')
+2019-11-14 03:38:09: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:38:09: Check Point: select * from QSI12_DAP('03049CJM','03049CJM/SC028')
+2019-11-14 03:38:12: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:38:12: Check Point: select * from QSI12_Approval('03049CJM','03049CJM/SC028')
+2019-11-14 03:38:12: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:38:12: Check Point: SELECT c.COSTCODE as LIST_CostCode, c.COSTNAME AS List_COSTDESC, a.U_ReportCode AS LIST_RptCode FROM CPS_View_CostCodeList c, OACT a WHERE c.COSTTYPE IN ('E','M','N','P','PS','S','CC') AND c.COSTCODE = a.AcctCode AND c.COSTCODE <> 'CC.SC028'
+2019-11-14 03:38:12: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

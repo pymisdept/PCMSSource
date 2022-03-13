@@ -1,0 +1,6 @@
+2019-11-14 02:44:32: Check Point: SELECT * from PrjBP_List('03049CJM')
+2019-11-14 02:44:32: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 02:44:32: Check Point: Import: Run Application
+2019-11-14 02:44:32: Check Point: Import: set FileName
+2019-11-14 02:44:53: Check Point: Import: Open Workbook
+2019-11-14 02:44:53: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI12.xlsm

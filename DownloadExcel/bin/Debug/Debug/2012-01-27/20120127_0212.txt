@@ -1,0 +1,1770 @@
+2012-01-27 02:12:57: Check Point: Import: RsToCollection
+2012-01-27 02:12:58: Check Point: Select * from QSI41_Form('TESTPRJ1', '5GU01Z00S', 'TESTPRJ1/SC003') 
+2012-01-27 02:12:58: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-01-27 02:12:58: Check Point: RecCount1
+2012-01-27 02:12:58: Check Point: oRow Lenght: 1
+2012-01-27 02:12:58: Check Point: oRecCount: 1
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/18D
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 24270.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: m
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 1300.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 31551000.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/18D
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 35049035.100000
+2012-01-27 02:12:58: Check Point: RecCount2
+2012-01-27 02:12:58: Check Point: oRow Lenght: 2
+2012-01-27 02:12:58: Check Point: oRecCount: 2
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/21A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 6.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 7452.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 44712.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/21A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 49680.000000
+2012-01-27 02:12:58: Check Point: RecCount3
+2012-01-27 02:12:58: Check Point: oRow Lenght: 3
+2012-01-27 02:12:58: Check Point: oRecCount: 3
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/21B
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 220.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 14490.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 3187800.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/21B
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 3542000.000000
+2012-01-27 02:12:58: Check Point: RecCount4
+2012-01-27 02:12:58: Check Point: oRow Lenght: 4
+2012-01-27 02:12:58: Check Point: oRecCount: 4
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/24B
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 850.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 405.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 344250.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/24B
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 382500.000000
+2012-01-27 02:12:58: Check Point: RecCount5
+2012-01-27 02:12:58: Check Point: oRow Lenght: 5
+2012-01-27 02:12:58: Check Point: oRecCount: 5
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/24C
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 1656.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 33120.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/24C
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 36800.000000
+2012-01-27 02:12:58: Check Point: RecCount6
+2012-01-27 02:12:58: Check Point: oRow Lenght: 6
+2012-01-27 02:12:58: Check Point: oRecCount: 6
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/25A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: LS
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 1.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: item
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 49680.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 49680.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/25A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 55200.000000
+2012-01-27 02:12:58: Check Point: RecCount7
+2012-01-27 02:12:58: Check Point: oRow Lenght: 7
+2012-01-27 02:12:58: Check Point: oRecCount: 7
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/25B
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 83.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 1660.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/25B
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 1840.000000
+2012-01-27 02:12:58: Check Point: RecCount8
+2012-01-27 02:12:58: Check Point: oRow Lenght: 8
+2012-01-27 02:12:58: Check Point: oRecCount: 8
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/26A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 1242.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 24840.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/26A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 27600.000000
+2012-01-27 02:12:58: Check Point: RecCount9
+2012-01-27 02:12:58: Check Point: oRow Lenght: 9
+2012-01-27 02:12:58: Check Point: oRecCount: 9
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/26C
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 83.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 1660.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/26C
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 1840.000000
+2012-01-27 02:12:58: Check Point: RecCount10
+2012-01-27 02:12:58: Check Point: oRow Lenght: 10
+2012-01-27 02:12:58: Check Point: oRecCount: 10
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/27A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 1656.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 33120.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/27A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 36800.000000
+2012-01-27 02:12:58: Check Point: RecCount11
+2012-01-27 02:12:58: Check Point: oRow Lenght: 11
+2012-01-27 02:12:58: Check Point: oRecCount: 11
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/27C
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 83.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 1660.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/27C
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 1840.000000
+2012-01-27 02:12:58: Check Point: RecCount12
+2012-01-27 02:12:58: Check Point: oRow Lenght: 12
+2012-01-27 02:12:58: Check Point: oRecCount: 12
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/28A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 24840.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 496800.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/28A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 552000.000000
+2012-01-27 02:12:58: Check Point: RecCount13
+2012-01-27 02:12:58: Check Point: oRow Lenght: 13
+2012-01-27 02:12:58: Check Point: oRecCount: 13
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/28C
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 662.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 13240.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/28C
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 14720.000000
+2012-01-27 02:12:58: Check Point: RecCount14
+2012-01-27 02:12:58: Check Point: oRow Lenght: 14
+2012-01-27 02:12:58: Check Point: oRecCount: 14
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 10.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 810.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 8100.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 9000.000000
+2012-01-27 02:12:58: Check Point: RecCount15
+2012-01-27 02:12:58: Check Point: oRow Lenght: 15
+2012-01-27 02:12:58: Check Point: oRecCount: 15
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29B
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 10.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 1215.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 12150.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29B
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 13500.000000
+2012-01-27 02:12:58: Check Point: RecCount16
+2012-01-27 02:12:58: Check Point: oRow Lenght: 16
+2012-01-27 02:12:58: Check Point: oRecCount: 16
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29C
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 10.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 1620.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 16200.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29C
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 18000.000000
+2012-01-27 02:12:58: Check Point: RecCount17
+2012-01-27 02:12:58: Check Point: oRow Lenght: 17
+2012-01-27 02:12:58: Check Point: oRecCount: 17
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29D
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 5.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 2025.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 10125.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29D
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 11250.000000
+2012-01-27 02:12:58: Check Point: RecCount18
+2012-01-27 02:12:58: Check Point: oRow Lenght: 18
+2012-01-27 02:12:58: Check Point: oRecCount: 18
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29E
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 5.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 2430.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 12150.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29E
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 13500.000000
+2012-01-27 02:12:58: Check Point: RecCount19
+2012-01-27 02:12:58: Check Point: oRow Lenght: 19
+2012-01-27 02:12:58: Check Point: oRecCount: 19
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29F
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 5.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 3240.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 16200.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29F
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 18000.000000
+2012-01-27 02:12:58: Check Point: RecCount20
+2012-01-27 02:12:58: Check Point: oRow Lenght: 20
+2012-01-27 02:12:58: Check Point: oRecCount: 20
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29G
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 5.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 4050.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 20250.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29G
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 22500.000000
+2012-01-27 02:12:58: Check Point: RecCount21
+2012-01-27 02:12:58: Check Point: oRow Lenght: 21
+2012-01-27 02:12:58: Check Point: oRecCount: 21
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29H
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: m3
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 81.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 1620.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29H
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 1800.000000
+2012-01-27 02:12:58: Check Point: RecCount22
+2012-01-27 02:12:58: Check Point: oRow Lenght: 22
+2012-01-27 02:12:58: Check Point: oRecCount: 22
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/29J
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: m3
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 162.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 3240.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/29J
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 3600.000000
+2012-01-27 02:12:58: Check Point: RecCount23
+2012-01-27 02:12:58: Check Point: oRow Lenght: 23
+2012-01-27 02:12:58: Check Point: oRecCount: 23
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/32A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 100.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 4968.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 496800.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/32A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 552000.000000
+2012-01-27 02:12:58: Check Point: RecCount24
+2012-01-27 02:12:58: Check Point: oRow Lenght: 24
+2012-01-27 02:12:58: Check Point: oRecCount: 24
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/32B
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 50.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 4968.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 248400.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/32B
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 276000.000000
+2012-01-27 02:12:58: Check Point: RecCount25
+2012-01-27 02:12:58: Check Point: oRow Lenght: 25
+2012-01-27 02:12:58: Check Point: oRecCount: 25
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/32C
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: LS
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 1.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: item
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 6624.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 6624.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/32C
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 7360.000000
+2012-01-27 02:12:58: Check Point: RecCount26
+2012-01-27 02:12:58: Check Point: oRow Lenght: 26
+2012-01-27 02:12:58: Check Point: oRecCount: 26
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/32D
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: LS
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 1.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: item
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 124200.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 124200.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/32D
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 138000.000000
+2012-01-27 02:12:58: Check Point: RecCount27
+2012-01-27 02:12:58: Check Point: oRow Lenght: 27
+2012-01-27 02:12:58: Check Point: oRecCount: 27
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/33A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 20.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: days
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 414.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 8280.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/33A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 9200.000000
+2012-01-27 02:12:58: Check Point: RecCount28
+2012-01-27 02:12:58: Check Point: oRow Lenght: 28
+2012-01-27 02:12:58: Check Point: oRecCount: 28
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/39A
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 5.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 99360.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 496800.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/39A
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 552000.000000
+2012-01-27 02:12:58: Check Point: RecCount29
+2012-01-27 02:12:58: Check Point: oRow Lenght: 29
+2012-01-27 02:12:58: Check Point: oRecCount: 29
+2012-01-27 02:12:58: Check Point: Line: 0
+2012-01-27 02:12:58: Check Point: Column: PrjCode
+2012-01-27 02:12:58: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:58: Check Point: Line: 1
+2012-01-27 02:12:58: Check Point: Column: PrjDesc
+2012-01-27 02:12:58: Check Point: Value: Test Project 1
+2012-01-27 02:12:58: Check Point: Line: 2
+2012-01-27 02:12:58: Check Point: Column: SCName
+2012-01-27 02:12:58: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:58: Check Point: Line: 3
+2012-01-27 02:12:58: Check Point: Column: SCCode
+2012-01-27 02:12:58: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:58: Check Point: Line: 4
+2012-01-27 02:12:58: Check Point: Column: SCNo
+2012-01-27 02:12:58: Check Point: Value: SC003
+2012-01-27 02:12:58: Check Point: Line: 5
+2012-01-27 02:12:58: Check Point: Column: SCWorks
+2012-01-27 02:12:58: Check Point: Value: Minipile construction
+2012-01-27 02:12:58: Check Point: Line: 6
+2012-01-27 02:12:58: Check Point: Column: SCPayTerm
+2012-01-27 02:12:58: Check Point: Value: 45 days
+2012-01-27 02:12:58: Check Point: Line: 7
+2012-01-27 02:12:58: Check Point: Column: SCItemNo
+2012-01-27 02:12:58: Check Point: Value: 3/39B
+2012-01-27 02:12:58: Check Point: Line: 8
+2012-01-27 02:12:58: Check Point: Column: SCDesc
+2012-01-27 02:12:58: Check Point: Value: Mini pile construction
+2012-01-27 02:12:58: Check Point: Line: 9
+2012-01-27 02:12:58: Check Point: Column: ItemType
+2012-01-27 02:12:58: Check Point: Value: QR
+2012-01-27 02:12:58: Check Point: Line: 10
+2012-01-27 02:12:58: Check Point: Column: Quantity
+2012-01-27 02:12:58: Check Point: Value: 5.000000
+2012-01-27 02:12:58: Check Point: Line: 11
+2012-01-27 02:12:58: Check Point: Column: UOM
+2012-01-27 02:12:58: Check Point: Value: no.
+2012-01-27 02:12:58: Check Point: Line: 12
+2012-01-27 02:12:58: Check Point: Column: Rate
+2012-01-27 02:12:58: Check Point: Value: 414.000000
+2012-01-27 02:12:58: Check Point: Line: 13
+2012-01-27 02:12:58: Check Point: Column: Amt
+2012-01-27 02:12:58: Check Point: Value: 2070.000000
+2012-01-27 02:12:58: Check Point: Line: 14
+2012-01-27 02:12:58: Check Point: Column: ClientRef
+2012-01-27 02:12:58: Check Point: Value: 3/39B
+2012-01-27 02:12:58: Check Point: Line: 15
+2012-01-27 02:12:58: Check Point: Column: CostCode
+2012-01-27 02:12:58: Check Point: Value: 22S01
+2012-01-27 02:12:58: Check Point: Line: 16
+2012-01-27 02:12:58: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:58: Check Point: Value: General piling works
+2012-01-27 02:12:58: Check Point: Line: 17
+2012-01-27 02:12:58: Check Point: Column: CommitBudget
+2012-01-27 02:12:58: Check Point: Value: 2300.000000
+2012-01-27 02:12:58: Check Point: RecCount30
+2012-01-27 02:12:59: Check Point: oRow Lenght: 30
+2012-01-27 02:12:59: Check Point: oRecCount: 30
+2012-01-27 02:12:59: Check Point: Line: 0
+2012-01-27 02:12:59: Check Point: Column: PrjCode
+2012-01-27 02:12:59: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:59: Check Point: Line: 1
+2012-01-27 02:12:59: Check Point: Column: PrjDesc
+2012-01-27 02:12:59: Check Point: Value: Test Project 1
+2012-01-27 02:12:59: Check Point: Line: 2
+2012-01-27 02:12:59: Check Point: Column: SCName
+2012-01-27 02:12:59: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:59: Check Point: Line: 3
+2012-01-27 02:12:59: Check Point: Column: SCCode
+2012-01-27 02:12:59: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:59: Check Point: Line: 4
+2012-01-27 02:12:59: Check Point: Column: SCNo
+2012-01-27 02:12:59: Check Point: Value: SC003
+2012-01-27 02:12:59: Check Point: Line: 5
+2012-01-27 02:12:59: Check Point: Column: SCWorks
+2012-01-27 02:12:59: Check Point: Value: Minipile construction
+2012-01-27 02:12:59: Check Point: Line: 6
+2012-01-27 02:12:59: Check Point: Column: SCPayTerm
+2012-01-27 02:12:59: Check Point: Value: 45 days
+2012-01-27 02:12:59: Check Point: Line: 7
+2012-01-27 02:12:59: Check Point: Column: SCItemNo
+2012-01-27 02:12:59: Check Point: Value: 3/39C
+2012-01-27 02:12:59: Check Point: Line: 8
+2012-01-27 02:12:59: Check Point: Column: SCDesc
+2012-01-27 02:12:59: Check Point: Value: Mini pile construction
+2012-01-27 02:12:59: Check Point: Line: 9
+2012-01-27 02:12:59: Check Point: Column: ItemType
+2012-01-27 02:12:59: Check Point: Value: QR
+2012-01-27 02:12:59: Check Point: Line: 10
+2012-01-27 02:12:59: Check Point: Column: Quantity
+2012-01-27 02:12:59: Check Point: Value: 5.000000
+2012-01-27 02:12:59: Check Point: Line: 11
+2012-01-27 02:12:59: Check Point: Column: UOM
+2012-01-27 02:12:59: Check Point: Value: no.
+2012-01-27 02:12:59: Check Point: Line: 12
+2012-01-27 02:12:59: Check Point: Column: Rate
+2012-01-27 02:12:59: Check Point: Value: 414.000000
+2012-01-27 02:12:59: Check Point: Line: 13
+2012-01-27 02:12:59: Check Point: Column: Amt
+2012-01-27 02:12:59: Check Point: Value: 2070.000000
+2012-01-27 02:12:59: Check Point: Line: 14
+2012-01-27 02:12:59: Check Point: Column: ClientRef
+2012-01-27 02:12:59: Check Point: Value: 3/39C
+2012-01-27 02:12:59: Check Point: Line: 15
+2012-01-27 02:12:59: Check Point: Column: CostCode
+2012-01-27 02:12:59: Check Point: Value: 22S01
+2012-01-27 02:12:59: Check Point: Line: 16
+2012-01-27 02:12:59: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:59: Check Point: Value: General piling works
+2012-01-27 02:12:59: Check Point: Line: 17
+2012-01-27 02:12:59: Check Point: Column: CommitBudget
+2012-01-27 02:12:59: Check Point: Value: 2300.000000
+2012-01-27 02:12:59: Check Point: RecCount31
+2012-01-27 02:12:59: Check Point: oRow Lenght: 31
+2012-01-27 02:12:59: Check Point: oRecCount: 31
+2012-01-27 02:12:59: Check Point: Line: 0
+2012-01-27 02:12:59: Check Point: Column: PrjCode
+2012-01-27 02:12:59: Check Point: Value: TESTPRJ1
+2012-01-27 02:12:59: Check Point: Line: 1
+2012-01-27 02:12:59: Check Point: Column: PrjDesc
+2012-01-27 02:12:59: Check Point: Value: Test Project 1
+2012-01-27 02:12:59: Check Point: Line: 2
+2012-01-27 02:12:59: Check Point: Column: SCName
+2012-01-27 02:12:59: Check Point: Value: 5GUM TRADING COMPANY
+2012-01-27 02:12:59: Check Point: Line: 3
+2012-01-27 02:12:59: Check Point: Column: SCCode
+2012-01-27 02:12:59: Check Point: Value: 5GU01Z00S
+2012-01-27 02:12:59: Check Point: Line: 4
+2012-01-27 02:12:59: Check Point: Column: SCNo
+2012-01-27 02:12:59: Check Point: Value: SC003
+2012-01-27 02:12:59: Check Point: Line: 5
+2012-01-27 02:12:59: Check Point: Column: SCWorks
+2012-01-27 02:12:59: Check Point: Value: Minipile construction
+2012-01-27 02:12:59: Check Point: Line: 6
+2012-01-27 02:12:59: Check Point: Column: SCPayTerm
+2012-01-27 02:12:59: Check Point: Value: 45 days
+2012-01-27 02:12:59: Check Point: Line: 7
+2012-01-27 02:12:59: Check Point: Column: SCItemNo
+2012-01-27 02:12:59: Check Point: Value: 3/40A
+2012-01-27 02:12:59: Check Point: Line: 8
+2012-01-27 02:12:59: Check Point: Column: SCDesc
+2012-01-27 02:12:59: Check Point: Value: Mini pile construction
+2012-01-27 02:12:59: Check Point: Line: 9
+2012-01-27 02:12:59: Check Point: Column: ItemType
+2012-01-27 02:12:59: Check Point: Value: QR
+2012-01-27 02:12:59: Check Point: Line: 10
+2012-01-27 02:12:59: Check Point: Column: Quantity
+2012-01-27 02:12:59: Check Point: Value: 5.000000
+2012-01-27 02:12:59: Check Point: Line: 11
+2012-01-27 02:12:59: Check Point: Column: UOM
+2012-01-27 02:12:59: Check Point: Value: no.
+2012-01-27 02:12:59: Check Point: Line: 12
+2012-01-27 02:12:59: Check Point: Column: Rate
+2012-01-27 02:12:59: Check Point: Value: 414.000000
+2012-01-27 02:12:59: Check Point: Line: 13
+2012-01-27 02:12:59: Check Point: Column: Amt
+2012-01-27 02:12:59: Check Point: Value: 2070.000000
+2012-01-27 02:12:59: Check Point: Line: 14
+2012-01-27 02:12:59: Check Point: Column: ClientRef
+2012-01-27 02:12:59: Check Point: Value: 3/40A
+2012-01-27 02:12:59: Check Point: Line: 15
+2012-01-27 02:12:59: Check Point: Column: CostCode
+2012-01-27 02:12:59: Check Point: Value: 22S01
+2012-01-27 02:12:59: Check Point: Line: 16
+2012-01-27 02:12:59: Check Point: Column: CostCodeDesc
+2012-01-27 02:12:59: Check Point: Value: General piling works
+2012-01-27 02:12:59: Check Point: Line: 17
+2012-01-27 02:12:59: Check Point: Column: CommitBudget
+2012-01-27 02:12:59: Check Point: Value: 2300.000000

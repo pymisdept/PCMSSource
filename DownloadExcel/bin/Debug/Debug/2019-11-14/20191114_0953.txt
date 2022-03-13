@@ -1,0 +1,7 @@
+2019-11-14 09:53:48: Check Point: Import: RsToCollection
+2019-11-14 09:53:48: Check Point: Select '00000B3H' PRJCODE, 'PAUL Y. BUILDERS LIMITED' PRJNAME 
+2019-11-14 09:53:48: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 09:53:48: Check Point: Exception: You are attempting to open a file type that is blocked by your File Block settings in the Trust Center.
+2019-11-14 09:53:48: Check Point: End
+2019-11-14 09:53:48: Check Point: Disconnect
+2019-11-14 09:53:48: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\

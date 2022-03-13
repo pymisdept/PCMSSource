@@ -1,0 +1,7 @@
+2011-09-01 05:37:02: Check Point: Import: Run Application
+2011-09-01 05:37:02: Check Point: Import: set FileName
+2011-09-01 05:37:05: Check Point: Import: Open Workbook
+2011-09-01 05:37:06: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\MA08.xls
+2011-09-01 05:37:06: Check Point: End
+2011-09-01 05:37:06: Check Point: Disconnect
+2011-09-01 05:37:07: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

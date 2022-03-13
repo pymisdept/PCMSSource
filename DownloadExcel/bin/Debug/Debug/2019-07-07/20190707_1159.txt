@@ -1,0 +1,153 @@
+2019-07-07 11:59:24: Check Point: Import: RsToCollection
+2019-07-07 11:59:24: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('19042B1H', 'ISS01Z00S', '19042B1H/SC003') 
+2019-07-07 11:59:29: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:29: Check Point: RecCount1
+2019-07-07 11:59:29: Check Point: oRow Lenght: 1
+2019-07-07 11:59:29: Check Point: oRecCount: 1
+2019-07-07 11:59:29: Check Point: Line: 0
+2019-07-07 11:59:29: Check Point: Column: PrjCode
+2019-07-07 11:59:29: Check Point: Value: 19042B1H
+2019-07-07 11:59:29: Check Point: Line: 1
+2019-07-07 11:59:29: Check Point: Column: PrjDesc
+2019-07-07 11:59:29: Check Point: Value: 19042B1H - HOME OWNER. SCH. DEV. '~'
+2019-07-07 11:59:29: Check Point: Line: 2
+2019-07-07 11:59:29: Check Point: Column: SCNum
+2019-07-07 11:59:29: Check Point: Value: 19042B1H/SC003
+2019-07-07 11:59:29: Check Point: Line: 3
+2019-07-07 11:59:29: Check Point: Column: LastCertNum
+2019-07-07 11:59:29: Check Point: Value: 44
+2019-07-07 11:59:29: Check Point: Line: 4
+2019-07-07 11:59:29: Check Point: Column: CardCode
+2019-07-07 11:59:29: Check Point: Value: ISS01Z00S
+2019-07-07 11:59:29: Check Point: Line: 5
+2019-07-07 11:59:29: Check Point: Column: CardName
+2019-07-07 11:59:29: Check Point: Value: ISS ENVIRONMENTAL SERVICES (HK) LTD
+2019-07-07 11:59:29: Check Point: Line: 6
+2019-07-07 11:59:29: Check Point: Column: LastCertTotal
+2019-07-07 11:59:29: Check Point: Value: -907445.860000
+2019-07-07 11:59:29: Check Point: Line: 7
+2019-07-07 11:59:29: Check Point: Column: BQAmt
+2019-07-07 11:59:29: Check Point: Value: 0.000000
+2019-07-07 11:59:29: Check Point: Line: 8
+2019-07-07 11:59:29: Check Point: Column: PCMSDocNum
+2019-07-07 11:59:29: Check Point: Value: 19042B1H/SC003/045
+2019-07-07 11:59:29: Check Point: Line: 9
+2019-07-07 11:59:29: Check Point: Column: CumRetent
+2019-07-07 11:59:29: Check Point: Value: 0.000000
+2019-07-07 11:59:29: Check Point: Line: 10
+2019-07-07 11:59:29: Check Point: Column: DocSubject
+2019-07-07 11:59:29: Check Point: Value: Toilet Leasing and Service
+2019-07-07 11:59:29: Check Point: Line: 11
+2019-07-07 11:59:29: Check Point: Column: WorkTitle
+2019-07-07 11:59:29: Check Point: Value: Work Done
+2019-07-07 11:59:29: Check Point: Line: 12
+2019-07-07 11:59:29: Check Point: Column: MOSTitle
+2019-07-07 11:59:29: Check Point: Value: Material On Site
+2019-07-07 11:59:29: Check Point: Line: 13
+2019-07-07 11:59:29: Check Point: Column: DWTitle
+2019-07-07 11:59:29: Check Point: Value: Daywork
+2019-07-07 11:59:29: Check Point: Line: 14
+2019-07-07 11:59:29: Check Point: Column: VOTitle
+2019-07-07 11:59:29: Check Point: Value: Variations
+2019-07-07 11:59:29: Check Point: Line: 15
+2019-07-07 11:59:29: Check Point: Column: BRETitle
+2019-07-07 11:59:29: Check Point: Value: Retention
+2019-07-07 11:59:29: Check Point: Line: 16
+2019-07-07 11:59:30: Check Point: Column: CCTitle
+2019-07-07 11:59:30: Check Point: Value: Contra Charge
+2019-07-07 11:59:30: Check Point: Line: 17
+2019-07-07 11:59:30: Check Point: Column: DAPTitle
+2019-07-07 11:59:30: Check Point: Value: Deposit / Advanced payment
+2019-07-07 11:59:30: Check Point: Line: 18
+2019-07-07 11:59:30: Check Point: Column: RDAPTitle
+2019-07-07 11:59:30: Check Point: Value: Refund of Deposit/Adv. payment
+2019-07-07 11:59:30: Check Point: Line: 19
+2019-07-07 11:59:30: Check Point: Column: AppWork
+2019-07-07 11:59:30: Check Point: Value: 907448.510000
+2019-07-07 11:59:30: Check Point: Line: 20
+2019-07-07 11:59:30: Check Point: Column: AppMOS
+2019-07-07 11:59:30: Check Point: Value: 0.000000
+2019-07-07 11:59:30: Check Point: Line: 21
+2019-07-07 11:59:30: Check Point: Column: AppDW
+2019-07-07 11:59:30: Check Point: Value: 0.000000
+2019-07-07 11:59:30: Check Point: Line: 22
+2019-07-07 11:59:30: Check Point: Column: AppVO
+2019-07-07 11:59:30: Check Point: Value: 0.000000
+2019-07-07 11:59:30: Check Point: Line: 23
+2019-07-07 11:59:30: Check Point: Column: RetenPrcnt
+2019-07-07 11:59:30: Check Point: Value: 0.000000
+2019-07-07 11:59:30: Check Point: Line: 24
+2019-07-07 11:59:30: Check Point: Column: RetenMaxAmt
+2019-07-07 11:59:30: Check Point: Value: 0.000000
+2019-07-07 11:59:30: Check Point: Line: 25
+2019-07-07 11:59:30: Check Point: Column: GSTPrcnt
+2019-07-07 11:59:30: Check Point: Value: 0.000000
+2019-07-07 11:59:30: Check Point: Line: 26
+2019-07-07 11:59:30: Check Point: Column: CumGST
+2019-07-07 11:59:30: Check Point: Value: 0.000000
+2019-07-07 11:59:30: Check Point: Line: 27
+2019-07-07 11:59:30: Check Point: Column: PCMSSERV
+2019-07-07 11:59:30: Check Point: Value: HK-T
+2019-07-07 11:59:30: Check Point: select * from QSI12_Work('19042B1H','19042B1H/SC003')
+2019-07-07 11:59:31: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:31: Check Point: RecCount1
+2019-07-07 11:59:31: Check Point: oRow Lenght: 2
+2019-07-07 11:59:31: Check Point: oRecCount: 1
+2019-07-07 11:59:31: Check Point: Line: 0
+2019-07-07 11:59:31: Check Point: Column: PrjCode
+2019-07-07 11:59:31: Check Point: Value: 19042B1H
+2019-07-07 11:59:31: Check Point: Line: 1
+2019-07-07 11:59:31: Check Point: Column: DocEntry
+2019-07-07 11:59:31: Check Point: Value: 54324
+2019-07-07 11:59:31: Check Point: Line: 2
+2019-07-07 11:59:31: Check Point: Column: LineNum
+2019-07-07 11:59:31: Check Point: Value: 0
+2019-07-07 11:59:31: Check Point: Line: 3
+2019-07-07 11:59:31: Check Point: Column: ItemNum
+2019-07-07 11:59:31: Check Point: Value: 1
+2019-07-07 11:59:31: Check Point: Line: 4
+2019-07-07 11:59:31: Check Point: Column: FullDesc
+2019-07-07 11:59:31: Check Point: Value: Toilet Leasing and Service
+2019-07-07 11:59:31: Check Point: Line: 5
+2019-07-07 11:59:31: Check Point: Column: ItemType
+2019-07-07 11:59:31: Check Point: Value: LS
+2019-07-07 11:59:31: Check Point: Line: 6
+2019-07-07 11:59:31: Check Point: Column: BQQty
+2019-07-07 11:59:31: Check Point: Value: 0.000000
+2019-07-07 11:59:31: Check Point: Line: 7
+2019-07-07 11:59:31: Check Point: Column: UOM
+2019-07-07 11:59:31: Check Point: Value: 
+2019-07-07 11:59:31: Check Point: Line: 8
+2019-07-07 11:59:31: Check Point: Column: Rate
+2019-07-07 11:59:31: Check Point: Value: 0.000000
+2019-07-07 11:59:31: Check Point: Line: 9
+2019-07-07 11:59:31: Check Point: Column: BQLineTotal
+2019-07-07 11:59:31: Check Point: Value: 0.000000
+2019-07-07 11:59:31: Check Point: Line: 10
+2019-07-07 11:59:31: Check Point: Column: PreQty
+2019-07-07 11:59:31: Check Point: Value: 1.000000
+2019-07-07 11:59:31: Check Point: Line: 11
+2019-07-07 11:59:31: Check Point: Column: PreLineTotal
+2019-07-07 11:59:31: Check Point: Value: 907445.860000
+2019-07-07 11:59:31: Check Point: Line: 12
+2019-07-07 11:59:31: Check Point: Column: AcctCode
+2019-07-07 11:59:31: Check Point: Value: 06P13
+2019-07-07 11:59:31: Check Point: Line: 13
+2019-07-07 11:59:31: Check Point: Column: PCMSDocNum
+2019-07-07 11:59:31: Check Point: Value: 19042B1H/SC003
+2019-07-07 11:59:31: Check Point: select * from QSI12_MOS('19042B1H','19042B1H/SC003')
+2019-07-07 11:59:32: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:32: Check Point: select * from QSI12_EVO('19042B1H','19042B1H/SC003') ORDER BY EVO_SubLineNum asc
+2019-07-07 11:59:34: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:34: Check Point: select * from QSI12_IVO('19042B1H','19042B1H/SC003')
+2019-07-07 11:59:35: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:35: Check Point: select * from QSI12_CCVO('19042B1H','19042B1H/SC003')
+2019-07-07 11:59:36: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:36: Check Point: select * from QSI12_EDW('19042B1H','19042B1H/SC003') ORDER BY EDW_SubLineNum asc
+2019-07-07 11:59:37: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:37: Check Point: select * from QSI12_IDW('19042B1H','19042B1H/SC003')
+2019-07-07 11:59:38: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:38: Check Point: select * from QSI12_CCDW('19042B1H','19042B1H/SC003')
+2019-07-07 11:59:47: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 11:59:55: Check Point: select * from QSI12_CC('19042B1H','19042B1H/SC003')
+2019-07-07 11:59:58: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

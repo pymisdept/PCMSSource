@@ -1,0 +1,8 @@
+2011-04-04 04:57:03: Check Point: Import: Run Application
+2011-04-04 04:57:21: Check Point: Import: set FileName
+2011-04-04 04:57:25: Check Point: Import: Open Workbook
+2011-04-04 04:57:26: Check Point: File Names:E:\SAP\PCMS800\Excel Download Request Generate\Template\PUI01.xls
+2011-04-04 04:57:35: Check Point: Import: UnProtectSheet
+2011-04-04 04:57:36: Check Point: Import: BreakLinked
+2011-04-04 04:57:39: Check Point: Import: ReplaceAllData
+2011-04-04 04:57:55: Check Point: Now is replace: Form

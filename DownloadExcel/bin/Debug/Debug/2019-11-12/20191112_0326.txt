@@ -1,0 +1,4 @@
+2019-11-12 03:26:00: Check Point: Import: ProtectSheet
+2019-11-12 03:26:16: Check Point: Import: Save
+2019-11-12 03:26:19: Check Point: Import: Close
+2019-11-12 03:26:20: Check Point: Import: Closed

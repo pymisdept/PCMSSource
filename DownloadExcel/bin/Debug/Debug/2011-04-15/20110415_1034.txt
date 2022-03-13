@@ -1,0 +1,18 @@
+2011-04-15 10:34:05: Check Point: Now is replace: Cover
+2011-04-15 10:34:05: Check Point: Next
+2011-04-15 10:34:05: Check Point: Now is replace: Works
+2011-04-15 10:34:06: Check Point: Next
+2011-04-15 10:34:06: Check Point: Now is replace: MOS
+2011-04-15 10:34:06: Check Point: Next
+2011-04-15 10:34:06: Check Point: Now is replace: VO
+2011-04-15 10:34:06: Check Point: Next
+2011-04-15 10:34:06: Check Point: Now is replace: Daywork
+2011-04-15 10:34:06: Check Point: Next
+2011-04-15 10:34:06: Check Point: Now is replace: Claims
+2011-04-15 10:34:06: Check Point: Next
+2011-04-15 10:34:06: Check Point: Now is replace: Bill Desc
+2011-04-15 10:34:06: Check Point: Next
+2011-04-15 10:34:08: Check Point: Import: ProtectSheet
+2011-04-15 10:34:20: Check Point: Import: Save
+2011-04-15 10:34:21: Check Point: End
+2011-04-15 10:34:21: Check Point: Disconnect

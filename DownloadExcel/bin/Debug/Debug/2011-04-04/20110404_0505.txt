@@ -1,0 +1,92 @@
+2011-04-04 05:05:00: Check Point: RecCount1
+2011-04-04 05:05:00: Check Point: oRow Lenght: 1
+2011-04-04 05:05:00: Check Point: oRecCount: 1
+2011-04-04 05:05:00: Check Point: Line: 0
+2011-04-04 05:05:00: Check Point: Column: PRJCODE
+2011-04-04 05:05:00: Check Point: Value: 96012I1H
+2011-04-04 05:05:00: Check Point: Line: 1
+2011-04-04 05:05:00: Check Point: Column: PRJNAME
+2011-04-04 05:05:00: Check Point: Value: Shop 208 OF Cyberport Arcade
+2011-04-04 05:05:10: Check Point: SELECT COSTCODE as LIST_CostCode, COSTNAME AS List_COSTDESC FROM CPS_View_CostCodeList WHERE COSTTYPE IN ('E','M','N','P','PS','S')
+2011-04-04 05:05:38: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-04 05:05:38: Check Point: RecCount1
+2011-04-04 05:05:38: Check Point: oRow Lenght: 2
+2011-04-04 05:05:38: Check Point: oRecCount: 1
+2011-04-04 05:05:38: Check Point: Line: 0
+2011-04-04 05:05:38: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:38: Check Point: Value: 01P01
+2011-04-04 05:05:38: Check Point: Line: 1
+2011-04-04 05:05:38: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:38: Check Point: Value: Site staff basic salary
+2011-04-04 05:05:39: Check Point: RecCount2
+2011-04-04 05:05:39: Check Point: oRow Lenght: 2
+2011-04-04 05:05:39: Check Point: oRecCount: 2
+2011-04-04 05:05:39: Check Point: Line: 0
+2011-04-04 05:05:39: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:39: Check Point: Value: 01P02
+2011-04-04 05:05:39: Check Point: Line: 1
+2011-04-04 05:05:39: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:39: Check Point: Value: Site staff O.T. & allowance
+2011-04-04 05:05:48: Check Point: RecCount3
+2011-04-04 05:05:48: Check Point: oRow Lenght: 3
+2011-04-04 05:05:48: Check Point: oRecCount: 3
+2011-04-04 05:05:48: Check Point: Line: 0
+2011-04-04 05:05:48: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:48: Check Point: Value: 01P03
+2011-04-04 05:05:48: Check Point: Line: 1
+2011-04-04 05:05:48: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:48: Check Point: Value: Site staff bonus
+2011-04-04 05:05:49: Check Point: RecCount4
+2011-04-04 05:05:49: Check Point: oRow Lenght: 4
+2011-04-04 05:05:49: Check Point: oRecCount: 4
+2011-04-04 05:05:49: Check Point: Line: 0
+2011-04-04 05:05:49: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:49: Check Point: Value: 01P04
+2011-04-04 05:05:49: Check Point: Line: 1
+2011-04-04 05:05:49: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:49: Check Point: Value: Site staff P fund / MPF employer contribution
+2011-04-04 05:05:49: Check Point: RecCount5
+2011-04-04 05:05:49: Check Point: oRow Lenght: 5
+2011-04-04 05:05:49: Check Point: oRecCount: 5
+2011-04-04 05:05:49: Check Point: Line: 0
+2011-04-04 05:05:49: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:49: Check Point: Value: 01P05
+2011-04-04 05:05:49: Check Point: Line: 1
+2011-04-04 05:05:49: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:49: Check Point: Value: Site staff other salary payments
+2011-04-04 05:05:49: Check Point: RecCount6
+2011-04-04 05:05:49: Check Point: oRow Lenght: 6
+2011-04-04 05:05:49: Check Point: oRecCount: 6
+2011-04-04 05:05:49: Check Point: Line: 0
+2011-04-04 05:05:49: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:49: Check Point: Value: 01P06
+2011-04-04 05:05:49: Check Point: Line: 1
+2011-04-04 05:05:49: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:49: Check Point: Value: Direct labour basic wage
+2011-04-04 05:05:49: Check Point: RecCount7
+2011-04-04 05:05:49: Check Point: oRow Lenght: 7
+2011-04-04 05:05:49: Check Point: oRecCount: 7
+2011-04-04 05:05:49: Check Point: Line: 0
+2011-04-04 05:05:49: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:49: Check Point: Value: 01P07
+2011-04-04 05:05:49: Check Point: Line: 1
+2011-04-04 05:05:49: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:49: Check Point: Value: Direct labour O.T. & allowance
+2011-04-04 05:05:49: Check Point: RecCount8
+2011-04-04 05:05:49: Check Point: oRow Lenght: 8
+2011-04-04 05:05:49: Check Point: oRecCount: 8
+2011-04-04 05:05:49: Check Point: Line: 0
+2011-04-04 05:05:49: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:49: Check Point: Value: 01P08
+2011-04-04 05:05:49: Check Point: Line: 1
+2011-04-04 05:05:49: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:49: Check Point: Value: Direct labour bonus
+2011-04-04 05:05:49: Check Point: RecCount9
+2011-04-04 05:05:49: Check Point: oRow Lenght: 9
+2011-04-04 05:05:49: Check Point: oRecCount: 9
+2011-04-04 05:05:49: Check Point: Line: 0
+2011-04-04 05:05:49: Check Point: Column: LIST_CostCode
+2011-04-04 05:05:49: Check Point: Value: 01P09
+2011-04-04 05:05:49: Check Point: Line: 1
+2011-04-04 05:05:49: Check Point: Column: List_COSTDESC
+2011-04-04 05:05:49: Check Point: Value: Direct labour MPF employer contribution

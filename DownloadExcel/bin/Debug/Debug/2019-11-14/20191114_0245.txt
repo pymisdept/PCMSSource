@@ -1,0 +1,6 @@
+2019-11-14 02:45:09: Check Point: Import: UnProtectSheet
+2019-11-14 02:45:09: Check Point: Import: BreakLinked
+2019-11-14 02:45:12: Check Point: Import: ReplaceAllData
+2019-11-14 02:45:50: Check Point: Now is replace: xxxxxx
+2019-11-14 02:45:54: Check Point: Next
+2019-11-14 02:45:58: Check Point: Now is replace: Cert

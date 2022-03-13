@@ -1,0 +1,14 @@
+2019-11-14 03:39:15: Check Point: SELECT * from PrjBP_List('03049CJM')
+2019-11-14 03:39:15: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:39:15: Check Point: Import: Run Application
+2019-11-14 03:39:15: Check Point: Import: set FileName
+2019-11-14 03:39:17: Check Point: Import: Open Workbook
+2019-11-14 03:39:17: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI12.xlsm
+2019-11-14 03:39:38: Check Point: Import: UnProtectSheet
+2019-11-14 03:39:40: Check Point: Import: BreakLinked
+2019-11-14 03:39:45: Check Point: Import: ReplaceAllData
+2019-11-14 03:39:48: Check Point: Now is replace: xxxxxx
+2019-11-14 03:39:52: Check Point: Next
+2019-11-14 03:39:54: Check Point: Now is replace: Cert
+2019-11-14 03:39:57: Check Point: Next
+2019-11-14 03:39:58: Check Point: Now is replace: Works

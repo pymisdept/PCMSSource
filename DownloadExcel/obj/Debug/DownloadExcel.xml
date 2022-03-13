@@ -1,0 +1,334 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DownloadExcel
+</name>
+</assembly>
+<members>
+<member name="T:DownloadExcel.Excel.ProcessClass.QSI40">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI41">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ Modified by Alice on 18 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI30">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="P:DownloadExcel.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DownloadExcel.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DownloadExcel.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI20">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI31">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI42">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ Modified by Alice on 18 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.MA08">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.ACI01">
+	<summary>
+ Createed by Alice on 19 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI32">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI21">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.ACI02">
+	<summary>
+ Created by Alice on 19 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI33">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI22">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI23">
+	<summary>
+ QSI23
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI01">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ Modified by Alice on 13 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI12">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ Modified by Alice on 18 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI24">
+	<summary>
+ Created by Alice on 31 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI02">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ Modified by Alice on 18 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI25">
+	<summary>
+ Created by Alice on 19 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI03">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ Modified by Alice on 18 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI04">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ Modified by Alice on 18 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.MAI02">
+	<summary>
+ Created by Alice on 21 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI27">
+	<summary>
+ Created by Alice on 01 Nov 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI28">
+	<summary>
+ Created by Alice on 01 Nov 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI29">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI07">
+	<summary>
+ QSI07
+ </summary>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI18">
+	<summary>
+ Created by Alice on 01 Nov 2009
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.Excel.Setting.Parameter.#ctor(System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="pFileType"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.QSI08">
+	<summary>
+QSI08
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_PUI05(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ ' Karrson: Modify on 2009-08-23 '''' New Parameter (Vendor Code)
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_PUI06(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ ' Karrson: Modify on 2009-09-22 '''' New Parameter (Vendor Code)
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI01(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ Karrson: Modified Function on 2009-08-25
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI02(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ Karrson: Modified Function on 2009-08-25
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI03(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ Karrson: Modified Function on 2009-08-25
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI04(System.String,DownloadExcel.Excel.Setting.Parameter,System.String)">
+	<summary>
+ Karrson: Modified Function on 2009-08-25
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI07(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ QSI07
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI08(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ QSI08
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI12(System.String,DownloadExcel.Excel.Setting.Parameter,System.String)">
+	<summary>
+ Karrson: New Function on 2009-08-25
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI17(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+ Karrson: Add Function on 2009-08-26
+ </summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="M:DownloadExcel.ExcelDownload.xls_QSI40(System.String,DownloadExcel.Excel.Setting.Parameter)">
+	<summary>
+	</summary>
+	<param name="pID"></param>
+	<param name="pParameter"></param>
+	<remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI01">
+	<summary>Project Information Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI02">
+	<summary>Project BQ Item Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI03">
+	<summary>Project BQ Budget Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI04">
+	<summary>Sub-Contract Item Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI07">
+	<summary>Project BQ Budget Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI08">
+	<summary>Sub-Contract Item Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI12">
+	<summary>Sub-Contract Payment Certificate</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI17">
+	<summary>Payment Application</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI18_Bill">
+	<summary>Payment Certificate</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI18_Work">
+	<summary>Payment Certificate</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI19">
+	<summary>Project Detail Report Template</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI20">
+	<summary>Project Trends Report Template</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI21">
+	<summary>Annual Project Forecast and Budget</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI22">
+	<summary>Annual Project Cash Flow Budget</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI23">
+	<summary>Project Variation</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI24">
+	<summary>Intruim Payment</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI25">
+	<summary>Project Accrual Cost</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI26">
+	<summary>Project Accrual Income</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI27">
+	<summary>Payment Application (by IP Grouping)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI28">
+	<summary>Payment Certificate (by IP Grouping)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI29">
+	<summary>Project Fiscal Report - Year Forecast</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI30">
+	<summary>Project Accrual Income</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI31">
+	<summary>Project Status Amendment</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI32">
+	<summary>Project Budget Transfer</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI33">
+	<summary>Project Budget Transfer</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI40">
+	<summary>Project Details Report</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI41">
+	<summary>Project Details Report</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI42">
+	<summary>Project Details Report</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI43">
+	<summary>Other Income Application</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.QSI44">
+	<summary>Other Income Application</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI01">
+	<summary>Site Material Requisition Form</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI02_PO">
+	<summary>Material Purchase (Direct)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI02_MR">
+	<summary>Material Purchase (MR)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI03_PA">
+	<summary>Purchase Agreement (Direct)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI03_MR">
+	<summary>Purchase Agreement (MR)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI04">
+	<summary>Confirmation Order</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI05_CO">
+	<summary>Supplier Payment Certificate (CO)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI05_SMR">
+	<summary>Supplier Payment Certificate (SMR)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI05_GR">
+	<summary>Supplier Payment Certificate (DN)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.PUI05_PO">
+	<summary>Supplier Payment Certificate (PO)</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.ACI01">
+	<summary>Project Information Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.ACI02">
+	<summary>Project BQ Item Setup</summary><remarks></remarks>
+</member><member name="F:DownloadExcel.Excel.Setting.ExcelPath.MAI02">
+	<summary>Project Information Setup</summary><remarks></remarks>
+</member><member name="T:DownloadExcel.Excel.ProcessClass.SEI01">
+	<summary>
+ Created by Alice on 21 Oct 2009
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

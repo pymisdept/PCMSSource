@@ -1,0 +1,19 @@
+2015-11-09 04:48:21: Check Point: Line: 1
+2015-11-09 04:48:21: Check Point: Column: PrjDesc
+2015-11-09 04:48:21: Check Point: Value: 00329F1H  - Queen''s Rd. No.2 Ph. 2
+2015-11-09 04:48:24: Check Point: Select CardName as CustName from CPSOIH where PrjCode = '00329F1H' order by DocEntry desc
+2015-11-09 04:48:24: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 04:48:24: Check Point: RecCount1
+2015-11-09 04:48:24: Check Point: oRow Lenght: 2
+2015-11-09 04:48:24: Check Point: oRecCount: 1
+2015-11-09 04:48:27: Check Point: Line: 0
+2015-11-09 04:48:27: Check Point: Column: CustName
+2015-11-09 04:48:27: Check Point: Value: FINE LORD (MACAU) CONSTRUCTION CO LTD
+2015-11-09 04:48:27: Check Point: select * from QSI44_Form ('00329F1H')
+2015-11-09 04:48:27: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 04:48:27: Check Point: RecCount1
+2015-11-09 04:48:27: Check Point: oRow Lenght: 2
+2015-11-09 04:48:27: Check Point: oRecCount: 1
+2015-11-09 04:48:31: Check Point: Line: 0
+2015-11-09 04:48:31: Check Point: Column: AppNum
+2015-11-09 04:48:35: Check Point: Value: 1

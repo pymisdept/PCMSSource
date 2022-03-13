@@ -1,0 +1,5 @@
+2011-09-01 04:27:44: Check Point: Select * from MAI08_Form('BLDG','20110930')
+2011-09-01 04:27:46: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-09-01 04:27:50: Check Point: RecCount1
+2011-09-01 04:27:54: Check Point: oRow Lenght: 1
+2011-09-01 04:27:55: Check Point: oRecCount: 1

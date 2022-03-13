@@ -1,0 +1,11 @@
+2012-01-27 02:07:01: Check Point: Import: BreakLinked
+2012-01-27 02:07:02: Check Point: Import: ReplaceAllData
+2012-01-27 02:07:13: Check Point: Now is replace: Form
+2012-01-27 02:07:17: Check Point: Next
+2012-01-27 02:07:22: Check Point: Import: ProtectSheet
+2012-01-27 02:07:26: Check Point: Import: Save
+2012-01-27 02:07:26: Check Point: Import: Close
+2012-01-27 02:07:27: Check Point: Import: Closed
+2012-01-27 02:07:47: Check Point: End
+2012-01-27 02:07:47: Check Point: Disconnect
+2012-01-27 02:07:47: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

@@ -1,0 +1,7 @@
+2011-04-15 10:32:11: Check Point: Import: RsToCollection
+2011-04-15 10:32:32: Check Point: select * from QSI17_Cover ('00000F3H')
+2011-04-15 10:32:43: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:32:51: Check Point: select * from QSI17_Work ('00000F3H')
+2011-04-15 10:32:52: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:32:56: Check Point: select * from QSI17_MOS ('00000F3H')
+2011-04-15 10:32:58: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

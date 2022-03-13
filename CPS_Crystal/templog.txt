@@ -1,0 +1,698 @@
+2012-10-12 04:14:37:Start
+2012-10-12 04:14:37:QS46.rpt
+2012-10-12 04:14:37:After Load Report
+2012-10-12 04:14:37:Set Page Title
+2012-10-12 04:14:37:Set Connection
+2012-10-12 04:14:37:End Set Connection
+2012-10-12 04:14:37:End Report Source
+2012-10-12 04:14:37:Pass Parameter
+2012-10-12 04:14:37:Exception in Call Report
+2012-10-12 04:14:37:Exeption in Page Init
+2012-10-12 04:15:53:Start
+2012-10-12 04:16:28:QS46.rpt
+2012-10-12 04:16:28:After Load Report
+2012-10-12 04:16:28:Set Page Title
+2012-10-12 04:16:28:Set Connection
+2012-10-12 04:16:28:End Set Connection
+2012-10-12 04:16:28:End Report Source
+2012-10-12 04:16:28:Pass Parameter
+2012-10-12 04:16:28:Exception in Call Report
+2012-10-12 04:16:28:Exeption in Page Init
+2012-10-12 04:16:55:Start
+2012-10-12 04:16:55:QS46.rpt
+2012-10-12 04:16:55:After Load Report
+2012-10-12 04:16:55:Set Page Title
+2012-10-12 04:16:55:Set Connection
+2012-10-12 04:16:55:End Set Connection
+2012-10-12 04:16:55:End Report Source
+2012-10-12 04:16:55:Pass Parameter
+2012-10-12 04:16:55:Exception in Call Report
+2012-10-12 04:16:55:Exeption in Page Init
+2012-10-12 04:17:23:Start
+2012-10-12 04:17:23:QS46.rpt
+2012-10-12 04:17:41:After Load Report
+2012-10-12 04:17:41:Set Page Title
+2012-10-12 04:17:41:Set Connection
+2012-10-12 04:17:41:End Set Connection
+2012-10-12 04:17:41:End Report Source
+2012-10-12 04:17:41:Pass Parameter
+2012-10-12 04:17:41:Exception in Call Report
+2012-10-12 04:17:41:Exeption in Page Init
+2012-10-12 04:20:50:Start
+2012-10-12 04:20:50:QS46.rpt
+2012-10-12 04:21:11:After Load Report
+2012-10-12 04:21:11:Set Page Title
+2012-10-12 04:21:11:Set Connection
+2012-10-12 04:21:11:End Set Connection
+2012-10-12 04:21:11:End Report Source
+2012-10-12 04:21:11:Pass Parameter
+2012-10-12 04:21:11:Exception in Call Report
+2012-10-12 04:21:11:Exeption in Page Init
+2012-10-12 04:21:24:Start
+2012-10-12 04:21:24:QS46.rpt
+2012-10-12 04:21:32:After Load Report
+2012-10-12 04:21:35:Set Page Title
+2012-10-12 04:21:41:Set Connection
+2012-10-12 04:21:48:End Set Connection
+2012-10-12 04:22:32:End Report Source
+2012-10-12 04:22:38:Pass Parameter
+2012-10-12 04:22:58:Exception in Call Report
+2012-10-12 04:22:58:Exeption in Page Init
+2012-10-12 04:23:40:Start
+2012-10-12 04:23:40:QS46.rpt
+2012-10-12 04:23:42:After Load Report
+2012-10-12 04:23:42:Set Page Title
+2012-10-12 04:23:42:Set Connection
+2012-10-12 04:23:42:End Set Connection
+2012-10-12 04:23:42:End Report Source
+2012-10-12 04:23:42:Pass Parameter
+2012-10-12 04:23:42:End Pass Parameter
+2012-10-12 04:24:32:Start
+2012-10-12 04:24:32:QS46.rpt
+2012-10-12 04:24:32:After Load Report
+2012-10-12 04:24:32:Set Page Title
+2012-10-12 04:24:32:Set Connection
+2012-10-12 04:24:32:End Set Connection
+2012-10-12 04:24:32:End Report Source
+2012-10-12 04:24:32:Pass Parameter
+2012-10-12 04:24:32:End Pass Parameter
+2012-10-12 04:36:18:Start
+2012-10-12 04:36:18:QS46.rpt
+2012-10-12 04:36:27:After Load Report
+2012-10-12 04:36:27:Set Page Title
+2012-10-12 04:36:27:Set Connection
+2012-10-12 04:36:28:End Set Connection
+2012-10-12 04:36:28:End Report Source
+2012-10-12 04:36:28:Pass Parameter
+2012-10-12 04:36:28:End Pass Parameter
+2012-10-12 04:38:13:Start
+2012-10-12 04:38:38:QS46.rpt
+2012-10-12 04:39:15:After Load Report
+2012-10-12 04:39:15:Set Page Title
+2012-10-12 04:39:15:Set Connection
+2012-10-12 04:39:15:End Set Connection
+2012-10-12 04:39:15:End Report Source
+2012-10-12 04:39:15:Pass Parameter
+2012-10-12 04:39:15:End Pass Parameter
+2012-10-12 04:42:54:Start
+2012-10-12 04:42:58:QS46.rpt
+2012-10-12 04:42:58:After Load Report
+2012-10-12 04:42:58:Set Page Title
+2012-10-12 04:42:58:Set Connection
+2012-10-12 04:42:58:End Set Connection
+2012-10-12 04:42:58:End Report Source
+2012-10-12 04:42:58:Pass Parameter
+2012-10-12 04:43:17:End Pass Parameter
+2012-10-12 05:19:17:Start
+2012-10-12 05:19:17:QS46.rpt
+2012-10-12 05:19:25:After Load Report
+2012-10-12 05:19:25:Set Page Title
+2012-10-12 05:19:25:Set Connection
+2012-10-12 05:19:26:End Set Connection
+2012-10-12 05:19:26:End Report Source
+2012-10-12 05:19:26:Pass Parameter
+2012-10-12 05:19:26:End Pass Parameter
+2013-08-22 05:32:28:Start
+2013-08-22 05:32:28:QS46.rpt
+2013-08-22 05:32:28:Robin PCMS_db
+2013-08-22 05:32:28:PAY800
+2013-08-22 05:32:28:compass2008
+2013-08-22 05:32:28:ReportFolder
+2013-08-22 05:32:35:After Load Report
+2013-08-22 05:32:35:Set Page Title
+2013-08-22 05:32:35:Set Connection
+2013-08-22 05:32:35:PCMS_db
+2013-08-22 05:32:35:PAY800
+2013-08-22 05:32:35:sa
+2013-08-22 05:32:35:compass2008
+2013-08-22 05:32:36:End Set Connection
+2013-08-22 05:32:36:End Report Source
+2013-08-22 05:32:36:Pass Parameter
+2013-08-22 05:32:36:Parameter: UserID
+2013-08-22 05:32:36:Parameter: FPrjCode
+2013-08-22 05:32:36:End Pass Parameter
+2013-08-22 05:44:15:Start
+2013-08-22 05:44:15:QS46.rpt
+2013-08-22 05:44:15:Robin PCMS_db
+2013-08-22 05:44:15:PAY800
+2013-08-22 05:44:15:compass2008
+2013-08-22 05:44:15:ReportFolder
+2013-08-22 05:44:16:After Load Report
+2013-08-22 05:44:16:Set Page Title
+2013-08-22 05:44:16:Set Connection
+2013-08-22 05:44:16:PCMS_db
+2013-08-22 05:44:16:PAY800
+2013-08-22 05:44:16:sa
+2013-08-22 05:44:16:compass2008
+2013-08-22 05:44:16:End Set Connection
+2013-08-22 05:44:16:End Report Source
+2013-08-22 05:44:16:Pass Parameter
+2013-08-22 05:44:16:Parameter: UserID
+2013-08-22 05:44:16:Parameter: FPrjCode
+2013-08-22 05:44:16:End Pass Parameter
+2013-08-22 05:54:09:Start
+2013-08-22 05:54:09:QS46.rpt
+2013-08-22 05:54:09:Robin PCMS_db
+2013-08-22 05:54:09:PAY800
+2013-08-22 05:54:09:compass2008
+2013-08-22 05:54:09:ReportFolder
+2013-08-22 05:54:09:After Load Report
+2013-08-22 05:54:09:Set Page Title
+2013-08-22 05:54:09:Set Connection
+2013-08-22 05:54:09:PCMS_db
+2013-08-22 05:54:09:PAY800
+2013-08-22 05:54:09:sa
+2013-08-22 05:54:09:compass2008
+2013-08-22 05:54:09:End Set Connection
+2013-08-22 05:54:09:End Report Source
+2013-08-22 05:54:09:Pass Parameter
+2013-08-22 05:54:09:Parameter: UserID
+2013-08-22 05:54:09:Parameter: FPrjCode
+2013-08-22 05:54:09:End Pass Parameter
+2013-08-22 05:57:42:Start
+2013-08-22 05:57:42:QS46.rpt
+2013-08-22 05:57:42:Robin PCMS_db
+2013-08-22 05:57:42:PAY800
+2013-08-22 05:57:42:compass2008
+2013-08-22 05:57:42:ReportFolder
+2013-08-22 05:57:42:After Load Report
+2013-08-22 05:57:42:Set Page Title
+2013-08-22 05:57:42:Set Connection
+2013-08-22 05:57:42:PCMS_db
+2013-08-22 05:57:42:PAY800
+2013-08-22 05:57:42:sa
+2013-08-22 05:57:42:compass2008
+2013-08-22 05:57:42:End Set Connection
+2013-08-22 05:57:42:End Report Source
+2013-08-22 05:57:42:Pass Parameter
+2013-08-22 05:57:42:Parameter: UserID
+2013-08-22 05:57:42:Parameter: FPrjCode
+2013-08-22 05:57:42:End Pass Parameter
+2013-08-22 06:03:07:Start
+2013-08-22 06:03:07:QS46.rpt
+2013-08-22 06:03:07:Robin PCMS_db
+2013-08-22 06:03:07:PAY800
+2013-08-22 06:03:07:compass2008
+2013-08-22 06:03:07:ReportFolder
+2013-08-22 06:03:08:After Load Report
+2013-08-22 06:03:08:Set Page Title
+2013-08-22 06:03:08:Set Connection
+2013-08-22 06:03:08:PCMS_db
+2013-08-22 06:03:08:PAY800
+2013-08-22 06:03:08:sa
+2013-08-22 06:03:08:compass2008
+2013-08-22 06:03:08:End Set Connection
+2013-08-22 06:03:08:End Report Source
+2013-08-22 06:03:08:Pass Parameter
+2013-08-22 06:03:08:Parameter: UserID
+2013-08-22 06:03:08:Parameter: FPrjCode
+2013-08-22 06:03:08:End Pass Parameter
+2014-01-23 02:47:56:Start
+2014-01-23 02:47:56:QS46.rpt
+2014-01-23 02:47:56:Robin 
+2014-01-23 02:47:56:
+2014-01-23 02:47:56:
+2014-01-23 02:47:56:ReportFolder
+2014-01-23 02:47:59:Exception in Call Report
+2014-01-23 02:47:59:Exeption in Page Init
+2014-01-23 02:51:15:Start
+2014-01-23 02:51:15:QS46.rpt
+2014-01-23 02:51:15:Robin 
+2014-01-23 02:51:15:
+2014-01-23 02:51:15:
+2014-01-23 02:51:15:ReportFolder
+2014-01-23 02:51:15:Exception in Call Report
+2014-01-23 02:51:15:Exeption in Page Init
+2014-01-23 02:52:56:Start
+2014-01-23 02:53:43:QS46.rpt
+2014-01-23 02:54:31:Robin 
+2014-01-23 02:54:34:
+2014-01-23 02:54:37:
+2014-01-23 02:54:37:ReportFolder
+2014-01-23 02:56:22:Exception in Call Report
+2014-01-23 02:56:23:Exeption in Page Init
+2014-01-23 04:12:20:Start
+2014-01-23 04:12:24:QS46.rpt
+2014-01-23 04:12:26:Robin 
+2014-01-23 04:12:26:
+2014-01-23 04:12:26:
+2014-01-23 04:12:27:ReportFolder
+2014-01-23 04:13:10:Exception in Call Report
+2014-01-23 04:13:10:Exeption in Page Init
+2014-01-23 05:09:54:Start
+2014-01-23 05:09:59:QS46.rpt
+2014-01-23 05:10:03:Robin 
+2014-01-23 05:10:04:
+2014-01-23 05:10:04:
+2014-01-23 05:10:06:ReportFolder
+2014-01-23 05:10:43:Exception in Call Report
+2014-01-23 05:10:43:Exeption in Page Init
+2014-01-23 05:32:31:Start
+2014-01-23 05:32:34:QS46.rpt
+2014-01-23 05:32:34:Robin 
+2014-01-23 05:32:34:
+2014-01-23 05:32:34:
+2014-01-23 05:32:34:ReportFolder
+2014-01-23 05:32:46:Exception in Call Report
+2014-01-23 05:32:46:Exeption in Page Init
+2014-01-23 05:52:05:Start
+2014-01-23 05:52:05:QS46.rpt
+2014-01-23 05:52:05:Robin 
+2014-01-23 05:52:05:
+2014-01-23 05:52:05:
+2014-01-23 05:52:05:ReportFolder
+2014-01-23 05:52:12:Exception in Call Report
+2014-01-23 05:52:12:Exeption in Page Init
+2014-01-23 06:04:23:Start
+2014-01-23 06:04:23:QS46.rpt
+2014-01-23 06:04:23:Robin 
+2014-01-23 06:04:23:
+2014-01-23 06:04:23:
+2014-01-23 06:04:23:ReportFolder
+2014-01-23 06:04:28:Exception in Call Report
+2014-01-23 06:04:28:Exeption in Page Init
+2014-01-23 06:04:42:Start
+2014-01-23 06:04:42:QS46.rpt
+2014-01-23 06:04:42:Robin 
+2014-01-23 06:04:42:
+2014-01-23 06:04:42:
+2014-01-23 06:04:42:ReportFolder
+2014-01-23 06:05:00:Exception in Call Report
+2014-01-23 06:05:00:Exeption in Page Init
+2014-01-23 06:08:18:Start
+2014-01-23 06:08:18:QS46.rpt
+2014-01-23 06:08:18:Robin 
+2014-01-23 06:08:18:
+2014-01-23 06:08:18:
+2014-01-23 06:08:18:ReportFolder
+2014-01-23 06:08:42:Exception in Call Report
+2014-01-23 06:08:42:Exeption in Page Init
+2014-01-23 06:10:22:Start
+2014-01-23 06:10:22:QS46.rpt
+2014-01-23 06:10:22:Robin 
+2014-01-23 06:10:22:
+2014-01-23 06:10:22:
+2014-01-23 06:10:22:ReportFolder
+2014-01-23 06:10:26:Exception in Call Report
+2014-01-23 06:10:26:Exeption in Page Init
+2014-01-24 09:33:02:Start
+2014-01-24 09:33:03:QS46.rpt
+2014-01-24 09:33:03:Robin 
+2014-01-24 09:33:03:
+2014-01-24 09:33:03:
+2014-01-24 09:33:03:ReportFolder
+2014-01-24 09:33:08:Exception in Call Report
+2014-01-24 09:33:08:Exeption in Page Init
+2014-01-24 09:33:15:Start
+2014-01-24 09:33:15:QS46.rpt
+2014-01-24 09:33:15:Robin 
+2014-01-24 09:33:15:
+2014-01-24 09:33:15:
+2014-01-24 09:33:15:ReportFolder
+2014-01-24 09:33:24:Exception in Call Report
+2014-01-24 09:33:24:Exeption in Page Init
+2014-01-24 01:14:56:Start
+2014-01-24 01:14:56:QS46.rpt
+2014-01-24 01:14:56:Robin 
+2014-01-24 01:14:56:
+2014-01-24 01:14:56:
+2014-01-24 01:14:56:ReportFolder
+2014-01-24 01:15:14:Exception in Call Report
+2014-01-24 01:15:14:Exeption in Page Init
+2014-01-29 12:24:42:Start
+2014-01-29 12:24:42:QS46.rpt
+2014-01-29 12:24:42:Robin 
+2014-01-29 12:24:42:
+2014-01-29 12:24:42:
+2014-01-29 12:24:42:ReportFolder
+2014-01-29 12:24:47:File not exists
+2014-01-29 12:24:47:Exception in Call Report
+2014-01-29 12:24:47:Exeption in Page Init
+2014-01-29 01:56:22:Start
+2014-01-29 01:56:22:QS46.rpt
+2014-01-29 01:56:22:Robin 
+2014-01-29 01:56:22:
+2014-01-29 01:56:22:
+2014-01-29 01:56:22:ReportFolder
+2014-01-29 01:56:57:File not exists
+2014-01-29 01:57:11:Exception in Call Report
+2014-01-29 01:57:13:Exeption in Page Init
+2014-01-29 01:57:32:Start
+2014-01-29 01:57:32:QS46.rpt
+2014-01-29 01:57:32:Robin 
+2014-01-29 01:57:32:
+2014-01-29 01:57:32:
+2014-01-29 01:57:32:ReportFolder
+2014-01-29 02:00:52:File not exists
+2014-01-29 02:00:52:Exception in Call Report
+2014-01-29 02:00:52:Exeption in Page Init
+2014-01-29 02:02:19:Start
+2014-01-29 02:02:19:QS46.rpt
+2014-01-29 02:02:19:Robin 
+2014-01-29 02:02:19:
+2014-01-29 02:02:19:
+2014-01-29 02:02:19:ReportFolder
+2014-01-29 02:02:32:File not exists
+2014-01-29 02:02:32:Exception in Call Report
+2014-01-29 02:02:32:Exeption in Page Init
+2014-01-29 02:04:24:Start
+2014-01-29 02:04:47:QS46.rpt
+2014-01-29 02:05:22:Robin 
+2014-01-29 02:05:22:
+2014-01-29 02:05:22:
+2014-01-29 02:05:22:ReportFolder
+2014-01-29 02:05:22:File not exists
+2014-01-29 02:05:22:Exception in Call Report
+2014-01-29 02:05:22:Exeption in Page Init
+2014-01-29 02:06:32:Start
+2014-01-29 02:06:34:QS46.rpt
+2014-01-29 02:06:34:Robin 
+2014-01-29 02:06:34:
+2014-01-29 02:06:34:
+2014-01-29 02:06:34:ReportFolder
+2014-01-29 02:06:43:After Load Report
+2014-01-29 02:06:43:Set Page Title
+2014-01-29 02:06:43:Set Connection
+2014-01-29 02:06:43:End Set Connection
+2014-01-29 02:06:43:End Report Source
+2014-01-29 02:06:43:Pass Parameter
+2014-01-29 02:06:43:Parameter: UserID
+2014-01-29 02:06:43:Parameter: FPrjCode
+2014-01-29 02:06:43:End Pass Parameter
+2014-01-29 02:07:46:Start
+2014-01-29 02:07:47:QS46.rpt
+2014-01-29 02:07:47:Robin 
+2014-01-29 02:07:47:
+2014-01-29 02:07:47:
+2014-01-29 02:07:47:ReportFolder
+2014-01-29 02:07:48:After Load Report
+2014-01-29 02:07:48:Set Page Title
+2014-01-29 02:07:48:Set Connection
+2014-01-29 02:07:48:End Set Connection
+2014-01-29 02:07:48:End Report Source
+2014-01-29 02:07:48:Pass Parameter
+2014-01-29 02:07:48:Parameter: UserID
+2014-01-29 02:07:48:Parameter: FPrjCode
+2014-01-29 02:07:48:End Pass Parameter
+2014-01-29 02:11:46:Start
+2014-01-29 02:11:51:QS46.rpt
+2014-01-29 02:11:51:Robin PCMS_db
+2014-01-29 02:11:51:PAY800
+2014-01-29 02:11:51:compass2008
+2014-01-29 02:11:51:ReportFolder
+2014-01-29 02:12:06:After Load Report
+2014-01-29 02:12:06:Set Page Title
+2014-01-29 02:12:06:Set Connection
+2014-01-29 02:12:06:End Set Connection
+2014-01-29 02:12:06:End Report Source
+2014-01-29 02:12:06:Pass Parameter
+2014-01-29 02:12:06:Parameter: UserID
+2014-01-29 02:12:06:Parameter: FPrjCode
+2014-01-29 02:12:06:End Pass Parameter
+2014-01-29 02:21:19:Start
+2014-01-29 02:21:24:QS46.rpt
+2014-01-29 02:21:24:Robin PCMS_db
+2014-01-29 02:21:24:PAY800
+2014-01-29 02:21:24:compass2008
+2014-01-29 02:21:24:ReportFolder
+2014-01-29 02:21:26:After Load Report
+2014-01-29 02:21:26:Set Page Title
+2014-01-29 02:21:26:Set Connection
+2014-01-29 02:21:26:End Set Connection
+2014-01-29 02:21:26:End Report Source
+2014-01-29 02:21:26:Pass Parameter
+2014-01-29 02:21:26:Parameter: UserID
+2014-01-29 02:21:26:Parameter: FPrjCode
+2014-01-29 02:21:26:End Pass Parameter
+2014-01-29 02:25:24:Start
+2014-01-29 02:25:24:QS46.rpt
+2014-01-29 02:25:24:Robin PCMS_db
+2014-01-29 02:25:24:PAY800
+2014-01-29 02:25:24:compass2008
+2014-01-29 02:25:24:ReportFolder
+2014-01-29 02:25:24:After Load Report
+2014-01-29 02:25:24:Set Page Title
+2014-01-29 02:25:24:Set Connection
+2014-01-29 02:25:24:End Set Connection
+2014-01-29 02:25:24:End Report Source
+2014-01-29 02:25:24:Pass Parameter
+2014-01-29 02:25:24:Parameter: UserID
+2014-01-29 02:25:24:Parameter: FPrjCode
+2014-01-29 02:25:24:End Pass Parameter
+2019-01-10 05:26:12:Start
+2019-01-10 05:26:12:QS46.rpt
+2019-01-10 05:26:12:Robin PCMS_db
+2019-01-10 05:26:12:PAY800
+2019-01-10 05:26:12:compass2008
+2019-01-10 05:26:12:ReportFolder
+2019-01-10 05:26:20:After Load Report
+2019-01-10 05:26:20:Set Page Title
+2019-01-10 05:26:20:Set Connection
+2019-01-10 05:26:21:End Set Connection
+2019-01-10 05:26:21:End Report Source
+2019-01-10 05:26:21:Pass Parameter
+2019-01-10 05:26:21:Parameter: UserID
+2019-01-10 05:26:21:Parameter: FPrjCode
+2019-01-10 05:26:21:End Pass Parameter
+2019-06-21 10:19:03:Start
+2019-06-21 10:19:03:QS46.rpt
+2019-06-21 10:19:03:Robin PCMS_db
+2019-06-21 10:19:03:PAY800
+2019-06-21 10:19:03:compass2008
+2019-06-21 10:19:03:ReportFolder
+2019-06-21 10:19:05:After Load Report
+2019-06-21 10:19:05:Set Page Title
+2019-06-21 10:19:05:Set Connection
+2019-06-21 10:19:05:End Set Connection
+2019-06-21 10:19:05:End Report Source
+2019-06-21 10:19:05:Pass Parameter
+2019-06-21 10:19:05:Parameter: UserID
+2019-06-21 10:19:05:Parameter: FPrjCode
+2019-06-21 10:19:05:End Pass Parameter
+2019-06-21 10:27:53:Start
+2019-06-21 10:27:53:QS46.rpt
+2019-06-21 10:27:53:Robin PCMS_db
+2019-06-21 10:27:53:PAY800
+2019-06-21 10:27:53:compass2008
+2019-06-21 10:27:53:ReportFolder
+2019-06-21 10:27:54:After Load Report
+2019-06-21 10:27:54:Set Page Title
+2019-06-21 10:27:54:Set Connection
+2019-06-21 10:27:54:End Set Connection
+2019-06-21 10:27:54:End Report Source
+2019-06-21 10:27:54:Pass Parameter
+2019-06-21 10:27:54:Parameter: UserID
+2019-06-21 10:27:54:Parameter: FPrjCode
+2019-06-21 10:27:54:End Pass Parameter
+2019-06-21 10:43:29:Start
+2019-06-21 10:43:29:QS46.rpt
+2019-06-21 10:43:29:Robin PCMS_db
+2019-06-21 10:43:29:PAY800
+2019-06-21 10:43:29:compass2008
+2019-06-21 10:43:29:ReportFolder
+2019-06-21 10:43:31:After Load Report
+2019-06-21 10:43:31:Set Page Title
+2019-06-21 10:43:31:Set Connection
+2019-06-21 10:43:31:End Set Connection
+2019-06-21 10:43:31:End Report Source
+2019-06-21 10:43:31:Pass Parameter
+2019-06-21 10:43:31:Parameter: UserID
+2019-06-21 10:43:31:Parameter: FPrjCode
+2019-06-21 10:43:31:End Pass Parameter
+2019-06-21 11:02:12:Start
+2019-06-21 11:02:12:QS46.rpt
+2019-06-21 11:02:12:Robin PCMS_db
+2019-06-21 11:02:12:PAY800
+2019-06-21 11:02:12:compass2008
+2019-06-21 11:02:12:ReportFolder
+2019-06-21 11:02:15:After Load Report
+2019-06-21 11:02:15:Set Page Title
+2019-06-21 11:02:15:Set Connection
+2019-06-21 11:02:15:End Set Connection
+2019-06-21 11:02:15:End Report Source
+2019-06-21 11:02:15:Pass Parameter
+2019-06-21 11:02:15:Parameter: UserID
+2019-06-21 11:02:15:Parameter: FPrjCode
+2019-06-21 11:02:15:End Pass Parameter
+2019-06-21 11:13:49:Start
+2019-06-21 11:13:49:QS46.rpt
+2019-06-21 11:13:49:Robin PCMS_db
+2019-06-21 11:13:49:PAY800
+2019-06-21 11:13:49:compass2008
+2019-06-21 11:13:49:ReportFolder
+2019-06-21 11:13:51:Exception in Call Report
+2019-06-21 11:13:51:Exeption in Page Init
+2019-06-21 11:16:49:Start
+2019-06-21 11:16:49:QS46.rpt
+2019-06-21 11:16:49:Robin PCMS_db
+2019-06-21 11:16:49:PAY800
+2019-06-21 11:16:49:compass2008
+2019-06-21 11:16:49:ReportFolder
+2019-06-21 11:16:52:After Load Report
+2019-06-21 11:16:52:Set Page Title
+2019-06-21 11:16:52:Set Connection
+2019-06-21 11:16:53:End Set Connection
+2019-06-21 11:16:53:End Report Source
+2019-06-21 11:16:53:Pass Parameter
+2019-06-21 11:16:53:Parameter: UserID
+2019-06-21 11:16:53:Parameter: FPrjCode
+2019-06-21 11:16:53:End Pass Parameter
+2019-06-21 11:21:43:Start
+2019-06-21 11:21:43:QS46.rpt
+2019-06-21 11:21:43:Robin PCMS_db
+2019-06-21 11:21:43:PAY800
+2019-06-21 11:21:43:compass2008
+2019-06-21 11:21:43:ReportFolder
+2019-06-21 11:21:46:After Load Report
+2019-06-21 11:21:46:Set Page Title
+2019-06-21 11:21:46:Set Connection
+2019-06-21 11:21:47:End Set Connection
+2019-06-21 11:21:47:End Report Source
+2019-06-21 11:21:47:Pass Parameter
+2019-06-21 11:21:47:Parameter: UserID
+2019-06-21 11:21:47:Parameter: FPrjCode
+2019-06-21 11:21:47:End Pass Parameter
+2019-06-21 11:43:16:Start
+2019-06-21 11:43:16:QS46.rpt
+2019-06-21 11:43:16:Robin PCMS_db
+2019-06-21 11:43:16:PAY800
+2019-06-21 11:43:16:compass2008
+2019-06-21 11:43:16:ReportFolder
+2019-06-21 11:43:18:After Load Report
+2019-06-21 11:43:18:Set Page Title
+2019-06-21 11:43:18:Set Connection
+2019-06-21 11:43:19:End Set Connection
+2019-06-21 11:43:19:End Report Source
+2019-06-21 11:43:19:Pass Parameter
+2019-06-21 11:43:19:Parameter: UserID
+2019-06-21 11:43:19:Parameter: FPrjCode
+2019-06-21 11:43:19:End Pass Parameter
+2019-06-21 03:25:59:Start
+2019-06-21 03:25:59:QS46.rpt
+2019-06-21 03:25:59:Robin PCMS_db
+2019-06-21 03:25:59:PAY800
+2019-06-21 03:25:59:compass2008
+2019-06-21 03:25:59:ReportFolder
+2019-06-21 03:26:01:After Load Report
+2019-06-21 03:26:01:Set Page Title
+2019-06-21 03:26:01:Set Connection
+2019-06-21 03:26:01:End Set Connection
+2019-06-21 03:26:01:End Report Source
+2019-06-21 03:26:01:Pass Parameter
+2019-06-21 03:26:01:Parameter: UserID
+2019-06-21 03:26:01:Parameter: FPrjCode
+2019-06-21 03:26:01:End Pass Parameter
+2019-06-21 03:43:44:Start
+2019-06-21 03:43:44:QS46.rpt
+2019-06-21 03:43:44:Robin PCMS_db
+2019-06-21 03:43:44:PAY800
+2019-06-21 03:43:44:compass2008
+2019-06-21 03:43:44:ReportFolder
+2019-06-21 03:43:46:After Load Report
+2019-06-21 03:43:46:Set Page Title
+2019-06-21 03:43:46:Set Connection
+2019-06-21 03:43:46:End Set Connection
+2019-06-21 03:43:46:End Report Source
+2019-06-21 03:43:46:Pass Parameter
+2019-06-21 03:43:46:Parameter: UserID
+2019-06-21 03:43:46:Parameter: FPrjCode
+2019-06-21 03:43:46:End Pass Parameter
+2019-06-21 04:09:01:Start
+2019-06-21 04:09:01:QS46.rpt
+2019-06-21 04:09:01:Robin PCMS_db
+2019-06-21 04:09:01:PAY800
+2019-06-21 04:09:01:compass2008
+2019-06-21 04:09:01:ReportFolder
+2019-06-21 04:09:02:After Load Report
+2019-06-21 04:09:02:Set Page Title
+2019-06-21 04:09:02:Set Connection
+2019-06-21 04:09:02:End Set Connection
+2019-06-21 04:09:02:End Report Source
+2019-06-21 04:09:02:Pass Parameter
+2019-06-21 04:09:02:Parameter: UserID
+2019-06-21 04:09:02:Parameter: FPrjCode
+2019-06-21 04:09:02:End Pass Parameter
+2019-06-21 04:22:43:Start
+2019-06-21 04:22:43:QS46.rpt
+2019-06-21 04:22:43:Robin PCMS_db
+2019-06-21 04:22:43:PAY800
+2019-06-21 04:22:43:compass2008
+2019-06-21 04:22:43:ReportFolder
+2019-06-21 04:22:44:Exception in Call Report
+2019-06-21 04:22:44:Exeption in Page Init
+2019-06-21 04:28:33:Start
+2019-06-21 04:28:33:QS46.rpt
+2019-06-21 04:28:33:Robin PCMS_db
+2019-06-21 04:28:33:PAY800
+2019-06-21 04:28:33:compass2008
+2019-06-21 04:28:33:ReportFolder
+2019-06-21 04:28:33:Exception in Call Report
+2019-06-21 04:28:33:Exeption in Page Init
+2019-06-21 04:29:25:Start
+2019-06-21 04:29:40:QS46.rpt
+2019-06-21 04:29:51:Robin PCMS_db
+2019-06-21 04:29:56:PAY800
+2019-06-21 04:30:02:compass2008
+2019-06-21 04:30:11:ReportFolder
+2019-06-21 04:30:59:Exception in Call Report
+2019-06-21 04:31:05:Exeption in Page Init
+2019-06-21 05:11:28:Start
+2019-06-21 05:11:28:QS46.rpt
+2019-06-21 05:11:28:Robin PCMS_db
+2019-06-21 05:11:28:PAY800
+2019-06-21 05:11:28:compass2008
+2019-06-21 05:11:28:ReportFolder
+2019-06-21 05:11:30:After Load Report
+2019-06-21 05:11:30:Set Page Title
+2019-06-21 05:11:30:Set Connection
+2019-06-21 05:11:31:End Set Connection
+2019-06-21 05:11:31:End Report Source
+2019-06-21 05:11:31:Pass Parameter
+2019-06-21 05:11:31:Parameter: UserID
+2019-06-21 05:11:31:Parameter: FPrjCode
+2019-06-21 05:11:31:End Pass Parameter
+2019-06-21 05:43:40:Start
+2019-06-21 05:43:40:QS46.rpt
+2019-06-21 05:43:40:Robin PCMS_db
+2019-06-21 05:43:40:PAY800
+2019-06-21 05:43:40:compass2008
+2019-06-21 05:43:40:ReportFolder
+2019-06-21 05:43:42:After Load Report
+2019-06-21 05:43:42:Set Page Title
+2019-06-21 05:43:42:Set Connection
+2019-06-21 05:43:42:End Set Connection
+2019-06-21 05:43:42:End Report Source
+2019-06-21 05:43:42:Pass Parameter
+2019-06-21 05:43:42:Parameter: UserID
+2019-06-21 05:43:42:Parameter: FPrjCode
+2019-06-21 05:43:42:End Pass Parameter
+2019-06-21 06:07:38:Start
+2019-06-21 06:07:38:QS46.rpt
+2019-06-21 06:07:38:Robin PCMS_db
+2019-06-21 06:07:38:PAY800
+2019-06-21 06:07:38:compass2008
+2019-06-21 06:07:38:ReportFolder
+2019-06-21 06:07:39:After Load Report
+2019-06-21 06:07:39:Set Page Title
+2019-06-21 06:07:39:Set Connection
+2019-06-21 06:07:40:End Set Connection
+2019-06-21 06:07:40:End Report Source
+2019-06-21 06:07:40:Pass Parameter
+2019-06-21 06:07:40:Parameter: UserID
+2019-06-21 06:07:40:Parameter: FPrjCode
+2019-06-21 06:07:40:End Pass Parameter
+2019-06-24 04:55:02:Start
+2019-06-24 04:55:02:QS46.rpt
+2019-06-24 04:55:02:Robin PCMS_db
+2019-06-24 04:55:02:PAY800
+2019-06-24 04:55:02:compass2008
+2019-06-24 04:55:02:ReportFolder
+2019-06-24 04:55:04:After Load Report
+2019-06-24 04:55:04:Set Page Title
+2019-06-24 04:55:04:Set Connection
+2019-06-24 04:55:04:End Set Connection
+2019-06-24 04:55:04:End Report Source
+2019-06-24 04:55:04:Pass Parameter
+2019-06-24 04:55:04:Parameter: UserID
+2019-06-24 04:55:04:Parameter: FPrjCode
+2019-06-24 04:55:04:End Pass Parameter

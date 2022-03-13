@@ -1,0 +1,22 @@
+2019-11-13 10:12:17: Check Point: Import: Open Workbook
+2019-11-13 10:12:17: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\PUI03_PA.xlsm
+2019-11-13 10:12:21: Check Point: Import: UnProtectSheet
+2019-11-13 10:12:21: Check Point: Import: BreakLinked
+2019-11-13 10:12:21: Check Point: Import: ReplaceAllData
+2019-11-13 10:12:44: Check Point: Now is replace: Form
+2019-11-13 10:12:47: Check Point: Next
+2019-11-13 10:12:49: Check Point: Now is replace: Payment Terms
+2019-11-13 10:12:49: Check Point: Next
+2019-11-13 10:12:50: Check Point: Now is replace: Item Code
+2019-11-13 10:12:50: Check Point: Next
+2019-11-13 10:12:51: Check Point: Now is replace: Supplier Code
+2019-11-13 10:12:53: Check Point: Next
+2019-11-13 10:12:54: Check Point: Now is replace: Flow Type
+2019-11-13 10:12:56: Check Point: Next
+2019-11-13 10:12:57: Check Point: Now is replace: Subsi Code
+2019-11-13 10:12:57: Check Point: Next
+2019-11-13 10:12:58: Check Point: Now is replace: Cost Code
+2019-11-13 10:12:58: Check Point: Next
+2019-11-13 10:12:59: Check Point: Now is replace: Reason Code
+2019-11-13 10:12:59: Check Point: Next
+2019-11-13 10:12:59: Check Point: Now is replace: Currency Code

@@ -1,0 +1,14 @@
+2013-10-22 06:23:00: Check Point: Select '20055BAH' PRJCODE, '20055BAH ' + ' - ' + 'TUEN MUN SWIMMING POOL (SAN WAI COURT)' PrjDesc
+2013-10-22 06:23:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2013-10-22 06:23:00: Check Point: RecCount1
+2013-10-22 06:23:00: Check Point: oRow Lenght: 1
+2013-10-22 06:23:00: Check Point: oRecCount: 1
+2013-10-22 06:23:00: Check Point: Line: 0
+2013-10-22 06:23:00: Check Point: Column: PRJCODE
+2013-10-22 06:23:00: Check Point: Value: 20055BAH
+2013-10-22 06:23:00: Check Point: Line: 1
+2013-10-22 06:23:00: Check Point: Column: PrjDesc
+2013-10-22 06:23:00: Check Point: Value: 20055BAH  - TUEN MUN SWIMMING POOL (SAN WAI COURT)
+2013-10-22 06:23:00: Check Point: select * from QSI44_Form ('20055BAH')
+2013-10-22 06:23:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2013-10-22 06:23:00: Check Point: Exception: Invalid column name 'CertAmt'.

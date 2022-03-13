@@ -1,0 +1,3 @@
+2011-04-04 05:04:16: Check Point: Import: RsToCollection
+2011-04-04 05:04:20: Check Point: Select '96012I1H' PRJCODE, 'Shop 208 OF Cyberport Arcade' PRJNAME 
+2011-04-04 05:04:20: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

@@ -1,0 +1,7 @@
+2012-05-09 06:49:04: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-05-09 06:49:19: Check Point: RecCount1
+2012-05-09 06:49:23: Check Point: oRow Lenght: 1
+2012-05-09 06:49:23: Check Point: oRecCount: 1
+2012-05-09 06:49:32: Check Point: Line: 0
+2012-05-09 06:49:33: Check Point: Column: PrjCode
+2012-05-09 06:49:34: Check Point: Value: 20055BAH

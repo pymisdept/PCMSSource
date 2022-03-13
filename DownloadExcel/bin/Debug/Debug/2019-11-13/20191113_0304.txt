@@ -1,0 +1,3 @@
+2019-11-13 03:04:59: Check Point: Import: RsToCollection
+2019-11-13 03:04:59: Check Point: Select '00000000' PRJCODE, 'TEMPORARY FOR CONVERSION' PRJNAME 
+2019-11-13 03:04:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

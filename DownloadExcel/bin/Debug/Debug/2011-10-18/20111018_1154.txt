@@ -1,0 +1,6 @@
+2011-10-18 11:54:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-10-18 11:54:22: Check Point: Import: Run Application
+2011-10-18 11:54:30: Check Point: Import: set FileName
+2011-10-18 11:54:48: Check Point: Import: Open Workbook
+2011-10-18 11:54:49: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\MA08.xls
+2011-10-18 11:54:58: Check Point: Import: UnProtectSheet

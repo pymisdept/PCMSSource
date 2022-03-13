@@ -1,0 +1,8 @@
+2019-11-13 11:24:02: Check Point: Import: ReplaceAllData
+2019-11-13 11:24:10: Check Point: Now is replace: Form
+2019-11-13 11:24:19: Check Point: Next
+2019-11-13 11:24:22: Check Point: Now is replace: Payment Terms
+2019-11-13 11:24:27: Check Point: Next
+2019-11-13 11:24:29: Check Point: Now is replace: Item Code
+2019-11-13 11:24:37: Check Point: Next
+2019-11-13 11:24:40: Check Point: Now is replace: Supplier Code

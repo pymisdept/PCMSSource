@@ -1,0 +1,12 @@
+2019-11-14 03:37:42: Check Point: Import: RsToCollection
+2019-11-14 03:37:42: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('03049CJM', 'COM22Z00S', '03049CJM/SC028') 
+2019-11-14 03:37:47: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:37:48: Check Point: select * from QSI12_Work('03049CJM','03049CJM/SC028')
+2019-11-14 03:37:50: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:37:50: Check Point: select * from QSI12_MOS('03049CJM','03049CJM/SC028')
+2019-11-14 03:37:52: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:37:52: Check Point: select * from QSI12_EVO('03049CJM','03049CJM/SC028') ORDER BY EVO_SubLineNum asc
+2019-11-14 03:37:55: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:37:55: Check Point: select * from QSI12_IVO('03049CJM','03049CJM/SC028')
+2019-11-14 03:37:57: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 03:37:57: Check Point: select * from QSI12_CCVO('03049CJM','03049CJM/SC028')

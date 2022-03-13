@@ -1,0 +1,132 @@
+2011-04-15 10:42:07: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:42:09: Check Point: RecCount1
+2011-04-15 10:42:11: Check Point: oRow Lenght: 1
+2011-04-15 10:42:13: Check Point: oRecCount: 1
+2011-04-15 10:42:13: Check Point: Line: 0
+2011-04-15 10:42:13: Check Point: Column: PrjCode
+2011-04-15 10:42:13: Check Point: Value: TESTPRJ1
+2011-04-15 10:42:13: Check Point: Line: 1
+2011-04-15 10:42:13: Check Point: Column: PrjDesc
+2011-04-15 10:42:13: Check Point: Value: TESTPRJ1 - Test Project 1
+2011-04-15 10:42:13: Check Point: Line: 2
+2011-04-15 10:42:13: Check Point: Column: DocCur
+2011-04-15 10:42:13: Check Point: Value: HKD
+2011-04-15 10:42:13: Check Point: Line: 3
+2011-04-15 10:42:13: Check Point: Column: Control
+2011-04-15 10:42:13: Check Point: Value: C
+2011-04-15 10:42:13: Check Point: Line: 4
+2011-04-15 10:42:13: Check Point: Column: AppNum
+2011-04-15 10:42:13: Check Point: Value: 2
+2011-04-15 10:42:13: Check Point: Line: 5
+2011-04-15 10:42:13: Check Point: Column: LastCertNum
+2011-04-15 10:42:13: Check Point: Value: 1
+2011-04-15 10:42:13: Check Point: Line: 6
+2011-04-15 10:42:13: Check Point: Column: PreDocTotal
+2011-04-15 10:42:13: Check Point: Value: -6570000.000000
+2011-04-15 10:42:13: Check Point: Line: 7
+2011-04-15 10:42:13: Check Point: Column: DISTitle
+2011-04-15 10:42:13: Check Point: Value: Discount
+2011-04-15 10:42:13: Check Point: Line: 8
+2011-04-15 10:42:13: Check Point: Column: SUPTitle
+2011-04-15 10:42:13: Check Point: Value: Supplimentary Agreement
+2011-04-15 10:42:13: Check Point: Line: 9
+2011-04-15 10:42:13: Check Point: Column: MOSTitle
+2011-04-15 10:42:13: Check Point: Value: Gross value of Material (On Site)
+2011-04-15 10:42:13: Check Point: Line: 10
+2011-04-15 10:42:13: Check Point: Column: MFSTitle
+2011-04-15 10:42:13: Check Point: Value: Gross value of Material (Off Site)
+2011-04-15 10:42:13: Check Point: Line: 11
+2011-04-15 10:42:13: Check Point: Column: VOTitle
+2011-04-15 10:42:13: Check Point: Value: Add: Gross value of Variation Orders
+2011-04-15 10:42:13: Check Point: Line: 12
+2011-04-15 10:42:13: Check Point: Column: DWTitle
+2011-04-15 10:42:13: Check Point: Value: Add: Gross value of Dayworks
+2011-04-15 10:42:13: Check Point: Line: 13
+2011-04-15 10:42:13: Check Point: Column: CLTitle
+2011-04-15 10:42:13: Check Point: Value: Add: Gross value of Cost Claims
+2011-04-15 10:42:13: Check Point: Line: 14
+2011-04-15 10:42:13: Check Point: Column: PCTitle
+2011-04-15 10:42:13: Check Point: Value: Bill 11 - Prime Cost - NSC
+2011-04-15 10:42:13: Check Point: Line: 15
+2011-04-15 10:42:13: Check Point: Column: FLUTitle
+2011-04-15 10:42:13: Check Point: Value: Add:  Fluctuation
+2011-04-15 10:42:13: Check Point: Line: 16
+2011-04-15 10:42:13: Check Point: Column: LDTitle
+2011-04-15 10:42:13: Check Point: Value: Less: LD
+2011-04-15 10:42:13: Check Point: Line: 17
+2011-04-15 10:42:13: Check Point: Column: DEDTitle
+2011-04-15 10:42:13: Check Point: Value: Less: Client's Deduction
+2011-04-15 10:42:13: Check Point: Line: 18
+2011-04-15 10:42:13: Check Point: Column: BRETitle
+2011-04-15 10:42:13: Check Point: Value: Less: Retention for Builder
+2011-04-15 10:42:13: Check Point: Line: 19
+2011-04-15 10:42:13: Check Point: Column: NRETitle
+2011-04-15 10:42:13: Check Point: Value: Less: Retention for NSC
+2011-04-15 10:42:13: Check Point: Line: 20
+2011-04-15 10:42:13: Check Point: Column: ADJTitle
+2011-04-15 10:42:13: Check Point: Value: Less: Figures Rounding Adjustment
+2011-04-15 10:42:13: Check Point: Line: 21
+2011-04-15 10:42:13: Check Point: Column: DISAmt
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 22
+2011-04-15 10:42:13: Check Point: Column: SUPAmt
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 23
+2011-04-15 10:42:13: Check Point: Column: PCAmt
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 24
+2011-04-15 10:42:13: Check Point: Column: LastAppDIS
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 25
+2011-04-15 10:42:13: Check Point: Column: LastAppSUP
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 26
+2011-04-15 10:42:13: Check Point: Column: LastAppMOS
+2011-04-15 10:42:13: Check Point: Value: 500000.000000
+2011-04-15 10:42:13: Check Point: Line: 27
+2011-04-15 10:42:13: Check Point: Column: LastAppMFS
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 28
+2011-04-15 10:42:13: Check Point: Column: LastAppEVO
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 29
+2011-04-15 10:42:13: Check Point: Column: LastAppEDW
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 30
+2011-04-15 10:42:13: Check Point: Column: LastAppECL
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 31
+2011-04-15 10:42:13: Check Point: Column: LastAppPC
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 32
+2011-04-15 10:42:13: Check Point: Column: LastAppFLU
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 33
+2011-04-15 10:42:13: Check Point: Column: LastAppLD
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 34
+2011-04-15 10:42:13: Check Point: Column: LastAppDED
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 35
+2011-04-15 10:42:13: Check Point: Column: LastAppBRE
+2011-04-15 10:42:13: Check Point: Value: -800000.000000
+2011-04-15 10:42:13: Check Point: Line: 36
+2011-04-15 10:42:13: Check Point: Column: LastAppNRE
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 37
+2011-04-15 10:42:13: Check Point: Column: LastAppADJ
+2011-04-15 10:42:13: Check Point: Value: 0.000000
+2011-04-15 10:42:13: Check Point: Line: 38
+2011-04-15 10:42:13: Check Point: Column: LastAppRetenPrcnt
+2011-04-15 10:42:13: Check Point: Value: 10.000000
+2011-04-15 10:42:13: Check Point: Line: 39
+2011-04-15 10:42:13: Check Point: Column: LastAppRetenMaxAmt
+2011-04-15 10:42:13: Check Point: Value: -6000000.000000
+2011-04-15 10:42:13: Check Point: select * from QSI17_Work ('TESTPRJ1')
+2011-04-15 10:42:18: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-15 10:42:18: Check Point: RecCount1
+2011-04-15 10:42:18: Check Point: oRow Lenght: 2
+2011-04-15 10:42:18: Check Point: oRecCount: 1
+2011-04-15 10:42:18: Check Point: Line: 0
+2011-04-15 10:42:18: Check Point: Column: PrjCode
+2011-04-15 10:42:18: Check Point: Value: TESTPRJ1

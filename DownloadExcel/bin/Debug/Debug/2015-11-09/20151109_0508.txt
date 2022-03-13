@@ -1,0 +1,16 @@
+2015-11-09 05:08:03: Check Point: Import: RsToCollection
+2015-11-09 05:08:03: Check Point: Select '00329F1H' PRJCODE, '00125' + ' - ' + 'OOOOGH' PrjDesc
+2015-11-09 05:08:03: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 05:08:03: Check Point: RecCount1
+2015-11-09 05:08:03: Check Point: oRow Lenght: 1
+2015-11-09 05:08:03: Check Point: oRecCount: 1
+2015-11-09 05:08:04: Check Point: Line: 0
+2015-11-09 05:08:04: Check Point: Column: PRJCODE
+2015-11-09 05:08:04: Check Point: Value: 00329F1H
+2015-11-09 05:08:04: Check Point: Line: 1
+2015-11-09 05:08:04: Check Point: Column: PrjDesc
+2015-11-09 05:08:04: Check Point: Value: 00125 - OOOOGH
+2015-11-09 05:08:04: Check Point: Select CardName as CustName from CPSOIH where PrjCode = '00329F1H' order by DocEntry desc' PrjDesc
+2015-11-09 05:08:04: Check Point: End
+2015-11-09 05:08:04: Check Point: Disconnect
+2015-11-09 05:08:04: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

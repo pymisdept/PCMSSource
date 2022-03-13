@@ -1,0 +1,7 @@
+2019-11-14 03:05:10: Check Point: Import: UnProtectSheet
+2019-11-14 03:05:11: Check Point: Import: BreakLinked
+2019-11-14 03:05:13: Check Point: Import: ReplaceAllData
+2019-11-14 03:05:33: Check Point: Now is replace: xxxxxx
+2019-11-14 03:05:41: Check Point: Exception on Replace Data:Unable to cast COM object of type 'System.__ComObject' to class type 'System.String'. Instances of types that represent COM components cannot be cast to types that do not represent COM components; however they can be cast to interfaces as long as the underlying COM component supports QueryInterface calls for the IID of the interface.
+2019-11-14 03:05:42: Check Point: Next
+2019-11-14 03:05:45: Check Point: Now is replace: Cert

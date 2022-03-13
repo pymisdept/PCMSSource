@@ -1,0 +1,9 @@
+2019-11-13 10:09:06: Check Point: Import: RsToCollection
+2019-11-13 10:09:06: Check Point: Select '00000000' PRJCODE, 'TEMPORARY FOR CONVERSION' PRJDesc, 'Paul Y. Const & Engineering Co Ltd' as SubsiName
+2019-11-13 10:09:06: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 10:09:07: Check Point: SELECT PYMNTGROUP AS List_PYMNTGROUP FROM OCTG
+2019-11-13 10:09:07: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 10:09:07: Check Point: SELECT ITEMCODE AS LIST_ITEMCODE,ITEMNAME AS LIST_ITEMNAME FROM CPS_VIEW_MATERIALLIST
+2019-11-13 10:09:07: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 10:09:11: Check Point: SELECT CARDCODE AS LIST_CARDCODE, CARDNAME AS LIST_CARDNAME, CardAddrs as List_CardAddrs FROM CPS_VIEW_MATERIALSUPPLIERLIST
+2019-11-13 10:09:11: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

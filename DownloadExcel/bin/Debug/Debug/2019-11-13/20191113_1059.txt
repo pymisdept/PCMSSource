@@ -1,0 +1,5 @@
+2019-11-13 10:59:02: Check Point: Import: Close
+2019-11-13 10:59:02: Check Point: Import: Closed
+2019-11-13 10:59:30: Check Point: End
+2019-11-13 10:59:30: Check Point: Disconnect
+2019-11-13 10:59:30: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\

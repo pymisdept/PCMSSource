@@ -1,0 +1,126 @@
+2015-11-09 05:02:55: Check Point: Import: RsToCollection
+2015-11-09 05:02:55: Check Point: Select '00329F1H' PRJCODE, '00125' + ' - ' + 'OOOOGH' PrjDesc
+2015-11-09 05:02:55: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 05:02:55: Check Point: RecCount1
+2015-11-09 05:02:55: Check Point: oRow Lenght: 1
+2015-11-09 05:02:55: Check Point: oRecCount: 1
+2015-11-09 05:02:55: Check Point: Line: 0
+2015-11-09 05:02:55: Check Point: Column: PRJCODE
+2015-11-09 05:02:55: Check Point: Value: 00329F1H
+2015-11-09 05:02:55: Check Point: Line: 1
+2015-11-09 05:02:55: Check Point: Column: PrjDesc
+2015-11-09 05:02:55: Check Point: Value: 00125 - OOOOGH
+2015-11-09 05:02:55: Check Point: Select CardName as CustName from CPSOIH where PrjCode = '00329F1H' order by DocEntry desc
+2015-11-09 05:02:55: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 05:02:55: Check Point: RecCount1
+2015-11-09 05:02:55: Check Point: oRow Lenght: 2
+2015-11-09 05:02:55: Check Point: oRecCount: 1
+2015-11-09 05:02:55: Check Point: Line: 0
+2015-11-09 05:02:55: Check Point: Column: CustName
+2015-11-09 05:02:55: Check Point: Value: FINE LORD (MACAU) CONSTRUCTION CO LTD
+2015-11-09 05:02:55: Check Point: select * from QSI44_Form ('00329F1H')
+2015-11-09 05:02:55: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 05:02:55: Check Point: RecCount1
+2015-11-09 05:02:55: Check Point: oRow Lenght: 2
+2015-11-09 05:02:55: Check Point: oRecCount: 1
+2015-11-09 05:02:55: Check Point: Line: 0
+2015-11-09 05:02:55: Check Point: Column: AppNum
+2015-11-09 05:02:55: Check Point: Value: 1
+2015-11-09 05:02:55: Check Point: Line: 1
+2015-11-09 05:02:55: Check Point: Column: PrjCode
+2015-11-09 05:02:55: Check Point: Value: 00329F1H
+2015-11-09 05:02:55: Check Point: Line: 2
+2015-11-09 05:02:55: Check Point: Column: PrjDesc
+2015-11-09 05:02:55: Check Point: Value: 00329F1H - Queen's Rd. No.2 Ph. 2
+2015-11-09 05:02:55: Check Point: Line: 3
+2015-11-09 05:02:55: Check Point: Column: DocEntry
+2015-11-09 05:02:55: Check Point: Value: 
+2015-11-09 05:02:55: Check Point: Line: 4
+2015-11-09 05:02:55: Check Point: Column: LineNum
+2015-11-09 05:02:55: Check Point: Value: 0
+2015-11-09 05:02:55: Check Point: Line: 5
+2015-11-09 05:02:55: Check Point: Column: ItemNum
+2015-11-09 05:02:55: Check Point: Value: 1
+2015-11-09 05:02:55: Check Point: Line: 6
+2015-11-09 05:02:55: Check Point: Column: OtherIncomeDesc
+2015-11-09 05:02:55: Check Point: Value: Testing 123
+2015-11-09 05:02:55: Check Point: Line: 7
+2015-11-09 05:02:55: Check Point: Column: AppAmt
+2015-11-09 05:02:55: Check Point: Value: 5000.000000
+2015-11-09 05:02:55: Check Point: Line: 8
+2015-11-09 05:02:55: Check Point: Column: AppDate
+2015-11-09 05:02:55: Check Point: Value: 11/11/2015 12:00:00 AM
+2015-11-09 05:02:56: Check Point: Line: 9
+2015-11-09 05:02:56: Check Point: Column: PreCertAmt
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 10
+2015-11-09 05:02:56: Check Point: Column: CertDate
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 11
+2015-11-09 05:02:56: Check Point: Column: SCPCMSDocNum
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 12
+2015-11-09 05:02:56: Check Point: Column: PCMSDocNum
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 13
+2015-11-09 05:02:56: Check Point: Column: AcctCode
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: RecCount2
+2015-11-09 05:02:56: Check Point: oRow Lenght: 2
+2015-11-09 05:02:56: Check Point: oRecCount: 2
+2015-11-09 05:02:56: Check Point: Line: 0
+2015-11-09 05:02:56: Check Point: Column: AppNum
+2015-11-09 05:02:56: Check Point: Value: 1
+2015-11-09 05:02:56: Check Point: Line: 1
+2015-11-09 05:02:56: Check Point: Column: PrjCode
+2015-11-09 05:02:56: Check Point: Value: 00329F1H
+2015-11-09 05:02:56: Check Point: Line: 2
+2015-11-09 05:02:56: Check Point: Column: PrjDesc
+2015-11-09 05:02:56: Check Point: Value: 00329F1H - Queen's Rd. No.2 Ph. 2
+2015-11-09 05:02:56: Check Point: Line: 3
+2015-11-09 05:02:56: Check Point: Column: DocEntry
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 4
+2015-11-09 05:02:56: Check Point: Column: LineNum
+2015-11-09 05:02:56: Check Point: Value: 1
+2015-11-09 05:02:56: Check Point: Line: 5
+2015-11-09 05:02:56: Check Point: Column: ItemNum
+2015-11-09 05:02:56: Check Point: Value: 2
+2015-11-09 05:02:56: Check Point: Line: 6
+2015-11-09 05:02:56: Check Point: Column: OtherIncomeDesc
+2015-11-09 05:02:56: Check Point: Value: Testing 456
+2015-11-09 05:02:56: Check Point: Line: 7
+2015-11-09 05:02:56: Check Point: Column: AppAmt
+2015-11-09 05:02:56: Check Point: Value: 4900.000000
+2015-11-09 05:02:56: Check Point: Line: 8
+2015-11-09 05:02:56: Check Point: Column: AppDate
+2015-11-09 05:02:56: Check Point: Value: 11/11/2015 12:00:00 AM
+2015-11-09 05:02:56: Check Point: Line: 9
+2015-11-09 05:02:56: Check Point: Column: PreCertAmt
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 10
+2015-11-09 05:02:56: Check Point: Column: CertDate
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 11
+2015-11-09 05:02:56: Check Point: Column: SCPCMSDocNum
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 12
+2015-11-09 05:02:56: Check Point: Column: PCMSDocNum
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Line: 13
+2015-11-09 05:02:56: Check Point: Column: AcctCode
+2015-11-09 05:02:56: Check Point: Value: 
+2015-11-09 05:02:56: Check Point: Import: Run Application
+2015-11-09 05:02:56: Check Point: Import: set FileName
+2015-11-09 05:02:56: Check Point: Import: Open Workbook
+2015-11-09 05:02:56: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI44.xls
+2015-11-09 05:02:56: Check Point: Import: UnProtectSheet
+2015-11-09 05:02:56: Check Point: Import: BreakLinked
+2015-11-09 05:02:56: Check Point: Import: ReplaceAllData
+2015-11-09 05:02:59: Check Point: Now is replace: Form
+2015-11-09 05:02:59: Check Point: Next
+2015-11-09 05:02:59: Check Point: Now is replace: Customer
+2015-11-09 05:02:59: Check Point: Next
+2015-11-09 05:02:59: Check Point: Import: ProtectSheet
+2015-11-09 05:02:59: Check Point: Import: Save
+2015-11-09 05:02:59: Check Point: Import: Close

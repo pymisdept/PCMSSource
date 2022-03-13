@@ -1,0 +1,2 @@
+2011-05-06 01:06:02: Check Point: Select * from QSI40_Blank('00008CVL')
+2011-05-06 01:06:03: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

@@ -1,0 +1,1484 @@
+2012-05-10 10:08:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-05-10 10:08:00: Check Point: RecCount1
+2012-05-10 10:08:00: Check Point: oRow Lenght: 17
+2012-05-10 10:08:00: Check Point: oRecCount: 1
+2012-05-10 10:08:00: Check Point: Line: 0
+2012-05-10 10:08:00: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:00: Check Point: Value: 20055BAH
+2012-05-10 10:08:00: Check Point: Line: 1
+2012-05-10 10:08:00: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:00: Check Point: Value: 227
+2012-05-10 10:08:00: Check Point: Line: 2
+2012-05-10 10:08:00: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:00: Check Point: Value: 20
+2012-05-10 10:08:00: Check Point: Line: 3
+2012-05-10 10:08:00: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:00: Check Point: Value: vo-21
+2012-05-10 10:08:00: Check Point: Line: 4
+2012-05-10 10:08:00: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:00: Check Point: Value: 1
+2012-05-10 10:08:00: Check Point: Line: 5
+2012-05-10 10:08:00: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:00: Check Point: Value: test test
+2012-05-10 10:08:00: Check Point: Line: 6
+2012-05-10 10:08:00: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:00: Check Point: Value: 0.000000
+2012-05-10 10:08:00: Check Point: Line: 7
+2012-05-10 10:08:00: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:00: Check Point: Value: z-002
+2012-05-10 10:08:00: Check Point: Line: 8
+2012-05-10 10:08:00: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:00: Check Point: Value: 97S07
+2012-05-10 10:08:00: Check Point: Line: 9
+2012-05-10 10:08:00: Check Point: Column: EVO_Budget
+2012-05-10 10:08:00: Check Point: Value: 1500.000000
+2012-05-10 10:08:00: Check Point: Line: 10
+2012-05-10 10:08:00: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:00: Check Point: Value: 
+2012-05-10 10:08:00: Check Point: Line: 11
+2012-05-10 10:08:00: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:00: Check Point: Value: 20055BAH
+2012-05-10 10:08:00: Check Point: RecCount2
+2012-05-10 10:08:00: Check Point: oRow Lenght: 17
+2012-05-10 10:08:00: Check Point: oRecCount: 2
+2012-05-10 10:08:00: Check Point: Line: 0
+2012-05-10 10:08:00: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:00: Check Point: Value: 20055BAH
+2012-05-10 10:08:00: Check Point: Line: 1
+2012-05-10 10:08:00: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:00: Check Point: Value: 227
+2012-05-10 10:08:00: Check Point: Line: 2
+2012-05-10 10:08:00: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:00: Check Point: Value: 21
+2012-05-10 10:08:00: Check Point: Line: 3
+2012-05-10 10:08:00: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:00: Check Point: Value: vo-21
+2012-05-10 10:08:00: Check Point: Line: 4
+2012-05-10 10:08:00: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:00: Check Point: Value: 2
+2012-05-10 10:08:00: Check Point: Line: 5
+2012-05-10 10:08:00: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:00: Check Point: Value: test test
+2012-05-10 10:08:00: Check Point: Line: 6
+2012-05-10 10:08:00: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:00: Check Point: Value: 0.000000
+2012-05-10 10:08:00: Check Point: Line: 7
+2012-05-10 10:08:00: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:00: Check Point: Value: z-002
+2012-05-10 10:08:00: Check Point: Line: 8
+2012-05-10 10:08:00: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:00: Check Point: Value: 98S01
+2012-05-10 10:08:00: Check Point: Line: 9
+2012-05-10 10:08:00: Check Point: Column: EVO_Budget
+2012-05-10 10:08:00: Check Point: Value: 500.000000
+2012-05-10 10:08:00: Check Point: Line: 10
+2012-05-10 10:08:00: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:00: Check Point: Value: 20055BAH/SC036
+2012-05-10 10:08:00: Check Point: Line: 11
+2012-05-10 10:08:00: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:00: Check Point: Value: 20055BAH
+2012-05-10 10:08:00: Check Point: RecCount3
+2012-05-10 10:08:00: Check Point: oRow Lenght: 17
+2012-05-10 10:08:00: Check Point: oRecCount: 3
+2012-05-10 10:08:00: Check Point: Line: 0
+2012-05-10 10:08:00: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:00: Check Point: Value: 20055BAH
+2012-05-10 10:08:00: Check Point: Line: 1
+2012-05-10 10:08:00: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:00: Check Point: Value: 287
+2012-05-10 10:08:00: Check Point: Line: 2
+2012-05-10 10:08:00: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:00: Check Point: Value: 4986
+2012-05-10 10:08:00: Check Point: Line: 3
+2012-05-10 10:08:00: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:00: Check Point: Value: 1
+2012-05-10 10:08:00: Check Point: Line: 4
+2012-05-10 10:08:00: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:00: Check Point: Value: 1
+2012-05-10 10:08:00: Check Point: Line: 5
+2012-05-10 10:08:00: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:00: Check Point: Value: Variations 1-10
+2012-05-10 10:08:00: Check Point: Line: 6
+2012-05-10 10:08:00: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:00: Check Point: Value: 14861357.650000
+2012-05-10 10:08:00: Check Point: Line: 7
+2012-05-10 10:08:00: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:00: Check Point: Value: A1-A10
+2012-05-10 10:08:00: Check Point: Line: 8
+2012-05-10 10:08:00: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:00: Check Point: Value: Z0201
+2012-05-10 10:08:00: Check Point: Line: 9
+2012-05-10 10:08:00: Check Point: Column: EVO_Budget
+2012-05-10 10:08:00: Check Point: Value: 0.000000
+2012-05-10 10:08:00: Check Point: Line: 10
+2012-05-10 10:08:00: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount4
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 4
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4987
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 2
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 2
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: A-005
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: A-005
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount5
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 5
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4988
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 3
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 3
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: A-008
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: A-008
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount6
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 6
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4989
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 4
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 4
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: A-009
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: A-009
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount7
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 7
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4990
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 5
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 5
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: S-002
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: S-002
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount8
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 8
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4991
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 6
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 6
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: L-001
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L-001
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount9
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 9
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4993
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 7
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 7
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: A-016
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: A-016
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount10
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 10
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4994
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 8
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 8
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: A-017
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: A-017
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount11
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 11
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4995
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 9
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 9
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: A-018
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: A-018
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount12
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 12
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4996
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 10
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 10
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: A-022
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: A-022
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount13
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 13
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4997
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 11
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 11
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: S-002
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: S-002
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount14
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 14
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4998
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 12
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 12
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: BS-004
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: BS-004
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount15
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 15
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 4999
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 13
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 13
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: BS-008
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: BS-008
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount16
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 16
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5000
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 14
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 14
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: L-001
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L-001
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount17
+2012-05-10 10:08:01: Check Point: oRow Lenght: 17
+2012-05-10 10:08:01: Check Point: oRecCount: 17
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5001
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 15
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 15
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: BS-008
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: BS-008
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount18
+2012-05-10 10:08:01: Check Point: oRow Lenght: 18
+2012-05-10 10:08:01: Check Point: oRecCount: 18
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5002
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 16
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 16
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: L-001
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L-001
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount19
+2012-05-10 10:08:01: Check Point: oRow Lenght: 19
+2012-05-10 10:08:01: Check Point: oRecCount: 19
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5003
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 17
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 17
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: L-002
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L-002
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount20
+2012-05-10 10:08:01: Check Point: oRow Lenght: 20
+2012-05-10 10:08:01: Check Point: oRecCount: 20
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5004
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 18
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 18
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: L-003
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L-003
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount21
+2012-05-10 10:08:01: Check Point: oRow Lenght: 21
+2012-05-10 10:08:01: Check Point: oRecCount: 21
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5005
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 19
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 19
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: L-003
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L-003
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount22
+2012-05-10 10:08:01: Check Point: oRow Lenght: 22
+2012-05-10 10:08:01: Check Point: oRecCount: 22
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5006
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 20
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 20
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Additional painting to off-form concrete at Filtration Plant Room to wall & ceiling
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L3781
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount23
+2012-05-10 10:08:01: Check Point: oRow Lenght: 23
+2012-05-10 10:08:01: Check Point: oRecCount: 23
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5007
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 21
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 21
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Additional eye bolt
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: L3781
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount24
+2012-05-10 10:08:01: Check Point: oRow Lenght: 24
+2012-05-10 10:08:01: Check Point: oRecCount: 24
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5008
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 22
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 22
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Electric blind
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: TBA
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount25
+2012-05-10 10:08:01: Check Point: oRow Lenght: 25
+2012-05-10 10:08:01: Check Point: oRecCount: 25
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5009
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 23
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 23
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Tree pit for existing trees
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: TBA
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount26
+2012-05-10 10:08:01: Check Point: oRow Lenght: 26
+2012-05-10 10:08:01: Check Point: oRecCount: 26
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5010
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 24
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 24
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Extra wiring to battery bank
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: TBA
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount27
+2012-05-10 10:08:01: Check Point: oRow Lenght: 27
+2012-05-10 10:08:01: Check Point: oRecCount: 27
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5011
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 25
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 25
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Trial pit
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: TBA
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount28
+2012-05-10 10:08:01: Check Point: oRow Lenght: 28
+2012-05-10 10:08:01: Check Point: oRecCount: 28
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5012
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 26
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 26
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Additional fitting for E&M services at TSC
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: TBA
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: RecCount29
+2012-05-10 10:08:01: Check Point: oRow Lenght: 29
+2012-05-10 10:08:01: Check Point: oRecCount: 29
+2012-05-10 10:08:01: Check Point: Line: 0
+2012-05-10 10:08:01: Check Point: Column: EVO_PrjCode
+2012-05-10 10:08:01: Check Point: Value: 20055BAH
+2012-05-10 10:08:01: Check Point: Line: 1
+2012-05-10 10:08:01: Check Point: Column: EVO_DocEntry
+2012-05-10 10:08:01: Check Point: Value: 287
+2012-05-10 10:08:01: Check Point: Line: 2
+2012-05-10 10:08:01: Check Point: Column: EVO_LineNum
+2012-05-10 10:08:01: Check Point: Value: 5013
+2012-05-10 10:08:01: Check Point: Line: 3
+2012-05-10 10:08:01: Check Point: Column: EVO_ItemNum
+2012-05-10 10:08:01: Check Point: Value: 27
+2012-05-10 10:08:01: Check Point: Line: 4
+2012-05-10 10:08:01: Check Point: Column: EVO_SubLineNum
+2012-05-10 10:08:01: Check Point: Value: 27
+2012-05-10 10:08:01: Check Point: Line: 5
+2012-05-10 10:08:01: Check Point: Column: EVO_FullDesc
+2012-05-10 10:08:01: Check Point: Value: Bubble poured glass to jacuzzi & leisure pool
+2012-05-10 10:08:01: Check Point: Line: 6
+2012-05-10 10:08:01: Check Point: Column: EVO_PreLineTotal
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 7
+2012-05-10 10:08:01: Check Point: Column: EVO_RefNum
+2012-05-10 10:08:01: Check Point: Value: TBA
+2012-05-10 10:08:01: Check Point: Line: 8
+2012-05-10 10:08:01: Check Point: Column: EVO_AcctCode
+2012-05-10 10:08:01: Check Point: Value: Z0201
+2012-05-10 10:08:01: Check Point: Line: 9
+2012-05-10 10:08:01: Check Point: Column: EVO_Budget
+2012-05-10 10:08:01: Check Point: Value: 0.000000
+2012-05-10 10:08:01: Check Point: Line: 10
+2012-05-10 10:08:01: Check Point: Column: EVO_SCPCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: SS T325
+2012-05-10 10:08:01: Check Point: Line: 11
+2012-05-10 10:08:01: Check Point: Column: EVO_PCMSDocNum
+2012-05-10 10:08:01: Check Point: Value: 20055BAH/033
+2012-05-10 10:08:01: Check Point: select * from QSI17_EDW ('20055BAH')
+2012-05-10 10:08:07: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-05-10 10:08:07: Check Point: RecCount1
+2012-05-10 10:08:07: Check Point: oRow Lenght: 30
+2012-05-10 10:08:07: Check Point: oRecCount: 1
+2012-05-10 10:08:07: Check Point: Line: 0
+2012-05-10 10:08:07: Check Point: Column: EDW_PrjCode
+2012-05-10 10:08:07: Check Point: Value: 20055BAH
+2012-05-10 10:08:07: Check Point: Line: 1
+2012-05-10 10:08:07: Check Point: Column: EDW_DocEntry
+2012-05-10 10:08:07: Check Point: Value: 227
+2012-05-10 10:08:07: Check Point: Line: 2
+2012-05-10 10:08:07: Check Point: Column: EDW_LineNum
+2012-05-10 10:08:07: Check Point: Value: 0
+2012-05-10 10:08:07: Check Point: Line: 3
+2012-05-10 10:08:07: Check Point: Column: EDW_ItemNum
+2012-05-10 10:08:07: Check Point: Value: 1
+2012-05-10 10:08:07: Check Point: Line: 4
+2012-05-10 10:08:07: Check Point: Column: EDW_SubLineNum
+2012-05-10 10:08:07: Check Point: Value: 1
+2012-05-10 10:08:07: Check Point: Line: 5
+2012-05-10 10:08:07: Check Point: Column: EDW_FullDesc
+2012-05-10 10:08:07: Check Point: Value: re1 desc
+2012-05-10 10:08:07: Check Point: Line: 6
+2012-05-10 10:08:07: Check Point: Column: EDW_PreLineTotal
+2012-05-10 10:08:07: Check Point: Value: 0.000000
+2012-05-10 10:08:07: Check Point: Line: 7
+2012-05-10 10:08:07: Check Point: Column: EDW_RefNum
+2012-05-10 10:08:07: Check Point: Value: ref1
+2012-05-10 10:08:07: Check Point: Line: 8
+2012-05-10 10:08:07: Check Point: Column: EDW_AcctCode
+2012-05-10 10:08:07: Check Point: Value: 99PS01
+2012-05-10 10:08:07: Check Point: Line: 9
+2012-05-10 10:08:07: Check Point: Column: EDW_Budget
+2012-05-10 10:08:07: Check Point: Value: 25000.000000
+2012-05-10 10:08:07: Check Point: Line: 10
+2012-05-10 10:08:07: Check Point: Column: EDW_SCPCMSDocNum
+2012-05-10 10:08:07: Check Point: Value: 
+2012-05-10 10:08:07: Check Point: Line: 11
+2012-05-10 10:08:07: Check Point: Column: EDW_PCMSDocNum
+2012-05-10 10:08:07: Check Point: Value: 20055BAH
+2012-05-10 10:08:07: Check Point: select * from QSI17_ECL ('20055BAH')
+2012-05-10 10:08:10: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-05-10 10:08:10: Check Point: RecCount1
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 1
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: ECL_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: ECL_DocEntry
+2012-05-10 10:08:10: Check Point: Value: 227
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: ECL_LineNum
+2012-05-10 10:08:10: Check Point: Value: 0
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: ECL_ItemNum
+2012-05-10 10:08:10: Check Point: Value: 1
+2012-05-10 10:08:10: Check Point: Line: 4
+2012-05-10 10:08:10: Check Point: Column: ECL_SubLineNum
+2012-05-10 10:08:10: Check Point: Value: 1
+2012-05-10 10:08:10: Check Point: Line: 5
+2012-05-10 10:08:10: Check Point: Column: ECL_FullDesc
+2012-05-10 10:08:10: Check Point: Value: cl-1 desc
+2012-05-10 10:08:10: Check Point: Line: 6
+2012-05-10 10:08:10: Check Point: Column: ECL_PreLineTotal
+2012-05-10 10:08:10: Check Point: Value: 0.000000
+2012-05-10 10:08:10: Check Point: Line: 7
+2012-05-10 10:08:10: Check Point: Column: ECL_RefNum
+2012-05-10 10:08:10: Check Point: Value: 
+2012-05-10 10:08:10: Check Point: Line: 8
+2012-05-10 10:08:10: Check Point: Column: ECL_AcctCode
+2012-05-10 10:08:10: Check Point: Value: 99PS03
+2012-05-10 10:08:10: Check Point: Line: 9
+2012-05-10 10:08:10: Check Point: Column: ECL_Budget
+2012-05-10 10:08:10: Check Point: Value: 6000.000000
+2012-05-10 10:08:10: Check Point: Line: 10
+2012-05-10 10:08:10: Check Point: Column: ECL_SCPCMSDocNum
+2012-05-10 10:08:10: Check Point: Value: 
+2012-05-10 10:08:10: Check Point: Line: 11
+2012-05-10 10:08:10: Check Point: Column: ECL_PCMSDocNum
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: select * from QSI17_Bill ('20055BAH')
+2012-05-10 10:08:10: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-05-10 10:08:10: Check Point: RecCount1
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 1
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 1
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 1 - Preliminaries
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 38800000.000000
+2012-05-10 10:08:10: Check Point: RecCount2
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 2
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 10
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 10
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 329000.000000
+2012-05-10 10:08:10: Check Point: RecCount3
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 3
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 11
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 11
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 2500.000000
+2012-05-10 10:08:10: Check Point: RecCount4
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 4
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 12
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 12
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 900000.000000
+2012-05-10 10:08:10: Check Point: RecCount5
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 5
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 13
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 13
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 6162000.000000
+2012-05-10 10:08:10: Check Point: RecCount6
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 6
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 14
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 14
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 200500.000000
+2012-05-10 10:08:10: Check Point: RecCount7
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 7
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 16
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 16
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 120908000.000000
+2012-05-10 10:08:10: Check Point: RecCount8
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 8
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 17
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 17
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 8346355.870000
+2012-05-10 10:08:10: Check Point: RecCount9
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 9
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 18
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Contract Discount
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: -12993597.980000
+2012-05-10 10:08:10: Check Point: RecCount10
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 10
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 3
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 3
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 66834996.000000
+2012-05-10 10:08:10: Check Point: RecCount11
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 11
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 4
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 4
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 37470570.600000
+2012-05-10 10:08:10: Check Point: RecCount12
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 12
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 5
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 5
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 115920370.000000
+2012-05-10 10:08:10: Check Point: RecCount13
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 13
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 6
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 6
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 10786800.000000
+2012-05-10 10:08:10: Check Point: RecCount14
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 14
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 7
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 7
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 13070966.930000
+2012-05-10 10:08:10: Check Point: RecCount15
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 15
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 8
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 8
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 2874021.300000
+2012-05-10 10:08:10: Check Point: RecCount16
+2012-05-10 10:08:10: Check Point: oRow Lenght: 30
+2012-05-10 10:08:10: Check Point: oRecCount: 16
+2012-05-10 10:08:10: Check Point: Line: 0
+2012-05-10 10:08:10: Check Point: Column: List_PrjCode
+2012-05-10 10:08:10: Check Point: Value: 20055BAH
+2012-05-10 10:08:10: Check Point: Line: 1
+2012-05-10 10:08:10: Check Point: Column: List_BillNum
+2012-05-10 10:08:10: Check Point: Value: 9
+2012-05-10 10:08:10: Check Point: Line: 2
+2012-05-10 10:08:10: Check Point: Column: List_BillDesc
+2012-05-10 10:08:10: Check Point: Value: Bill 9
+2012-05-10 10:08:10: Check Point: Line: 3
+2012-05-10 10:08:10: Check Point: Column: List_BillAmt
+2012-05-10 10:08:10: Check Point: Value: 107387517.280000
+2012-05-10 10:08:17: Check Point: Import: Run Application
+2012-05-10 10:08:18: Check Point: Import: set FileName
+2012-05-10 10:08:20: Check Point: Import: Open Workbook
+2012-05-10 10:08:20: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI17.xls
+2012-05-10 10:08:26: Check Point: Import: UnProtectSheet
+2012-05-10 10:08:26: Check Point: Import: BreakLinked
+2012-05-10 10:08:28: Check Point: Import: ReplaceAllData
+2012-05-10 10:08:28: Check Point: Now is replace: Cover
+2012-05-10 10:08:28: Check Point: Next
+2012-05-10 10:08:28: Check Point: Now is replace: Works
+2012-05-10 10:08:28: Check Point: Next
+2012-05-10 10:08:28: Check Point: Now is replace: MOS
+2012-05-10 10:08:28: Check Point: Next
+2012-05-10 10:08:28: Check Point: Now is replace: VO
+2012-05-10 10:08:28: Check Point: Next
+2012-05-10 10:08:28: Check Point: Now is replace: Daywork
+2012-05-10 10:08:28: Check Point: Next
+2012-05-10 10:08:28: Check Point: Now is replace: Claims
+2012-05-10 10:08:28: Check Point: Next
+2012-05-10 10:08:28: Check Point: Now is replace: Bill Desc
+2012-05-10 10:08:28: Check Point: Next
+2012-05-10 10:08:30: Check Point: Import: ProtectSheet
+2012-05-10 10:08:33: Check Point: Import: Save
+2012-05-10 10:08:34: Check Point: Import: Close
+2012-05-10 10:08:35: Check Point: Import: Closed
+2012-05-10 10:08:38: Check Point: End
+2012-05-10 10:08:38: Check Point: Disconnect
+2012-05-10 10:08:38: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

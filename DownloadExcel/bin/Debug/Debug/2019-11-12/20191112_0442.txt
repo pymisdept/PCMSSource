@@ -1,0 +1,20 @@
+2019-11-12 04:42:00: Check Point: select Code as List_RequestCode,U_ReasonDesc as List_RequestName from [@reasoncode] where U_ReasonType='MR'
+2019-11-12 04:42:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 04:42:00: Check Point: select CurrCode AS LIST_CurCODE, FrgnName as LIST_CurName from OCRN
+2019-11-12 04:42:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 04:42:00: Check Point: Import: Run Application
+2019-11-12 04:42:00: Check Point: Import: set FileName
+2019-11-12 04:42:01: Check Point: Import: Open Workbook
+2019-11-12 04:42:01: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\PUI03_PA.xlsm
+2019-11-12 04:42:05: Check Point: Import: UnProtectSheet
+2019-11-12 04:42:06: Check Point: Import: BreakLinked
+2019-11-12 04:42:06: Check Point: Import: ReplaceAllData
+2019-11-12 04:42:09: Check Point: Now is replace: Form
+2019-11-12 04:42:20: Check Point: Now is replace: Payment Terms
+2019-11-12 04:42:24: Check Point: Now is replace: Item Code
+2019-11-12 04:42:30: Check Point: Now is replace: Supplier Code
+2019-11-12 04:42:37: Check Point: Now is replace: Flow Type
+2019-11-12 04:42:43: Check Point: Now is replace: Subsi Code
+2019-11-12 04:42:47: Check Point: Now is replace: Cost Code
+2019-11-12 04:42:50: Check Point: Now is replace: Reason Code
+2019-11-12 04:42:54: Check Point: Now is replace: Currency Code

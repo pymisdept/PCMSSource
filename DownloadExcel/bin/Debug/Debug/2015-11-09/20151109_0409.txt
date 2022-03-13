@@ -1,0 +1,7 @@
+2015-11-09 04:09:22: Check Point: select * from QSI44_Form ('00329F1H')
+2015-11-09 04:09:26: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2015-11-09 04:09:29: Check Point: RecCount1
+2015-11-09 04:09:32: Check Point: oRow Lenght: 2
+2015-11-09 04:09:32: Check Point: oRecCount: 1
+2015-11-09 04:09:40: Check Point: Line: 0
+2015-11-09 04:09:43: Check Point: Column: AppNum

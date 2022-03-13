@@ -1,0 +1,40 @@
+2019-11-14 03:40:01: Check Point: Next
+2019-11-14 03:40:02: Check Point: Now is replace: MOS
+2019-11-14 03:40:07: Check Point: Next
+2019-11-14 03:40:07: Check Point: Now is replace: EVO
+2019-11-14 03:40:08: Check Point: Next
+2019-11-14 03:40:08: Check Point: Now is replace: IVO
+2019-11-14 03:40:09: Check Point: Next
+2019-11-14 03:40:09: Check Point: Now is replace: CCVO
+2019-11-14 03:40:09: Check Point: Next
+2019-11-14 03:40:10: Check Point: Now is replace: EDW
+2019-11-14 03:40:10: Check Point: Next
+2019-11-14 03:40:10: Check Point: Now is replace: IDW
+2019-11-14 03:40:11: Check Point: Next
+2019-11-14 03:40:11: Check Point: Now is replace: CCDW
+2019-11-14 03:40:11: Check Point: Next
+2019-11-14 03:40:12: Check Point: Now is replace: ContraCharge
+2019-11-14 03:40:12: Check Point: Next
+2019-11-14 03:40:13: Check Point: Now is replace: PaulYCharge
+2019-11-14 03:40:13: Check Point: Next
+2019-11-14 03:40:13: Check Point: Now is replace: DAP
+2019-11-14 03:40:13: Check Point: Next
+2019-11-14 03:40:14: Check Point: Now is replace: Approval
+2019-11-14 03:40:14: Check Point: Next
+2019-11-14 03:40:15: Check Point: Now is replace: Cost Code
+2019-11-14 03:40:15: Check Point: Next
+2019-11-14 03:40:16: Check Point: Now is replace: SubContractor
+2019-11-14 03:40:16: Check Point: Next
+2019-11-14 03:40:17: Check Point: Now is replace: Add SubContractor
+2019-11-14 03:40:17: Check Point: Next
+2019-11-14 03:40:18: Check Point: Now is replace: Sheet1
+2019-11-14 03:40:18: Check Point: Next
+2019-11-14 03:40:18: Check Point: Now is replace: Sheet1 (2)
+2019-11-14 03:40:18: Check Point: Next
+2019-11-14 03:40:19: Check Point: Import: ProtectSheet
+2019-11-14 03:40:29: Check Point: Import: Save
+2019-11-14 03:40:30: Check Point: Import: Close
+2019-11-14 03:40:30: Check Point: Import: Closed
+2019-11-14 03:40:35: Check Point: End
+2019-11-14 03:40:35: Check Point: Disconnect
+2019-11-14 03:40:35: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\

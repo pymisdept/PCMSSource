@@ -1,0 +1,3789 @@
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ABACUS PROJ CONSULTANTS LTD
+2012-06-20 02:35:00: Check Point: RecCount15
+2012-06-20 02:35:00: Check Point: oRow Lenght: 15
+2012-06-20 02:35:00: Check Point: oRecCount: 15
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ABL01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ABLE GAIN MANAGEMENT LIMITED
+2012-06-20 02:35:00: Check Point: RecCount16
+2012-06-20 02:35:00: Check Point: oRow Lenght: 16
+2012-06-20 02:35:00: Check Point: oRecCount: 16
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ABL02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ABLE CONTRACTORS LTD
+2012-06-20 02:35:00: Check Point: RecCount17
+2012-06-20 02:35:00: Check Point: oRow Lenght: 17
+2012-06-20 02:35:00: Check Point: oRecCount: 17
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ABL03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ABLE ENGINEERING COMPANY LIMITED
+2012-06-20 02:35:00: Check Point: RecCount18
+2012-06-20 02:35:00: Check Point: oRow Lenght: 18
+2012-06-20 02:35:00: Check Point: oRecCount: 18
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ABS01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ABSOLUTE KINETICS CONSULTANCY PTE LTD
+2012-06-20 02:35:00: Check Point: RecCount19
+2012-06-20 02:35:00: Check Point: oRow Lenght: 19
+2012-06-20 02:35:00: Check Point: oRecCount: 19
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ABU01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ABUNDANCE HOLDINGS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount20
+2012-06-20 02:35:00: Check Point: oRow Lenght: 20
+2012-06-20 02:35:00: Check Point: oRecCount: 20
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ABU02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ABUNDANCE DOCUMENTS MGT CO. O/B A.H.LTD
+2012-06-20 02:35:00: Check Point: RecCount21
+2012-06-20 02:35:00: Check Point: oRow Lenght: 21
+2012-06-20 02:35:00: Check Point: oRecCount: 21
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACA01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACAD SOLUTIONS LTD
+2012-06-20 02:35:00: Check Point: RecCount22
+2012-06-20 02:35:00: Check Point: oRow Lenght: 22
+2012-06-20 02:35:00: Check Point: oRecCount: 22
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACC01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: HOWDEN INSURANCE BROKERS (HK) LTD
+2012-06-20 02:35:00: Check Point: RecCount23
+2012-06-20 02:35:00: Check Point: oRow Lenght: 23
+2012-06-20 02:35:00: Check Point: oRecCount: 23
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACC02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACCETTE INS BROKERS (INS)
+2012-06-20 02:35:00: Check Point: RecCount24
+2012-06-20 02:35:00: Check Point: oRow Lenght: 24
+2012-06-20 02:35:00: Check Point: oRecCount: 24
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACC03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACCESS CONTROL SYSTEMS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount25
+2012-06-20 02:35:00: Check Point: oRow Lenght: 25
+2012-06-20 02:35:00: Check Point: oRecCount: 25
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACH01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACHILLES INFORMATION HONG KONG LTD
+2012-06-20 02:35:00: Check Point: RecCount26
+2012-06-20 02:35:00: Check Point: oRow Lenght: 26
+2012-06-20 02:35:00: Check Point: oRecCount: 26
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACH02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: A-CHOW ENGINEERING CO LTD
+2012-06-20 02:35:00: Check Point: RecCount27
+2012-06-20 02:35:00: Check Point: oRow Lenght: 27
+2012-06-20 02:35:00: Check Point: oRecCount: 27
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACL01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACLA LIMITED
+2012-06-20 02:35:00: Check Point: RecCount28
+2012-06-20 02:35:00: Check Point: oRow Lenght: 28
+2012-06-20 02:35:00: Check Point: oRecCount: 28
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACM01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACME METAL WKS (INT'L) LTD
+2012-06-20 02:35:00: Check Point: RecCount29
+2012-06-20 02:35:00: Check Point: oRow Lenght: 29
+2012-06-20 02:35:00: Check Point: oRecCount: 29
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACM02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACME SANITARY WARE CO LTD
+2012-06-20 02:35:00: Check Point: RecCount30
+2012-06-20 02:35:00: Check Point: oRow Lenght: 30
+2012-06-20 02:35:00: Check Point: oRecCount: 30
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACM03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACME SANITARY ENGINEERING CO LTD
+2012-06-20 02:35:00: Check Point: RecCount31
+2012-06-20 02:35:00: Check Point: oRow Lenght: 31
+2012-06-20 02:35:00: Check Point: oRecCount: 31
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACM04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACME GONDOLA SYSTEMS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount32
+2012-06-20 02:35:00: Check Point: oRow Lenght: 32
+2012-06-20 02:35:00: Check Point: oRecCount: 32
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACM05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACME SANITARY ENG'G CO LTD
+2012-06-20 02:35:00: Check Point: RecCount33
+2012-06-20 02:35:00: Check Point: oRow Lenght: 33
+2012-06-20 02:35:00: Check Point: oRecCount: 33
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACO01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACON ENGINEERING CO LTD
+2012-06-20 02:35:00: Check Point: RecCount34
+2012-06-20 02:35:00: Check Point: oRow Lenght: 34
+2012-06-20 02:35:00: Check Point: oRecCount: 34
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACO02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACONIC INCORPORATION LTD
+2012-06-20 02:35:00: Check Point: RecCount35
+2012-06-20 02:35:00: Check Point: oRow Lenght: 35
+2012-06-20 02:35:00: Check Point: oRecCount: 35
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACO03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACOTA LIMITED
+2012-06-20 02:35:00: Check Point: RecCount36
+2012-06-20 02:35:00: Check Point: oRow Lenght: 36
+2012-06-20 02:35:00: Check Point: oRecCount: 36
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACO04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACOUSTIC CONTROL (ASIA) LIMITED
+2012-06-20 02:35:00: Check Point: RecCount37
+2012-06-20 02:35:00: Check Point: oRow Lenght: 37
+2012-06-20 02:35:00: Check Point: oRecCount: 37
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACO05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACOUSTIC CONTROL ENGINEERING LIMITED
+2012-06-20 02:35:00: Check Point: RecCount38
+2012-06-20 02:35:00: Check Point: oRow Lenght: 38
+2012-06-20 02:35:00: Check Point: oRecCount: 38
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACT01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACTION-UNITED ENVIRO SERVICES&CONSULTING
+2012-06-20 02:35:00: Check Point: RecCount39
+2012-06-20 02:35:00: Check Point: oRow Lenght: 39
+2012-06-20 02:35:00: Check Point: oRecCount: 39
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACT02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACTION PROFIT DEVELOPMENT LTD
+2012-06-20 02:35:00: Check Point: RecCount40
+2012-06-20 02:35:00: Check Point: oRow Lenght: 40
+2012-06-20 02:35:00: Check Point: oRecCount: 40
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACT03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACTIVE WAY LIMITED
+2012-06-20 02:35:00: Check Point: RecCount41
+2012-06-20 02:35:00: Check Point: oRow Lenght: 41
+2012-06-20 02:35:00: Check Point: oRecCount: 41
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACT04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AC TECHNIK LIMITED
+2012-06-20 02:35:00: Check Point: RecCount42
+2012-06-20 02:35:00: Check Point: oRow Lenght: 42
+2012-06-20 02:35:00: Check Point: oRecCount: 42
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACT05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACTION METAL & MACHINERY CO., LTD.
+2012-06-20 02:35:00: Check Point: RecCount43
+2012-06-20 02:35:00: Check Point: oRow Lenght: 43
+2012-06-20 02:35:00: Check Point: oRecCount: 43
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ACT06Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ACTION INTERNATIONAL DEVELOPMENT COMPANY
+2012-06-20 02:35:00: Check Point: RecCount44
+2012-06-20 02:35:00: Check Point: oRow Lenght: 44
+2012-06-20 02:35:00: Check Point: oRecCount: 44
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADI01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADI LIMITED
+2012-06-20 02:35:00: Check Point: RecCount45
+2012-06-20 02:35:00: Check Point: oRow Lenght: 45
+2012-06-20 02:35:00: Check Point: oRecCount: 45
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADR01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADR PARTNERSHIP LIMITED
+2012-06-20 02:35:00: Check Point: RecCount46
+2012-06-20 02:35:00: Check Point: oRow Lenght: 46
+2012-06-20 02:35:00: Check Point: oRecCount: 46
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANCE TRADING & ENG LTD
+2012-06-20 02:35:00: Check Point: RecCount47
+2012-06-20 02:35:00: Check Point: oRow Lenght: 47
+2012-06-20 02:35:00: Check Point: oRecCount: 47
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: THE ADVANCE PLASTIC ADVERT
+2012-06-20 02:35:00: Check Point: RecCount48
+2012-06-20 02:35:00: Check Point: oRow Lenght: 48
+2012-06-20 02:35:00: Check Point: oRecCount: 48
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANCE TELECOM
+2012-06-20 02:35:00: Check Point: RecCount49
+2012-06-20 02:35:00: Check Point: oRow Lenght: 49
+2012-06-20 02:35:00: Check Point: oRecCount: 49
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANCE SAFETY CONSULTANT CO
+2012-06-20 02:35:00: Check Point: RecCount50
+2012-06-20 02:35:00: Check Point: oRow Lenght: 50
+2012-06-20 02:35:00: Check Point: oRecCount: 50
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANCE SPECIALIST TREATMENT ENG LTD
+2012-06-20 02:35:00: Check Point: RecCount51
+2012-06-20 02:35:00: Check Point: oRow Lenght: 51
+2012-06-20 02:35:00: Check Point: oRecCount: 51
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV06Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANTMARK HOLDINGS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount52
+2012-06-20 02:35:00: Check Point: oRow Lenght: 52
+2012-06-20 02:35:00: Check Point: oRecCount: 52
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV07Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANCED TRADING (H.K.) LIMITED
+2012-06-20 02:35:00: Check Point: RecCount53
+2012-06-20 02:35:00: Check Point: oRow Lenght: 53
+2012-06-20 02:35:00: Check Point: oRecCount: 53
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV08Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANCE CONCRETE DRILL CUT CO LTD
+2012-06-20 02:35:00: Check Point: RecCount54
+2012-06-20 02:35:00: Check Point: oRow Lenght: 54
+2012-06-20 02:35:00: Check Point: oRecCount: 54
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ADV09Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ADVANCE ENVIRONMENTAL ENGINEERING LTD
+2012-06-20 02:35:00: Check Point: RecCount55
+2012-06-20 02:35:00: Check Point: oRow Lenght: 55
+2012-06-20 02:35:00: Check Point: oRecCount: 55
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AEC01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AECOM ASIA CO LTD
+2012-06-20 02:35:00: Check Point: RecCount56
+2012-06-20 02:35:00: Check Point: oRow Lenght: 56
+2012-06-20 02:35:00: Check Point: oRecCount: 56
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AEC02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AECOM MACAU CO LTD
+2012-06-20 02:35:00: Check Point: RecCount57
+2012-06-20 02:35:00: Check Point: oRow Lenght: 57
+2012-06-20 02:35:00: Check Point: oRecCount: 57
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AED01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AEDAS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount58
+2012-06-20 02:35:00: Check Point: oRow Lenght: 58
+2012-06-20 02:35:00: Check Point: oRecCount: 58
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AER01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AEROTECH INDUSTRIAL COMPANY LIMITED
+2012-06-20 02:35:00: Check Point: RecCount59
+2012-06-20 02:35:00: Check Point: oRow Lenght: 59
+2012-06-20 02:35:00: Check Point: oRecCount: 59
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AER02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AEROTECH ACOUSTICS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount60
+2012-06-20 02:35:00: Check Point: oRow Lenght: 60
+2012-06-20 02:35:00: Check Point: oRecCount: 60
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AES01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AES SCAFFOLD ENGINEERING LTD
+2012-06-20 02:35:00: Check Point: RecCount61
+2012-06-20 02:35:00: Check Point: oRow Lenght: 61
+2012-06-20 02:35:00: Check Point: oRecCount: 61
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AES02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AESO LTD
+2012-06-20 02:35:00: Check Point: RecCount62
+2012-06-20 02:35:00: Check Point: oRow Lenght: 62
+2012-06-20 02:35:00: Check Point: oRecCount: 62
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AES03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: A.E.S. DEST & NON-DEST TESTING LTD
+2012-06-20 02:35:00: Check Point: RecCount63
+2012-06-20 02:35:00: Check Point: oRow Lenght: 63
+2012-06-20 02:35:00: Check Point: oRecCount: 63
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AFE01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AFE SOLUTIONS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount64
+2012-06-20 02:35:00: Check Point: oRow Lenght: 64
+2012-06-20 02:35:00: Check Point: oRecCount: 64
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AGC01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AGC DESIGN LTD
+2012-06-20 02:35:00: Check Point: RecCount65
+2012-06-20 02:35:00: Check Point: oRow Lenght: 65
+2012-06-20 02:35:00: Check Point: oRecCount: 65
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AGE01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AGENCIA COMERCIAL MARINA
+2012-06-20 02:35:00: Check Point: RecCount66
+2012-06-20 02:35:00: Check Point: oRow Lenght: 66
+2012-06-20 02:35:00: Check Point: oRecCount: 66
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AGE02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AGE COM SAN KIN HENG (新建興貿易行)
+2012-06-20 02:35:00: Check Point: RecCount67
+2012-06-20 02:35:00: Check Point: oRow Lenght: 67
+2012-06-20 02:35:00: Check Point: oRecCount: 67
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AGE03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AGE COM MAN UN NG KAM K C (萬源五金建材)
+2012-06-20 02:35:00: Check Point: RecCount68
+2012-06-20 02:35:00: Check Point: oRow Lenght: 68
+2012-06-20 02:35:00: Check Point: oRecCount: 68
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AGG01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AGGRESSIVE CONSTRUCTION CO LTD
+2012-06-20 02:35:00: Check Point: RecCount69
+2012-06-20 02:35:00: Check Point: oRow Lenght: 69
+2012-06-20 02:35:00: Check Point: oRecCount: 69
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AGR01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AGRILA LTD
+2012-06-20 02:35:00: Check Point: RecCount70
+2012-06-20 02:35:00: Check Point: oRow Lenght: 70
+2012-06-20 02:35:00: Check Point: oRecCount: 70
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AHD01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AH D TRANSPORTATION COMPANY LIMITED
+2012-06-20 02:35:00: Check Point: RecCount71
+2012-06-20 02:35:00: Check Point: oRow Lenght: 71
+2012-06-20 02:35:00: Check Point: oRecCount: 71
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AHO01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AH OR KEE CONSTRUCTION AND ENG'G CO
+2012-06-20 02:35:00: Check Point: RecCount72
+2012-06-20 02:35:00: Check Point: oRow Lenght: 72
+2012-06-20 02:35:00: Check Point: oRecCount: 72
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIA01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AIA CO. (TRUSTEE) LTD. - PRIME
+2012-06-20 02:35:00: Check Point: RecCount73
+2012-06-20 02:35:00: Check Point: oRow Lenght: 73
+2012-06-20 02:35:00: Check Point: oRecCount: 73
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIA02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AIA PENSION & TRUSTEE CO. LTD.
+2012-06-20 02:35:00: Check Point: RecCount74
+2012-06-20 02:35:00: Check Point: oRow Lenght: 74
+2012-06-20 02:35:00: Check Point: oRecCount: 74
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIM01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AIM GROUP LTD
+2012-06-20 02:35:00: Check Point: RecCount75
+2012-06-20 02:35:00: Check Point: oRow Lenght: 75
+2012-06-20 02:35:00: Check Point: oRecCount: 75
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIR01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AIRPORT AUTHORITY HK
+2012-06-20 02:35:00: Check Point: RecCount76
+2012-06-20 02:35:00: Check Point: oRow Lenght: 76
+2012-06-20 02:35:00: Check Point: oRecCount: 76
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIR02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AIR MASTER INTERNATIONAL LIMITED
+2012-06-20 02:35:00: Check Point: RecCount77
+2012-06-20 02:35:00: Check Point: oRow Lenght: 77
+2012-06-20 02:35:00: Check Point: oRecCount: 77
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIR03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: HONG KONG AIR PURIFIER CENTER LIMITED
+2012-06-20 02:35:00: Check Point: RecCount78
+2012-06-20 02:35:00: Check Point: oRow Lenght: 78
+2012-06-20 02:35:00: Check Point: oRecCount: 78
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIR04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AIRLAND ENTERPRISE CO LTD
+2012-06-20 02:35:00: Check Point: RecCount79
+2012-06-20 02:35:00: Check Point: oRow Lenght: 79
+2012-06-20 02:35:00: Check Point: oRecCount: 79
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AIRF1EHFC
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AIRFIELD WORKS JOINT VENTURE
+2012-06-20 02:35:00: Check Point: RecCount80
+2012-06-20 02:35:00: Check Point: oRow Lenght: 80
+2012-06-20 02:35:00: Check Point: oRecCount: 80
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AKA01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AKAI CONSTRUCTION COMPANY
+2012-06-20 02:35:00: Check Point: RecCount81
+2012-06-20 02:35:00: Check Point: oRow Lenght: 81
+2012-06-20 02:35:00: Check Point: oRecCount: 81
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALA01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALAN MARBLE ENGINEERING CO LTD
+2012-06-20 02:35:00: Check Point: RecCount82
+2012-06-20 02:35:00: Check Point: oRow Lenght: 82
+2012-06-20 02:35:00: Check Point: oRecCount: 82
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALB01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALBERT LIU & ASSOCIATES LTD
+2012-06-20 02:35:00: Check Point: RecCount83
+2012-06-20 02:35:00: Check Point: oRow Lenght: 83
+2012-06-20 02:35:00: Check Point: oRecCount: 83
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALG01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALGA (FAR EAST) LIMITED
+2012-06-20 02:35:00: Check Point: RecCount84
+2012-06-20 02:35:00: Check Point: oRow Lenght: 84
+2012-06-20 02:35:00: Check Point: oRecCount: 84
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALI01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: A. LIBERTY ENGINEERING CO LTD
+2012-06-20 02:35:00: Check Point: RecCount85
+2012-06-20 02:35:00: Check Point: oRow Lenght: 85
+2012-06-20 02:35:00: Check Point: oRecCount: 85
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLIED ENVIRONMENTAL CONSULTANTS LTD
+2012-06-20 02:35:00: Check Point: RecCount86
+2012-06-20 02:35:00: Check Point: oRow Lenght: 86
+2012-06-20 02:35:00: Check Point: oRecCount: 86
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLIANCE & ASSOCIATES LIMITED
+2012-06-20 02:35:00: Check Point: RecCount87
+2012-06-20 02:35:00: Check Point: oRow Lenght: 87
+2012-06-20 02:35:00: Check Point: oRecCount: 87
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLIANCE CONSTRUCTION MATERIALS LTD
+2012-06-20 02:35:00: Check Point: RecCount88
+2012-06-20 02:35:00: Check Point: oRow Lenght: 88
+2012-06-20 02:35:00: Check Point: oRecCount: 88
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLIED CHAMP LTD
+2012-06-20 02:35:00: Check Point: RecCount89
+2012-06-20 02:35:00: Check Point: oRow Lenght: 89
+2012-06-20 02:35:00: Check Point: oRecCount: 89
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLSPORTS CO LTD
+2012-06-20 02:35:00: Check Point: RecCount90
+2012-06-20 02:35:00: Check Point: oRow Lenght: 90
+2012-06-20 02:35:00: Check Point: oRecCount: 90
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL06Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLIED BRAND (HONG KONG) LTD
+2012-06-20 02:35:00: Check Point: RecCount91
+2012-06-20 02:35:00: Check Point: oRow Lenght: 91
+2012-06-20 02:35:00: Check Point: oRecCount: 91
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL07Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALL FIT ENGINEERING LTD
+2012-06-20 02:35:00: Check Point: RecCount92
+2012-06-20 02:35:00: Check Point: oRow Lenght: 92
+2012-06-20 02:35:00: Check Point: oRecCount: 92
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL08Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLIANCE CONTRACTING CO., LTD..
+2012-06-20 02:35:00: Check Point: RecCount93
+2012-06-20 02:35:00: Check Point: oRow Lenght: 93
+2012-06-20 02:35:00: Check Point: oRecCount: 93
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL09Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALLIED STAR CONSULTANTS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount94
+2012-06-20 02:35:00: Check Point: oRow Lenght: 94
+2012-06-20 02:35:00: Check Point: oRecCount: 94
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALL10Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALL BEST TECHNOLOGY LIMITED
+2012-06-20 02:35:00: Check Point: RecCount95
+2012-06-20 02:35:00: Check Point: oRow Lenght: 95
+2012-06-20 02:35:00: Check Point: oRecCount: 95
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALP01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALPHA APPLIANCES LTD
+2012-06-20 02:35:00: Check Point: RecCount96
+2012-06-20 02:35:00: Check Point: oRow Lenght: 96
+2012-06-20 02:35:00: Check Point: oRecCount: 96
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALP02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALPHA BUILDING CONSTRUCTION LIMITED
+2012-06-20 02:35:00: Check Point: RecCount97
+2012-06-20 02:35:00: Check Point: oRow Lenght: 97
+2012-06-20 02:35:00: Check Point: oRecCount: 97
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALP03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALPHA START LIMITED
+2012-06-20 02:35:00: Check Point: RecCount98
+2012-06-20 02:35:00: Check Point: oRow Lenght: 98
+2012-06-20 02:35:00: Check Point: oRecCount: 98
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALP04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALPHA IDEA INTERNATIONAL LIMITED
+2012-06-20 02:35:00: Check Point: RecCount99
+2012-06-20 02:35:00: Check Point: oRow Lenght: 99
+2012-06-20 02:35:00: Check Point: oRecCount: 99
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALP05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALPHA & LEADER RISKS AND ASSETS MGT CO L
+2012-06-20 02:35:00: Check Point: RecCount100
+2012-06-20 02:35:00: Check Point: oRow Lenght: 100
+2012-06-20 02:35:00: Check Point: oRecCount: 100
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALR01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALRIS TECHNOLOGY LTD
+2012-06-20 02:35:00: Check Point: RecCount101
+2012-06-20 02:35:00: Check Point: oRow Lenght: 101
+2012-06-20 02:35:00: Check Point: oRecCount: 101
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALS01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALS TECHNICHEM (HK) PTY LTD
+2012-06-20 02:35:00: Check Point: RecCount102
+2012-06-20 02:35:00: Check Point: oRow Lenght: 102
+2012-06-20 02:35:00: Check Point: oRecCount: 102
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALS02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALSTOM GRID LIMITED
+2012-06-20 02:35:00: Check Point: RecCount103
+2012-06-20 02:35:00: Check Point: oRow Lenght: 103
+2012-06-20 02:35:00: Check Point: oRecCount: 103
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALT01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALTFIELD INTERIORS
+2012-06-20 02:35:00: Check Point: RecCount104
+2012-06-20 02:35:00: Check Point: oRow Lenght: 104
+2012-06-20 02:35:00: Check Point: oRecCount: 104
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALT02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALTERIA LTD
+2012-06-20 02:35:00: Check Point: RecCount105
+2012-06-20 02:35:00: Check Point: oRow Lenght: 105
+2012-06-20 02:35:00: Check Point: oRecCount: 105
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALT03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALTFIELD ENTERPRISES LTD
+2012-06-20 02:35:00: Check Point: RecCount106
+2012-06-20 02:35:00: Check Point: oRow Lenght: 106
+2012-06-20 02:35:00: Check Point: oRecCount: 106
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALT04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALTIRA HOTEL LIMITED
+2012-06-20 02:35:00: Check Point: RecCount107
+2012-06-20 02:35:00: Check Point: oRow Lenght: 107
+2012-06-20 02:35:00: Check Point: oRecCount: 107
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ALU01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ALUMINIUM LTD
+2012-06-20 02:35:00: Check Point: RecCount108
+2012-06-20 02:35:00: Check Point: oRow Lenght: 108
+2012-06-20 02:35:00: Check Point: oRecCount: 108
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AMA01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMAFHH CONSTRUCTION COMPANY
+2012-06-20 02:35:00: Check Point: RecCount109
+2012-06-20 02:35:00: Check Point: oRow Lenght: 109
+2012-06-20 02:35:00: Check Point: oRecCount: 109
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AMA02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMAZING GRACE LIMITED
+2012-06-20 02:35:00: Check Point: RecCount110
+2012-06-20 02:35:00: Check Point: oRow Lenght: 110
+2012-06-20 02:35:00: Check Point: oRecCount: 110
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AME01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMERICAN EXPRESS INT'L INC.
+2012-06-20 02:35:00: Check Point: RecCount111
+2012-06-20 02:35:00: Check Point: oRow Lenght: 111
+2012-06-20 02:35:00: Check Point: oRecCount: 111
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AME02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMELIA JOHNSON CONTEMPORARY
+2012-06-20 02:35:00: Check Point: RecCount112
+2012-06-20 02:35:00: Check Point: oRow Lenght: 112
+2012-06-20 02:35:00: Check Point: oRecCount: 112
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AMJ01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMJED ALI
+2012-06-20 02:35:00: Check Point: RecCount113
+2012-06-20 02:35:00: Check Point: oRow Lenght: 113
+2012-06-20 02:35:00: Check Point: oRecCount: 113
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AMP01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMPERO (HK) LTD
+2012-06-20 02:35:00: Check Point: RecCount114
+2012-06-20 02:35:00: Check Point: oRow Lenght: 114
+2012-06-20 02:35:00: Check Point: oRecCount: 114
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AMT01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMTD RISK MANAGEMENT LTD
+2012-06-20 02:35:00: Check Point: RecCount115
+2012-06-20 02:35:00: Check Point: oRow Lenght: 115
+2012-06-20 02:35:00: Check Point: oRecCount: 115
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AMT02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AMTRAC FURNISHINGS INT'L LTD
+2012-06-20 02:35:00: Check Point: RecCount116
+2012-06-20 02:35:00: Check Point: oRow Lenght: 116
+2012-06-20 02:35:00: Check Point: oRecCount: 116
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANA01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANALOGUE TECHNICAL AGENCIES LTD
+2012-06-20 02:35:00: Check Point: RecCount117
+2012-06-20 02:35:00: Check Point: oRow Lenght: 117
+2012-06-20 02:35:00: Check Point: oRecCount: 117
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AND01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: THE HONG KONG AND CHINA GAS COMPANY LTD
+2012-06-20 02:35:00: Check Point: RecCount118
+2012-06-20 02:35:00: Check Point: oRow Lenght: 118
+2012-06-20 02:35:00: Check Point: oRecCount: 118
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AND02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANDERSON ASPHALT LTD
+2012-06-20 02:35:00: Check Point: RecCount119
+2012-06-20 02:35:00: Check Point: oRow Lenght: 119
+2012-06-20 02:35:00: Check Point: oRecCount: 119
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AND03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANDREW LAM & CO.
+2012-06-20 02:35:00: Check Point: RecCount120
+2012-06-20 02:35:00: Check Point: oRow Lenght: 120
+2012-06-20 02:35:00: Check Point: oRecCount: 120
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AND04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANDERSON CONCRETE LTD
+2012-06-20 02:35:00: Check Point: RecCount121
+2012-06-20 02:35:00: Check Point: oRow Lenght: 121
+2012-06-20 02:35:00: Check Point: oRecCount: 121
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AND05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANDANTE
+2012-06-20 02:35:00: Check Point: RecCount122
+2012-06-20 02:35:00: Check Point: oRow Lenght: 122
+2012-06-20 02:35:00: Check Point: oRecCount: 122
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AND06Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANDREW LEE KING FUN & ASSOCIATES ARC LTD
+2012-06-20 02:35:00: Check Point: RecCount123
+2012-06-20 02:35:00: Check Point: oRow Lenght: 123
+2012-06-20 02:35:00: Check Point: oRecCount: 123
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AND07Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANDERMAX (H.K.) LIMITED
+2012-06-20 02:35:00: Check Point: RecCount124
+2012-06-20 02:35:00: Check Point: oRow Lenght: 124
+2012-06-20 02:35:00: Check Point: oRecCount: 124
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANG01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANGELINE TEO LING GEK
+2012-06-20 02:35:00: Check Point: RecCount125
+2012-06-20 02:35:00: Check Point: oRow Lenght: 125
+2012-06-20 02:35:00: Check Point: oRecCount: 125
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANG02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANGLO CHINESE CORPORATE FINANCE, LIMITED
+2012-06-20 02:35:00: Check Point: RecCount126
+2012-06-20 02:35:00: Check Point: oRow Lenght: 126
+2012-06-20 02:35:00: Check Point: oRecCount: 126
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANG03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANGLO-SWISS TRADING COMPANY (H.K.) LTD
+2012-06-20 02:35:00: Check Point: RecCount127
+2012-06-20 02:35:00: Check Point: oRow Lenght: 127
+2012-06-20 02:35:00: Check Point: oRecCount: 127
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANL01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANLEV ELEX ELEVATOR LTD
+2012-06-20 02:35:00: Check Point: RecCount128
+2012-06-20 02:35:00: Check Point: oRow Lenght: 128
+2012-06-20 02:35:00: Check Point: oRecCount: 128
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANN01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANNO DESIGN COMPANY LIMITED
+2012-06-20 02:35:00: Check Point: RecCount129
+2012-06-20 02:35:00: Check Point: oRow Lenght: 129
+2012-06-20 02:35:00: Check Point: oRecCount: 129
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANT01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANTERRA GREEN
+2012-06-20 02:35:00: Check Point: RecCount130
+2012-06-20 02:35:00: Check Point: oRow Lenght: 130
+2012-06-20 02:35:00: Check Point: oRecCount: 130
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANT02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANTHONY K. K. CHAN
+2012-06-20 02:35:00: Check Point: RecCount131
+2012-06-20 02:35:00: Check Point: oRow Lenght: 131
+2012-06-20 02:35:00: Check Point: oRecCount: 131
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANW01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANWAY ENGINEERING COMPANY LIMITED
+2012-06-20 02:35:00: Check Point: RecCount132
+2012-06-20 02:35:00: Check Point: oRow Lenght: 132
+2012-06-20 02:35:00: Check Point: oRecCount: 132
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: ANY01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: ANYTIME CHINA EXPRESS CO LTD
+2012-06-20 02:35:00: Check Point: RecCount133
+2012-06-20 02:35:00: Check Point: oRow Lenght: 133
+2012-06-20 02:35:00: Check Point: oRecCount: 133
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AON01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AON HONG KONG LTD
+2012-06-20 02:35:00: Check Point: RecCount134
+2012-06-20 02:35:00: Check Point: oRow Lenght: 134
+2012-06-20 02:35:00: Check Point: oRecCount: 134
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AON02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AON INS UNDERWRITING AGEN
+2012-06-20 02:35:00: Check Point: RecCount135
+2012-06-20 02:35:00: Check Point: oRow Lenght: 135
+2012-06-20 02:35:00: Check Point: oRecCount: 135
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: AON03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AON HONG KONG LTD MACAU BRANCH
+2012-06-20 02:35:00: Check Point: RecCount136
+2012-06-20 02:35:00: Check Point: oRow Lenght: 136
+2012-06-20 02:35:00: Check Point: oRecCount: 136
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APE01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APEX BUILDING & ENG CO LTD
+2012-06-20 02:35:00: Check Point: RecCount137
+2012-06-20 02:35:00: Check Point: oRow Lenght: 137
+2012-06-20 02:35:00: Check Point: oRecCount: 137
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APE02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APEX CURTAIN WALL & WINDOWS CO LTD
+2012-06-20 02:35:00: Check Point: RecCount138
+2012-06-20 02:35:00: Check Point: oRow Lenght: 138
+2012-06-20 02:35:00: Check Point: oRecCount: 138
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APE03Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APEX INTERNATIONAL INVESTMENTS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount139
+2012-06-20 02:35:00: Check Point: oRow Lenght: 139
+2012-06-20 02:35:00: Check Point: oRecCount: 139
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APE04Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: A-PEX SYSTEMS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount140
+2012-06-20 02:35:00: Check Point: oRow Lenght: 140
+2012-06-20 02:35:00: Check Point: oRecCount: 140
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APE05Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APEX QUALITY GROUP LIMITED
+2012-06-20 02:35:00: Check Point: RecCount141
+2012-06-20 02:35:00: Check Point: oRow Lenght: 141
+2012-06-20 02:35:00: Check Point: oRecCount: 141
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APL01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: A-PLUS (HK) GROUP LTD
+2012-06-20 02:35:00: Check Point: RecCount142
+2012-06-20 02:35:00: Check Point: oRow Lenght: 142
+2012-06-20 02:35:00: Check Point: oRecCount: 142
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APM01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APMC LIMITED
+2012-06-20 02:35:00: Check Point: RecCount143
+2012-06-20 02:35:00: Check Point: oRow Lenght: 143
+2012-06-20 02:35:00: Check Point: oRecCount: 143
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APO01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APOWER HOLDINGS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount144
+2012-06-20 02:35:00: Check Point: oRow Lenght: 144
+2012-06-20 02:35:00: Check Point: oRecCount: 144
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APR01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: AP RENTALS LIMITED
+2012-06-20 02:35:00: Check Point: RecCount145
+2012-06-20 02:35:00: Check Point: oRow Lenght: 145
+2012-06-20 02:35:00: Check Point: oRecCount: 145
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APR02Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APRIL MARBLE ENGINEERING CO
+2012-06-20 02:35:00: Check Point: RecCount146
+2012-06-20 02:35:00: Check Point: oRow Lenght: 146
+2012-06-20 02:35:00: Check Point: oRecCount: 146
+2012-06-20 02:35:00: Check Point: Line: 0
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:00: Check Point: Value: APS01Z00C
+2012-06-20 02:35:00: Check Point: Line: 1
+2012-06-20 02:35:00: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:00: Check Point: Value: APS CONSTRUCTION SYSTEMS (INT'L) LTD
+2012-06-20 02:35:00: Check Point: RecCount147
+2012-06-20 02:35:00: Check Point: oRow Lenght: 147
+2012-06-20 02:35:00: Check Point: oRecCount: 147
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: APT01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: APT SATELLITE TELECOMM'N
+2012-06-20 02:35:01: Check Point: RecCount148
+2012-06-20 02:35:01: Check Point: oRow Lenght: 148
+2012-06-20 02:35:01: Check Point: oRecCount: 148
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AQU01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AQUALITY (POOLS) LTD
+2012-06-20 02:35:01: Check Point: RecCount149
+2012-06-20 02:35:01: Check Point: oRow Lenght: 149
+2012-06-20 02:35:01: Check Point: oRecCount: 149
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AQU02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AQUASCAPE LTD
+2012-06-20 02:35:01: Check Point: RecCount150
+2012-06-20 02:35:01: Check Point: oRow Lenght: 150
+2012-06-20 02:35:01: Check Point: oRecCount: 150
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARA01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARABIAN-RORASOL FDNS LLC
+2012-06-20 02:35:01: Check Point: RecCount151
+2012-06-20 02:35:01: Check Point: oRow Lenght: 151
+2012-06-20 02:35:01: Check Point: oRecCount: 151
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARA02Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARAB BANK PLC
+2012-06-20 02:35:01: Check Point: RecCount152
+2012-06-20 02:35:01: Check Point: oRow Lenght: 152
+2012-06-20 02:35:01: Check Point: oRecCount: 152
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHIPLUS INTERNATIONAL LIMITED
+2012-06-20 02:35:01: Check Point: RecCount153
+2012-06-20 02:35:01: Check Point: oRow Lenght: 153
+2012-06-20 02:35:01: Check Point: oRecCount: 153
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHBUILDR CONST & ENG
+2012-06-20 02:35:01: Check Point: RecCount154
+2012-06-20 02:35:01: Check Point: oRow Lenght: 154
+2012-06-20 02:35:01: Check Point: oRecCount: 154
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECRIOR ARCHITECT
+2012-06-20 02:35:01: Check Point: RecCount155
+2012-06-20 02:35:01: Check Point: oRow Lenght: 155
+2012-06-20 02:35:01: Check Point: oRecCount: 155
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC04Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: THE ARCHITECTS' MISSION
+2012-06-20 02:35:01: Check Point: RecCount156
+2012-06-20 02:35:01: Check Point: oRow Lenght: 156
+2012-06-20 02:35:01: Check Point: oRecCount: 156
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC05Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECTURE DESIGN & RESEARCH GROUP LTD
+2012-06-20 02:35:01: Check Point: RecCount157
+2012-06-20 02:35:01: Check Point: oRow Lenght: 157
+2012-06-20 02:35:01: Check Point: oRecCount: 157
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC06Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECTURAL LIGHTING (HK) LTD
+2012-06-20 02:35:01: Check Point: RecCount158
+2012-06-20 02:35:01: Check Point: oRow Lenght: 158
+2012-06-20 02:35:01: Check Point: oRecCount: 158
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC07Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECTURAL PRECAST GRC (HK) LTD
+2012-06-20 02:35:01: Check Point: RecCount159
+2012-06-20 02:35:01: Check Point: oRow Lenght: 159
+2012-06-20 02:35:01: Check Point: oRecCount: 159
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC08Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHIPLUS INTERNATIONAL (HK) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount160
+2012-06-20 02:35:01: Check Point: oRow Lenght: 160
+2012-06-20 02:35:01: Check Point: oRecCount: 160
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC09Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECTURAL SERVICES DEPARTMENT
+2012-06-20 02:35:01: Check Point: RecCount161
+2012-06-20 02:35:01: Check Point: oRow Lenght: 161
+2012-06-20 02:35:01: Check Point: oRecCount: 161
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC10Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECTURAL SERVICES DEPT. STAFF ASSO.
+2012-06-20 02:35:01: Check Point: RecCount162
+2012-06-20 02:35:01: Check Point: oRow Lenght: 162
+2012-06-20 02:35:01: Check Point: oRecCount: 162
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC11Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECTURAL PRECAST GRC LTD
+2012-06-20 02:35:01: Check Point: RecCount163
+2012-06-20 02:35:01: Check Point: oRow Lenght: 163
+2012-06-20 02:35:01: Check Point: oRecCount: 163
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC12Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCMOTION
+2012-06-20 02:35:01: Check Point: RecCount164
+2012-06-20 02:35:01: Check Point: oRow Lenght: 164
+2012-06-20 02:35:01: Check Point: oRecCount: 164
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC13Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCOIRIS ASIA AMERICAS, LTD
+2012-06-20 02:35:01: Check Point: RecCount165
+2012-06-20 02:35:01: Check Point: oRow Lenght: 165
+2012-06-20 02:35:01: Check Point: oRecCount: 165
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARC14Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARCHITECTURAL ACOUSTICS (HOLDINGS) LTD
+2012-06-20 02:35:01: Check Point: RecCount166
+2012-06-20 02:35:01: Check Point: oRow Lenght: 166
+2012-06-20 02:35:01: Check Point: oRecCount: 166
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARD01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARDEX HONG KONG LIMITED
+2012-06-20 02:35:01: Check Point: RecCount167
+2012-06-20 02:35:01: Check Point: oRow Lenght: 167
+2012-06-20 02:35:01: Check Point: oRecCount: 167
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARI01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARIAS, FABREGA & FABREGA CO SERVICES HK
+2012-06-20 02:35:01: Check Point: RecCount168
+2012-06-20 02:35:01: Check Point: oRow Lenght: 168
+2012-06-20 02:35:01: Check Point: oRecCount: 168
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARJ01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARJOHUNTLEIGH (HONG KONG) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount169
+2012-06-20 02:35:01: Check Point: oRow Lenght: 169
+2012-06-20 02:35:01: Check Point: oRecCount: 169
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARM01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARMED FORCES SECURITY (HK) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount170
+2012-06-20 02:35:01: Check Point: oRow Lenght: 170
+2012-06-20 02:35:01: Check Point: oRecCount: 170
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARN01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARNHOLD & CO LTD
+2012-06-20 02:35:01: Check Point: RecCount171
+2012-06-20 02:35:01: Check Point: oRow Lenght: 171
+2012-06-20 02:35:01: Check Point: oRecCount: 171
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARN02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARNHOLD MARBLE LTD
+2012-06-20 02:35:01: Check Point: RecCount172
+2012-06-20 02:35:01: Check Point: oRow Lenght: 172
+2012-06-20 02:35:01: Check Point: oRecCount: 172
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ARN03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARNOLD PALMER DESIGN COMPANY
+2012-06-20 02:35:01: Check Point: RecCount173
+2012-06-20 02:35:01: Check Point: oRow Lenght: 173
+2012-06-20 02:35:01: Check Point: oRecCount: 173
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ART SIGNAL SIGNAGE & ENG
+2012-06-20 02:35:01: Check Point: RecCount174
+2012-06-20 02:35:01: Check Point: oRow Lenght: 174
+2012-06-20 02:35:01: Check Point: oRecCount: 174
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTSCAPES (FAR EAST) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount175
+2012-06-20 02:35:01: Check Point: oRow Lenght: 175
+2012-06-20 02:35:01: Check Point: oRecCount: 175
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTHUR YUNG AND ASSOCIATES COMPANY LTD
+2012-06-20 02:35:01: Check Point: RecCount176
+2012-06-20 02:35:01: Check Point: oRow Lenght: 176
+2012-06-20 02:35:01: Check Point: oRecCount: 176
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART04Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTWRIGHT ENGINEERING & CONSTRUCTION LTD
+2012-06-20 02:35:01: Check Point: RecCount177
+2012-06-20 02:35:01: Check Point: oRow Lenght: 177
+2012-06-20 02:35:01: Check Point: oRecCount: 177
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART05Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTERY CONSTRUCTION MANAGEMENT LIMITED
+2012-06-20 02:35:01: Check Point: RecCount178
+2012-06-20 02:35:01: Check Point: oRow Lenght: 178
+2012-06-20 02:35:01: Check Point: oRecCount: 178
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART06Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ART BEATUS LTD
+2012-06-20 02:35:01: Check Point: RecCount179
+2012-06-20 02:35:01: Check Point: oRow Lenght: 179
+2012-06-20 02:35:01: Check Point: oRecCount: 179
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART07Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTSCAPES (MACAU) LTD
+2012-06-20 02:35:01: Check Point: RecCount180
+2012-06-20 02:35:01: Check Point: oRow Lenght: 180
+2012-06-20 02:35:01: Check Point: oRecCount: 180
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART08Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTOMAT PRODUCTION LIMITED
+2012-06-20 02:35:01: Check Point: RecCount181
+2012-06-20 02:35:01: Check Point: oRow Lenght: 181
+2012-06-20 02:35:01: Check Point: oRecCount: 181
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART09Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTEMIDE LIMITED
+2012-06-20 02:35:01: Check Point: RecCount182
+2012-06-20 02:35:01: Check Point: oRow Lenght: 182
+2012-06-20 02:35:01: Check Point: oRecCount: 182
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART10Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTIGOS DE ESCRITORIO DAILY
+2012-06-20 02:35:01: Check Point: RecCount183
+2012-06-20 02:35:01: Check Point: oRow Lenght: 183
+2012-06-20 02:35:01: Check Point: oRecCount: 183
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART11Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ARTS INTERNATIONAL LIMITED
+2012-06-20 02:35:01: Check Point: RecCount184
+2012-06-20 02:35:01: Check Point: oRow Lenght: 184
+2012-06-20 02:35:01: Check Point: oRecCount: 184
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART12Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ART INDUSTRIAL LIMITED
+2012-06-20 02:35:01: Check Point: RecCount185
+2012-06-20 02:35:01: Check Point: oRow Lenght: 185
+2012-06-20 02:35:01: Check Point: oRecCount: 185
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ART13Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ART'S DEVELOPMENT HARDWARE LIMITED
+2012-06-20 02:35:01: Check Point: RecCount186
+2012-06-20 02:35:01: Check Point: oRow Lenght: 186
+2012-06-20 02:35:01: Check Point: oRecCount: 186
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASC01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASC (HK) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount187
+2012-06-20 02:35:01: Check Point: oRow Lenght: 187
+2012-06-20 02:35:01: Check Point: oRecCount: 187
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASC02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASCL AUDIO SYSTEM CONSULT. (MACAO) LTD
+2012-06-20 02:35:01: Check Point: RecCount188
+2012-06-20 02:35:01: Check Point: oRow Lenght: 188
+2012-06-20 02:35:01: Check Point: oRecCount: 188
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASC03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASCL AUDIO SYS. CONSULTANTS (ASIA) LTD
+2012-06-20 02:35:01: Check Point: RecCount189
+2012-06-20 02:35:01: Check Point: oRow Lenght: 189
+2012-06-20 02:35:01: Check Point: oRecCount: 189
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASD01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASDA LIMITED
+2012-06-20 02:35:01: Check Point: RecCount190
+2012-06-20 02:35:01: Check Point: oRow Lenght: 190
+2012-06-20 02:35:01: Check Point: oRecCount: 190
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA SIGN ENG CO LTD
+2012-06-20 02:35:01: Check Point: RecCount191
+2012-06-20 02:35:01: Check Point: oRow Lenght: 191
+2012-06-20 02:35:01: Check Point: oRecCount: 191
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIAN BLDG ADHESIVES LTD
+2012-06-20 02:35:01: Check Point: RecCount192
+2012-06-20 02:35:01: Check Point: oRow Lenght: 192
+2012-06-20 02:35:01: Check Point: oRecCount: 192
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIATIC INVESTMENTS LTD
+2012-06-20 02:35:01: Check Point: RecCount193
+2012-06-20 02:35:01: Check Point: oRow Lenght: 193
+2012-06-20 02:35:01: Check Point: oRecCount: 193
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI04Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA PACIFIC ENGINEERING
+2012-06-20 02:35:01: Check Point: RecCount194
+2012-06-20 02:35:01: Check Point: oRow Lenght: 194
+2012-06-20 02:35:01: Check Point: oRecCount: 194
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI05Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA PLUS BROADCASTING LTD
+2012-06-20 02:35:01: Check Point: RecCount195
+2012-06-20 02:35:01: Check Point: oRow Lenght: 195
+2012-06-20 02:35:01: Check Point: oRecCount: 195
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI06R00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIAWIDE HOLDINGS LIMITED
+2012-06-20 02:35:01: Check Point: RecCount196
+2012-06-20 02:35:01: Check Point: oRow Lenght: 196
+2012-06-20 02:35:01: Check Point: oRecCount: 196
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI06Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA INSURANCE CO LTD
+2012-06-20 02:35:01: Check Point: RecCount197
+2012-06-20 02:35:01: Check Point: oRow Lenght: 197
+2012-06-20 02:35:01: Check Point: oRecCount: 197
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI07Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA ROCK ART LTD
+2012-06-20 02:35:01: Check Point: RecCount198
+2012-06-20 02:35:01: Check Point: oRow Lenght: 198
+2012-06-20 02:35:01: Check Point: oRecCount: 198
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI08Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA STONE CO LTD
+2012-06-20 02:35:01: Check Point: RecCount199
+2012-06-20 02:35:01: Check Point: oRow Lenght: 199
+2012-06-20 02:35:01: Check Point: oRecCount: 199
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI09Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIAN SPORTSTURF LTD
+2012-06-20 02:35:01: Check Point: RecCount200
+2012-06-20 02:35:01: Check Point: oRow Lenght: 200
+2012-06-20 02:35:01: Check Point: oRecCount: 200
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI10Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA PACIFIC INDUSTRIAL SAFETY EQUIPMENT
+2012-06-20 02:35:01: Check Point: RecCount201
+2012-06-20 02:35:01: Check Point: oRow Lenght: 201
+2012-06-20 02:35:01: Check Point: oRecCount: 201
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI11Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA LANDSCAPING LTD
+2012-06-20 02:35:01: Check Point: RecCount202
+2012-06-20 02:35:01: Check Point: oRow Lenght: 202
+2012-06-20 02:35:01: Check Point: oRecCount: 202
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI12Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA AIRFREIGHT TERMINAL CO LTD
+2012-06-20 02:35:01: Check Point: RecCount203
+2012-06-20 02:35:01: Check Point: oRow Lenght: 203
+2012-06-20 02:35:01: Check Point: oRecCount: 203
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI13Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA STANDARD PROJECT MANAGEMENT CO LTD
+2012-06-20 02:35:01: Check Point: RecCount204
+2012-06-20 02:35:01: Check Point: oRow Lenght: 204
+2012-06-20 02:35:01: Check Point: oRecCount: 204
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI14Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA-TELE-VENTURE CO LTD
+2012-06-20 02:35:01: Check Point: RecCount205
+2012-06-20 02:35:01: Check Point: oRow Lenght: 205
+2012-06-20 02:35:01: Check Point: oRecCount: 205
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI15Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIAPACIFIC TECHNOLOGIES LIMITED
+2012-06-20 02:35:01: Check Point: RecCount206
+2012-06-20 02:35:01: Check Point: oRow Lenght: 206
+2012-06-20 02:35:01: Check Point: oRecCount: 206
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI16Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA-EUROPE SPA LTD
+2012-06-20 02:35:01: Check Point: RecCount207
+2012-06-20 02:35:01: Check Point: oRow Lenght: 207
+2012-06-20 02:35:01: Check Point: oRecCount: 207
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI17Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA TECHNOLOGY & INSTRUMENT LTD
+2012-06-20 02:35:01: Check Point: RecCount208
+2012-06-20 02:35:01: Check Point: oRow Lenght: 208
+2012-06-20 02:35:01: Check Point: oRecCount: 208
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI18Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA DIVERS LIMITED
+2012-06-20 02:35:01: Check Point: RecCount209
+2012-06-20 02:35:01: Check Point: oRow Lenght: 209
+2012-06-20 02:35:01: Check Point: oRecCount: 209
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASI19Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASIA FORTUNE (H.K.) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount210
+2012-06-20 02:35:01: Check Point: oRow Lenght: 210
+2012-06-20 02:35:01: Check Point: oRecCount: 210
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASO01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASOP SINGAPORE PRIVATE LIMITED
+2012-06-20 02:35:01: Check Point: RecCount211
+2012-06-20 02:35:01: Check Point: oRow Lenght: 211
+2012-06-20 02:35:01: Check Point: oRecCount: 211
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASP01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASPHALT SURFACES (INTERNATIONAL) LTD
+2012-06-20 02:35:01: Check Point: RecCount212
+2012-06-20 02:35:01: Check Point: oRow Lenght: 212
+2012-06-20 02:35:01: Check Point: oRecCount: 212
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASP02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASPECT CONSULTING ASIA LTD
+2012-06-20 02:35:01: Check Point: RecCount213
+2012-06-20 02:35:01: Check Point: oRow Lenght: 213
+2012-06-20 02:35:01: Check Point: oRecCount: 213
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSOCIATED COATINGS LTD
+2012-06-20 02:35:01: Check Point: RecCount214
+2012-06-20 02:35:01: Check Point: oRow Lenght: 214
+2012-06-20 02:35:01: Check Point: oRecCount: 214
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSOCIATED ENGINEERS LTD
+2012-06-20 02:35:01: Check Point: RecCount215
+2012-06-20 02:35:01: Check Point: oRow Lenght: 215
+2012-06-20 02:35:01: Check Point: oRecCount: 215
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: THE HK ASSOCIATION OF PROPERTY MGT CO
+2012-06-20 02:35:01: Check Point: RecCount216
+2012-06-20 02:35:01: Check Point: oRow Lenght: 216
+2012-06-20 02:35:01: Check Point: oRecCount: 216
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS04Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSET APPRAISAL LTD
+2012-06-20 02:35:01: Check Point: RecCount217
+2012-06-20 02:35:01: Check Point: oRow Lenght: 217
+2012-06-20 02:35:01: Check Point: oRecCount: 217
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS05Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSO. F T R OF IND'L ACCIDENT VICTIMS L.
+2012-06-20 02:35:01: Check Point: RecCount218
+2012-06-20 02:35:01: Check Point: oRow Lenght: 218
+2012-06-20 02:35:01: Check Point: oRecCount: 218
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS06Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSA ABLOY HONG KONG LTD
+2012-06-20 02:35:01: Check Point: RecCount219
+2012-06-20 02:35:01: Check Point: oRow Lenght: 219
+2012-06-20 02:35:01: Check Point: oRecCount: 219
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS07Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSO. OF ENG. PROFESSIONALS IN SOCIETY L
+2012-06-20 02:35:01: Check Point: RecCount220
+2012-06-20 02:35:01: Check Point: oRow Lenght: 220
+2012-06-20 02:35:01: Check Point: oRecCount: 220
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS08Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSO BLDG MAT & CONT CO LTD
+2012-06-20 02:35:01: Check Point: RecCount221
+2012-06-20 02:35:01: Check Point: oRow Lenght: 221
+2012-06-20 02:35:01: Check Point: oRecCount: 221
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS09Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSA ABLOY HOSPITALITY LIMITED
+2012-06-20 02:35:01: Check Point: RecCount222
+2012-06-20 02:35:01: Check Point: oRow Lenght: 222
+2012-06-20 02:35:01: Check Point: oRecCount: 222
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS10Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSOCIACAO DE ENGENHARIA E CONST. DE MAC
+2012-06-20 02:35:01: Check Point: RecCount223
+2012-06-20 02:35:01: Check Point: oRow Lenght: 223
+2012-06-20 02:35:01: Check Point: oRecCount: 223
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS11Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSOCIATED PROFESSIONAL ENGINEERS LTD
+2012-06-20 02:35:01: Check Point: RecCount224
+2012-06-20 02:35:01: Check Point: oRow Lenght: 224
+2012-06-20 02:35:01: Check Point: oRecCount: 224
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASS12Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: THE ASS OF CONSULTING ENGINEERS OF HK
+2012-06-20 02:35:01: Check Point: RecCount225
+2012-06-20 02:35:01: Check Point: oRow Lenght: 225
+2012-06-20 02:35:01: Check Point: oRecCount: 225
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ASSA1ERAC
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASSOCIATE MARBLE MAINTENANCE AND SERVICE
+2012-06-20 02:35:01: Check Point: RecCount226
+2012-06-20 02:35:01: Check Point: oRow Lenght: 226
+2012-06-20 02:35:01: Check Point: oRecCount: 226
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AST01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AST EQUIPMENT (HK) CO LTD
+2012-06-20 02:35:01: Check Point: RecCount227
+2012-06-20 02:35:01: Check Point: oRow Lenght: 227
+2012-06-20 02:35:01: Check Point: oRecCount: 227
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AST02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ASTEL (MACAO) LTD
+2012-06-20 02:35:01: Check Point: RecCount228
+2012-06-20 02:35:01: Check Point: oRow Lenght: 228
+2012-06-20 02:35:01: Check Point: oRecCount: 228
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATA01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ATAL ENGINEERING LTD
+2012-06-20 02:35:01: Check Point: RecCount229
+2012-06-20 02:35:01: Check Point: oRow Lenght: 229
+2012-06-20 02:35:01: Check Point: oRecCount: 229
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATA02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ATAL BUILDING SERVICES ENGINEERING LTD
+2012-06-20 02:35:01: Check Point: RecCount230
+2012-06-20 02:35:01: Check Point: oRow Lenght: 230
+2012-06-20 02:35:01: Check Point: oRecCount: 230
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATE01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: A-TECH SUPPORTS COMPANY
+2012-06-20 02:35:01: Check Point: RecCount231
+2012-06-20 02:35:01: Check Point: oRow Lenght: 231
+2012-06-20 02:35:01: Check Point: oRecCount: 231
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATE02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: A TEMPERA
+2012-06-20 02:35:01: Check Point: RecCount232
+2012-06-20 02:35:01: Check Point: oRow Lenght: 232
+2012-06-20 02:35:01: Check Point: oRecCount: 232
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATE03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: A-TECH LF & ASSOCIATES LTD
+2012-06-20 02:35:01: Check Point: RecCount233
+2012-06-20 02:35:01: Check Point: oRow Lenght: 233
+2012-06-20 02:35:01: Check Point: oRecCount: 233
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATK01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ATKINS CHINA LTD
+2012-06-20 02:35:01: Check Point: RecCount234
+2012-06-20 02:35:01: Check Point: oRow Lenght: 234
+2012-06-20 02:35:01: Check Point: oRecCount: 234
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATL01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ATLAS COPCO CHINA/HK LTD
+2012-06-20 02:35:01: Check Point: RecCount235
+2012-06-20 02:35:01: Check Point: oRow Lenght: 235
+2012-06-20 02:35:01: Check Point: oRecCount: 235
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATL02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ATLANTA (HONG KONG) CO., LIMITED
+2012-06-20 02:35:01: Check Point: RecCount236
+2012-06-20 02:35:01: Check Point: oRow Lenght: 236
+2012-06-20 02:35:01: Check Point: oRecCount: 236
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATO01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ATOP AGENCIES (HK) LTD
+2012-06-20 02:35:01: Check Point: RecCount237
+2012-06-20 02:35:01: Check Point: oRow Lenght: 237
+2012-06-20 02:35:01: Check Point: oRecCount: 237
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: ATO02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: ATOMIC PRODUCTIONS CO LTD
+2012-06-20 02:35:01: Check Point: RecCount238
+2012-06-20 02:35:01: Check Point: oRow Lenght: 238
+2012-06-20 02:35:01: Check Point: oRecCount: 238
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUA01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AU & ASSOCIATES
+2012-06-20 02:35:01: Check Point: RecCount239
+2012-06-20 02:35:01: Check Point: oRow Lenght: 239
+2012-06-20 02:35:01: Check Point: oRecCount: 239
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUD01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AUDY COMPANY
+2012-06-20 02:35:01: Check Point: RecCount240
+2012-06-20 02:35:01: Check Point: oRow Lenght: 240
+2012-06-20 02:35:01: Check Point: oRecCount: 240
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUM01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: 區妙良
+2012-06-20 02:35:01: Check Point: RecCount241
+2012-06-20 02:35:01: Check Point: oRow Lenght: 241
+2012-06-20 02:35:01: Check Point: oRecCount: 241
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUP01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AU POSFORD CONSULTANTS LTD
+2012-06-20 02:35:01: Check Point: RecCount242
+2012-06-20 02:35:01: Check Point: oRow Lenght: 242
+2012-06-20 02:35:01: Check Point: oRecCount: 242
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUR01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AURECON HONG KONG LTD
+2012-06-20 02:35:01: Check Point: RecCount243
+2012-06-20 02:35:01: Check Point: oRow Lenght: 243
+2012-06-20 02:35:01: Check Point: oRecCount: 243
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUS01Z83C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AU SHU CHING
+2012-06-20 02:35:01: Check Point: RecCount244
+2012-06-20 02:35:01: Check Point: oRow Lenght: 244
+2012-06-20 02:35:01: Check Point: oRecCount: 244
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUS02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AUSTRALIAN INT'L SCHOOL FOUNDATION LTD
+2012-06-20 02:35:01: Check Point: RecCount245
+2012-06-20 02:35:01: Check Point: oRow Lenght: 245
+2012-06-20 02:35:01: Check Point: oRecCount: 245
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUT01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AUTOTOLL LIMITED
+2012-06-20 02:35:01: Check Point: RecCount246
+2012-06-20 02:35:01: Check Point: oRow Lenght: 246
+2012-06-20 02:35:01: Check Point: oRecCount: 246
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUT02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AUTUMN HARVEST PUBLISHING COMPANY
+2012-06-20 02:35:01: Check Point: RecCount247
+2012-06-20 02:35:01: Check Point: oRow Lenght: 247
+2012-06-20 02:35:01: Check Point: oRecCount: 247
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AUT03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AUTO INTEGRATED LTD
+2012-06-20 02:35:01: Check Point: RecCount248
+2012-06-20 02:35:01: Check Point: oRow Lenght: 248
+2012-06-20 02:35:01: Check Point: oRecCount: 248
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AVA01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AVANCE ENGINEERING (HK) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount249
+2012-06-20 02:35:01: Check Point: oRow Lenght: 249
+2012-06-20 02:35:01: Check Point: oRecCount: 249
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AVA02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AVANCE CONSTRUCTION (HK) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount250
+2012-06-20 02:35:01: Check Point: oRow Lenght: 250
+2012-06-20 02:35:01: Check Point: oRecCount: 250
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AVA03Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AVANCE CIVIL ENGINEERING LIMITED
+2012-06-20 02:35:01: Check Point: RecCount251
+2012-06-20 02:35:01: Check Point: oRow Lenght: 251
+2012-06-20 02:35:01: Check Point: oRecCount: 251
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AVI01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AVIATION SECURITY COMPANY LIMITED
+2012-06-20 02:35:01: Check Point: RecCount252
+2012-06-20 02:35:01: Check Point: oRow Lenght: 252
+2012-06-20 02:35:01: Check Point: oRecCount: 252
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AVI02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AVIC SAN XIN CO LTD
+2012-06-20 02:35:01: Check Point: RecCount253
+2012-06-20 02:35:01: Check Point: oRow Lenght: 253
+2012-06-20 02:35:01: Check Point: oRecCount: 253
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AWA01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: A WAY SUPPLIES CO.
+2012-06-20 02:35:01: Check Point: RecCount254
+2012-06-20 02:35:01: Check Point: oRow Lenght: 254
+2012-06-20 02:35:01: Check Point: oRecCount: 254
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AWN01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: HK AWNING COLLECT. CO O/B NATURE TEAM L.
+2012-06-20 02:35:01: Check Point: RecCount255
+2012-06-20 02:35:01: Check Point: oRow Lenght: 255
+2012-06-20 02:35:01: Check Point: oRecCount: 255
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AXA01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AXA GENERAL INSURANCE HONG KONG LIMITED
+2012-06-20 02:35:01: Check Point: RecCount256
+2012-06-20 02:35:01: Check Point: oRow Lenght: 256
+2012-06-20 02:35:01: Check Point: oRecCount: 256
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: AYR01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: AYRSHIRE INVESTMENT LTD
+2012-06-20 02:35:01: Check Point: RecCount257
+2012-06-20 02:35:01: Check Point: oRow Lenght: 257
+2012-06-20 02:35:01: Check Point: oRecCount: 257
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: B&C01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: B & C INDUSTRIES LTD
+2012-06-20 02:35:01: Check Point: RecCount258
+2012-06-20 02:35:01: Check Point: oRow Lenght: 258
+2012-06-20 02:35:01: Check Point: oRecCount: 258
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: B&E01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: B & E BLDG MATL'S CO LTD
+2012-06-20 02:35:01: Check Point: RecCount259
+2012-06-20 02:35:01: Check Point: oRow Lenght: 259
+2012-06-20 02:35:01: Check Point: oRecCount: 259
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: B&R01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: B & R ELECTRONIC SYSTEM (H.K.) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount260
+2012-06-20 02:35:01: Check Point: oRow Lenght: 260
+2012-06-20 02:35:01: Check Point: oRecCount: 260
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAB01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: JACOBS CHINA LIMITED
+2012-06-20 02:35:01: Check Point: RecCount261
+2012-06-20 02:35:01: Check Point: oRow Lenght: 261
+2012-06-20 02:35:01: Check Point: oRecCount: 261
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAB02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BABTIE ASIA LIMITED
+2012-06-20 02:35:01: Check Point: RecCount262
+2012-06-20 02:35:01: Check Point: oRow Lenght: 262
+2012-06-20 02:35:01: Check Point: oRecCount: 262
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAC01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BACK TO THE WALL
+2012-06-20 02:35:01: Check Point: RecCount263
+2012-06-20 02:35:01: Check Point: oRow Lenght: 263
+2012-06-20 02:35:01: Check Point: oRecCount: 263
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAG01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BAGUIO PEST MANAGEMENT LTD
+2012-06-20 02:35:01: Check Point: RecCount264
+2012-06-20 02:35:01: Check Point: oRow Lenght: 264
+2012-06-20 02:35:01: Check Point: oRecCount: 264
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAG02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BAGUIO CLEANING SERVICES CO LTD
+2012-06-20 02:35:01: Check Point: RecCount265
+2012-06-20 02:35:01: Check Point: oRow Lenght: 265
+2012-06-20 02:35:01: Check Point: oRecCount: 265
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAI01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BAIN D'OR CO LTD
+2012-06-20 02:35:01: Check Point: RecCount266
+2012-06-20 02:35:01: Check Point: oRow Lenght: 266
+2012-06-20 02:35:01: Check Point: oRecCount: 266
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAI02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: 白玲玲
+2012-06-20 02:35:01: Check Point: RecCount267
+2012-06-20 02:35:01: Check Point: oRow Lenght: 267
+2012-06-20 02:35:01: Check Point: oRecCount: 267
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAK01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BAKER & MCKENZIE
+2012-06-20 02:35:01: Check Point: RecCount268
+2012-06-20 02:35:01: Check Point: oRow Lenght: 268
+2012-06-20 02:35:01: Check Point: oRecCount: 268
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAL01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BALTRANS INTERNATIONAL MOVING LIMITED
+2012-06-20 02:35:01: Check Point: RecCount269
+2012-06-20 02:35:01: Check Point: oRow Lenght: 269
+2012-06-20 02:35:01: Check Point: oRecCount: 269
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAL02Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BALS HONG KONG LTD
+2012-06-20 02:35:01: Check Point: RecCount270
+2012-06-20 02:35:01: Check Point: oRow Lenght: 270
+2012-06-20 02:35:01: Check Point: oRecCount: 270
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN01Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BANK OF CHINA (HONG KONG) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount271
+2012-06-20 02:35:01: Check Point: oRow Lenght: 271
+2012-06-20 02:35:01: Check Point: oRecCount: 271
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN02Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: THE BANK OF EAST ASIA, LIMITED
+2012-06-20 02:35:01: Check Point: RecCount272
+2012-06-20 02:35:01: Check Point: oRow Lenght: 272
+2012-06-20 02:35:01: Check Point: oRecCount: 272
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN03Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BANK OF COMMUNICATIONS, HONG KONG BRANCH
+2012-06-20 02:35:01: Check Point: RecCount273
+2012-06-20 02:35:01: Check Point: oRow Lenght: 273
+2012-06-20 02:35:01: Check Point: oRecCount: 273
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN04Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BANK FOR FOREIGN TRADE OF VIETNAM
+2012-06-20 02:35:01: Check Point: RecCount274
+2012-06-20 02:35:01: Check Point: oRow Lenght: 274
+2012-06-20 02:35:01: Check Point: oRecCount: 274
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN05Z53C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BANK OF CHINA GROUP INSURANCE CO. LTD.
+2012-06-20 02:35:01: Check Point: RecCount275
+2012-06-20 02:35:01: Check Point: oRow Lenght: 275
+2012-06-20 02:35:01: Check Point: oRecCount: 275
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN06Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BANK OF COMMUNICATIONS (BEIJING BRANCH)
+2012-06-20 02:35:01: Check Point: RecCount276
+2012-06-20 02:35:01: Check Point: oRow Lenght: 276
+2012-06-20 02:35:01: Check Point: oRecCount: 276
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN07Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: THE BANK OF EAST ASIA (CHINA) LIMITED
+2012-06-20 02:35:01: Check Point: RecCount277
+2012-06-20 02:35:01: Check Point: oRow Lenght: 277
+2012-06-20 02:35:01: Check Point: oRecCount: 277
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN08Z51C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BANK OF CHINA MACAU BRANCH
+2012-06-20 02:35:01: Check Point: RecCount278
+2012-06-20 02:35:01: Check Point: oRow Lenght: 278
+2012-06-20 02:35:01: Check Point: oRecCount: 278
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAN09Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BANK CONSORTIUM TRUST COMPANY LIMITED
+2012-06-20 02:35:01: Check Point: RecCount279
+2012-06-20 02:35:01: Check Point: oRow Lenght: 279
+2012-06-20 02:35:01: Check Point: oRecCount: 279
+2012-06-20 02:35:01: Check Point: Line: 0
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:01: Check Point: Value: BAO01Z00C
+2012-06-20 02:35:01: Check Point: Line: 1
+2012-06-20 02:35:01: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:01: Check Point: Value: BAOJI OILFIELD MACHINERY CO LTD
+2012-06-20 02:35:02: Check Point: RecCount280
+2012-06-20 02:35:02: Check Point: oRow Lenght: 280
+2012-06-20 02:35:02: Check Point: oRecCount: 280
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAP01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BAP TECHNOLOGY CONSULTANTS LIMITED
+2012-06-20 02:35:02: Check Point: RecCount281
+2012-06-20 02:35:02: Check Point: oRow Lenght: 281
+2012-06-20 02:35:02: Check Point: oRecCount: 281
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAP02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BAP TECHNOLOGY (MACAU) LTD
+2012-06-20 02:35:02: Check Point: RecCount282
+2012-06-20 02:35:02: Check Point: oRow Lenght: 282
+2012-06-20 02:35:02: Check Point: oRecCount: 282
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAR01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BARWIN METAL CO LTD
+2012-06-20 02:35:02: Check Point: RecCount283
+2012-06-20 02:35:02: Check Point: oRow Lenght: 283
+2012-06-20 02:35:02: Check Point: oRecCount: 283
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAR02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BARNSBURRY EQUIPMENT (HK) LTD
+2012-06-20 02:35:02: Check Point: RecCount284
+2012-06-20 02:35:02: Check Point: oRow Lenght: 284
+2012-06-20 02:35:02: Check Point: oRecCount: 284
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAR03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BARBER GLASS INDUSTRIES INC
+2012-06-20 02:35:02: Check Point: RecCount285
+2012-06-20 02:35:02: Check Point: oRow Lenght: 285
+2012-06-20 02:35:02: Check Point: oRecCount: 285
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAR04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BARINCO (HONG KONG) LTD
+2012-06-20 02:35:02: Check Point: RecCount286
+2012-06-20 02:35:02: Check Point: oRow Lenght: 286
+2012-06-20 02:35:02: Check Point: oRecCount: 286
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAR05Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BARNSBURRY EQUIPMENT (MACAO) LIMITED
+2012-06-20 02:35:02: Check Point: RecCount287
+2012-06-20 02:35:02: Check Point: oRow Lenght: 287
+2012-06-20 02:35:02: Check Point: oRecCount: 287
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAR06Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BARO INTERNATIONAL LIMITED
+2012-06-20 02:35:02: Check Point: RecCount288
+2012-06-20 02:35:02: Check Point: oRow Lenght: 288
+2012-06-20 02:35:02: Check Point: oRecCount: 288
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAS01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BASE PRODUCTION
+2012-06-20 02:35:02: Check Point: RecCount289
+2012-06-20 02:35:02: Check Point: oRow Lenght: 289
+2012-06-20 02:35:02: Check Point: oRecCount: 289
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAS02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BASF CHINA LIMITED
+2012-06-20 02:35:02: Check Point: RecCount290
+2012-06-20 02:35:02: Check Point: oRow Lenght: 290
+2012-06-20 02:35:02: Check Point: oRecCount: 290
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAS03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BASF HONG KONG LIMITED
+2012-06-20 02:35:02: Check Point: RecCount291
+2012-06-20 02:35:02: Check Point: oRow Lenght: 291
+2012-06-20 02:35:02: Check Point: oRecCount: 291
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAT01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BATTERSBY KINGSFIELD LIMITED
+2012-06-20 02:35:02: Check Point: RecCount292
+2012-06-20 02:35:02: Check Point: oRow Lenght: 292
+2012-06-20 02:35:02: Check Point: oRecCount: 292
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAU01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BAUER EQUIPMENT HONG KONG LIMITED
+2012-06-20 02:35:02: Check Point: RecCount293
+2012-06-20 02:35:02: Check Point: oRow Lenght: 293
+2012-06-20 02:35:02: Check Point: oRecCount: 293
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAU02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BAUMATIC ASIA LTD
+2012-06-20 02:35:02: Check Point: RecCount294
+2012-06-20 02:35:02: Check Point: oRow Lenght: 294
+2012-06-20 02:35:02: Check Point: oRecCount: 294
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAX01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BAXVILLE LIMITED
+2012-06-20 02:35:02: Check Point: RecCount295
+2012-06-20 02:35:02: Check Point: oRow Lenght: 295
+2012-06-20 02:35:02: Check Point: oRecCount: 295
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BAY01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BAYSHORE DEVELOPMENT GROUP LTD
+2012-06-20 02:35:02: Check Point: RecCount296
+2012-06-20 02:35:02: Check Point: oRow Lenght: 296
+2012-06-20 02:35:02: Check Point: oRecCount: 296
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BBC01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BBC CABLE ENGINEERING CO LTD
+2012-06-20 02:35:02: Check Point: RecCount297
+2012-06-20 02:35:02: Check Point: oRow Lenght: 297
+2012-06-20 02:35:02: Check Point: oRecCount: 297
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BCS01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BC & S DESIGN (FAR EAST) LIMITED
+2012-06-20 02:35:02: Check Point: RecCount298
+2012-06-20 02:35:02: Check Point: oRow Lenght: 298
+2012-06-20 02:35:02: Check Point: oRecCount: 298
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEA01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEA (MPF) INDUSTRY SCHEME
+2012-06-20 02:35:02: Check Point: RecCount299
+2012-06-20 02:35:02: Check Point: oRow Lenght: 299
+2012-06-20 02:35:02: Check Point: oRecCount: 299
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEA02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEAM SOCIETY LIMITED
+2012-06-20 02:35:02: Check Point: RecCount300
+2012-06-20 02:35:02: Check Point: oRow Lenght: 300
+2012-06-20 02:35:02: Check Point: oRecCount: 300
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEA03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEAUHORSE PROFESSIONAL TRANSLATION LTD
+2012-06-20 02:35:02: Check Point: RecCount301
+2012-06-20 02:35:02: Check Point: oRow Lenght: 301
+2012-06-20 02:35:02: Check Point: oRecCount: 301
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEC01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEC HOLDINGS LIMITED
+2012-06-20 02:35:02: Check Point: RecCount302
+2012-06-20 02:35:02: Check Point: oRow Lenght: 302
+2012-06-20 02:35:02: Check Point: oRecCount: 302
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEG01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEGIN LAND LTD
+2012-06-20 02:35:02: Check Point: RecCount303
+2012-06-20 02:35:02: Check Point: oRow Lenght: 303
+2012-06-20 02:35:02: Check Point: oRecCount: 303
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEI01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEIJING GLOBAL LAW OFFICE
+2012-06-20 02:35:02: Check Point: RecCount304
+2012-06-20 02:35:02: Check Point: oRow Lenght: 304
+2012-06-20 02:35:02: Check Point: oRecCount: 304
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEI02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEIJING RAINMAKER LAW FIRM CHINA
+2012-06-20 02:35:02: Check Point: RecCount305
+2012-06-20 02:35:02: Check Point: oRow Lenght: 305
+2012-06-20 02:35:02: Check Point: oRecCount: 305
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEN01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BENAIM (CHINA) LTD
+2012-06-20 02:35:02: Check Point: RecCount306
+2012-06-20 02:35:02: Check Point: oRow Lenght: 306
+2012-06-20 02:35:02: Check Point: oRecCount: 306
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEN02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BENTLEY SYSTEMS HK LTD
+2012-06-20 02:35:02: Check Point: RecCount307
+2012-06-20 02:35:02: Check Point: oRow Lenght: 307
+2012-06-20 02:35:02: Check Point: oRecCount: 307
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BEN03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BENA GLOBAL LIMITED
+2012-06-20 02:35:02: Check Point: RecCount308
+2012-06-20 02:35:02: Check Point: oRow Lenght: 308
+2012-06-20 02:35:02: Check Point: oRecCount: 308
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BER01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BERMOND PRODUCTION LTD
+2012-06-20 02:35:02: Check Point: RecCount309
+2012-06-20 02:35:02: Check Point: oRow Lenght: 309
+2012-06-20 02:35:02: Check Point: oRecCount: 309
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BER02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BERNARD BAXMANN (ASIA) LTD
+2012-06-20 02:35:02: Check Point: RecCount310
+2012-06-20 02:35:02: Check Point: oRow Lenght: 310
+2012-06-20 02:35:02: Check Point: oRecCount: 310
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BER03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BERIA CONSULTANTS LTD
+2012-06-20 02:35:02: Check Point: RecCount311
+2012-06-20 02:35:02: Check Point: oRow Lenght: 311
+2012-06-20 02:35:02: Check Point: oRecCount: 311
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BER04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BERKIN LIGHTING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount312
+2012-06-20 02:35:02: Check Point: oRow Lenght: 312
+2012-06-20 02:35:02: Check Point: oRecCount: 312
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BER05Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BERMINGTON  INVESTMENT LTD
+2012-06-20 02:35:02: Check Point: RecCount313
+2012-06-20 02:35:02: Check Point: oRow Lenght: 313
+2012-06-20 02:35:02: Check Point: oRecCount: 313
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BER06Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BERMOND ARCHERY TUITION LIMITED
+2012-06-20 02:35:02: Check Point: RecCount314
+2012-06-20 02:35:02: Check Point: oRow Lenght: 314
+2012-06-20 02:35:02: Check Point: oRecCount: 314
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BEST WORLD CONSTRUCTION
+2012-06-20 02:35:02: Check Point: RecCount315
+2012-06-20 02:35:02: Check Point: oRow Lenght: 315
+2012-06-20 02:35:02: Check Point: oRecCount: 315
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BESO ENGINEERING CO., LTD
+2012-06-20 02:35:02: Check Point: RecCount316
+2012-06-20 02:35:02: Check Point: oRow Lenght: 316
+2012-06-20 02:35:02: Check Point: oRecCount: 316
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BESTFIT ENGINEERING COMPANY
+2012-06-20 02:35:02: Check Point: RecCount317
+2012-06-20 02:35:02: Check Point: oRow Lenght: 317
+2012-06-20 02:35:02: Check Point: oRecCount: 317
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BESTWIN ENGINEERING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount318
+2012-06-20 02:35:02: Check Point: oRow Lenght: 318
+2012-06-20 02:35:02: Check Point: oRecCount: 318
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES05Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BESTFIT TECHNOLOGY & ENG (HK) LTD
+2012-06-20 02:35:02: Check Point: RecCount319
+2012-06-20 02:35:02: Check Point: oRow Lenght: 319
+2012-06-20 02:35:02: Check Point: oRecCount: 319
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES06Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BESTMATE BUILDING MATERIALS CO. LTD
+2012-06-20 02:35:02: Check Point: RecCount320
+2012-06-20 02:35:02: Check Point: oRow Lenght: 320
+2012-06-20 02:35:02: Check Point: oRecCount: 320
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES07Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BESTJOIN LIMITED
+2012-06-20 02:35:02: Check Point: RecCount321
+2012-06-20 02:35:02: Check Point: oRow Lenght: 321
+2012-06-20 02:35:02: Check Point: oRecCount: 321
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BES08Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BESTLINK TECHNICAL ADVANCE CO., LIMITED
+2012-06-20 02:35:02: Check Point: RecCount322
+2012-06-20 02:35:02: Check Point: oRow Lenght: 322
+2012-06-20 02:35:02: Check Point: oRecCount: 322
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BET01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BETHAMESH HONG KONG
+2012-06-20 02:35:02: Check Point: RecCount323
+2012-06-20 02:35:02: Check Point: oRow Lenght: 323
+2012-06-20 02:35:02: Check Point: oRecCount: 323
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BET02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BETA ENGINEERS, CO.
+2012-06-20 02:35:02: Check Point: RecCount324
+2012-06-20 02:35:02: Check Point: oRow Lenght: 324
+2012-06-20 02:35:02: Check Point: oRecCount: 324
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BET03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BETRUE LIMITED
+2012-06-20 02:35:02: Check Point: RecCount325
+2012-06-20 02:35:02: Check Point: oRow Lenght: 325
+2012-06-20 02:35:02: Check Point: oRecCount: 325
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BET04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BETHAMESH DAHE WELD MESH LIMITED
+2012-06-20 02:35:02: Check Point: RecCount326
+2012-06-20 02:35:02: Check Point: oRow Lenght: 326
+2012-06-20 02:35:02: Check Point: oRecCount: 326
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIG01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIGBOXX.COM LIMITED
+2012-06-20 02:35:02: Check Point: RecCount327
+2012-06-20 02:35:02: Check Point: oRow Lenght: 327
+2012-06-20 02:35:02: Check Point: oRecCount: 327
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIG02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIG ERA INVESTMENTS LIMITED
+2012-06-20 02:35:02: Check Point: RecCount328
+2012-06-20 02:35:02: Check Point: oRow Lenght: 328
+2012-06-20 02:35:02: Check Point: oRecCount: 328
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIK01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIK HOI CIVIL ENGINEERING CO LTD
+2012-06-20 02:35:02: Check Point: RecCount329
+2012-06-20 02:35:02: Check Point: oRow Lenght: 329
+2012-06-20 02:35:02: Check Point: oRecCount: 329
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIL01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BILFINGER + BERGER
+2012-06-20 02:35:02: Check Point: RecCount330
+2012-06-20 02:35:02: Check Point: oRow Lenght: 330
+2012-06-20 02:35:02: Check Point: oRecCount: 330
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIM01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIM BLDG MAT'L & CONTRACTG
+2012-06-20 02:35:02: Check Point: RecCount331
+2012-06-20 02:35:02: Check Point: oRow Lenght: 331
+2012-06-20 02:35:02: Check Point: oRecCount: 331
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIN01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BING CHOY & ASSOCIATES (ENGINEER)
+2012-06-20 02:35:02: Check Point: RecCount332
+2012-06-20 02:35:02: Check Point: oRow Lenght: 332
+2012-06-20 02:35:02: Check Point: oRecCount: 332
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIR01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIRO INVESTMENT LTD
+2012-06-20 02:35:02: Check Point: RecCount333
+2012-06-20 02:35:02: Check Point: oRow Lenght: 333
+2012-06-20 02:35:02: Check Point: oRecCount: 333
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIS01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIS HUA WEI P & S STRUCTURE ENG CO LTD
+2012-06-20 02:35:02: Check Point: RecCount334
+2012-06-20 02:35:02: Check Point: oRow Lenght: 334
+2012-06-20 02:35:02: Check Point: oRecCount: 334
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIS02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BISAGNI ALESSANDRO
+2012-06-20 02:35:02: Check Point: RecCount335
+2012-06-20 02:35:02: Check Point: oRow Lenght: 335
+2012-06-20 02:35:02: Check Point: oRecCount: 335
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIU01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIU SUN LTD
+2012-06-20 02:35:02: Check Point: RecCount336
+2012-06-20 02:35:02: Check Point: oRow Lenght: 336
+2012-06-20 02:35:02: Check Point: oRecCount: 336
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BIW01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BIWATER MAN LEE LIMITED
+2012-06-20 02:35:02: Check Point: RecCount337
+2012-06-20 02:35:02: Check Point: oRow Lenght: 337
+2012-06-20 02:35:02: Check Point: oRecCount: 337
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BKB01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BK BURNS LIMITED
+2012-06-20 02:35:02: Check Point: RecCount338
+2012-06-20 02:35:02: Check Point: oRow Lenght: 338
+2012-06-20 02:35:02: Check Point: oRecCount: 338
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BLA01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BLACK & VEATCH HONG KONG LTD
+2012-06-20 02:35:02: Check Point: RecCount339
+2012-06-20 02:35:02: Check Point: oRow Lenght: 339
+2012-06-20 02:35:02: Check Point: oRecCount: 339
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BLE01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BLENITE MARBLE CONSULTANTS LTD
+2012-06-20 02:35:02: Check Point: RecCount340
+2012-06-20 02:35:02: Check Point: oRow Lenght: 340
+2012-06-20 02:35:02: Check Point: oRecCount: 340
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BLI01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BLINDSPOT GALLERY (HK) LTD
+2012-06-20 02:35:02: Check Point: RecCount341
+2012-06-20 02:35:02: Check Point: oRow Lenght: 341
+2012-06-20 02:35:02: Check Point: oRecCount: 341
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BLO01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BLOOMSBURY BOOKS LTD
+2012-06-20 02:35:02: Check Point: RecCount342
+2012-06-20 02:35:02: Check Point: oRow Lenght: 342
+2012-06-20 02:35:02: Check Point: oRecCount: 342
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BLU01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BLUET HYDROSEEDING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount343
+2012-06-20 02:35:02: Check Point: oRow Lenght: 343
+2012-06-20 02:35:02: Check Point: oRecCount: 343
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BLU02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BLUE CROSS (ASIA-PACIFIC) INSURANCE LTD
+2012-06-20 02:35:02: Check Point: RecCount344
+2012-06-20 02:35:02: Check Point: oRow Lenght: 344
+2012-06-20 02:35:02: Check Point: oRecCount: 344
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BMA01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: B. MAK & CO.
+2012-06-20 02:35:02: Check Point: RecCount345
+2012-06-20 02:35:02: Check Point: oRow Lenght: 345
+2012-06-20 02:35:02: Check Point: oRecCount: 345
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BMC01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BMC BUILDING MATERIALS & CONSULTANTS LTD
+2012-06-20 02:35:02: Check Point: RecCount346
+2012-06-20 02:35:02: Check Point: oRow Lenght: 346
+2012-06-20 02:35:02: Check Point: oRecCount: 346
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BMI01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BMI MARBLE-CARE ENGINEERING LTD
+2012-06-20 02:35:02: Check Point: RecCount347
+2012-06-20 02:35:02: Check Point: oRow Lenght: 347
+2012-06-20 02:35:02: Check Point: oRecCount: 347
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BMS01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BMS BUILDING MATERIALS & SERVICES LTD
+2012-06-20 02:35:02: Check Point: RecCount348
+2012-06-20 02:35:02: Check Point: oRow Lenght: 348
+2012-06-20 02:35:02: Check Point: oRecCount: 348
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BMT01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BMT ASIA PACIFIC LTD
+2012-06-20 02:35:02: Check Point: RecCount349
+2012-06-20 02:35:02: Check Point: oRow Lenght: 349
+2012-06-20 02:35:02: Check Point: oRecCount: 349
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BMW01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BMW CONCESSIONAIRES (HK) LIMITED
+2012-06-20 02:35:02: Check Point: RecCount350
+2012-06-20 02:35:02: Check Point: oRow Lenght: 350
+2012-06-20 02:35:02: Check Point: oRecCount: 350
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BNP01Z51C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BNP PARIBAS HONG KONG BRANCH
+2012-06-20 02:35:02: Check Point: RecCount351
+2012-06-20 02:35:02: Check Point: oRow Lenght: 351
+2012-06-20 02:35:02: Check Point: oRecCount: 351
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BNP02Z51C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BNP PARIBAS MACAU BRANCH
+2012-06-20 02:35:02: Check Point: RecCount352
+2012-06-20 02:35:02: Check Point: oRow Lenght: 352
+2012-06-20 02:35:02: Check Point: oRecCount: 352
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BNP03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BNP PRIME PEREGRINE SERVICES LTD
+2012-06-20 02:35:02: Check Point: RecCount353
+2012-06-20 02:35:02: Check Point: oRow Lenght: 353
+2012-06-20 02:35:02: Check Point: oRecCount: 353
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOC01Z51C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOC CREDIT CARD (INTERNATIONAL) LTD
+2012-06-20 02:35:02: Check Point: RecCount354
+2012-06-20 02:35:02: Check Point: oRow Lenght: 354
+2012-06-20 02:35:02: Check Point: oRecCount: 354
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOC02Z51C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOCI-PRUDENTIAL TRUSTEE LIMITED
+2012-06-20 02:35:02: Check Point: RecCount355
+2012-06-20 02:35:02: Check Point: oRow Lenght: 355
+2012-06-20 02:35:02: Check Point: oRecCount: 355
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOC03Z51C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOCI SECURITIES LIMITED
+2012-06-20 02:35:02: Check Point: RecCount356
+2012-06-20 02:35:02: Check Point: oRow Lenght: 356
+2012-06-20 02:35:02: Check Point: oRecCount: 356
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOM01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOMAN ENGINEERING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount357
+2012-06-20 02:35:02: Check Point: oRow Lenght: 357
+2012-06-20 02:35:02: Check Point: oRecCount: 357
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOND CADD SRV ENG CO LTD
+2012-06-20 02:35:02: Check Point: RecCount358
+2012-06-20 02:35:02: Check Point: oRow Lenght: 358
+2012-06-20 02:35:02: Check Point: oRecCount: 358
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BONNTILE INDUSTRIES (HK)
+2012-06-20 02:35:02: Check Point: RecCount359
+2012-06-20 02:35:02: Check Point: oRow Lenght: 359
+2012-06-20 02:35:02: Check Point: oRecCount: 359
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BONDA ENGINEERING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount360
+2012-06-20 02:35:02: Check Point: oRow Lenght: 360
+2012-06-20 02:35:02: Check Point: oRecCount: 360
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BONDER LIMITED
+2012-06-20 02:35:02: Check Point: RecCount361
+2012-06-20 02:35:02: Check Point: oRow Lenght: 361
+2012-06-20 02:35:02: Check Point: oRecCount: 361
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON05Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BONDTEC CHEMICALS (FAR EAST) LTD
+2012-06-20 02:35:02: Check Point: RecCount362
+2012-06-20 02:35:02: Check Point: oRow Lenght: 362
+2012-06-20 02:35:02: Check Point: oRecCount: 362
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON06Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BONDING ENGINEERING & CONST CO LTD
+2012-06-20 02:35:02: Check Point: RecCount363
+2012-06-20 02:35:02: Check Point: oRow Lenght: 363
+2012-06-20 02:35:02: Check Point: oRecCount: 363
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON07Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BONDING ENG CO LTD
+2012-06-20 02:35:02: Check Point: RecCount364
+2012-06-20 02:35:02: Check Point: oRow Lenght: 364
+2012-06-20 02:35:02: Check Point: oRecCount: 364
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BON08Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BON PACIFIC BLDG MATERIALS (HK) CO LTD
+2012-06-20 02:35:02: Check Point: RecCount365
+2012-06-20 02:35:02: Check Point: oRow Lenght: 365
+2012-06-20 02:35:02: Check Point: oRecCount: 365
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOR01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BORTON INTERNATIONAL LTD
+2012-06-20 02:35:02: Check Point: RecCount366
+2012-06-20 02:35:02: Check Point: oRow Lenght: 366
+2012-06-20 02:35:02: Check Point: oRecCount: 366
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOR02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOREGIS LTD
+2012-06-20 02:35:02: Check Point: RecCount367
+2012-06-20 02:35:02: Check Point: oRow Lenght: 367
+2012-06-20 02:35:02: Check Point: oRecCount: 367
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOS01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOSTWICK BO-SHAN SHUTTER CO.
+2012-06-20 02:35:02: Check Point: RecCount368
+2012-06-20 02:35:02: Check Point: oRow Lenght: 368
+2012-06-20 02:35:02: Check Point: oRecCount: 368
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOS02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOSTIK HOLDING HONG KONG LTD
+2012-06-20 02:35:02: Check Point: RecCount369
+2012-06-20 02:35:02: Check Point: oRow Lenght: 369
+2012-06-20 02:35:02: Check Point: oRecCount: 369
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOS03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOSON ENGINEERING CO LTD
+2012-06-20 02:35:02: Check Point: RecCount370
+2012-06-20 02:35:02: Check Point: oRow Lenght: 370
+2012-06-20 02:35:02: Check Point: oRecCount: 370
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOS04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOSTWICK BO-SHAN SHUTTER COMPANY LIMITED
+2012-06-20 02:35:02: Check Point: RecCount371
+2012-06-20 02:35:02: Check Point: oRow Lenght: 371
+2012-06-20 02:35:02: Check Point: oRecCount: 371
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOW01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOWIN INTERNATIONAL TRADING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount372
+2012-06-20 02:35:02: Check Point: oRow Lenght: 372
+2012-06-20 02:35:02: Check Point: oRecCount: 372
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BOY01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BOYDEN MANAGEMENT CONSULTING ASIA LTD
+2012-06-20 02:35:02: Check Point: RecCount373
+2012-06-20 02:35:02: Check Point: oRow Lenght: 373
+2012-06-20 02:35:02: Check Point: oRecCount: 373
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRA01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRANHIL LIMITED
+2012-06-20 02:35:02: Check Point: RecCount374
+2012-06-20 02:35:02: Check Point: oRow Lenght: 374
+2012-06-20 02:35:02: Check Point: oRecCount: 374
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRE01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BREWIS ENGINEERING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount375
+2012-06-20 02:35:02: Check Point: oRow Lenght: 375
+2012-06-20 02:35:02: Check Point: oRecCount: 375
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRILLIANT(MAN SAU)ENG LTD
+2012-06-20 02:35:02: Check Point: RecCount376
+2012-06-20 02:35:02: Check Point: oRow Lenght: 376
+2012-06-20 02:35:02: Check Point: oRecCount: 376
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRILLIANT BUILDING MATERIALS LTD
+2012-06-20 02:35:02: Check Point: RecCount377
+2012-06-20 02:35:02: Check Point: oRow Lenght: 377
+2012-06-20 02:35:02: Check Point: oRecCount: 377
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRICKS & MORTAR LTD
+2012-06-20 02:35:02: Check Point: RecCount378
+2012-06-20 02:35:02: Check Point: oRow Lenght: 378
+2012-06-20 02:35:02: Check Point: oRecCount: 378
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRIGHT GARDEN
+2012-06-20 02:35:02: Check Point: RecCount379
+2012-06-20 02:35:02: Check Point: oRow Lenght: 379
+2012-06-20 02:35:02: Check Point: oRecCount: 379
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI05Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRIAN E RAWLING & ASSOCIATES LIMITED
+2012-06-20 02:35:02: Check Point: RecCount380
+2012-06-20 02:35:02: Check Point: oRow Lenght: 380
+2012-06-20 02:35:02: Check Point: oRecCount: 380
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI06Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRILLANTE LTD
+2012-06-20 02:35:02: Check Point: RecCount381
+2012-06-20 02:35:02: Check Point: oRow Lenght: 381
+2012-06-20 02:35:02: Check Point: oRecCount: 381
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI07Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRIGHTEN FLORICULTURE LTD
+2012-06-20 02:35:02: Check Point: RecCount382
+2012-06-20 02:35:02: Check Point: oRow Lenght: 382
+2012-06-20 02:35:02: Check Point: oRecCount: 382
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI08Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRISBANE TRADING CO LTD
+2012-06-20 02:35:02: Check Point: RecCount383
+2012-06-20 02:35:02: Check Point: oRow Lenght: 383
+2012-06-20 02:35:02: Check Point: oRecCount: 383
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI10Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRISKY LIMITED
+2012-06-20 02:35:02: Check Point: RecCount384
+2012-06-20 02:35:02: Check Point: oRow Lenght: 384
+2012-06-20 02:35:02: Check Point: oRecCount: 384
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI11Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRILLIANT PEARL LTD
+2012-06-20 02:35:02: Check Point: RecCount385
+2012-06-20 02:35:02: Check Point: oRow Lenght: 385
+2012-06-20 02:35:02: Check Point: oRecCount: 385
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI12Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRILLIANT HOPE ENGINEERING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount386
+2012-06-20 02:35:02: Check Point: oRow Lenght: 386
+2012-06-20 02:35:02: Check Point: oRecCount: 386
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI13Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRIGHT CENTURY LIMITED
+2012-06-20 02:35:02: Check Point: RecCount387
+2012-06-20 02:35:02: Check Point: oRow Lenght: 387
+2012-06-20 02:35:02: Check Point: oRecCount: 387
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI14Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRILLIANCE GEOTECHNICAL SERVICES
+2012-06-20 02:35:02: Check Point: RecCount388
+2012-06-20 02:35:02: Check Point: oRow Lenght: 388
+2012-06-20 02:35:02: Check Point: oRecCount: 388
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRI15Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BRIGHTWELL AIR-CONDITIONING EQUIP LTD
+2012-06-20 02:35:02: Check Point: RecCount389
+2012-06-20 02:35:02: Check Point: oRow Lenght: 389
+2012-06-20 02:35:02: Check Point: oRecCount: 389
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRO01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: HONG KONG BROADBAND NETWORK LTD (HKBN)
+2012-06-20 02:35:02: Check Point: RecCount390
+2012-06-20 02:35:02: Check Point: oRow Lenght: 390
+2012-06-20 02:35:02: Check Point: oRecCount: 390
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BRO02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BROAD WAY PIPE & FITTING LTD
+2012-06-20 02:35:02: Check Point: RecCount391
+2012-06-20 02:35:02: Check Point: oRow Lenght: 391
+2012-06-20 02:35:02: Check Point: oRecCount: 391
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSC01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BSC INTERIOR CONTRACT & ENG CO LTD
+2012-06-20 02:35:02: Check Point: RecCount392
+2012-06-20 02:35:02: Check Point: oRow Lenght: 392
+2012-06-20 02:35:02: Check Point: oRecCount: 392
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSC02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BSC SHINWA KOGYO CO LTD
+2012-06-20 02:35:02: Check Point: RecCount393
+2012-06-20 02:35:02: Check Point: oRow Lenght: 393
+2012-06-20 02:35:02: Check Point: oRecCount: 393
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSC03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BSC SANITARYWARES SUPPLY LTD
+2012-06-20 02:35:02: Check Point: RecCount394
+2012-06-20 02:35:02: Check Point: oRow Lenght: 394
+2012-06-20 02:35:02: Check Point: oRecCount: 394
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSC04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: B.S.C. DISTRIBUTION HONG KONG LIMITED
+2012-06-20 02:35:02: Check Point: RecCount395
+2012-06-20 02:35:02: Check Point: oRow Lenght: 395
+2012-06-20 02:35:02: Check Point: oRecCount: 395
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSC05Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: B.S.C. CERAMIC TILES SUPPLY LIMITED
+2012-06-20 02:35:02: Check Point: RecCount396
+2012-06-20 02:35:02: Check Point: oRow Lenght: 396
+2012-06-20 02:35:02: Check Point: oRecCount: 396
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSC06Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: B.S.C. HOME IMPROVEMENT CENTRES LIMITED
+2012-06-20 02:35:02: Check Point: RecCount397
+2012-06-20 02:35:02: Check Point: oRow Lenght: 397
+2012-06-20 02:35:02: Check Point: oRecCount: 397
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSE01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BS ENGINEERING & CONSULTANCY CO LTD
+2012-06-20 02:35:02: Check Point: RecCount398
+2012-06-20 02:35:02: Check Point: oRow Lenght: 398
+2012-06-20 02:35:02: Check Point: oRecCount: 398
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSH01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BSH HOME APPLIANCES LIMITED
+2012-06-20 02:35:02: Check Point: RecCount399
+2012-06-20 02:35:02: Check Point: oRow Lenght: 399
+2012-06-20 02:35:02: Check Point: oRecCount: 399
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSI01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BSI PACIFIC LTD
+2012-06-20 02:35:02: Check Point: RecCount400
+2012-06-20 02:35:02: Check Point: oRow Lenght: 400
+2012-06-20 02:35:02: Check Point: oRecCount: 400
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BSL01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: B. S. LIGHTING COMPANY LIMITED
+2012-06-20 02:35:02: Check Point: RecCount401
+2012-06-20 02:35:02: Check Point: oRow Lenght: 401
+2012-06-20 02:35:02: Check Point: oRecCount: 401
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUD01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUDA SURVEYING LIMITED
+2012-06-20 02:35:02: Check Point: RecCount402
+2012-06-20 02:35:02: Check Point: oRow Lenght: 402
+2012-06-20 02:35:02: Check Point: oRecCount: 402
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI01Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: THE BUILDER & SO CO LTD
+2012-06-20 02:35:02: Check Point: RecCount403
+2012-06-20 02:35:02: Check Point: oRow Lenght: 403
+2012-06-20 02:35:02: Check Point: oRecCount: 403
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI02Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILDING DIAGNOSTIC CONSULTANTS LTD
+2012-06-20 02:35:02: Check Point: RecCount404
+2012-06-20 02:35:02: Check Point: oRow Lenght: 404
+2012-06-20 02:35:02: Check Point: oRecCount: 404
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI03Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILDTECH LTD
+2012-06-20 02:35:02: Check Point: RecCount405
+2012-06-20 02:35:02: Check Point: oRow Lenght: 405
+2012-06-20 02:35:02: Check Point: oRecCount: 405
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI04Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILDFOLIO TECHNOLOGIES PTE LTD
+2012-06-20 02:35:02: Check Point: RecCount406
+2012-06-20 02:35:02: Check Point: oRow Lenght: 406
+2012-06-20 02:35:02: Check Point: oRecCount: 406
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI05Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILDMATES BUILDING TECHNOLOGY LTD
+2012-06-20 02:35:02: Check Point: RecCount407
+2012-06-20 02:35:02: Check Point: oRow Lenght: 407
+2012-06-20 02:35:02: Check Point: oRecCount: 407
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI06Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILD & TEST INSTRUMENT (CHINA) LTD.
+2012-06-20 02:35:02: Check Point: RecCount408
+2012-06-20 02:35:02: Check Point: oRow Lenght: 408
+2012-06-20 02:35:02: Check Point: oRecCount: 408
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI07Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILDMATES (H.K.) LIMITED
+2012-06-20 02:35:02: Check Point: RecCount409
+2012-06-20 02:35:02: Check Point: oRow Lenght: 409
+2012-06-20 02:35:02: Check Point: oRecCount: 409
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI08Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILD FAME SERVICES LTD
+2012-06-20 02:35:02: Check Point: RecCount410
+2012-06-20 02:35:02: Check Point: oRow Lenght: 410
+2012-06-20 02:35:02: Check Point: oRecCount: 410
+2012-06-20 02:35:02: Check Point: Line: 0
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:02: Check Point: Value: BUI09Z00C
+2012-06-20 02:35:02: Check Point: Line: 1
+2012-06-20 02:35:02: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:02: Check Point: Value: BUILDTRADE CONSTRUCTION SERVICES LTD
+2012-06-20 02:35:02: Check Point: RecCount411
+2012-06-20 02:35:02: Check Point: oRow Lenght: 411
+2012-06-20 02:35:02: Check Point: oRecCount: 411
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI10Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUILDTECH ENTERPRISE LIMITED
+2012-06-20 02:35:03: Check Point: RecCount412
+2012-06-20 02:35:03: Check Point: oRow Lenght: 412
+2012-06-20 02:35:03: Check Point: oRecCount: 412
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI11EE1C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDERS GROUP LIMITED
+2012-06-20 02:35:03: Check Point: RecCount413
+2012-06-20 02:35:03: Check Point: oRow Lenght: 413
+2012-06-20 02:35:03: Check Point: oRecCount: 413
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI12Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUILD STAR CONSTRUCTION MATERIALS LTD
+2012-06-20 02:35:03: Check Point: RecCount414
+2012-06-20 02:35:03: Check Point: oRow Lenght: 414
+2012-06-20 02:35:03: Check Point: oRecCount: 414
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI13Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUILD FAME (MACAU) ENGINEERING LTD
+2012-06-20 02:35:03: Check Point: RecCount415
+2012-06-20 02:35:03: Check Point: oRow Lenght: 415
+2012-06-20 02:35:03: Check Point: oRecCount: 415
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI14Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUILDERS FEDERAL (HK) LTD
+2012-06-20 02:35:03: Check Point: RecCount416
+2012-06-20 02:35:03: Check Point: oRow Lenght: 416
+2012-06-20 02:35:03: Check Point: oRecCount: 416
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI15Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUILDMAX LIMITED
+2012-06-20 02:35:03: Check Point: RecCount417
+2012-06-20 02:35:03: Check Point: oRow Lenght: 417
+2012-06-20 02:35:03: Check Point: oRecCount: 417
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI16Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUILDING AND CONSTRUCTION AUTHORITY
+2012-06-20 02:35:03: Check Point: RecCount418
+2012-06-20 02:35:03: Check Point: oRow Lenght: 418
+2012-06-20 02:35:03: Check Point: oRecCount: 418
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI21EP2C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDING MGT LTD (HEAD OFFICE)
+2012-06-20 02:35:03: Check Point: RecCount419
+2012-06-20 02:35:03: Check Point: oRow Lenght: 419
+2012-06-20 02:35:03: Check Point: oRecCount: 419
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI2AEP2C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDING MGT LTD (CATHAY LODGE)
+2012-06-20 02:35:03: Check Point: RecCount420
+2012-06-20 02:35:03: Check Point: oRow Lenght: 420
+2012-06-20 02:35:03: Check Point: oRecCount: 420
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI2CEP2C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDING MGT LTD (CATHAY 88)
+2012-06-20 02:35:03: Check Point: RecCount421
+2012-06-20 02:35:03: Check Point: oRow Lenght: 421
+2012-06-20 02:35:03: Check Point: oRecCount: 421
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI51EE5C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDERS LIMITED
+2012-06-20 02:35:03: Check Point: RecCount422
+2012-06-20 02:35:03: Check Point: oRow Lenght: 422
+2012-06-20 02:35:03: Check Point: oRecCount: 422
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI52EE5C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDERS LIMITED (2)
+2012-06-20 02:35:03: Check Point: RecCount423
+2012-06-20 02:35:03: Check Point: oRow Lenght: 423
+2012-06-20 02:35:03: Check Point: oRecCount: 423
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI53EE5C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDERS LIMITED (3)
+2012-06-20 02:35:03: Check Point: RecCount424
+2012-06-20 02:35:03: Check Point: oRow Lenght: 424
+2012-06-20 02:35:03: Check Point: oRecCount: 424
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI61EH6C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDING CONTRACTORS LIMITED
+2012-06-20 02:35:03: Check Point: RecCount425
+2012-06-20 02:35:03: Check Point: oRow Lenght: 425
+2012-06-20 02:35:03: Check Point: oRecCount: 425
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUI81EC8C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: PAUL Y. BUILDING MATERIALS COMPANY LTD
+2012-06-20 02:35:03: Check Point: RecCount426
+2012-06-20 02:35:03: Check Point: oRow Lenght: 426
+2012-06-20 02:35:03: Check Point: oRecCount: 426
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUM01Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUMATECH COMPANY LTD
+2012-06-20 02:35:03: Check Point: RecCount427
+2012-06-20 02:35:03: Check Point: oRow Lenght: 427
+2012-06-20 02:35:03: Check Point: oRecCount: 427
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUN01Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUN KEE (INTERNATIONAL) LTD
+2012-06-20 02:35:03: Check Point: RecCount428
+2012-06-20 02:35:03: Check Point: oRow Lenght: 428
+2012-06-20 02:35:03: Check Point: oRecCount: 428
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUN02Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUN & CO
+2012-06-20 02:35:03: Check Point: RecCount429
+2012-06-20 02:35:03: Check Point: oRow Lenght: 429
+2012-06-20 02:35:03: Check Point: oRecCount: 429
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUO01Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUONA IDEA BUILDING MATERIALS (INTL) LTD
+2012-06-20 02:35:03: Check Point: RecCount430
+2012-06-20 02:35:03: Check Point: oRow Lenght: 430
+2012-06-20 02:35:03: Check Point: oRecCount: 430
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUR01Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BUREAU VERITAS CERTIFICATION HK LIMITED
+2012-06-20 02:35:03: Check Point: RecCount431
+2012-06-20 02:35:03: Check Point: oRow Lenght: 431
+2012-06-20 02:35:03: Check Point: oRecCount: 431
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: BUR02Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: BURWAY LIMITED
+2012-06-20 02:35:03: Check Point: RecCount432
+2012-06-20 02:35:03: Check Point: oRow Lenght: 432
+2012-06-20 02:35:03: Check Point: oRecCount: 432
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: C&A01Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: C & A SUPPLIERS INTERNATIONAL CO LTD
+2012-06-20 02:35:03: Check Point: RecCount433
+2012-06-20 02:35:03: Check Point: oRow Lenght: 433
+2012-06-20 02:35:03: Check Point: oRecCount: 433
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: C&C01Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: C & C INDUSTRIAL COMPANY
+2012-06-20 02:35:03: Check Point: RecCount434
+2012-06-20 02:35:03: Check Point: oRow Lenght: 434
+2012-06-20 02:35:03: Check Point: oRecCount: 434
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: C&C02Z00C
+2012-06-20 02:35:03: Check Point: Line: 1
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:35:03: Check Point: Value: C & C SECURITY PRINTING CO., LTD
+2012-06-20 02:35:03: Check Point: RecCount435
+2012-06-20 02:35:03: Check Point: oRow Lenght: 435
+2012-06-20 02:35:03: Check Point: oRecCount: 435
+2012-06-20 02:35:03: Check Point: Line: 0
+2012-06-20 02:35:03: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:35:03: Check Point: Value: C&C03Z00C

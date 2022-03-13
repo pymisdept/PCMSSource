@@ -1,0 +1,2 @@
+2011-04-15 10:41:41: Check Point: Import: RsToCollection
+2011-04-15 10:41:58: Check Point: select * from QSI17_Cover ('TESTPRJ1')

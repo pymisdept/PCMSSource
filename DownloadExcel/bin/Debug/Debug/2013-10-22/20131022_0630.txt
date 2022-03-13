@@ -1,0 +1,4 @@
+2013-10-22 06:30:13: Check Point: Exception: Invalid column name 'CertAmt'.
+2013-10-22 06:30:13: Check Point: End
+2013-10-22 06:30:13: Check Point: Disconnect
+2013-10-22 06:30:13: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

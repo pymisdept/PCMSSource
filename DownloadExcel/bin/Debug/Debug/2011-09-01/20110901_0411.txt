@@ -1,0 +1,2 @@
+2011-09-01 04:11:53: Check Point: Import: RsToCollection
+2011-09-01 04:11:57: Check Point: Select * from MAI08_Form('BLDG','20110930')

@@ -1,0 +1,125 @@
+2012-05-09 07:01:08: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-05-09 07:01:08: Check Point: RecCount1
+2012-05-09 07:01:08: Check Point: oRow Lenght: 1
+2012-05-09 07:01:08: Check Point: oRecCount: 1
+2012-05-09 07:01:08: Check Point: Line: 0
+2012-05-09 07:01:08: Check Point: Column: PrjCode
+2012-05-09 07:01:08: Check Point: Value: 20055BAH
+2012-05-09 07:01:08: Check Point: Line: 1
+2012-05-09 07:01:08: Check Point: Column: PrjDesc
+2012-05-09 07:01:08: Check Point: Value: 20055BAH - Tuen Mun Swimming Pool
+2012-05-09 07:01:08: Check Point: Line: 2
+2012-05-09 07:01:08: Check Point: Column: DocCur
+2012-05-09 07:01:08: Check Point: Value: HKD
+2012-05-09 07:01:08: Check Point: Line: 3
+2012-05-09 07:01:08: Check Point: Column: Control
+2012-05-09 07:01:08: Check Point: Value: C
+2012-05-09 07:01:08: Check Point: Line: 4
+2012-05-09 07:01:08: Check Point: Column: AppNum
+2012-05-09 07:01:08: Check Point: Value: 34
+2012-05-09 07:01:08: Check Point: Line: 5
+2012-05-09 07:01:08: Check Point: Column: LastCertNum
+2012-05-09 07:01:08: Check Point: Value: 32
+2012-05-09 07:01:08: Check Point: Line: 6
+2012-05-09 07:01:08: Check Point: Column: PreDocTotal
+2012-05-09 07:01:08: Check Point: Value: -348223090.000000
+2012-05-09 07:01:08: Check Point: Line: 7
+2012-05-09 07:01:08: Check Point: Column: DISTitle
+2012-05-09 07:01:08: Check Point: Value: Discount
+2012-05-09 07:01:08: Check Point: Line: 8
+2012-05-09 07:01:08: Check Point: Column: SUPTitle
+2012-05-09 07:01:08: Check Point: Value: Supplimentary Agreement
+2012-05-09 07:01:08: Check Point: Line: 9
+2012-05-09 07:01:08: Check Point: Column: MOSTitle
+2012-05-09 07:01:08: Check Point: Value: Gross value of Material (On Site)
+2012-05-09 07:01:08: Check Point: Line: 10
+2012-05-09 07:01:08: Check Point: Column: MFSTitle
+2012-05-09 07:01:08: Check Point: Value: Gross value of Material (Off Site)
+2012-05-09 07:01:08: Check Point: Line: 11
+2012-05-09 07:01:08: Check Point: Column: VOTitle
+2012-05-09 07:01:08: Check Point: Value: Add: Gross value of Variation Orders
+2012-05-09 07:01:08: Check Point: Line: 12
+2012-05-09 07:01:08: Check Point: Column: DWTitle
+2012-05-09 07:01:08: Check Point: Value: Add: Gross value of Dayworks
+2012-05-09 07:01:08: Check Point: Line: 13
+2012-05-09 07:01:08: Check Point: Column: CLTitle
+2012-05-09 07:01:08: Check Point: Value: Add: Gross value of Cost Claims
+2012-05-09 07:01:08: Check Point: Line: 14
+2012-05-09 07:01:08: Check Point: Column: PCTitle
+2012-05-09 07:01:08: Check Point: Value: Bill 11 - Prime Cost - NSC
+2012-05-09 07:01:08: Check Point: Line: 15
+2012-05-09 07:01:08: Check Point: Column: FLUTitle
+2012-05-09 07:01:08: Check Point: Value: Add:  Fluctuation
+2012-05-09 07:01:08: Check Point: Line: 16
+2012-05-09 07:01:08: Check Point: Column: LDTitle
+2012-05-09 07:01:08: Check Point: Value: Less: LD
+2012-05-09 07:01:08: Check Point: Line: 17
+2012-05-09 07:01:08: Check Point: Column: DEDTitle
+2012-05-09 07:01:08: Check Point: Value: Less: Client's Deduction
+2012-05-09 07:01:08: Check Point: Line: 18
+2012-05-09 07:01:08: Check Point: Column: BRETitle
+2012-05-09 07:01:08: Check Point: Value: Less: Retention for Builder
+2012-05-09 07:01:08: Check Point: Line: 19
+2012-05-09 07:01:08: Check Point: Column: NRETitle
+2012-05-09 07:01:08: Check Point: Value: Less: Retention for NSC
+2012-05-09 07:01:08: Check Point: Line: 20
+2012-05-09 07:01:08: Check Point: Column: ADJTitle
+2012-05-09 07:01:08: Check Point: Value: Less: Figures Rounding Adjustment
+2012-05-09 07:01:08: Check Point: Line: 21
+2012-05-09 07:01:08: Check Point: Column: DISAmt
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 22
+2012-05-09 07:01:08: Check Point: Column: SUPAmt
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 23
+2012-05-09 07:01:08: Check Point: Column: PCAmt
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 24
+2012-05-09 07:01:08: Check Point: Column: LastAppDIS
+2012-05-09 07:01:08: Check Point: Value: -11343532.370000
+2012-05-09 07:01:08: Check Point: Line: 25
+2012-05-09 07:01:08: Check Point: Column: LastAppSUP
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 26
+2012-05-09 07:01:08: Check Point: Column: LastAppMOS
+2012-05-09 07:01:08: Check Point: Value: 11063645.010000
+2012-05-09 07:01:08: Check Point: Line: 27
+2012-05-09 07:01:08: Check Point: Column: LastAppMFS
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 28
+2012-05-09 07:01:08: Check Point: Column: LastAppEVO
+2012-05-09 07:01:08: Check Point: Value: 14861357.650000
+2012-05-09 07:01:08: Check Point: Line: 29
+2012-05-09 07:01:08: Check Point: Column: LastAppEDW
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 30
+2012-05-09 07:01:08: Check Point: Column: LastAppECL
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 31
+2012-05-09 07:01:08: Check Point: Column: LastAppPC
+2012-05-09 07:01:08: Check Point: Value: 615240.000000
+2012-05-09 07:01:08: Check Point: Line: 32
+2012-05-09 07:01:08: Check Point: Column: LastAppFLU
+2012-05-09 07:01:08: Check Point: Value: 23904100.000000
+2012-05-09 07:01:08: Check Point: Line: 33
+2012-05-09 07:01:08: Check Point: Column: LastAppLD
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 34
+2012-05-09 07:01:08: Check Point: Column: LastAppDED
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 35
+2012-05-09 07:01:08: Check Point: Column: LastAppBRE
+2012-05-09 07:01:08: Check Point: Value: -3681428.680000
+2012-05-09 07:01:08: Check Point: Line: 36
+2012-05-09 07:01:08: Check Point: Column: LastAppNRE
+2012-05-09 07:01:08: Check Point: Value: -30762.000000
+2012-05-09 07:01:08: Check Point: Line: 37
+2012-05-09 07:01:08: Check Point: Column: LastAppADJ
+2012-05-09 07:01:08: Check Point: Value: 0.000000
+2012-05-09 07:01:08: Check Point: Line: 38
+2012-05-09 07:01:08: Check Point: Column: LastAppRetenPrcnt
+2012-05-09 07:01:08: Check Point: Value: 1.000000
+2012-05-09 07:01:08: Check Point: Line: 39
+2012-05-09 07:01:08: Check Point: Column: LastAppRetenMaxAmt
+2012-05-09 07:01:08: Check Point: Value: -7300000.000000
+2012-05-09 07:01:08: Check Point: select * from QSI17_Work ('20055BAH')

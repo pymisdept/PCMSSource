@@ -1,0 +1,42 @@
+2011-05-06 01:19:00: Check Point: Select '00008CVL' as PrjCode
+2011-05-06 01:19:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:19:00: Check Point: RecCount1
+2011-05-06 01:19:00: Check Point: oRow Lenght: 26
+2011-05-06 01:19:00: Check Point: oRecCount: 1
+2011-05-06 01:19:00: Check Point: Line: 0
+2011-05-06 01:19:00: Check Point: Column: PrjCode
+2011-05-06 01:19:00: Check Point: Value: 00008CVL
+2011-05-06 01:19:00: Check Point: Select '00008CVL' as PrjCode1
+2011-05-06 01:19:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:19:00: Check Point: RecCount1
+2011-05-06 01:19:00: Check Point: oRow Lenght: 26
+2011-05-06 01:19:00: Check Point: oRecCount: 1
+2011-05-06 01:19:00: Check Point: Line: 0
+2011-05-06 01:19:00: Check Point: Column: PrjCode1
+2011-05-06 01:19:00: Check Point: Value: 00008CVL
+2011-05-06 01:19:01: Check Point: Select '00008CVL' as PrjCode2
+2011-05-06 01:19:01: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:19:01: Check Point: RecCount1
+2011-05-06 01:19:01: Check Point: oRow Lenght: 26
+2011-05-06 01:19:01: Check Point: oRecCount: 1
+2011-05-06 01:19:01: Check Point: Line: 0
+2011-05-06 01:19:01: Check Point: Column: PrjCode2
+2011-05-06 01:19:01: Check Point: Value: 00008CVL
+2011-05-06 01:19:02: Check Point: Select '00008CVL' as PrjCode3
+2011-05-06 01:19:02: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:19:02: Check Point: RecCount1
+2011-05-06 01:19:02: Check Point: oRow Lenght: 26
+2011-05-06 01:19:02: Check Point: oRecCount: 1
+2011-05-06 01:19:02: Check Point: Line: 0
+2011-05-06 01:19:02: Check Point: Column: PrjCode3
+2011-05-06 01:19:02: Check Point: Value: 00008CVL
+2011-05-06 01:19:02: Check Point: Select '00008CVL' as PrjCode4
+2011-05-06 01:19:02: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:19:02: Check Point: RecCount1
+2011-05-06 01:19:02: Check Point: oRow Lenght: 26
+2011-05-06 01:19:02: Check Point: oRecCount: 1
+2011-05-06 01:19:02: Check Point: Line: 0
+2011-05-06 01:19:02: Check Point: Column: PrjCode4
+2011-05-06 01:19:02: Check Point: Value: 00008CVL
+2011-05-06 01:19:04: Check Point: Import: Run Application
+2011-05-06 01:19:04: Check Point: Import: set FileName

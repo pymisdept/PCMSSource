@@ -1,0 +1,39 @@
+2011-05-06 10:30:00: Check Point: Select '20055BAH' as PrjCode4
+2011-05-06 10:30:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 10:30:00: Check Point: RecCount1
+2011-05-06 10:30:00: Check Point: oRow Lenght: 26
+2011-05-06 10:30:00: Check Point: oRecCount: 1
+2011-05-06 10:30:00: Check Point: Line: 0
+2011-05-06 10:30:00: Check Point: Column: PrjCode4
+2011-05-06 10:30:00: Check Point: Value: 20055BAH
+2011-05-06 10:30:02: Check Point: Import: Run Application
+2011-05-06 10:30:02: Check Point: Import: set FileName
+2011-05-06 10:30:02: Check Point: Import: Open Workbook
+2011-05-06 10:30:02: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI40_Blank.xls
+2011-05-06 10:30:02: Check Point: Import: UnProtectSheet
+2011-05-06 10:30:02: Check Point: Import: BreakLinked
+2011-05-06 10:30:02: Check Point: Import: ReplaceAllData
+2011-05-06 10:30:02: Check Point: Now is replace: xxxxxx
+2011-05-06 10:30:02: Check Point: Next
+2011-05-06 10:30:02: Check Point: Now is replace: PR1
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Now is replace: PR2
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Now is replace: LD
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Now is replace: Provision
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Now is replace: Fluctuations
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Now is replace: Cashflow
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Now is replace: Sheet1
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Now is replace: Sheet1 (2)
+2011-05-06 10:30:03: Check Point: Next
+2011-05-06 10:30:03: Check Point: Import: ProtectSheet
+2011-05-06 10:30:08: Check Point: Import: Save
+2011-05-06 10:30:08: Check Point: Import: Close
+2011-05-06 10:30:08: Check Point: Import: Closed
+2011-05-06 10:30:08: Check Point: End
+2011-05-06 10:30:08: Check Point: Disconnect

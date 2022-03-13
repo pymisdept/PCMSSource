@@ -1,0 +1,6 @@
+2012-05-10 10:00:07: Check Point: Import: Run Application
+2012-05-10 10:00:12: Check Point: Import: set FileName
+2012-05-10 10:00:22: Check Point: Import: Open Workbook
+2012-05-10 10:00:23: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI17.xls
+2012-05-10 10:00:37: Check Point: Import: UnProtectSheet
+2012-05-10 10:00:40: Check Point: Import: BreakLinked

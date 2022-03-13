@@ -1,0 +1,26 @@
+2019-11-13 03:06:29: Check Point: select Code as List_RequestCode,U_ReasonDesc as List_RequestName from [@reasoncode] where U_ReasonType='MR'
+2019-11-13 03:06:29: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 03:06:29: Check Point: select ItemCode as List_ItemCode,ItemName as List_ItemName From CPS_View_MaterialList
+2019-11-13 03:06:29: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 03:06:30: Check Point: select MaterialType as List_MaterialType, MaterialDesc as List_MaterialDesc From CPS_View_MaterialTypeList
+2019-11-13 03:06:30: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 03:06:30: Check Point: Import: Run Application
+2019-11-13 03:06:30: Check Point: Import: set FileName
+2019-11-13 03:06:35: Check Point: Import: Open Workbook
+2019-11-13 03:06:35: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\PUI01.xlsm
+2019-11-13 03:06:41: Check Point: Import: UnProtectSheet
+2019-11-13 03:06:48: Check Point: Import: BreakLinked
+2019-11-13 03:06:49: Check Point: Import: ReplaceAllData
+2019-11-13 03:06:52: Check Point: Now is replace: Form
+2019-11-13 03:06:52: Check Point: Next
+2019-11-13 03:06:53: Check Point: Now is replace: Cost Code
+2019-11-13 03:06:53: Check Point: Next
+2019-11-13 03:06:54: Check Point: Now is replace: SubContractor
+2019-11-13 03:06:54: Check Point: Next
+2019-11-13 03:06:54: Check Point: Now is replace: Request Type
+2019-11-13 03:06:54: Check Point: Next
+2019-11-13 03:06:55: Check Point: Now is replace: Item Code
+2019-11-13 03:06:55: Check Point: Next
+2019-11-13 03:06:55: Check Point: Now is replace: Material Type
+2019-11-13 03:06:55: Check Point: Next
+2019-11-13 03:06:56: Check Point: Import: ProtectSheet

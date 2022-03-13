@@ -1,0 +1,9 @@
+2012-01-27 02:03:08: Check Point: Import: RsToCollection
+2012-01-27 02:03:34: Check Point: Select * from QSI41_Form('20055BAH', 'CIT03Z00S', '20055BAH/SC027') 
+2012-01-27 02:03:45: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-01-27 02:03:49: Check Point: RecCount1
+2012-01-27 02:03:51: Check Point: oRow Lenght: 1
+2012-01-27 02:03:52: Check Point: oRecCount: 1
+2012-01-27 02:03:57: Check Point: Line: 0
+2012-01-27 02:03:57: Check Point: Column: PrjCode
+2012-01-27 02:03:58: Check Point: Value: 20055BAH

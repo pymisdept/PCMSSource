@@ -1,0 +1,242 @@
+2018-06-27 05:56:33: Check Point: QSI18_0002
+2018-06-27 05:56:33: Check Point: Import: RsToCollection
+2018-06-27 05:56:33: Check Point: select * from QSI18_Cover('80931E1H')
+2018-06-27 05:56:46: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2018-06-27 05:56:46: Check Point: RecCount1
+2018-06-27 05:56:46: Check Point: oRow Lenght: 1
+2018-06-27 05:56:46: Check Point: oRecCount: 1
+2018-06-27 05:56:46: Check Point: Line: 0
+2018-06-27 05:56:46: Check Point: Column: PrjCode
+2018-06-27 05:56:46: Check Point: Value: 80931E1H
+2018-06-27 05:56:46: Check Point: Line: 1
+2018-06-27 05:56:46: Check Point: Column: PrjDesc
+2018-06-27 05:56:46: Check Point: Value: 80931E1H - E&M FOR REDEV'T AT 205-211A HAI TAN ST
+2018-06-27 05:56:46: Check Point: Line: 2
+2018-06-27 05:56:46: Check Point: Column: DocCur
+2018-06-27 05:56:46: Check Point: Value: HKD
+2018-06-27 05:56:46: Check Point: Line: 3
+2018-06-27 05:56:46: Check Point: Column: BQAmt
+2018-06-27 05:56:46: Check Point: Value: 41940000.000000
+2018-06-27 05:56:46: Check Point: Line: 4
+2018-06-27 05:56:46: Check Point: Column: Control
+2018-06-27 05:56:46: Check Point: Value: C
+2018-06-27 05:56:46: Check Point: Line: 5
+2018-06-27 05:56:46: Check Point: Column: AppNum
+2018-06-27 05:56:46: Check Point: Value: 1
+2018-06-27 05:56:46: Check Point: Line: 6
+2018-06-27 05:56:46: Check Point: Column: LastCertNum
+2018-06-27 05:56:46: Check Point: Value: 0
+2018-06-27 05:56:46: Check Point: Line: 7
+2018-06-27 05:56:46: Check Point: Column: PreDocTotal
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 8
+2018-06-27 05:56:46: Check Point: Column: TaxDate
+2018-06-27 05:56:46: Check Point: Value: 4/7/2018 12:00:00 AM
+2018-06-27 05:56:46: Check Point: Line: 9
+2018-06-27 05:56:46: Check Point: Column: AppDIS
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 10
+2018-06-27 05:56:46: Check Point: Column: AppSUP
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 11
+2018-06-27 05:56:46: Check Point: Column: AppMOS
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 12
+2018-06-27 05:56:46: Check Point: Column: AppMFS
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 13
+2018-06-27 05:56:46: Check Point: Column: AppEVO
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 14
+2018-06-27 05:56:46: Check Point: Column: AppEDW
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 15
+2018-06-27 05:56:46: Check Point: Column: AppECL
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 16
+2018-06-27 05:56:46: Check Point: Column: AppPC
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 17
+2018-06-27 05:56:46: Check Point: Column: AppFLU
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 18
+2018-06-27 05:56:46: Check Point: Column: AppLD
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 19
+2018-06-27 05:56:46: Check Point: Column: AppDED
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 20
+2018-06-27 05:56:46: Check Point: Column: AppBRE
+2018-06-27 05:56:46: Check Point: Value: -25164.000000
+2018-06-27 05:56:46: Check Point: Line: 21
+2018-06-27 05:56:46: Check Point: Column: AppNRE
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 22
+2018-06-27 05:56:46: Check Point: Column: AppADJ
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 23
+2018-06-27 05:56:46: Check Point: Column: AppDEP
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 24
+2018-06-27 05:56:46: Check Point: Column: AppREP
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 25
+2018-06-27 05:56:46: Check Point: Column: DISTitle
+2018-06-27 05:56:46: Check Point: Value: Discount
+2018-06-27 05:56:46: Check Point: Line: 26
+2018-06-27 05:56:46: Check Point: Column: SUPTitle
+2018-06-27 05:56:46: Check Point: Value: Supplimentary Agreement
+2018-06-27 05:56:46: Check Point: Line: 27
+2018-06-27 05:56:46: Check Point: Column: MOSTitle
+2018-06-27 05:56:46: Check Point: Value: Gross value of Material (On Site)
+2018-06-27 05:56:46: Check Point: Line: 28
+2018-06-27 05:56:46: Check Point: Column: MFSTitle
+2018-06-27 05:56:46: Check Point: Value: Gross value of Material (Off Site)
+2018-06-27 05:56:46: Check Point: Line: 29
+2018-06-27 05:56:46: Check Point: Column: VOTitle
+2018-06-27 05:56:46: Check Point: Value: Add: Gross value of Variation Orders
+2018-06-27 05:56:46: Check Point: Line: 30
+2018-06-27 05:56:46: Check Point: Column: DWTitle
+2018-06-27 05:56:46: Check Point: Value: Add: Gross value of Dayworks
+2018-06-27 05:56:46: Check Point: Line: 31
+2018-06-27 05:56:46: Check Point: Column: CLTitle
+2018-06-27 05:56:46: Check Point: Value: Add: Gross value of Cost Claims
+2018-06-27 05:56:46: Check Point: Line: 32
+2018-06-27 05:56:46: Check Point: Column: PCTitle
+2018-06-27 05:56:46: Check Point: Value: Bill 11 - Prime Cost - NSC
+2018-06-27 05:56:46: Check Point: Line: 33
+2018-06-27 05:56:46: Check Point: Column: FLUTitle
+2018-06-27 05:56:46: Check Point: Value: Add:  Fluctuation
+2018-06-27 05:56:46: Check Point: Line: 34
+2018-06-27 05:56:46: Check Point: Column: LDTitle
+2018-06-27 05:56:46: Check Point: Value: Less: LD
+2018-06-27 05:56:46: Check Point: Line: 35
+2018-06-27 05:56:46: Check Point: Column: DEDTitle
+2018-06-27 05:56:46: Check Point: Value: Less: Client's Deduction
+2018-06-27 05:56:46: Check Point: Line: 36
+2018-06-27 05:56:46: Check Point: Column: BRETitle
+2018-06-27 05:56:46: Check Point: Value: Less: Retention for Builder
+2018-06-27 05:56:46: Check Point: Line: 37
+2018-06-27 05:56:46: Check Point: Column: NRETitle
+2018-06-27 05:56:46: Check Point: Value: Less: Retention for NSC
+2018-06-27 05:56:46: Check Point: Line: 38
+2018-06-27 05:56:46: Check Point: Column: ADJTitle
+2018-06-27 05:56:46: Check Point: Value: Less: Figures Rounding Adjustment
+2018-06-27 05:56:46: Check Point: Line: 39
+2018-06-27 05:56:46: Check Point: Column: DEPTitle
+2018-06-27 05:56:46: Check Point: Value: Add: Deposit / Advance Payment
+2018-06-27 05:56:46: Check Point: Line: 40
+2018-06-27 05:56:46: Check Point: Column: REPTitle
+2018-06-27 05:56:46: Check Point: Value: Less: Repayment of Deposit / Advance Payment
+2018-06-27 05:56:46: Check Point: Line: 41
+2018-06-27 05:56:46: Check Point: Column: LastCertDIS
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 42
+2018-06-27 05:56:46: Check Point: Column: LastCertSUP
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 43
+2018-06-27 05:56:46: Check Point: Column: LastCertMOS
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 44
+2018-06-27 05:56:46: Check Point: Column: LastCertMFS
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 45
+2018-06-27 05:56:46: Check Point: Column: LastCertEVO
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 46
+2018-06-27 05:56:46: Check Point: Column: LastCertEDW
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 47
+2018-06-27 05:56:46: Check Point: Column: LastCertECL
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 48
+2018-06-27 05:56:46: Check Point: Column: LastCertPC
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 49
+2018-06-27 05:56:46: Check Point: Column: LastCertFLU
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 50
+2018-06-27 05:56:46: Check Point: Column: LastCertLD
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 51
+2018-06-27 05:56:46: Check Point: Column: LastCertDED
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 52
+2018-06-27 05:56:46: Check Point: Column: LastCertBRE
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 53
+2018-06-27 05:56:46: Check Point: Column: LastCertNRE
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 54
+2018-06-27 05:56:46: Check Point: Column: LastCertADJ
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 55
+2018-06-27 05:56:46: Check Point: Column: LastCertDEP
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 56
+2018-06-27 05:56:46: Check Point: Column: LastCertREP
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 57
+2018-06-27 05:56:46: Check Point: Column: AppRetenPrcnt
+2018-06-27 05:56:46: Check Point: Value: 10.000000
+2018-06-27 05:56:46: Check Point: Line: 58
+2018-06-27 05:56:46: Check Point: Column: AppRetenMaxAmt
+2018-06-27 05:56:46: Check Point: Value: -2097000.000000
+2018-06-27 05:56:46: Check Point: Line: 59
+2018-06-27 05:56:46: Check Point: Column: GSTTitle
+2018-06-27 05:56:46: Check Point: Value: Add: GST
+2018-06-27 05:56:46: Check Point: Line: 60
+2018-06-27 05:56:46: Check Point: Column: AppGSTPrcnt
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 61
+2018-06-27 05:56:46: Check Point: Column: AppGST
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: Line: 62
+2018-06-27 05:56:46: Check Point: Column: LastCertGST
+2018-06-27 05:56:46: Check Point: Value: 0.000000
+2018-06-27 05:56:46: Check Point: select * from QSI18_Bill('80931E1H')
+2018-06-27 05:56:50: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2018-06-27 05:56:50: Check Point: RecCount1
+2018-06-27 05:56:50: Check Point: oRow Lenght: 2
+2018-06-27 05:56:50: Check Point: oRecCount: 1
+2018-06-27 05:56:50: Check Point: Line: 0
+2018-06-27 05:56:50: Check Point: Column: List_PrjCode
+2018-06-27 05:56:50: Check Point: Value: 80931E1H
+2018-06-27 05:56:50: Check Point: Line: 1
+2018-06-27 05:56:50: Check Point: Column: List_BillNum
+2018-06-27 05:56:50: Check Point: Value: 1
+2018-06-27 05:56:50: Check Point: Line: 2
+2018-06-27 05:56:50: Check Point: Column: List_BillDesc
+2018-06-27 05:56:50: Check Point: Value: E&M Work
+2018-06-27 05:56:50: Check Point: Line: 3
+2018-06-27 05:56:50: Check Point: Column: List_BillAmt
+2018-06-27 05:56:50: Check Point: Value: 41940000.000000
+2018-06-27 05:56:50: Check Point: Line: 4
+2018-06-27 05:56:50: Check Point: Column: List_AppAmt
+2018-06-27 05:56:50: Check Point: Value: 251640.000000
+2018-06-27 05:56:50: Check Point: Line: 5
+2018-06-27 05:56:50: Check Point: Column: List_CertedAmt
+2018-06-27 05:56:50: Check Point: Value: 251640.000000
+2018-06-27 05:56:50: Check Point: Line: 6
+2018-06-27 05:56:50: Check Point: Column: List_PreCertedAmt
+2018-06-27 05:56:50: Check Point: Value: 0.000000
+2018-06-27 05:56:50: Check Point: Import: Run Application
+2018-06-27 05:56:50: Check Point: Import: set FileName
+2018-06-27 05:56:50: Check Point: Import: Open Workbook
+2018-06-27 05:56:50: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI18_Bill.xls
+2018-06-27 05:56:51: Check Point: Import: UnProtectSheet
+2018-06-27 05:56:51: Check Point: Import: BreakLinked
+2018-06-27 05:56:51: Check Point: Import: ReplaceAllData
+2018-06-27 05:56:51: Check Point: Now is replace: Cover
+2018-06-27 05:56:51: Check Point: Next
+2018-06-27 05:56:51: Check Point: Now is replace: Bill Desc
+2018-06-27 05:56:51: Check Point: Next
+2018-06-27 05:56:51: Check Point: Import: ProtectSheet
+2018-06-27 05:56:51: Check Point: Import: Save
+2018-06-27 05:56:51: Check Point: Import: Close
+2018-06-27 05:56:51: Check Point: Import: Closed
+2018-06-27 05:56:51: Check Point: QSI18_0003
+2018-06-27 05:56:51: Check Point: Update dlnmgr table path and filename field
+2018-06-27 05:56:51: Check Point: End
+2018-06-27 05:56:51: Check Point: Disconnect
+2018-06-27 05:56:51: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

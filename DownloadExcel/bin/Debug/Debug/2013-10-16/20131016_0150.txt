@@ -1,0 +1,10 @@
+2013-10-16 01:50:08: Check Point: Import: Open Workbook
+2013-10-16 01:50:09: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI43.xls
+2013-10-16 01:50:15: Check Point: Import: UnProtectSheet
+2013-10-16 01:50:16: Check Point: Import: BreakLinked
+2013-10-16 01:50:18: Check Point: Import: ReplaceAllData
+2013-10-16 01:50:20: Check Point: Now is replace: Form
+2013-10-16 01:50:20: Check Point: Next
+2013-10-16 01:50:21: Check Point: Import: ProtectSheet
+2013-10-16 01:50:47: Check Point: Import: Save
+2013-10-16 01:50:57: Check Point: Import: Close

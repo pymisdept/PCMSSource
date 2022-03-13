@@ -1,0 +1,19 @@
+2019-11-12 03:05:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:00: Check Point: select * from QSI12_IDW('80605E1H','80605E1H/SC001')
+2019-11-12 03:05:03: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:03: Check Point: select * from QSI12_CCDW('80605E1H','80605E1H/SC001')
+2019-11-12 03:05:05: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:05: Check Point: select * from QSI12_CC('80605E1H','80605E1H/SC001')
+2019-11-12 03:05:08: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:08: Check Point: select * from QSI12_DAP('80605E1H','80605E1H/SC001')
+2019-11-12 03:05:10: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:10: Check Point: select * from QSI12_Approval('80605E1H','80605E1H/SC001')
+2019-11-12 03:05:10: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:10: Check Point: SELECT c.COSTCODE as LIST_CostCode, c.COSTNAME AS List_COSTDESC, a.U_ReportCode AS LIST_RptCode FROM CPS_View_CostCodeList c, OACT a WHERE c.COSTTYPE IN ('E','M','N','P','PS','S','CC') AND c.COSTCODE = a.AcctCode AND c.COSTCODE <> 'CC.SC001'
+2019-11-12 03:05:10: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:47: Check Point: SELECT * from PrjBP_List('80605E1H')
+2019-11-12 03:05:47: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 03:05:47: Check Point: Import: Run Application
+2019-11-12 03:05:47: Check Point: Import: set FileName
+2019-11-12 03:05:51: Check Point: Import: Open Workbook
+2019-11-12 03:05:51: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI12.xls

@@ -1,0 +1,111 @@
+2018-07-13 11:33:00: Check Point: Column: BUStoreyNo
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 95
+2018-07-13 11:33:00: Check Point: Column: BUConsructionArea
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 96
+2018-07-13 11:33:00: Check Point: Column: BUUnitNo
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 97
+2018-07-13 11:33:00: Check Point: Column: BUHeight
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 98
+2018-07-13 11:33:00: Check Point: Column: BUTFloorArea
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 99
+2018-07-13 11:33:00: Check Point: Column: BUTStoreyHeight
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 100
+2018-07-13 11:33:00: Check Point: Column: BUTtlConcrete
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 101
+2018-07-13 11:33:00: Check Point: Column: BUTtlReinforcement
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 102
+2018-07-13 11:33:00: Check Point: Column: BUTtlFormWork
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 103
+2018-07-13 11:33:00: Check Point: Column: BUConcreteElement
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 104
+2018-07-13 11:33:00: Check Point: Column: BUSteelElement
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 105
+2018-07-13 11:33:00: Check Point: Column: BUCurtainWall
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 106
+2018-07-13 11:33:00: Check Point: Column: CISite
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 107
+2018-07-13 11:33:00: Check Point: Column: CITtlExcavation
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 108
+2018-07-13 11:33:00: Check Point: Column: CITtlImportFill
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 109
+2018-07-13 11:33:00: Check Point: Column: CITtlCarriagewayLen
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 110
+2018-07-13 11:33:00: Check Point: Column: CILanesNo
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 111
+2018-07-13 11:33:00: Check Point: Column: CIWatermainLen
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 112
+2018-07-13 11:33:00: Check Point: Column: CIBridgeworkLen
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 113
+2018-07-13 11:33:00: Check Point: Column: CITtlTunnelLen
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 114
+2018-07-13 11:33:00: Check Point: Column: CITtlconcrete
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 115
+2018-07-13 11:33:00: Check Point: Column: CITtlReinforcement
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 116
+2018-07-13 11:33:00: Check Point: Column: CITtlFormWork
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 117
+2018-07-13 11:33:00: Check Point: Column: CIConcreteElement
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 118
+2018-07-13 11:33:00: Check Point: Column: CISteelElement
+2018-07-13 11:33:00: Check Point: Value: 0.000000
+2018-07-13 11:33:00: Check Point: Line: 119
+2018-07-13 11:33:00: Check Point: Column: BUOtherSpecial
+2018-07-13 11:33:00: Check Point: Value: 
+2018-07-13 11:33:00: Check Point: Line: 120
+2018-07-13 11:33:00: Check Point: Column: CIOtherSpecial
+2018-07-13 11:33:00: Check Point: Value: 
+2018-07-13 11:33:00: Check Point: Import: Run Application
+2018-07-13 11:33:00: Check Point: Import: set FileName
+2018-07-13 11:33:00: Check Point: Import: Open Workbook
+2018-07-13 11:33:00: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI01.xls
+2018-07-13 11:33:00: Check Point: Import: UnProtectSheet
+2018-07-13 11:33:00: Check Point: Import: BreakLinked
+2018-07-13 11:33:01: Check Point: Import: ReplaceAllData
+2018-07-13 11:33:01: Check Point: Now is replace: Form
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Now is replace: Client Code
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Now is replace: Subsidiary Code
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Now is replace: Contract Type
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Now is replace: Bond Type
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Now is replace: Nature Type
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Now is replace: Geographic Code
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Now is replace: Currency Code
+2018-07-13 11:33:01: Check Point: Next
+2018-07-13 11:33:01: Check Point: Import: ProtectSheet
+2018-07-13 11:33:01: Check Point: Import: Save
+2018-07-13 11:33:01: Check Point: Import: Close
+2018-07-13 11:33:01: Check Point: Import: Closed
+2018-07-13 11:33:01: Check Point: QSI01_0004
+2018-07-13 11:33:01: Check Point: Export Excel result into Database
+2018-07-13 11:33:01: Check Point: QSI01_0005
+2018-07-13 11:33:01: Check Point: Release Resource

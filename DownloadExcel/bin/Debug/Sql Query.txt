@@ -1,0 +1,8 @@
+Select ID, Project, Parameter, FileType,
+Case When FileType = '2003' Then 'PUI01'
+     When FileType = '2001' Then 'PUI02'
+     When FileType = '2002' Then 'PUI03'
+     When FileType = '2004' Then 'PUI04'
+     When FileType = '2005' Then 'PUI05'
+End 'File name'
+From DLNMGR

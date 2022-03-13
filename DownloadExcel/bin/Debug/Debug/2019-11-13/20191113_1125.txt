@@ -1,0 +1,14 @@
+2019-11-13 11:25:02: Check Point: Next
+2019-11-13 11:25:04: Check Point: Now is replace: Flow Type
+2019-11-13 11:25:12: Check Point: Next
+2019-11-13 11:25:14: Check Point: Now is replace: Subsi Code
+2019-11-13 11:25:20: Check Point: Next
+2019-11-13 11:25:25: Check Point: Now is replace: Cost Code
+2019-11-13 11:25:25: Check Point: Next
+2019-11-13 11:25:27: Check Point: Now is replace: Reason Code
+2019-11-13 11:25:27: Check Point: Next
+2019-11-13 11:25:28: Check Point: Now is replace: Currency Code
+2019-11-13 11:25:28: Check Point: Next
+2019-11-13 11:25:34: Check Point: Import: ProtectSheet
+2019-11-13 11:25:45: Check Point: Import: Save
+2019-11-13 11:25:57: Check Point: Import: Close

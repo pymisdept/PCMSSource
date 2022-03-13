@@ -1,0 +1,15 @@
+2015-11-09 04:49:10: Check Point: Line: 1
+2015-11-09 04:49:10: Check Point: Column: PrjCode
+2015-11-09 04:49:10: Check Point: Value: 00329F1H
+2015-11-09 04:49:12: Check Point: Line: 2
+2015-11-09 04:49:12: Check Point: Column: PrjDesc
+2015-11-09 04:49:12: Check Point: Value: 00329F1H - Queen's Rd. No.2 Ph. 2
+2015-11-09 04:49:12: Check Point: Line: 3
+2015-11-09 04:49:12: Check Point: Column: DocEntry
+2015-11-09 04:49:12: Check Point: Value: 
+2015-11-09 04:49:13: Check Point: Line: 4
+2015-11-09 04:49:13: Check Point: Column: LineNum
+2015-11-09 04:49:13: Check Point: Value: 0
+2015-11-09 04:49:13: Check Point: Line: 5
+2015-11-09 04:49:13: Check Point: Column: ItemNum
+2015-11-09 04:49:13: Check Point: Value: 1

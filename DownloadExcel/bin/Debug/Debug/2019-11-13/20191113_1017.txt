@@ -1,0 +1,15 @@
+2019-11-13 10:17:01: Check Point: Import: ReplaceAllData
+2019-11-13 10:17:03: Check Point: Now is replace: Form
+2019-11-13 10:17:08: Check Point: Next
+2019-11-13 10:17:09: Check Point: Now is replace: Cost Code
+2019-11-13 10:17:13: Check Point: Next
+2019-11-13 10:17:14: Check Point: Now is replace: SubContractor
+2019-11-13 10:17:16: Check Point: Next
+2019-11-13 10:17:17: Check Point: Now is replace: Request Type
+2019-11-13 10:17:19: Check Point: Next
+2019-11-13 10:17:20: Check Point: Now is replace: Item Code
+2019-11-13 10:17:22: Check Point: Next
+2019-11-13 10:17:23: Check Point: Now is replace: Material Type
+2019-11-13 10:17:26: Check Point: Next
+2019-11-13 10:17:34: Check Point: Import: ProtectSheet
+2019-11-13 10:17:53: Check Point: Import: Save

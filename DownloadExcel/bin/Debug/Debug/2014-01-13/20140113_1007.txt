@@ -1,0 +1,43 @@
+2014-01-13 10:07:21: Check Point: Import: UnProtectSheet
+2014-01-13 10:07:21: Check Point: Import: BreakLinked
+2014-01-13 10:07:39: Check Point: Import: ReplaceAllData
+2014-01-13 10:07:40: Check Point: Now is replace: xxxxxx
+2014-01-13 10:07:40: Check Point: Next
+2014-01-13 10:07:40: Check Point: Now is replace: Cert
+2014-01-13 10:07:40: Check Point: Next
+2014-01-13 10:07:40: Check Point: Now is replace: Works
+2014-01-13 10:07:40: Check Point: Next
+2014-01-13 10:07:40: Check Point: Now is replace: MOS
+2014-01-13 10:07:40: Check Point: Next
+2014-01-13 10:07:40: Check Point: Now is replace: EVO
+2014-01-13 10:07:40: Check Point: Next
+2014-01-13 10:07:40: Check Point: Now is replace: IVO
+2014-01-13 10:07:42: Check Point: Next
+2014-01-13 10:07:42: Check Point: Now is replace: CCVO
+2014-01-13 10:07:42: Check Point: Next
+2014-01-13 10:07:42: Check Point: Now is replace: EDW
+2014-01-13 10:07:42: Check Point: Next
+2014-01-13 10:07:42: Check Point: Now is replace: IDW
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: CCDW
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: ContraCharge
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: PaulYCharge
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: DAP
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: Approval
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: Cost Code
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: SubContractor
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: Sheet1
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Now is replace: Sheet1 (2)
+2014-01-13 10:07:45: Check Point: Next
+2014-01-13 10:07:45: Check Point: Import: ProtectSheet
+2014-01-13 10:07:45: Check Point: Import: Save
+2014-01-13 10:07:47: Check Point: Import: Close
+2014-01-13 10:07:47: Check Point: Import: Closed

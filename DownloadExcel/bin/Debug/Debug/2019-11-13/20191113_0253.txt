@@ -1,0 +1,3 @@
+2019-11-13 02:53:48: Check Point: Import: Save
+2019-11-13 02:53:51: Check Point: Import: Close
+2019-11-13 02:53:54: Check Point: Import: Closed

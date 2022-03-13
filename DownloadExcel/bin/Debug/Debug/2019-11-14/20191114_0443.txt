@@ -1,0 +1,43 @@
+2019-11-14 04:43:15: Check Point: Import: RsToCollection
+2019-11-14 04:43:15: Check Point: select * from QSI17_Cover ('00000B3H')
+2019-11-14 04:43:15: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 04:43:15: Check Point: select * from QSI17_Work ('00000B3H')
+2019-11-14 04:43:15: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 04:43:15: Check Point: select * from QSI17_MOS ('00000B3H')
+2019-11-14 04:43:15: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 04:43:15: Check Point: select * from QSI17_EVO ('00000B3H')
+2019-11-14 04:43:15: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 04:43:15: Check Point: select * from QSI17_EDW ('00000B3H')
+2019-11-14 04:43:16: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 04:43:16: Check Point: select * from QSI17_ECL ('00000B3H')
+2019-11-14 04:43:16: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 04:43:16: Check Point: select * from QSI17_Bill ('00000B3H')
+2019-11-14 04:43:16: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-14 04:43:16: Check Point: Import: Run Application
+2019-11-14 04:43:16: Check Point: Import: set FileName
+2019-11-14 04:43:18: Check Point: Import: Open Workbook
+2019-11-14 04:43:18: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI17.xlsm
+2019-11-14 04:43:24: Check Point: Import: UnProtectSheet
+2019-11-14 04:43:24: Check Point: Import: BreakLinked
+2019-11-14 04:43:24: Check Point: Import: ReplaceAllData
+2019-11-14 04:43:27: Check Point: Now is replace: Cover
+2019-11-14 04:43:27: Check Point: Next
+2019-11-14 04:43:28: Check Point: Now is replace: Works
+2019-11-14 04:43:28: Check Point: Next
+2019-11-14 04:43:29: Check Point: Now is replace: MOS
+2019-11-14 04:43:29: Check Point: Next
+2019-11-14 04:43:30: Check Point: Now is replace: VO
+2019-11-14 04:43:30: Check Point: Next
+2019-11-14 04:43:31: Check Point: Now is replace: Daywork
+2019-11-14 04:43:31: Check Point: Next
+2019-11-14 04:43:31: Check Point: Now is replace: Claims
+2019-11-14 04:43:31: Check Point: Next
+2019-11-14 04:43:32: Check Point: Now is replace: Bill Desc
+2019-11-14 04:43:32: Check Point: Next
+2019-11-14 04:43:33: Check Point: Import: ProtectSheet
+2019-11-14 04:43:37: Check Point: Import: Save
+2019-11-14 04:43:38: Check Point: Import: Close
+2019-11-14 04:43:38: Check Point: Import: Closed
+2019-11-14 04:43:40: Check Point: End
+2019-11-14 04:43:40: Check Point: Disconnect
+2019-11-14 04:43:40: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\

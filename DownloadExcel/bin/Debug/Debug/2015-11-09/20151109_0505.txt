@@ -1,0 +1,10 @@
+2015-11-09 05:05:12: Check Point: Import: RsToCollection
+2015-11-09 05:05:12: Check Point: Select CardName as CustName from CPSOIH where PrjCode = '00329F1H' order by DocEntry desc' PrjDesc
+2015-11-09 05:05:12: Check Point: End
+2015-11-09 05:05:12: Check Point: Disconnect
+2015-11-09 05:05:12: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log
+2015-11-09 05:05:37: Check Point: Import: RsToCollection
+2015-11-09 05:05:37: Check Point: Select CardName as CustName from CPSOIH where PrjCode = '00329F1H' order by DocEntry desc' PrjDesc
+2015-11-09 05:05:37: Check Point: End
+2015-11-09 05:05:37: Check Point: Disconnect
+2015-11-09 05:05:37: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

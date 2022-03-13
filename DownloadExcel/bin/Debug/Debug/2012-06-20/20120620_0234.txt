@@ -1,0 +1,143 @@
+2012-06-20 02:34:59: Check Point: QSI01_0001
+2012-06-20 02:34:59: Check Point: Define Parameter Variable
+2012-06-20 02:34:59: Check Point: QSI01_0002
+2012-06-20 02:34:59: Check Point: Define Sql Collection
+2012-06-20 02:34:59: Check Point: QSI01_0003
+2012-06-20 02:34:59: Check Point: Import Collection into Excel Application
+2012-06-20 02:34:59: Check Point: Import: RsToCollection
+2012-06-20 02:34:59: Check Point: Select '06006B3H' PRJCODE, 'CARCASS FOR PROP. RESID. DEV. AT FUNG YUEN, TAI PO, N.T.' PRJNAME 
+2012-06-20 02:34:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-06-20 02:34:59: Check Point: RecCount1
+2012-06-20 02:34:59: Check Point: oRow Lenght: 1
+2012-06-20 02:34:59: Check Point: oRecCount: 1
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: PRJCODE
+2012-06-20 02:34:59: Check Point: Value: 06006B3H
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: PRJNAME
+2012-06-20 02:34:59: Check Point: Value: CARCASS FOR PROP. RESID. DEV. AT FUNG YUEN, TAI PO, N.T.
+2012-06-20 02:34:59: Check Point: SELECT CARDCODE AS LIST_CLIENTCODE, CARDNAME AS LIST_CLIENTNAME FROM CPS_View_ClientList
+2012-06-20 02:34:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-06-20 02:34:59: Check Point: RecCount1
+2012-06-20 02:34:59: Check Point: oRow Lenght: 2
+2012-06-20 02:34:59: Check Point: oRecCount: 1
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 00000000C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: NOT APPLICABLE
+2012-06-20 02:34:59: Check Point: RecCount2
+2012-06-20 02:34:59: Check Point: oRow Lenght: 2
+2012-06-20 02:34:59: Check Point: oRecCount: 2
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 2BS01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: 2B SQUARE DESIGN GALLERY LIMITED
+2012-06-20 02:34:59: Check Point: RecCount3
+2012-06-20 02:34:59: Check Point: oRow Lenght: 3
+2012-06-20 02:34:59: Check Point: oRecCount: 3
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 2CE01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: 2CEYE (SECURITY SYSTEM) LIMITED
+2012-06-20 02:34:59: Check Point: RecCount4
+2012-06-20 02:34:59: Check Point: oRow Lenght: 4
+2012-06-20 02:34:59: Check Point: oRecCount: 4
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 38A01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: 38 ADVERTISING ASSOCIATES
+2012-06-20 02:34:59: Check Point: RecCount5
+2012-06-20 02:34:59: Check Point: oRow Lenght: 5
+2012-06-20 02:34:59: Check Point: oRecCount: 5
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 3TE01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: 3TECH CORPORATE LTD
+2012-06-20 02:34:59: Check Point: RecCount6
+2012-06-20 02:34:59: Check Point: oRow Lenght: 6
+2012-06-20 02:34:59: Check Point: oRecCount: 6
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 3TO01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: 3-TO MULTIMEDIA LTD
+2012-06-20 02:34:59: Check Point: RecCount7
+2012-06-20 02:34:59: Check Point: oRow Lenght: 7
+2012-06-20 02:34:59: Check Point: oRecCount: 7
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 5GU01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: 5GUM TRADING COMPANY
+2012-06-20 02:34:59: Check Point: RecCount8
+2012-06-20 02:34:59: Check Point: oRow Lenght: 8
+2012-06-20 02:34:59: Check Point: oRecCount: 8
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: 5SA01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: HONG KONG 5-S ASSOCIATION LIMITED
+2012-06-20 02:34:59: Check Point: RecCount9
+2012-06-20 02:34:59: Check Point: oRow Lenght: 9
+2012-06-20 02:34:59: Check Point: oRecCount: 9
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: A&A01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: A&A BUILDING MATERIALS SUPPLIER
+2012-06-20 02:34:59: Check Point: RecCount10
+2012-06-20 02:34:59: Check Point: oRow Lenght: 10
+2012-06-20 02:34:59: Check Point: oRecCount: 10
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: A&A02Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: A&A ENTERPRISE
+2012-06-20 02:34:59: Check Point: RecCount11
+2012-06-20 02:34:59: Check Point: oRow Lenght: 11
+2012-06-20 02:34:59: Check Point: oRecCount: 11
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: A&M01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: A&M SPECIALIST LIMITED
+2012-06-20 02:34:59: Check Point: RecCount12
+2012-06-20 02:34:59: Check Point: oRow Lenght: 12
+2012-06-20 02:34:59: Check Point: oRecCount: 12
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: A&R01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: A & R ENGINEERING COMPANY LIMITED
+2012-06-20 02:34:59: Check Point: RecCount13
+2012-06-20 02:34:59: Check Point: oRow Lenght: 13
+2012-06-20 02:34:59: Check Point: oRecCount: 13
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: AAS01Z00C
+2012-06-20 02:34:59: Check Point: Line: 1
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTNAME
+2012-06-20 02:34:59: Check Point: Value: AASTOCKS.COM LIMITED
+2012-06-20 02:34:59: Check Point: RecCount14
+2012-06-20 02:34:59: Check Point: oRow Lenght: 14
+2012-06-20 02:34:59: Check Point: oRecCount: 14
+2012-06-20 02:34:59: Check Point: Line: 0
+2012-06-20 02:34:59: Check Point: Column: LIST_CLIENTCODE
+2012-06-20 02:34:59: Check Point: Value: ABA01Z00C

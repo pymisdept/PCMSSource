@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DILibrary(Console)
+</name>
+</assembly>
+<members>
+<member name="M:CPS.Global.Setting.Company.#ctor(System.Int32)">
+	<summary>
+ To Define the Login setting in SAP, the 
+ class only support for background batch job
+ </summary>
+	<param name="pConnects">Insert the total Connect company variable here</param>
+	<remarks></remarks>
+</member><member name="M:CPS.Global.Setting.Company.chkVariable_Syndex(System.String)">
+	<summary>
+ Check the connection parameter is enough for pass in total connected company or not
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CPS.Global.Setting.LogMessage.#ctor(SAPbobsCOM.Company)">
+	<summary>
+ Log Message Standard format
+ </summary>
+	<param name="pCompany"></param>
+	<remarks>Project Property --&gt; Debug --&gt; Command line Arguments</remarks>
+</member><member name="P:CPS.Global.Setting.LogMessage.FileName">
+	<summary>
+ Define the File name, return "Process" if file name is blank
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CPS.Global.Setting.LogMessage.Argument">
+	<summary>
+ the execution file of pass in parameter
+ </summary>
+	<value>String</value>
+	<returns></returns>
+	<remarks>Project Property --&gt; Debug --&gt; Command line Arguments</remarks>
+</member><member name="P:CPS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CPS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CPS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:CPS.SQL.Interface.RecordSet.AdvConvert(System.String)">
+	<summary>
+ String Converter: 
+ Replace ' &gt;&gt; '' //
+ Replace Special (!, @, #, ...) to ([!], [@], [#], ...)
+ </summary>
+	<param name="pString"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

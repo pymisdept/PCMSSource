@@ -1,0 +1,186 @@
+2018-07-13 12:22:48: Check Point: Import: RsToCollection
+2018-07-13 12:22:48: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('20070BDS', 'LHW01Z00S', '20070BDS/SC040') 
+2018-07-13 12:22:53: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2018-07-13 12:22:53: Check Point: RecCount1
+2018-07-13 12:22:53: Check Point: oRow Lenght: 1
+2018-07-13 12:22:53: Check Point: oRecCount: 1
+2018-07-13 12:22:53: Check Point: Line: 0
+2018-07-13 12:22:53: Check Point: Column: PrjCode
+2018-07-13 12:22:53: Check Point: Value: 20070BDS
+2018-07-13 12:22:53: Check Point: Line: 1
+2018-07-13 12:22:53: Check Point: Column: PrjDesc
+2018-07-13 12:22:53: Check Point: Value: 20070BDS - CONVERSION FOR HOTEL AT TYRWHITT RD, SGP
+2018-07-13 12:22:53: Check Point: Line: 2
+2018-07-13 12:22:53: Check Point: Column: SCNum
+2018-07-13 12:22:53: Check Point: Value: 20070BDS/SC040
+2018-07-13 12:22:53: Check Point: Line: 3
+2018-07-13 12:22:53: Check Point: Column: LastCertNum
+2018-07-13 12:22:53: Check Point: Value: 3
+2018-07-13 12:22:53: Check Point: Line: 4
+2018-07-13 12:22:53: Check Point: Column: CardCode
+2018-07-13 12:22:53: Check Point: Value: LHW01Z00S
+2018-07-13 12:22:53: Check Point: Line: 5
+2018-07-13 12:22:53: Check Point: Column: CardName
+2018-07-13 12:22:53: Check Point: Value: L H WATERPROOFING SPECIALISTS PTE LTD
+2018-07-13 12:22:53: Check Point: Line: 6
+2018-07-13 12:22:53: Check Point: Column: LastCertTotal
+2018-07-13 12:22:53: Check Point: Value: -3702.740000
+2018-07-13 12:22:53: Check Point: Line: 7
+2018-07-13 12:22:53: Check Point: Column: BQAmt
+2018-07-13 12:22:53: Check Point: Value: 56653.730000
+2018-07-13 12:22:53: Check Point: Line: 8
+2018-07-13 12:22:53: Check Point: Column: PCMSDocNum
+2018-07-13 12:22:53: Check Point: Value: 20070BDS/SC040/004
+2018-07-13 12:22:53: Check Point: Line: 9
+2018-07-13 12:22:53: Check Point: Column: CumRetent
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 10
+2018-07-13 12:22:53: Check Point: Column: DocSubject
+2018-07-13 12:22:53: Check Point: Value: Waterproofing
+2018-07-13 12:22:53: Check Point: Line: 11
+2018-07-13 12:22:53: Check Point: Column: WorkTitle
+2018-07-13 12:22:53: Check Point: Value: Work Done
+2018-07-13 12:22:53: Check Point: Line: 12
+2018-07-13 12:22:53: Check Point: Column: MOSTitle
+2018-07-13 12:22:53: Check Point: Value: Material On Site
+2018-07-13 12:22:53: Check Point: Line: 13
+2018-07-13 12:22:53: Check Point: Column: DWTitle
+2018-07-13 12:22:53: Check Point: Value: Daywork
+2018-07-13 12:22:53: Check Point: Line: 14
+2018-07-13 12:22:53: Check Point: Column: VOTitle
+2018-07-13 12:22:53: Check Point: Value: Variations
+2018-07-13 12:22:53: Check Point: Line: 15
+2018-07-13 12:22:53: Check Point: Column: BRETitle
+2018-07-13 12:22:53: Check Point: Value: Retention
+2018-07-13 12:22:53: Check Point: Line: 16
+2018-07-13 12:22:53: Check Point: Column: CCTitle
+2018-07-13 12:22:53: Check Point: Value: Contra Charge
+2018-07-13 12:22:53: Check Point: Line: 17
+2018-07-13 12:22:53: Check Point: Column: DAPTitle
+2018-07-13 12:22:53: Check Point: Value: Deposit / Advanced payment
+2018-07-13 12:22:53: Check Point: Line: 18
+2018-07-13 12:22:53: Check Point: Column: RDAPTitle
+2018-07-13 12:22:53: Check Point: Value: Refund of Deposit/Adv. payment
+2018-07-13 12:22:53: Check Point: Line: 19
+2018-07-13 12:22:53: Check Point: Column: AppWork
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 20
+2018-07-13 12:22:53: Check Point: Column: AppMOS
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 21
+2018-07-13 12:22:53: Check Point: Column: AppDW
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 22
+2018-07-13 12:22:53: Check Point: Column: AppVO
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 23
+2018-07-13 12:22:53: Check Point: Column: RetenPrcnt
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 24
+2018-07-13 12:22:53: Check Point: Column: RetenMaxAmt
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 25
+2018-07-13 12:22:53: Check Point: Column: GSTPrcnt
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 26
+2018-07-13 12:22:53: Check Point: Column: CumGST
+2018-07-13 12:22:53: Check Point: Value: 
+2018-07-13 12:22:53: Check Point: Line: 27
+2018-07-13 12:22:53: Check Point: Column: PCMSSERV
+2018-07-13 12:22:53: Check Point: Value: HK-T
+2018-07-13 12:22:53: Check Point: select * from QSI12_Work('20070BDS','20070BDS/SC040')
+2018-07-13 12:22:54: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2018-07-13 12:22:54: Check Point: RecCount1
+2018-07-13 12:22:54: Check Point: oRow Lenght: 2
+2018-07-13 12:22:54: Check Point: oRecCount: 1
+2018-07-13 12:22:54: Check Point: Line: 0
+2018-07-13 12:22:54: Check Point: Column: PrjCode
+2018-07-13 12:22:54: Check Point: Value: 20070BDS
+2018-07-13 12:22:54: Check Point: Line: 1
+2018-07-13 12:22:54: Check Point: Column: DocEntry
+2018-07-13 12:22:54: Check Point: Value: 87668
+2018-07-13 12:22:54: Check Point: Line: 2
+2018-07-13 12:22:54: Check Point: Column: LineNum
+2018-07-13 12:22:54: Check Point: Value: 0
+2018-07-13 12:22:54: Check Point: Line: 3
+2018-07-13 12:22:54: Check Point: Column: ItemNum
+2018-07-13 12:22:54: Check Point: Value: 1
+2018-07-13 12:22:54: Check Point: Line: 4
+2018-07-13 12:22:54: Check Point: Column: FullDesc
+2018-07-13 12:22:54: Check Point: Value: Works
+2018-07-13 12:22:54: Check Point: Line: 5
+2018-07-13 12:22:54: Check Point: Column: ItemType
+2018-07-13 12:22:54: Check Point: Value: LS
+2018-07-13 12:22:54: Check Point: Line: 6
+2018-07-13 12:22:54: Check Point: Column: BQQty
+2018-07-13 12:22:54: Check Point: Value: 1.000000
+2018-07-13 12:22:54: Check Point: Line: 7
+2018-07-13 12:22:54: Check Point: Column: UOM
+2018-07-13 12:22:54: Check Point: Value: 
+2018-07-13 12:22:54: Check Point: Line: 8
+2018-07-13 12:22:54: Check Point: Column: Rate
+2018-07-13 12:22:54: Check Point: Value: 56652.730000
+2018-07-13 12:22:54: Check Point: Line: 9
+2018-07-13 12:22:54: Check Point: Column: BQLineTotal
+2018-07-13 12:22:54: Check Point: Value: 56653.730000
+2018-07-13 12:22:54: Check Point: Line: 10
+2018-07-13 12:22:54: Check Point: Column: PreQty
+2018-07-13 12:22:54: Check Point: Value: 0.000000
+2018-07-13 12:22:54: Check Point: Line: 11
+2018-07-13 12:22:54: Check Point: Column: PreLineTotal
+2018-07-13 12:22:54: Check Point: Value: 0.000000
+2018-07-13 12:22:54: Check Point: Line: 12
+2018-07-13 12:22:54: Check Point: Column: AcctCode
+2018-07-13 12:22:54: Check Point: Value: 26S02
+2018-07-13 12:22:54: Check Point: Line: 13
+2018-07-13 12:22:54: Check Point: Column: PCMSDocNum
+2018-07-13 12:22:54: Check Point: Value: 20070BDS/SC040
+2018-07-13 12:22:54: Check Point: select * from QSI12_MOS('20070BDS','20070BDS/SC040')
+2018-07-13 12:22:56: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2018-07-13 12:22:56: Check Point: select * from QSI12_EVO('20070BDS','20070BDS/SC040') ORDER BY EVO_SubLineNum asc
+2018-07-13 12:22:57: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2018-07-13 12:22:57: Check Point: RecCount1
+2018-07-13 12:22:57: Check Point: oRow Lenght: 2
+2018-07-13 12:22:57: Check Point: oRecCount: 1
+2018-07-13 12:22:57: Check Point: Line: 0
+2018-07-13 12:22:57: Check Point: Column: EVO_PrjCode
+2018-07-13 12:22:57: Check Point: Value: 20070BDS
+2018-07-13 12:22:57: Check Point: Line: 1
+2018-07-13 12:22:57: Check Point: Column: EVO_DocEntry
+2018-07-13 12:22:57: Check Point: Value: 1725
+2018-07-13 12:22:57: Check Point: Line: 2
+2018-07-13 12:22:57: Check Point: Column: EVO_LineNum
+2018-07-13 12:22:57: Check Point: Value: 2
+2018-07-13 12:22:57: Check Point: Line: 3
+2018-07-13 12:22:57: Check Point: Column: EVO_ItemNum
+2018-07-13 12:22:57: Check Point: Value: 3
+2018-07-13 12:22:57: Check Point: Line: 4
+2018-07-13 12:22:57: Check Point: Column: EVO_SubLineNum
+2018-07-13 12:22:57: Check Point: Value: 3
+2018-07-13 12:22:57: Check Point: Line: 5
+2018-07-13 12:22:57: Check Point: Column: EVO_FullDesc
+2018-07-13 12:22:57: Check Point: Value: Waterproofing Works VQ
+2018-07-13 12:22:57: Check Point: Line: 6
+2018-07-13 12:22:57: Check Point: Column: EVO_PreLineTotal
+2018-07-13 12:22:57: Check Point: Value: 0.000000
+2018-07-13 12:22:57: Check Point: Line: 7
+2018-07-13 12:22:57: Check Point: Column: EVO_RefNum
+2018-07-13 12:22:57: Check Point: Value: 
+2018-07-13 12:22:57: Check Point: Line: 8
+2018-07-13 12:22:57: Check Point: Column: EVO_AcctCode
+2018-07-13 12:22:57: Check Point: Value: 26S02
+2018-07-13 12:22:57: Check Point: Line: 9
+2018-07-13 12:22:57: Check Point: Column: EVO_Budget
+2018-07-13 12:22:57: Check Point: Value: 0.000000
+2018-07-13 12:22:57: Check Point: Line: 10
+2018-07-13 12:22:57: Check Point: Column: EVO_SCPCMSDocNum
+2018-07-13 12:22:57: Check Point: Value: 20070BDS/SC040
+2018-07-13 12:22:57: Check Point: Line: 11
+2018-07-13 12:22:57: Check Point: Column: EVO_PCMSDocNum
+2018-07-13 12:22:57: Check Point: Value: 20070BDS
+2018-07-13 12:22:57: Check Point: Line: 12
+2018-07-13 12:22:57: Check Point: Column: EVO_Est
+2018-07-13 12:22:57: Check Point: Value: 0.000000
+2018-07-13 12:22:57: Check Point: select * from QSI12_IVO('20070BDS','20070BDS/SC040')
+2018-07-13 12:22:58: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2018-07-13 12:22:58: Check Point: select * from QSI12_CCVO('20070BDS','20070BDS/SC040')

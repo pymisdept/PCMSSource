@@ -1,0 +1,2 @@
+2019-11-14 02:12:05: Check Point: Now is replace: xxxxxx
+2019-11-14 02:12:39: Check Point: Next

@@ -1,0 +1,10 @@
+2012-06-20 02:50:08: Check Point: QSI01_0001
+2012-06-20 02:50:08: Check Point: Define Parameter Variable
+2012-06-20 02:50:08: Check Point: QSI01_0002
+2012-06-20 02:50:08: Check Point: Define Sql Collection
+2012-06-20 02:50:08: Check Point: QSI01_0003
+2012-06-20 02:50:08: Check Point: Import Collection into Excel Application
+2012-06-20 02:50:08: Check Point: Import: RsToCollection
+2012-06-20 02:50:08: Check Point: Select '06006B3H' PRJCODE, 'CARCASS FOR PROP. RESID. DEV. AT FUNG YUEN, TAI PO, N.T.' PRJNAME 
+2012-06-20 02:50:08: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2012-06-20 02:50:08: Check Point: MA008 RecCount1

@@ -1,0 +1,192 @@
+2014-01-13 10:05:04: Check Point: Import: RsToCollection
+2014-01-13 10:05:04: Check Point: select * from QSI12_Cert('14011B3H', 'HIN09Z00S', '14011B3H/SC028') 
+2014-01-13 10:05:06: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:14: Check Point: RecCount1
+2014-01-13 10:05:18: Check Point: oRow Lenght: 1
+2014-01-13 10:05:18: Check Point: oRecCount: 1
+2014-01-13 10:05:35: Check Point: Line: 0
+2014-01-13 10:05:35: Check Point: Column: PrjCode
+2014-01-13 10:05:35: Check Point: Value: 14011B3H
+2014-01-13 10:05:35: Check Point: Line: 1
+2014-01-13 10:05:35: Check Point: Column: PrjDesc
+2014-01-13 10:05:35: Check Point: Value: 14011B3H - COMM. DEV. AT 703-705 NATHAN ROAD, KLN
+2014-01-13 10:05:35: Check Point: Line: 2
+2014-01-13 10:05:35: Check Point: Column: SCNum
+2014-01-13 10:05:35: Check Point: Value: 14011B3H/SC028
+2014-01-13 10:05:35: Check Point: Line: 3
+2014-01-13 10:05:35: Check Point: Column: LastCertNum
+2014-01-13 10:05:35: Check Point: Value: 1
+2014-01-13 10:05:35: Check Point: Line: 4
+2014-01-13 10:05:35: Check Point: Column: CardCode
+2014-01-13 10:05:35: Check Point: Value: HIN09Z00S
+2014-01-13 10:05:35: Check Point: Line: 5
+2014-01-13 10:05:35: Check Point: Column: CardName
+2014-01-13 10:05:35: Check Point: Value: HING LUEN (HK) SCAFFOLDING LTD
+2014-01-13 10:05:35: Check Point: Line: 6
+2014-01-13 10:05:35: Check Point: Column: LastCertTotal
+2014-01-13 10:05:35: Check Point: Value: -23757.460000
+2014-01-13 10:05:35: Check Point: Line: 7
+2014-01-13 10:05:35: Check Point: Column: BQAmt
+2014-01-13 10:05:35: Check Point: Value: 33939.230000
+2014-01-13 10:05:35: Check Point: Line: 8
+2014-01-13 10:05:35: Check Point: Column: PCMSDocNum
+2014-01-13 10:05:35: Check Point: Value: 14011B3H/SC028/002
+2014-01-13 10:05:35: Check Point: Line: 9
+2014-01-13 10:05:35: Check Point: Column: CumRetent
+2014-01-13 10:05:35: Check Point: Value: 0.000000
+2014-01-13 10:05:35: Check Point: Line: 10
+2014-01-13 10:05:35: Check Point: Column: DocSubject
+2014-01-13 10:05:35: Check Point: Value: Scaffolding
+2014-01-13 10:05:35: Check Point: Line: 11
+2014-01-13 10:05:35: Check Point: Column: WorkTitle
+2014-01-13 10:05:35: Check Point: Value: Work Done
+2014-01-13 10:05:35: Check Point: Line: 12
+2014-01-13 10:05:35: Check Point: Column: MOSTitle
+2014-01-13 10:05:35: Check Point: Value: Material On Site
+2014-01-13 10:05:35: Check Point: Line: 13
+2014-01-13 10:05:35: Check Point: Column: DWTitle
+2014-01-13 10:05:35: Check Point: Value: Daywork
+2014-01-13 10:05:35: Check Point: Line: 14
+2014-01-13 10:05:35: Check Point: Column: VOTitle
+2014-01-13 10:05:35: Check Point: Value: Variations
+2014-01-13 10:05:35: Check Point: Line: 15
+2014-01-13 10:05:35: Check Point: Column: BRETitle
+2014-01-13 10:05:35: Check Point: Value: Retention
+2014-01-13 10:05:35: Check Point: Line: 16
+2014-01-13 10:05:35: Check Point: Column: CCTitle
+2014-01-13 10:05:35: Check Point: Value: Contra Charge
+2014-01-13 10:05:35: Check Point: Line: 17
+2014-01-13 10:05:35: Check Point: Column: DAPTitle
+2014-01-13 10:05:35: Check Point: Value: Deposit / Advanced payment
+2014-01-13 10:05:35: Check Point: Line: 18
+2014-01-13 10:05:35: Check Point: Column: RDAPTitle
+2014-01-13 10:05:35: Check Point: Value: Refund of Deposit/Adv. payment
+2014-01-13 10:05:35: Check Point: Line: 19
+2014-01-13 10:05:35: Check Point: Column: AppWork
+2014-01-13 10:05:35: Check Point: Value: 
+2014-01-13 10:05:35: Check Point: Line: 20
+2014-01-13 10:05:35: Check Point: Column: AppMOS
+2014-01-13 10:05:35: Check Point: Value: 
+2014-01-13 10:05:35: Check Point: Line: 21
+2014-01-13 10:05:35: Check Point: Column: AppDW
+2014-01-13 10:05:35: Check Point: Value: 
+2014-01-13 10:05:35: Check Point: Line: 22
+2014-01-13 10:05:35: Check Point: Column: AppVO
+2014-01-13 10:05:35: Check Point: Value: 
+2014-01-13 10:05:35: Check Point: Line: 23
+2014-01-13 10:05:35: Check Point: Column: RetenPrcnt
+2014-01-13 10:05:35: Check Point: Value: 
+2014-01-13 10:05:35: Check Point: Line: 24
+2014-01-13 10:05:35: Check Point: Column: RetenMaxAmt
+2014-01-13 10:05:35: Check Point: Value: 
+2014-01-13 10:05:38: Check Point: select * from QSI12_Work('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:40: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:46: Check Point: RecCount1
+2014-01-13 10:05:46: Check Point: oRow Lenght: 2
+2014-01-13 10:05:46: Check Point: oRecCount: 1
+2014-01-13 10:05:46: Check Point: Line: 0
+2014-01-13 10:05:46: Check Point: Column: PrjCode
+2014-01-13 10:05:46: Check Point: Value: 14011B3H
+2014-01-13 10:05:46: Check Point: Line: 1
+2014-01-13 10:05:46: Check Point: Column: DocEntry
+2014-01-13 10:05:46: Check Point: Value: 41949
+2014-01-13 10:05:46: Check Point: Line: 2
+2014-01-13 10:05:46: Check Point: Column: LineNum
+2014-01-13 10:05:46: Check Point: Value: 0
+2014-01-13 10:05:46: Check Point: Line: 3
+2014-01-13 10:05:46: Check Point: Column: ItemNum
+2014-01-13 10:05:46: Check Point: Value: 1.
+2014-01-13 10:05:46: Check Point: Line: 4
+2014-01-13 10:05:46: Check Point: Column: FullDesc
+2014-01-13 10:05:46: Check Point: Value: Provide scaffolding for replacement of aluminium cladding
+2014-01-13 10:05:46: Check Point: Line: 5
+2014-01-13 10:05:46: Check Point: Column: ItemType
+2014-01-13 10:05:46: Check Point: Value: LS
+2014-01-13 10:05:46: Check Point: Line: 6
+2014-01-13 10:05:46: Check Point: Column: BQQty
+2014-01-13 10:05:46: Check Point: Value: 1.000000
+2014-01-13 10:05:46: Check Point: Line: 7
+2014-01-13 10:05:46: Check Point: Column: UOM
+2014-01-13 10:05:46: Check Point: Value: Sum
+2014-01-13 10:05:46: Check Point: Line: 8
+2014-01-13 10:05:46: Check Point: Column: Rate
+2014-01-13 10:05:46: Check Point: Value: 34688.500000
+2014-01-13 10:05:46: Check Point: Line: 9
+2014-01-13 10:05:46: Check Point: Column: BQLineTotal
+2014-01-13 10:05:46: Check Point: Value: 34688.500000
+2014-01-13 10:05:46: Check Point: Line: 10
+2014-01-13 10:05:46: Check Point: Column: PreQty
+2014-01-13 10:05:46: Check Point: Value: 0.000000
+2014-01-13 10:05:46: Check Point: Line: 11
+2014-01-13 10:05:46: Check Point: Column: PreLineTotal
+2014-01-13 10:05:46: Check Point: Value: 24281.950000
+2014-01-13 10:05:46: Check Point: Line: 12
+2014-01-13 10:05:46: Check Point: Column: AcctCode
+2014-01-13 10:05:46: Check Point: Value: 97S99
+2014-01-13 10:05:46: Check Point: Line: 13
+2014-01-13 10:05:46: Check Point: Column: PCMSDocNum
+2014-01-13 10:05:46: Check Point: Value: 14011B3H/SC028
+2014-01-13 10:05:46: Check Point: RecCount2
+2014-01-13 10:05:46: Check Point: oRow Lenght: 2
+2014-01-13 10:05:46: Check Point: oRecCount: 2
+2014-01-13 10:05:46: Check Point: Line: 0
+2014-01-13 10:05:46: Check Point: Column: PrjCode
+2014-01-13 10:05:46: Check Point: Value: 14011B3H
+2014-01-13 10:05:46: Check Point: Line: 1
+2014-01-13 10:05:46: Check Point: Column: DocEntry
+2014-01-13 10:05:46: Check Point: Value: 41949
+2014-01-13 10:05:46: Check Point: Line: 2
+2014-01-13 10:05:46: Check Point: Column: LineNum
+2014-01-13 10:05:46: Check Point: Value: 1
+2014-01-13 10:05:46: Check Point: Line: 3
+2014-01-13 10:05:46: Check Point: Column: ItemNum
+2014-01-13 10:05:46: Check Point: Value: 2.
+2014-01-13 10:05:46: Check Point: Line: 4
+2014-01-13 10:05:46: Check Point: Column: FullDesc
+2014-01-13 10:05:46: Check Point: Value: Contract discount 2.16%
+2014-01-13 10:05:46: Check Point: Line: 5
+2014-01-13 10:05:46: Check Point: Column: ItemType
+2014-01-13 10:05:46: Check Point: Value: LS
+2014-01-13 10:05:46: Check Point: Line: 6
+2014-01-13 10:05:46: Check Point: Column: BQQty
+2014-01-13 10:05:46: Check Point: Value: 1.000000
+2014-01-13 10:05:46: Check Point: Line: 7
+2014-01-13 10:05:46: Check Point: Column: UOM
+2014-01-13 10:05:46: Check Point: Value: sum
+2014-01-13 10:05:46: Check Point: Line: 8
+2014-01-13 10:05:46: Check Point: Column: Rate
+2014-01-13 10:05:46: Check Point: Value: -749.270000
+2014-01-13 10:05:46: Check Point: Line: 9
+2014-01-13 10:05:46: Check Point: Column: BQLineTotal
+2014-01-13 10:05:46: Check Point: Value: -749.270000
+2014-01-13 10:05:46: Check Point: Line: 10
+2014-01-13 10:05:46: Check Point: Column: PreQty
+2014-01-13 10:05:46: Check Point: Value: 0.000000
+2014-01-13 10:05:46: Check Point: Line: 11
+2014-01-13 10:05:46: Check Point: Column: PreLineTotal
+2014-01-13 10:05:46: Check Point: Value: -524.490000
+2014-01-13 10:05:46: Check Point: Line: 12
+2014-01-13 10:05:46: Check Point: Column: AcctCode
+2014-01-13 10:05:46: Check Point: Value: 97S99
+2014-01-13 10:05:46: Check Point: Line: 13
+2014-01-13 10:05:46: Check Point: Column: PCMSDocNum
+2014-01-13 10:05:46: Check Point: Value: 14011B3H/SC028
+2014-01-13 10:05:46: Check Point: select * from QSI12_MOS('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:48: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:48: Check Point: select * from QSI12_EVO('14011B3H','14011B3H/SC028') ORDER BY EVO_SubLineNum asc
+2014-01-13 10:05:50: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:50: Check Point: select * from QSI12_IVO('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:51: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:51: Check Point: select * from QSI12_CCVO('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:52: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:52: Check Point: select * from QSI12_EDW('14011B3H','14011B3H/SC028') ORDER BY EDW_SubLineNum asc
+2014-01-13 10:05:54: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:54: Check Point: select * from QSI12_IDW('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:55: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:55: Check Point: select * from QSI12_CCDW('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:56: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:56: Check Point: select * from QSI12_CC('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:56: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:56: Check Point: select * from QSI12_DAP('14011B3H','14011B3H/SC028')
+2014-01-13 10:05:57: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2014-01-13 10:05:57: Check Point: select * from QSI12_Approval('14011B3H','14011B3H/SC028')

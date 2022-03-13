@@ -1,0 +1,2 @@
+2019-11-13 03:55:56: Check Point: Import: Open Workbook
+2019-11-13 03:55:56: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\PUI01.xlsm

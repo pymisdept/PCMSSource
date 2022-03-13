@@ -1,0 +1,9 @@
+2019-11-12 04:30:42: Check Point: Import: RsToCollection
+2019-11-12 04:30:42: Check Point: Select '00000BFM' PRJCODE, 'PAUL Y. - YAU LEE JOINT VENTURE (BLDG)' PRJDesc, 'Paul Y. - Yau Lee Joint Venture' as SubsiName
+2019-11-12 04:30:42: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 04:30:43: Check Point: SELECT PYMNTGROUP AS List_PYMNTGROUP FROM OCTG
+2019-11-12 04:30:43: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 04:30:43: Check Point: SELECT ITEMCODE AS LIST_ITEMCODE,ITEMNAME AS LIST_ITEMNAME FROM CPS_VIEW_MATERIALLIST
+2019-11-12 04:30:43: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-12 04:30:46: Check Point: SELECT CARDCODE AS LIST_CARDCODE, CARDNAME AS LIST_CARDNAME, CardAddrs as List_CardAddrs FROM CPS_VIEW_MATERIALSUPPLIERLIST
+2019-11-12 04:30:46: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

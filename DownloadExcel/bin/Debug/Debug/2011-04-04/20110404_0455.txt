@@ -1,0 +1,10 @@
+2011-04-04 04:55:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-04-04 04:55:09: Check Point: RecCount1
+2011-04-04 04:55:12: Check Point: oRow Lenght: 1
+2011-04-04 04:55:12: Check Point: oRecCount: 1
+2011-04-04 04:55:17: Check Point: Line: 0
+2011-04-04 04:55:17: Check Point: Column: PRJCODE
+2011-04-04 04:55:17: Check Point: Value: 96012I1H
+2011-04-04 04:55:24: Check Point: Line: 1
+2011-04-04 04:55:24: Check Point: Column: PRJNAME
+2011-04-04 04:55:25: Check Point: Value: Shop 208 OF Cyberport Arcade

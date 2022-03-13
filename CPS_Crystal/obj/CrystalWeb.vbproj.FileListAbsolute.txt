@@ -1,0 +1,9 @@
+E:\B1 Program\CrystalWeb\bin\CrystalWeb.dll
+E:\B1 Program\CrystalWeb\bin\CrystalWeb.pdb
+E:\B1 Program\CrystalWeb\bin\CrystalWeb.xml
+E:\B1 Program\CrystalWeb\obj\Debug\ResolveAssemblyReference.cache
+E:\B1 Program\CrystalWeb\obj\Debug\CrystalWeb.Resources.resources
+E:\B1 Program\CrystalWeb\obj\Debug\CrystalWeb.vbproj.GenerateResource.Cache
+E:\B1 Program\CrystalWeb\obj\Debug\CrystalWeb.dll
+E:\B1 Program\CrystalWeb\obj\Debug\CrystalWeb.xml
+E:\B1 Program\CrystalWeb\obj\Debug\CrystalWeb.pdb

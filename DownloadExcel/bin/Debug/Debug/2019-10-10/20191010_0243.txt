@@ -1,0 +1,37 @@
+2019-10-10 02:43:02: Check Point: Import: ReplaceAllData
+2019-10-10 02:43:03: Check Point: Now is replace: Sheet1
+2019-10-10 02:43:03: Check Point: Next
+2019-10-10 02:43:03: Check Point: Now is replace: Sheet2
+2019-10-10 02:43:03: Check Point: Next
+2019-10-10 02:43:03: Check Point: Now is replace: Sheet3
+2019-10-10 02:43:03: Check Point: Next
+2019-10-10 02:43:04: Check Point: Import: ProtectSheet
+2019-10-10 02:43:15: Check Point: Import: Save
+2019-10-10 02:43:20: Check Point: Import: Close
+2019-10-10 02:43:20: Check Point: Import: Closed
+2019-10-10 02:43:20: Check Point: QSI18_0003
+2019-10-10 02:43:20: Check Point: Update dlnmgr table path and filename field
+2019-10-10 02:43:23: Check Point: Import: RsToCollection
+2019-10-10 02:43:23: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('80605E1H', 'GEN01Z00S', '80605E1H/SC001') 
+2019-10-10 02:43:30: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:31: Check Point: select * from QSI12_Work('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:34: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:34: Check Point: select * from QSI12_MOS('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:37: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:37: Check Point: select * from QSI12_EVO('80605E1H','80605E1H/SC001') ORDER BY EVO_SubLineNum asc
+2019-10-10 02:43:40: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:40: Check Point: select * from QSI12_IVO('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:42: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:42: Check Point: select * from QSI12_CCVO('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:45: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:45: Check Point: select * from QSI12_EDW('80605E1H','80605E1H/SC001') ORDER BY EDW_SubLineNum asc
+2019-10-10 02:43:48: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:48: Check Point: select * from QSI12_IDW('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:51: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:51: Check Point: select * from QSI12_CCDW('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:54: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:54: Check Point: select * from QSI12_CC('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:57: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:57: Check Point: select * from QSI12_DAP('80605E1H','80605E1H/SC001')
+2019-10-10 02:43:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-10-10 02:43:59: Check Point: select * from QSI12_Approval('80605E1H','80605E1H/SC001')

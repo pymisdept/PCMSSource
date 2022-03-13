@@ -1,0 +1,2 @@
+2013-10-22 06:28:48: Check Point: Select '20055BAH' PRJCODE, '20055BAH ' + ' - ' + 'TUEN MUN SWIMMING POOL (SAN WAI COURT)' PrjDesc
+2013-10-22 06:28:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

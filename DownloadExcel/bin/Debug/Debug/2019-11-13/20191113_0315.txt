@@ -1,0 +1,6 @@
+2019-11-13 03:15:15: Check Point: Import: Open Workbook
+2019-11-13 03:15:15: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\PUI01.xlsm
+2019-11-13 03:15:20: Check Point: Import: UnProtectSheet
+2019-11-13 03:15:30: Check Point: Import: BreakLinked
+2019-11-13 03:15:30: Check Point: Import: ReplaceAllData
+2019-11-13 03:15:34: Check Point: Now is replace: Form

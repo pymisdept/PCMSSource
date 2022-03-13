@@ -1,0 +1,508 @@
+2016-06-03 04:18:18: Check Point: Import: RsToCollection
+2016-06-03 04:18:18: Check Point: select * from QSI17_Cover ('03049CJM')
+2016-06-03 04:18:23: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2016-06-03 04:18:23: Check Point: RecCount1
+2016-06-03 04:18:23: Check Point: oRow Lenght: 1
+2016-06-03 04:18:23: Check Point: oRecCount: 1
+2016-06-03 04:18:24: Check Point: Line: 0
+2016-06-03 04:18:24: Check Point: Column: PrjCode
+2016-06-03 04:18:24: Check Point: Value: 03049CJM
+2016-06-03 04:18:24: Check Point: Line: 1
+2016-06-03 04:18:24: Check Point: Column: PrjDesc
+2016-06-03 04:18:24: Check Point: Value: 03049CJM - (PACKAGE WP-03&06) FOR DIAPHRAGM WALL AND FOUNDATION WORKS FOR LOUIS XIII HOTEL, MACAU
+2016-06-03 04:18:24: Check Point: Line: 2
+2016-06-03 04:18:24: Check Point: Column: DocCur
+2016-06-03 04:18:24: Check Point: Value: HKD
+2016-06-03 04:18:24: Check Point: Line: 3
+2016-06-03 04:18:24: Check Point: Column: Control
+2016-06-03 04:18:24: Check Point: Value: C
+2016-06-03 04:18:24: Check Point: Line: 4
+2016-06-03 04:18:24: Check Point: Column: AppNum
+2016-06-03 04:18:24: Check Point: Value: 19
+2016-06-03 04:18:24: Check Point: Line: 5
+2016-06-03 04:18:24: Check Point: Column: LastCertNum
+2016-06-03 04:18:24: Check Point: Value: 18
+2016-06-03 04:18:24: Check Point: Line: 6
+2016-06-03 04:18:24: Check Point: Column: PreDocTotal
+2016-06-03 04:18:24: Check Point: Value: -370738208.500000
+2016-06-03 04:18:24: Check Point: Line: 7
+2016-06-03 04:18:24: Check Point: Column: DISTitle
+2016-06-03 04:18:24: Check Point: Value: Discount
+2016-06-03 04:18:24: Check Point: Line: 8
+2016-06-03 04:18:24: Check Point: Column: SUPTitle
+2016-06-03 04:18:24: Check Point: Value: Supplimentary Agreement
+2016-06-03 04:18:24: Check Point: Line: 9
+2016-06-03 04:18:24: Check Point: Column: MOSTitle
+2016-06-03 04:18:24: Check Point: Value: Gross value of Material (On Site)
+2016-06-03 04:18:24: Check Point: Line: 10
+2016-06-03 04:18:24: Check Point: Column: MFSTitle
+2016-06-03 04:18:24: Check Point: Value: Gross value of Material (Off Site)
+2016-06-03 04:18:24: Check Point: Line: 11
+2016-06-03 04:18:24: Check Point: Column: VOTitle
+2016-06-03 04:18:24: Check Point: Value: Add: Gross value of Variation Orders
+2016-06-03 04:18:24: Check Point: Line: 12
+2016-06-03 04:18:24: Check Point: Column: DWTitle
+2016-06-03 04:18:24: Check Point: Value: Add: Gross value of Dayworks
+2016-06-03 04:18:24: Check Point: Line: 13
+2016-06-03 04:18:24: Check Point: Column: CLTitle
+2016-06-03 04:18:24: Check Point: Value: Add: Gross value of Cost Claims
+2016-06-03 04:18:24: Check Point: Line: 14
+2016-06-03 04:18:24: Check Point: Column: PCTitle
+2016-06-03 04:18:24: Check Point: Value: Bill 11 - Prime Cost - NSC
+2016-06-03 04:18:24: Check Point: Line: 15
+2016-06-03 04:18:24: Check Point: Column: FLUTitle
+2016-06-03 04:18:24: Check Point: Value: Add:  Fluctuation
+2016-06-03 04:18:24: Check Point: Line: 16
+2016-06-03 04:18:24: Check Point: Column: LDTitle
+2016-06-03 04:18:24: Check Point: Value: Less: LD
+2016-06-03 04:18:24: Check Point: Line: 17
+2016-06-03 04:18:24: Check Point: Column: DEDTitle
+2016-06-03 04:18:24: Check Point: Value: Less: Client's Deduction
+2016-06-03 04:18:24: Check Point: Line: 18
+2016-06-03 04:18:24: Check Point: Column: BRETitle
+2016-06-03 04:18:24: Check Point: Value: Less: Retention for Builder
+2016-06-03 04:18:24: Check Point: Line: 19
+2016-06-03 04:18:24: Check Point: Column: NRETitle
+2016-06-03 04:18:24: Check Point: Value: Less: Retention for NSC
+2016-06-03 04:18:24: Check Point: Line: 20
+2016-06-03 04:18:24: Check Point: Column: ADJTitle
+2016-06-03 04:18:24: Check Point: Value: Less: Figures Rounding Adjustment
+2016-06-03 04:18:24: Check Point: Line: 21
+2016-06-03 04:18:24: Check Point: Column: DEPTitle
+2016-06-03 04:18:24: Check Point: Value: Add: Deposit / Advance Payment
+2016-06-03 04:18:24: Check Point: Line: 22
+2016-06-03 04:18:24: Check Point: Column: REPTitle
+2016-06-03 04:18:24: Check Point: Value: Less: Repayment of Deposit / Advance Payment
+2016-06-03 04:18:24: Check Point: Line: 23
+2016-06-03 04:18:24: Check Point: Column: DISAmt
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 24
+2016-06-03 04:18:24: Check Point: Column: SUPAmt
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 25
+2016-06-03 04:18:24: Check Point: Column: PCAmt
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 26
+2016-06-03 04:18:24: Check Point: Column: LastAppDIS
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 27
+2016-06-03 04:18:24: Check Point: Column: LastAppSUP
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 28
+2016-06-03 04:18:24: Check Point: Column: LastAppMOS
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 29
+2016-06-03 04:18:24: Check Point: Column: LastAppMFS
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 30
+2016-06-03 04:18:24: Check Point: Column: LastAppEVO
+2016-06-03 04:18:24: Check Point: Value: 64560928.990000
+2016-06-03 04:18:24: Check Point: Line: 31
+2016-06-03 04:18:24: Check Point: Column: LastAppEDW
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 32
+2016-06-03 04:18:24: Check Point: Column: LastAppECL
+2016-06-03 04:18:24: Check Point: Value: 14455444.000000
+2016-06-03 04:18:24: Check Point: Line: 33
+2016-06-03 04:18:24: Check Point: Column: LastAppPC
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 34
+2016-06-03 04:18:24: Check Point: Column: LastAppFLU
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 35
+2016-06-03 04:18:24: Check Point: Column: LastAppLD
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 36
+2016-06-03 04:18:24: Check Point: Column: LastAppDED
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 37
+2016-06-03 04:18:24: Check Point: Column: LastAppBRE
+2016-06-03 04:18:24: Check Point: Value: -6927500.000000
+2016-06-03 04:18:24: Check Point: Line: 38
+2016-06-03 04:18:24: Check Point: Column: LastAppNRE
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 39
+2016-06-03 04:18:24: Check Point: Column: LastAppADJ
+2016-06-03 04:18:24: Check Point: Value: 443.180000
+2016-06-03 04:18:24: Check Point: Line: 40
+2016-06-03 04:18:24: Check Point: Column: LastAppDEP
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 41
+2016-06-03 04:18:24: Check Point: Column: LastAppREP
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 42
+2016-06-03 04:18:24: Check Point: Column: LastAppRetenPrcnt
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: Line: 43
+2016-06-03 04:18:24: Check Point: Column: LastAppRetenMaxAmt
+2016-06-03 04:18:24: Check Point: Value: 0.000000
+2016-06-03 04:18:24: Check Point: select * from QSI17_Work ('03049CJM')
+2016-06-03 04:18:26: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2016-06-03 04:18:26: Check Point: RecCount1
+2016-06-03 04:18:26: Check Point: oRow Lenght: 2
+2016-06-03 04:18:26: Check Point: oRecCount: 1
+2016-06-03 04:18:26: Check Point: Line: 0
+2016-06-03 04:18:26: Check Point: Column: PrjCode
+2016-06-03 04:18:26: Check Point: Value: 03049CJM
+2016-06-03 04:18:26: Check Point: Line: 1
+2016-06-03 04:18:26: Check Point: Column: PrjDesc
+2016-06-03 04:18:26: Check Point: Value: 03049CJM - (PACKAGE WP-03&06) FOR DIAPHRAGM WALL AND FOUNDATION WORKS FOR LOUIS XIII HOTEL, MACAU
+2016-06-03 04:18:26: Check Point: Line: 2
+2016-06-03 04:18:26: Check Point: Column: IPCode
+2016-06-03 04:18:26: Check Point: Value: 1
+2016-06-03 04:18:26: Check Point: Line: 3
+2016-06-03 04:18:26: Check Point: Column: IPDesc
+2016-06-03 04:18:26: Check Point: Value: Preliminaries
+2016-06-03 04:18:26: Check Point: Line: 4
+2016-06-03 04:18:26: Check Point: Column: IPAmt
+2016-06-03 04:18:26: Check Point: Value: 24070000.000000
+2016-06-03 04:18:26: Check Point: Line: 5
+2016-06-03 04:18:26: Check Point: Column: PreIPTotal
+2016-06-03 04:18:26: Check Point: Value: 43369383.900000
+2016-06-03 04:18:26: Check Point: Line: 6
+2016-06-03 04:18:26: Check Point: Column: BillNum
+2016-06-03 04:18:26: Check Point: Value: 1
+2016-06-03 04:18:26: Check Point: Line: 7
+2016-06-03 04:18:26: Check Point: Column: IPDocEntry
+2016-06-03 04:18:26: Check Point: Value: 194
+2016-06-03 04:18:26: Check Point: RecCount2
+2016-06-03 04:18:26: Check Point: oRow Lenght: 2
+2016-06-03 04:18:26: Check Point: oRecCount: 2
+2016-06-03 04:18:26: Check Point: Line: 0
+2016-06-03 04:18:26: Check Point: Column: PrjCode
+2016-06-03 04:18:26: Check Point: Value: 03049CJM
+2016-06-03 04:18:26: Check Point: Line: 1
+2016-06-03 04:18:26: Check Point: Column: PrjDesc
+2016-06-03 04:18:26: Check Point: Value: 03049CJM - (PACKAGE WP-03&06) FOR DIAPHRAGM WALL AND FOUNDATION WORKS FOR LOUIS XIII HOTEL, MACAU
+2016-06-03 04:18:26: Check Point: Line: 2
+2016-06-03 04:18:26: Check Point: Column: IPCode
+2016-06-03 04:18:26: Check Point: Value: 3
+2016-06-03 04:18:26: Check Point: Line: 3
+2016-06-03 04:18:26: Check Point: Column: IPDesc
+2016-06-03 04:18:26: Check Point: Value: Diaphragm Wall
+2016-06-03 04:18:26: Check Point: Line: 4
+2016-06-03 04:18:26: Check Point: Column: IPAmt
+2016-06-03 04:18:26: Check Point: Value: 147560000.000000
+2016-06-03 04:18:26: Check Point: Line: 5
+2016-06-03 04:18:26: Check Point: Column: PreIPTotal
+2016-06-03 04:18:26: Check Point: Value: 176413893.370000
+2016-06-03 04:18:26: Check Point: Line: 6
+2016-06-03 04:18:26: Check Point: Column: BillNum
+2016-06-03 04:18:26: Check Point: Value: 3
+2016-06-03 04:18:26: Check Point: Line: 7
+2016-06-03 04:18:26: Check Point: Column: IPDocEntry
+2016-06-03 04:18:26: Check Point: Value: 194
+2016-06-03 04:18:26: Check Point: RecCount3
+2016-06-03 04:18:26: Check Point: oRow Lenght: 3
+2016-06-03 04:18:26: Check Point: oRecCount: 3
+2016-06-03 04:18:26: Check Point: Line: 0
+2016-06-03 04:18:26: Check Point: Column: PrjCode
+2016-06-03 04:18:26: Check Point: Value: 03049CJM
+2016-06-03 04:18:26: Check Point: Line: 1
+2016-06-03 04:18:26: Check Point: Column: PrjDesc
+2016-06-03 04:18:26: Check Point: Value: 03049CJM - (PACKAGE WP-03&06) FOR DIAPHRAGM WALL AND FOUNDATION WORKS FOR LOUIS XIII HOTEL, MACAU
+2016-06-03 04:18:26: Check Point: Line: 2
+2016-06-03 04:18:26: Check Point: Column: IPCode
+2016-06-03 04:18:26: Check Point: Value: 4
+2016-06-03 04:18:26: Check Point: Line: 3
+2016-06-03 04:18:26: Check Point: Column: IPDesc
+2016-06-03 04:18:26: Check Point: Value: Bored Pile
+2016-06-03 04:18:26: Check Point: Line: 4
+2016-06-03 04:18:26: Check Point: Column: IPAmt
+2016-06-03 04:18:26: Check Point: Value: 93360000.000000
+2016-06-03 04:18:26: Check Point: Line: 5
+2016-06-03 04:18:26: Check Point: Column: PreIPTotal
+2016-06-03 04:18:26: Check Point: Value: 108241810.840000
+2016-06-03 04:18:26: Check Point: Line: 6
+2016-06-03 04:18:26: Check Point: Column: BillNum
+2016-06-03 04:18:26: Check Point: Value: 4
+2016-06-03 04:18:26: Check Point: Line: 7
+2016-06-03 04:18:26: Check Point: Column: IPDocEntry
+2016-06-03 04:18:26: Check Point: Value: 194
+2016-06-03 04:18:26: Check Point: RecCount4
+2016-06-03 04:18:26: Check Point: oRow Lenght: 4
+2016-06-03 04:18:26: Check Point: oRecCount: 4
+2016-06-03 04:18:26: Check Point: Line: 0
+2016-06-03 04:18:26: Check Point: Column: PrjCode
+2016-06-03 04:18:26: Check Point: Value: 03049CJM
+2016-06-03 04:18:26: Check Point: Line: 1
+2016-06-03 04:18:26: Check Point: Column: PrjDesc
+2016-06-03 04:18:26: Check Point: Value: 03049CJM - (PACKAGE WP-03&06) FOR DIAPHRAGM WALL AND FOUNDATION WORKS FOR LOUIS XIII HOTEL, MACAU
+2016-06-03 04:18:26: Check Point: Line: 2
+2016-06-03 04:18:26: Check Point: Column: IPCode
+2016-06-03 04:18:26: Check Point: Value: 5
+2016-06-03 04:18:26: Check Point: Line: 3
+2016-06-03 04:18:26: Check Point: Column: IPDesc
+2016-06-03 04:18:26: Check Point: Value: Monitoring and Instrumentation
+2016-06-03 04:18:26: Check Point: Line: 4
+2016-06-03 04:18:26: Check Point: Column: IPAmt
+2016-06-03 04:18:26: Check Point: Value: 1110000.000000
+2016-06-03 04:18:26: Check Point: Line: 5
+2016-06-03 04:18:26: Check Point: Column: PreIPTotal
+2016-06-03 04:18:26: Check Point: Value: 2854055.720000
+2016-06-03 04:18:26: Check Point: Line: 6
+2016-06-03 04:18:26: Check Point: Column: BillNum
+2016-06-03 04:18:26: Check Point: Value: 5
+2016-06-03 04:18:26: Check Point: Line: 7
+2016-06-03 04:18:26: Check Point: Column: IPDocEntry
+2016-06-03 04:18:26: Check Point: Value: 194
+2016-06-03 04:18:26: Check Point: RecCount5
+2016-06-03 04:18:26: Check Point: oRow Lenght: 5
+2016-06-03 04:18:26: Check Point: oRecCount: 5
+2016-06-03 04:18:26: Check Point: Line: 0
+2016-06-03 04:18:26: Check Point: Column: PrjCode
+2016-06-03 04:18:26: Check Point: Value: 03049CJM
+2016-06-03 04:18:26: Check Point: Line: 1
+2016-06-03 04:18:26: Check Point: Column: PrjDesc
+2016-06-03 04:18:26: Check Point: Value: 03049CJM - (PACKAGE WP-03&06) FOR DIAPHRAGM WALL AND FOUNDATION WORKS FOR LOUIS XIII HOTEL, MACAU
+2016-06-03 04:18:26: Check Point: Line: 2
+2016-06-03 04:18:26: Check Point: Column: IPCode
+2016-06-03 04:18:26: Check Point: Value: 6
+2016-06-03 04:18:26: Check Point: Line: 3
+2016-06-03 04:18:26: Check Point: Column: IPDesc
+2016-06-03 04:18:26: Check Point: Value: Earthing System
+2016-06-03 04:18:26: Check Point: Line: 4
+2016-06-03 04:18:26: Check Point: Column: IPAmt
+2016-06-03 04:18:26: Check Point: Value: 470000.000000
+2016-06-03 04:18:26: Check Point: Line: 5
+2016-06-03 04:18:26: Check Point: Column: PreIPTotal
+2016-06-03 04:18:26: Check Point: Value: 0.000000
+2016-06-03 04:18:26: Check Point: Line: 6
+2016-06-03 04:18:26: Check Point: Column: BillNum
+2016-06-03 04:18:26: Check Point: Value: 6
+2016-06-03 04:18:26: Check Point: Line: 7
+2016-06-03 04:18:26: Check Point: Column: IPDocEntry
+2016-06-03 04:18:26: Check Point: Value: 194
+2016-06-03 04:18:26: Check Point: RecCount6
+2016-06-03 04:18:26: Check Point: oRow Lenght: 6
+2016-06-03 04:18:26: Check Point: oRecCount: 6
+2016-06-03 04:18:26: Check Point: Line: 0
+2016-06-03 04:18:26: Check Point: Column: PrjCode
+2016-06-03 04:18:26: Check Point: Value: 03049CJM
+2016-06-03 04:18:26: Check Point: Line: 1
+2016-06-03 04:18:26: Check Point: Column: PrjDesc
+2016-06-03 04:18:26: Check Point: Value: 03049CJM - (PACKAGE WP-03&06) FOR DIAPHRAGM WALL AND FOUNDATION WORKS FOR LOUIS XIII HOTEL, MACAU
+2016-06-03 04:18:26: Check Point: Line: 2
+2016-06-03 04:18:26: Check Point: Column: IPCode
+2016-06-03 04:18:26: Check Point: Value: 7
+2016-06-03 04:18:26: Check Point: Line: 3
+2016-06-03 04:18:26: Check Point: Column: IPDesc
+2016-06-03 04:18:26: Check Point: Value: Installation of Stanchion
+2016-06-03 04:18:26: Check Point: Line: 4
+2016-06-03 04:18:26: Check Point: Column: IPAmt
+2016-06-03 04:18:26: Check Point: Value: 10530000.000000
+2016-06-03 04:18:26: Check Point: Line: 5
+2016-06-03 04:18:26: Check Point: Column: PreIPTotal
+2016-06-03 04:18:26: Check Point: Value: 11921540.000000
+2016-06-03 04:18:26: Check Point: Line: 6
+2016-06-03 04:18:26: Check Point: Column: BillNum
+2016-06-03 04:18:26: Check Point: Value: 7
+2016-06-03 04:18:26: Check Point: Line: 7
+2016-06-03 04:18:26: Check Point: Column: IPDocEntry
+2016-06-03 04:18:26: Check Point: Value: 194
+2016-06-03 04:18:26: Check Point: select * from QSI17_MOS ('03049CJM')
+2016-06-03 04:18:29: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2016-06-03 04:18:29: Check Point: select * from QSI17_EVO ('03049CJM')
+2016-06-03 04:18:31: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2016-06-03 04:18:31: Check Point: RecCount1
+2016-06-03 04:18:31: Check Point: oRow Lenght: 7
+2016-06-03 04:18:31: Check Point: oRecCount: 1
+2016-06-03 04:18:31: Check Point: Line: 0
+2016-06-03 04:18:31: Check Point: Column: EVO_PrjCode
+2016-06-03 04:18:31: Check Point: Value: 03049CJM
+2016-06-03 04:18:31: Check Point: Line: 1
+2016-06-03 04:18:31: Check Point: Column: EVO_DocEntry
+2016-06-03 04:18:31: Check Point: Value: 1808
+2016-06-03 04:18:31: Check Point: Line: 2
+2016-06-03 04:18:31: Check Point: Column: EVO_LineNum
+2016-06-03 04:18:31: Check Point: Value: 17
+2016-06-03 04:18:31: Check Point: Line: 3
+2016-06-03 04:18:31: Check Point: Column: EVO_ItemNum
+2016-06-03 04:18:31: Check Point: Value: 1
+2016-06-03 04:18:31: Check Point: Line: 4
+2016-06-03 04:18:31: Check Point: Column: EVO_SubLineNum
+2016-06-03 04:18:31: Check Point: Value: 1
+2016-06-03 04:18:31: Check Point: Line: 5
+2016-06-03 04:18:31: Check Point: Column: EVO_FullDesc
+2016-06-03 04:18:31: Check Point: Value: Variation - General Subcontractor Cost
+2016-06-03 04:18:31: Check Point: Line: 6
+2016-06-03 04:18:31: Check Point: Column: EVO_PreLineTotal
+2016-06-03 04:18:31: Check Point: Value: 64560928.990000
+2016-06-03 04:18:31: Check Point: Line: 7
+2016-06-03 04:18:31: Check Point: Column: EVO_RefNum
+2016-06-03 04:18:31: Check Point: Value: 
+2016-06-03 04:18:31: Check Point: Line: 8
+2016-06-03 04:18:31: Check Point: Column: EVO_AcctCode
+2016-06-03 04:18:31: Check Point: Value: Z0201
+2016-06-03 04:18:31: Check Point: Line: 9
+2016-06-03 04:18:31: Check Point: Column: EVO_Budget
+2016-06-03 04:18:31: Check Point: Value: 0.000000
+2016-06-03 04:18:31: Check Point: Line: 10
+2016-06-03 04:18:31: Check Point: Column: EVO_SCPCMSDocNum
+2016-06-03 04:18:31: Check Point: Value: 03049CJM
+2016-06-03 04:18:31: Check Point: Line: 11
+2016-06-03 04:18:31: Check Point: Column: EVO_PCMSDocNum
+2016-06-03 04:18:31: Check Point: Value: 03049CJM/018
+2016-06-03 04:18:31: Check Point: select * from QSI17_EDW ('03049CJM')
+2016-06-03 04:18:34: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2016-06-03 04:18:34: Check Point: select * from QSI17_ECL ('03049CJM')
+2016-06-03 04:18:36: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2016-06-03 04:18:36: Check Point: RecCount1
+2016-06-03 04:18:36: Check Point: oRow Lenght: 7
+2016-06-03 04:18:36: Check Point: oRecCount: 1
+2016-06-03 04:18:36: Check Point: Line: 0
+2016-06-03 04:18:36: Check Point: Column: ECL_PrjCode
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 1
+2016-06-03 04:18:36: Check Point: Column: ECL_DocEntry
+2016-06-03 04:18:36: Check Point: Value: 1808
+2016-06-03 04:18:36: Check Point: Line: 2
+2016-06-03 04:18:36: Check Point: Column: ECL_LineNum
+2016-06-03 04:18:36: Check Point: Value: 18
+2016-06-03 04:18:36: Check Point: Line: 3
+2016-06-03 04:18:36: Check Point: Column: ECL_ItemNum
+2016-06-03 04:18:36: Check Point: Value: 1
+2016-06-03 04:18:36: Check Point: Line: 4
+2016-06-03 04:18:36: Check Point: Column: ECL_SubLineNum
+2016-06-03 04:18:36: Check Point: Value: 1
+2016-06-03 04:18:36: Check Point: Line: 5
+2016-06-03 04:18:36: Check Point: Column: ECL_FullDesc
+2016-06-03 04:18:36: Check Point: Value: Prolongation Cost Claim
+2016-06-03 04:18:36: Check Point: Line: 6
+2016-06-03 04:18:36: Check Point: Column: ECL_PreLineTotal
+2016-06-03 04:18:36: Check Point: Value: 14455444.000000
+2016-06-03 04:18:36: Check Point: Line: 7
+2016-06-03 04:18:36: Check Point: Column: ECL_RefNum
+2016-06-03 04:18:36: Check Point: Value: 
+2016-06-03 04:18:36: Check Point: Line: 8
+2016-06-03 04:18:36: Check Point: Column: ECL_AcctCode
+2016-06-03 04:18:36: Check Point: Value: Z0201
+2016-06-03 04:18:36: Check Point: Line: 9
+2016-06-03 04:18:36: Check Point: Column: ECL_Budget
+2016-06-03 04:18:36: Check Point: Value: 0.000000
+2016-06-03 04:18:36: Check Point: Line: 10
+2016-06-03 04:18:36: Check Point: Column: ECL_SCPCMSDocNum
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 11
+2016-06-03 04:18:36: Check Point: Column: ECL_PCMSDocNum
+2016-06-03 04:18:36: Check Point: Value: 03049CJM/018
+2016-06-03 04:18:36: Check Point: select * from QSI17_Bill ('03049CJM')
+2016-06-03 04:18:36: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2016-06-03 04:18:36: Check Point: RecCount1
+2016-06-03 04:18:36: Check Point: oRow Lenght: 7
+2016-06-03 04:18:36: Check Point: oRecCount: 1
+2016-06-03 04:18:36: Check Point: Line: 0
+2016-06-03 04:18:36: Check Point: Column: List_PrjCode
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 1
+2016-06-03 04:18:36: Check Point: Column: List_BillNum
+2016-06-03 04:18:36: Check Point: Value: 1
+2016-06-03 04:18:36: Check Point: Line: 2
+2016-06-03 04:18:36: Check Point: Column: List_BillDesc
+2016-06-03 04:18:36: Check Point: Value: Preliminaries
+2016-06-03 04:18:36: Check Point: Line: 3
+2016-06-03 04:18:36: Check Point: Column: List_BillAmt
+2016-06-03 04:18:36: Check Point: Value: 24070000.000000
+2016-06-03 04:18:36: Check Point: RecCount2
+2016-06-03 04:18:36: Check Point: oRow Lenght: 7
+2016-06-03 04:18:36: Check Point: oRecCount: 2
+2016-06-03 04:18:36: Check Point: Line: 0
+2016-06-03 04:18:36: Check Point: Column: List_PrjCode
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 1
+2016-06-03 04:18:36: Check Point: Column: List_BillNum
+2016-06-03 04:18:36: Check Point: Value: 3
+2016-06-03 04:18:36: Check Point: Line: 2
+2016-06-03 04:18:36: Check Point: Column: List_BillDesc
+2016-06-03 04:18:36: Check Point: Value: Diaphragm Wall
+2016-06-03 04:18:36: Check Point: Line: 3
+2016-06-03 04:18:36: Check Point: Column: List_BillAmt
+2016-06-03 04:18:36: Check Point: Value: 147560000.000000
+2016-06-03 04:18:36: Check Point: RecCount3
+2016-06-03 04:18:36: Check Point: oRow Lenght: 7
+2016-06-03 04:18:36: Check Point: oRecCount: 3
+2016-06-03 04:18:36: Check Point: Line: 0
+2016-06-03 04:18:36: Check Point: Column: List_PrjCode
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 1
+2016-06-03 04:18:36: Check Point: Column: List_BillNum
+2016-06-03 04:18:36: Check Point: Value: 4
+2016-06-03 04:18:36: Check Point: Line: 2
+2016-06-03 04:18:36: Check Point: Column: List_BillDesc
+2016-06-03 04:18:36: Check Point: Value: Bored Pile
+2016-06-03 04:18:36: Check Point: Line: 3
+2016-06-03 04:18:36: Check Point: Column: List_BillAmt
+2016-06-03 04:18:36: Check Point: Value: 93360000.000000
+2016-06-03 04:18:36: Check Point: RecCount4
+2016-06-03 04:18:36: Check Point: oRow Lenght: 7
+2016-06-03 04:18:36: Check Point: oRecCount: 4
+2016-06-03 04:18:36: Check Point: Line: 0
+2016-06-03 04:18:36: Check Point: Column: List_PrjCode
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 1
+2016-06-03 04:18:36: Check Point: Column: List_BillNum
+2016-06-03 04:18:36: Check Point: Value: 5
+2016-06-03 04:18:36: Check Point: Line: 2
+2016-06-03 04:18:36: Check Point: Column: List_BillDesc
+2016-06-03 04:18:36: Check Point: Value: Monitoring and Instrumentation
+2016-06-03 04:18:36: Check Point: Line: 3
+2016-06-03 04:18:36: Check Point: Column: List_BillAmt
+2016-06-03 04:18:36: Check Point: Value: 1110000.000000
+2016-06-03 04:18:36: Check Point: RecCount5
+2016-06-03 04:18:36: Check Point: oRow Lenght: 7
+2016-06-03 04:18:36: Check Point: oRecCount: 5
+2016-06-03 04:18:36: Check Point: Line: 0
+2016-06-03 04:18:36: Check Point: Column: List_PrjCode
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 1
+2016-06-03 04:18:36: Check Point: Column: List_BillNum
+2016-06-03 04:18:36: Check Point: Value: 6
+2016-06-03 04:18:36: Check Point: Line: 2
+2016-06-03 04:18:36: Check Point: Column: List_BillDesc
+2016-06-03 04:18:36: Check Point: Value: Earthing System
+2016-06-03 04:18:36: Check Point: Line: 3
+2016-06-03 04:18:36: Check Point: Column: List_BillAmt
+2016-06-03 04:18:36: Check Point: Value: 470000.000000
+2016-06-03 04:18:36: Check Point: RecCount6
+2016-06-03 04:18:36: Check Point: oRow Lenght: 7
+2016-06-03 04:18:36: Check Point: oRecCount: 6
+2016-06-03 04:18:36: Check Point: Line: 0
+2016-06-03 04:18:36: Check Point: Column: List_PrjCode
+2016-06-03 04:18:36: Check Point: Value: 03049CJM
+2016-06-03 04:18:36: Check Point: Line: 1
+2016-06-03 04:18:36: Check Point: Column: List_BillNum
+2016-06-03 04:18:36: Check Point: Value: 7
+2016-06-03 04:18:36: Check Point: Line: 2
+2016-06-03 04:18:36: Check Point: Column: List_BillDesc
+2016-06-03 04:18:36: Check Point: Value: Installation of Stanchion
+2016-06-03 04:18:36: Check Point: Line: 3
+2016-06-03 04:18:36: Check Point: Column: List_BillAmt
+2016-06-03 04:18:36: Check Point: Value: 10530000.000000
+2016-06-03 04:18:36: Check Point: Import: Run Application
+2016-06-03 04:18:36: Check Point: Import: set FileName
+2016-06-03 04:18:36: Check Point: Import: Open Workbook
+2016-06-03 04:18:36: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI17.xls
+2016-06-03 04:18:38: Check Point: Import: UnProtectSheet
+2016-06-03 04:18:38: Check Point: Import: BreakLinked
+2016-06-03 04:18:38: Check Point: Import: ReplaceAllData
+2016-06-03 04:18:38: Check Point: Now is replace: Cover
+2016-06-03 04:18:38: Check Point: Next
+2016-06-03 04:18:38: Check Point: Now is replace: Works
+2016-06-03 04:18:39: Check Point: Next
+2016-06-03 04:18:39: Check Point: Now is replace: MOS
+2016-06-03 04:18:39: Check Point: Next
+2016-06-03 04:18:39: Check Point: Now is replace: VO
+2016-06-03 04:18:39: Check Point: Next
+2016-06-03 04:18:39: Check Point: Now is replace: Daywork
+2016-06-03 04:18:39: Check Point: Next
+2016-06-03 04:18:39: Check Point: Now is replace: Claims
+2016-06-03 04:18:39: Check Point: Next
+2016-06-03 04:18:39: Check Point: Now is replace: Bill Desc
+2016-06-03 04:18:39: Check Point: Next
+2016-06-03 04:18:39: Check Point: Import: ProtectSheet
+2016-06-03 04:18:39: Check Point: Import: Save
+2016-06-03 04:18:41: Check Point: Import: Close
+2016-06-03 04:18:41: Check Point: Import: Closed
+2016-06-03 04:18:41: Check Point: End
+2016-06-03 04:18:41: Check Point: Disconnect
+2016-06-03 04:18:41: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

@@ -1,0 +1,7 @@
+2019-11-13 10:50:33: Check Point: Import: RsToCollection
+2019-11-13 10:50:33: Check Point: Select '00000BCM' PRJCODE, 'PAUL Y.-OMAS JOINT VENTURE CO LTD (BLDG)' PRJNAME 
+2019-11-13 10:50:33: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 10:50:34: Check Point: SELECT COSTCODE as LIST_CostCode, COSTNAME AS List_COSTDESC FROM CPS_View_CostCodeList WHERE COSTTYPE IN ('E','M','N','P','PS','S')
+2019-11-13 10:50:34: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-11-13 10:50:42: Check Point: select CardCode as List_SCCode, CardName as List_SCName From CPS_View_SubContractorList
+2019-11-13 10:50:42: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

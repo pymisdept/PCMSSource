@@ -1,0 +1,2266 @@
+2019-07-07 12:26:29: Check Point: Import: RsToCollection
+2019-07-07 12:26:29: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('19042B1H', 'ACO07Z00S', '19042B1H/SC121') 
+2019-07-07 12:26:31: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:31: Check Point: RecCount1
+2019-07-07 12:26:31: Check Point: oRow Lenght: 1
+2019-07-07 12:26:31: Check Point: oRecCount: 1
+2019-07-07 12:26:31: Check Point: Line: 0
+2019-07-07 12:26:31: Check Point: Column: PrjCode
+2019-07-07 12:26:31: Check Point: Value: 19042B1H
+2019-07-07 12:26:31: Check Point: Line: 1
+2019-07-07 12:26:31: Check Point: Column: PrjDesc
+2019-07-07 12:26:31: Check Point: Value: 19042B1H - HOME OWNER. SCH. DEV. '~'
+2019-07-07 12:26:31: Check Point: Line: 2
+2019-07-07 12:26:31: Check Point: Column: SCNum
+2019-07-07 12:26:31: Check Point: Value: 19042B1H/SC121
+2019-07-07 12:26:31: Check Point: Line: 3
+2019-07-07 12:26:31: Check Point: Column: LastCertNum
+2019-07-07 12:26:31: Check Point: Value: 1
+2019-07-07 12:26:31: Check Point: Line: 4
+2019-07-07 12:26:31: Check Point: Column: CardCode
+2019-07-07 12:26:31: Check Point: Value: ACO07Z00S
+2019-07-07 12:26:31: Check Point: Line: 5
+2019-07-07 12:26:31: Check Point: Column: CardName
+2019-07-07 12:26:31: Check Point: Value: ACOUSTICS AND AIR TESTING LAB. CO. LTD.
+2019-07-07 12:26:31: Check Point: Line: 6
+2019-07-07 12:26:31: Check Point: Column: LastCertTotal
+2019-07-07 12:26:31: Check Point: Value: -40660.000000
+2019-07-07 12:26:31: Check Point: Line: 7
+2019-07-07 12:26:31: Check Point: Column: BQAmt
+2019-07-07 12:26:31: Check Point: Value: 35600.000000
+2019-07-07 12:26:31: Check Point: Line: 8
+2019-07-07 12:26:31: Check Point: Column: PCMSDocNum
+2019-07-07 12:26:31: Check Point: Value: 19042B1H/SC121/002
+2019-07-07 12:26:31: Check Point: Line: 9
+2019-07-07 12:26:31: Check Point: Column: CumRetent
+2019-07-07 12:26:31: Check Point: Value: -2140.000000
+2019-07-07 12:26:31: Check Point: Line: 10
+2019-07-07 12:26:31: Check Point: Column: DocSubject
+2019-07-07 12:26:31: Check Point: Value: BEAM Plus Consultant of  Air Pollution & Vibration
+2019-07-07 12:26:31: Check Point: Line: 11
+2019-07-07 12:26:31: Check Point: Column: WorkTitle
+2019-07-07 12:26:31: Check Point: Value: Work Done
+2019-07-07 12:26:31: Check Point: Line: 12
+2019-07-07 12:26:31: Check Point: Column: MOSTitle
+2019-07-07 12:26:31: Check Point: Value: Material On Site
+2019-07-07 12:26:32: Check Point: Line: 13
+2019-07-07 12:26:32: Check Point: Column: DWTitle
+2019-07-07 12:26:32: Check Point: Value: Daywork
+2019-07-07 12:26:32: Check Point: Line: 14
+2019-07-07 12:26:32: Check Point: Column: VOTitle
+2019-07-07 12:26:32: Check Point: Value: Variations
+2019-07-07 12:26:32: Check Point: Line: 15
+2019-07-07 12:26:32: Check Point: Column: BRETitle
+2019-07-07 12:26:32: Check Point: Value: Retention
+2019-07-07 12:26:32: Check Point: Line: 16
+2019-07-07 12:26:32: Check Point: Column: CCTitle
+2019-07-07 12:26:32: Check Point: Value: Contra Charge
+2019-07-07 12:26:32: Check Point: Line: 17
+2019-07-07 12:26:32: Check Point: Column: DAPTitle
+2019-07-07 12:26:32: Check Point: Value: Deposit / Advanced payment
+2019-07-07 12:26:32: Check Point: Line: 18
+2019-07-07 12:26:32: Check Point: Column: RDAPTitle
+2019-07-07 12:26:32: Check Point: Value: Refund of Deposit/Adv. payment
+2019-07-07 12:26:32: Check Point: Line: 19
+2019-07-07 12:26:32: Check Point: Column: AppWork
+2019-07-07 12:26:32: Check Point: Value: 42800.000000
+2019-07-07 12:26:32: Check Point: Line: 20
+2019-07-07 12:26:32: Check Point: Column: AppMOS
+2019-07-07 12:26:32: Check Point: Value: 0.000000
+2019-07-07 12:26:32: Check Point: Line: 21
+2019-07-07 12:26:32: Check Point: Column: AppDW
+2019-07-07 12:26:32: Check Point: Value: 0.000000
+2019-07-07 12:26:32: Check Point: Line: 22
+2019-07-07 12:26:32: Check Point: Column: AppVO
+2019-07-07 12:26:32: Check Point: Value: 0.000000
+2019-07-07 12:26:32: Check Point: Line: 23
+2019-07-07 12:26:32: Check Point: Column: RetenPrcnt
+2019-07-07 12:26:32: Check Point: Value: 10.000000
+2019-07-07 12:26:32: Check Point: Line: 24
+2019-07-07 12:26:32: Check Point: Column: RetenMaxAmt
+2019-07-07 12:26:32: Check Point: Value: -2140.000000
+2019-07-07 12:26:32: Check Point: Line: 25
+2019-07-07 12:26:32: Check Point: Column: GSTPrcnt
+2019-07-07 12:26:32: Check Point: Value: 
+2019-07-07 12:26:32: Check Point: Line: 26
+2019-07-07 12:26:32: Check Point: Column: CumGST
+2019-07-07 12:26:32: Check Point: Value: 
+2019-07-07 12:26:32: Check Point: Line: 27
+2019-07-07 12:26:32: Check Point: Column: PCMSSERV
+2019-07-07 12:26:32: Check Point: Value: HK-T
+2019-07-07 12:26:32: Check Point: select * from QSI12_Work('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:33: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:33: Check Point: RecCount1
+2019-07-07 12:26:33: Check Point: oRow Lenght: 2
+2019-07-07 12:26:33: Check Point: oRecCount: 1
+2019-07-07 12:26:33: Check Point: Line: 0
+2019-07-07 12:26:33: Check Point: Column: PrjCode
+2019-07-07 12:26:33: Check Point: Value: 19042B1H
+2019-07-07 12:26:33: Check Point: Line: 1
+2019-07-07 12:26:33: Check Point: Column: DocEntry
+2019-07-07 12:26:33: Check Point: Value: 77541
+2019-07-07 12:26:33: Check Point: Line: 2
+2019-07-07 12:26:33: Check Point: Column: LineNum
+2019-07-07 12:26:33: Check Point: Value: 0
+2019-07-07 12:26:33: Check Point: Line: 3
+2019-07-07 12:26:33: Check Point: Column: ItemNum
+2019-07-07 12:26:33: Check Point: Value: 1
+2019-07-07 12:26:33: Check Point: Line: 4
+2019-07-07 12:26:33: Check Point: Column: FullDesc
+2019-07-07 12:26:33: Check Point: Value: Beam Pluse Consultant for Indoor Air Polluion & Indoor Vibration
+2019-07-07 12:26:33: Check Point: Line: 5
+2019-07-07 12:26:33: Check Point: Column: ItemType
+2019-07-07 12:26:33: Check Point: Value: LS
+2019-07-07 12:26:33: Check Point: Line: 6
+2019-07-07 12:26:33: Check Point: Column: BQQty
+2019-07-07 12:26:33: Check Point: Value: 1.000000
+2019-07-07 12:26:33: Check Point: Line: 7
+2019-07-07 12:26:33: Check Point: Column: UOM
+2019-07-07 12:26:33: Check Point: Value: 
+2019-07-07 12:26:33: Check Point: Line: 8
+2019-07-07 12:26:33: Check Point: Column: Rate
+2019-07-07 12:26:33: Check Point: Value: 35600.000000
+2019-07-07 12:26:33: Check Point: Line: 9
+2019-07-07 12:26:33: Check Point: Column: BQLineTotal
+2019-07-07 12:26:33: Check Point: Value: 35600.000000
+2019-07-07 12:26:33: Check Point: Line: 10
+2019-07-07 12:26:33: Check Point: Column: PreQty
+2019-07-07 12:26:33: Check Point: Value: 0.000000
+2019-07-07 12:26:33: Check Point: Line: 11
+2019-07-07 12:26:33: Check Point: Column: PreLineTotal
+2019-07-07 12:26:33: Check Point: Value: 42800.000000
+2019-07-07 12:26:33: Check Point: Line: 12
+2019-07-07 12:26:33: Check Point: Column: AcctCode
+2019-07-07 12:26:33: Check Point: Value: 13P05
+2019-07-07 12:26:33: Check Point: Line: 13
+2019-07-07 12:26:33: Check Point: Column: PCMSDocNum
+2019-07-07 12:26:33: Check Point: Value: 19042B1H/SC121
+2019-07-07 12:26:33: Check Point: select * from QSI12_MOS('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:34: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:34: Check Point: select * from QSI12_EVO('19042B1H','19042B1H/SC121') ORDER BY EVO_SubLineNum asc
+2019-07-07 12:26:35: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:35: Check Point: select * from QSI12_IVO('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:37: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:37: Check Point: select * from QSI12_CCVO('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:38: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:38: Check Point: select * from QSI12_EDW('19042B1H','19042B1H/SC121') ORDER BY EDW_SubLineNum asc
+2019-07-07 12:26:39: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:39: Check Point: select * from QSI12_IDW('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:40: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:40: Check Point: select * from QSI12_CCDW('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:41: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:41: Check Point: select * from QSI12_CC('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:42: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:42: Check Point: select * from QSI12_DAP('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:44: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:44: Check Point: select * from QSI12_Approval('19042B1H','19042B1H/SC121')
+2019-07-07 12:26:44: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:44: Check Point: RecCount1
+2019-07-07 12:26:44: Check Point: oRow Lenght: 2
+2019-07-07 12:26:44: Check Point: oRecCount: 1
+2019-07-07 12:26:44: Check Point: Line: 0
+2019-07-07 12:26:44: Check Point: Column: PrjCode
+2019-07-07 12:26:44: Check Point: Value: 19042B1H
+2019-07-07 12:26:44: Check Point: Line: 1
+2019-07-07 12:26:44: Check Point: Column: DocEntry
+2019-07-07 12:26:44: Check Point: Value: 39646
+2019-07-07 12:26:44: Check Point: Line: 2
+2019-07-07 12:26:44: Check Point: Column: Prepare_Pos
+2019-07-07 12:26:44: Check Point: Value: P.Q.S. & S.Q.S.
+2019-07-07 12:26:44: Check Point: Line: 3
+2019-07-07 12:26:44: Check Point: Column: Check_Pos
+2019-07-07 12:26:44: Check Point: Value: S.P.M.
+2019-07-07 12:26:44: Check Point: Line: 4
+2019-07-07 12:26:44: Check Point: Column: Recommend_Pos1
+2019-07-07 12:26:44: Check Point: Value: A.C.C.M. & S.C.M.
+2019-07-07 12:26:44: Check Point: Line: 5
+2019-07-07 12:26:44: Check Point: Column: Recommend_Pos2
+2019-07-07 12:26:44: Check Point: Value: P.D.
+2019-07-07 12:26:44: Check Point: Line: 6
+2019-07-07 12:26:44: Check Point: Column: Certify_Pos
+2019-07-07 12:26:44: Check Point: Value: Comm. Dir.
+2019-07-07 12:26:44: Check Point: Line: 7
+2019-07-07 12:26:44: Check Point: Column: Approve_Pos1
+2019-07-07 12:26:44: Check Point: Value: Director
+2019-07-07 12:26:44: Check Point: Line: 8
+2019-07-07 12:26:44: Check Point: Column: Approve_Pos2
+2019-07-07 12:26:44: Check Point: Value: C.E.O.
+2019-07-07 12:26:44: Check Point: Line: 9
+2019-07-07 12:26:44: Check Point: Column: Approve_Pos3
+2019-07-07 12:26:44: Check Point: Value: 
+2019-07-07 12:26:44: Check Point: Line: 10
+2019-07-07 12:26:44: Check Point: Column: Prepare_Sig
+2019-07-07 12:26:44: Check Point: Value:                 Alan Ng             Eric Ng
+2019-07-07 12:26:44: Check Point: Line: 11
+2019-07-07 12:26:44: Check Point: Column: Check_Sig
+2019-07-07 12:26:44: Check Point: Value: Ronald Tong
+2019-07-07 12:26:44: Check Point: Line: 12
+2019-07-07 12:26:44: Check Point: Column: Recommend_Sig1
+2019-07-07 12:26:44: Check Point: Value:                       Lau Hon Hing           Vincent Wong
+2019-07-07 12:26:44: Check Point: Line: 13
+2019-07-07 12:26:44: Check Point: Column: Recommend_Sig2
+2019-07-07 12:26:44: Check Point: Value: Liu Ping
+2019-07-07 12:26:44: Check Point: Line: 14
+2019-07-07 12:26:44: Check Point: Column: Certify_Sig
+2019-07-07 12:26:44: Check Point: Value:         Rita Ng
+2019-07-07 12:26:44: Check Point: Line: 15
+2019-07-07 12:26:44: Check Point: Column: Approve_Sig1
+2019-07-07 12:26:44: Check Point: Value:         Simon Cheung
+2019-07-07 12:26:44: Check Point: Line: 16
+2019-07-07 12:26:44: Check Point: Column: Approve_Sig2
+2019-07-07 12:26:44: Check Point: Value:         James Lee
+2019-07-07 12:26:44: Check Point: Line: 17
+2019-07-07 12:26:44: Check Point: Column: Approve_Sig3
+2019-07-07 12:26:44: Check Point: Value: 
+2019-07-07 12:26:44: Check Point: SELECT c.COSTCODE as LIST_CostCode, c.COSTNAME AS List_COSTDESC, a.U_ReportCode AS LIST_RptCode FROM CPS_View_CostCodeList c, OACT a WHERE c.COSTTYPE IN ('E','M','N','P','PS','S','CC') AND c.COSTCODE = a.AcctCode AND c.COSTCODE <> 'CC.SC121'
+2019-07-07 12:26:44: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2019-07-07 12:26:44: Check Point: RecCount1
+2019-07-07 12:26:44: Check Point: oRow Lenght: 2
+2019-07-07 12:26:44: Check Point: oRecCount: 1
+2019-07-07 12:26:44: Check Point: Line: 0
+2019-07-07 12:26:44: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:44: Check Point: Value: 01P01
+2019-07-07 12:26:44: Check Point: Line: 1
+2019-07-07 12:26:44: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:44: Check Point: Value: Site staff basic salary
+2019-07-07 12:26:44: Check Point: Line: 2
+2019-07-07 12:26:44: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:44: Check Point: Value: I10
+2019-07-07 12:26:44: Check Point: RecCount2
+2019-07-07 12:26:44: Check Point: oRow Lenght: 2
+2019-07-07 12:26:44: Check Point: oRecCount: 2
+2019-07-07 12:26:44: Check Point: Line: 0
+2019-07-07 12:26:44: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:44: Check Point: Value: 01P02
+2019-07-07 12:26:44: Check Point: Line: 1
+2019-07-07 12:26:44: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:44: Check Point: Value: Site staff O.T. & allowance
+2019-07-07 12:26:44: Check Point: Line: 2
+2019-07-07 12:26:44: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:44: Check Point: Value: I10
+2019-07-07 12:26:44: Check Point: RecCount3
+2019-07-07 12:26:44: Check Point: oRow Lenght: 3
+2019-07-07 12:26:44: Check Point: oRecCount: 3
+2019-07-07 12:26:44: Check Point: Line: 0
+2019-07-07 12:26:44: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:44: Check Point: Value: 01P03
+2019-07-07 12:26:44: Check Point: Line: 1
+2019-07-07 12:26:44: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:44: Check Point: Value: Site staff bonus
+2019-07-07 12:26:44: Check Point: Line: 2
+2019-07-07 12:26:44: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:44: Check Point: Value: I10
+2019-07-07 12:26:44: Check Point: RecCount4
+2019-07-07 12:26:44: Check Point: oRow Lenght: 4
+2019-07-07 12:26:44: Check Point: oRecCount: 4
+2019-07-07 12:26:44: Check Point: Line: 0
+2019-07-07 12:26:44: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:44: Check Point: Value: 01P04
+2019-07-07 12:26:44: Check Point: Line: 1
+2019-07-07 12:26:44: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:44: Check Point: Value: Site staff P fund / MPF employer contribution
+2019-07-07 12:26:44: Check Point: Line: 2
+2019-07-07 12:26:44: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:44: Check Point: Value: I10
+2019-07-07 12:26:44: Check Point: RecCount5
+2019-07-07 12:26:44: Check Point: oRow Lenght: 5
+2019-07-07 12:26:44: Check Point: oRecCount: 5
+2019-07-07 12:26:44: Check Point: Line: 0
+2019-07-07 12:26:44: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:44: Check Point: Value: 01P05
+2019-07-07 12:26:44: Check Point: Line: 1
+2019-07-07 12:26:44: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:44: Check Point: Value: Site staff other salary payments
+2019-07-07 12:26:44: Check Point: Line: 2
+2019-07-07 12:26:44: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:44: Check Point: Value: I10
+2019-07-07 12:26:44: Check Point: RecCount6
+2019-07-07 12:26:44: Check Point: oRow Lenght: 6
+2019-07-07 12:26:45: Check Point: oRecCount: 6
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P06
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Direct labour basic wage
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I20
+2019-07-07 12:26:45: Check Point: RecCount7
+2019-07-07 12:26:45: Check Point: oRow Lenght: 7
+2019-07-07 12:26:45: Check Point: oRecCount: 7
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P07
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Direct labour O.T. & allowance
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I20
+2019-07-07 12:26:45: Check Point: RecCount8
+2019-07-07 12:26:45: Check Point: oRow Lenght: 8
+2019-07-07 12:26:45: Check Point: oRecCount: 8
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P08
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Direct labour bonus
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I20
+2019-07-07 12:26:45: Check Point: RecCount9
+2019-07-07 12:26:45: Check Point: oRow Lenght: 9
+2019-07-07 12:26:45: Check Point: oRecCount: 9
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P09
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Direct labour MPF employer contribution
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I20
+2019-07-07 12:26:45: Check Point: RecCount10
+2019-07-07 12:26:45: Check Point: oRow Lenght: 10
+2019-07-07 12:26:45: Check Point: oRecCount: 10
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P10
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Direct labour other wage payments
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I20
+2019-07-07 12:26:45: Check Point: RecCount11
+2019-07-07 12:26:45: Check Point: oRow Lenght: 11
+2019-07-07 12:26:45: Check Point: oRecCount: 11
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P11
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Head Office allocated staff basic salary
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I15
+2019-07-07 12:26:45: Check Point: RecCount12
+2019-07-07 12:26:45: Check Point: oRow Lenght: 12
+2019-07-07 12:26:45: Check Point: oRecCount: 12
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P12
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Head Office allocated staff O.T. & allowance
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I15
+2019-07-07 12:26:45: Check Point: RecCount13
+2019-07-07 12:26:45: Check Point: oRow Lenght: 13
+2019-07-07 12:26:45: Check Point: oRecCount: 13
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P13
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Head Office allocated staff bonus
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I15
+2019-07-07 12:26:45: Check Point: RecCount14
+2019-07-07 12:26:45: Check Point: oRow Lenght: 14
+2019-07-07 12:26:45: Check Point: oRecCount: 14
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P14
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Head Office allocated staff P fund / MPF employer contribution
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I15
+2019-07-07 12:26:45: Check Point: RecCount15
+2019-07-07 12:26:45: Check Point: oRow Lenght: 15
+2019-07-07 12:26:45: Check Point: oRecCount: 15
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P15
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Head Office allocated staff other salary payments
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I15
+2019-07-07 12:26:45: Check Point: RecCount16
+2019-07-07 12:26:45: Check Point: oRow Lenght: 16
+2019-07-07 12:26:45: Check Point: oRecCount: 16
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P16
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: P fund / MPF forfeiture
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I10
+2019-07-07 12:26:45: Check Point: RecCount17
+2019-07-07 12:26:45: Check Point: oRow Lenght: 17
+2019-07-07 12:26:45: Check Point: oRecCount: 17
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P17
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Project Director's office - Site staff basic salary
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I90
+2019-07-07 12:26:45: Check Point: RecCount18
+2019-07-07 12:26:45: Check Point: oRow Lenght: 18
+2019-07-07 12:26:45: Check Point: oRecCount: 18
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P18
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Project Director's office - Site staff O.T. & allowance
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I90
+2019-07-07 12:26:45: Check Point: RecCount19
+2019-07-07 12:26:45: Check Point: oRow Lenght: 19
+2019-07-07 12:26:45: Check Point: oRecCount: 19
+2019-07-07 12:26:45: Check Point: Line: 0
+2019-07-07 12:26:45: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:45: Check Point: Value: 01P19
+2019-07-07 12:26:45: Check Point: Line: 1
+2019-07-07 12:26:45: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:45: Check Point: Value: Project Director's office - Site staff bonus
+2019-07-07 12:26:45: Check Point: Line: 2
+2019-07-07 12:26:45: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:45: Check Point: Value: I90
+2019-07-07 12:26:45: Check Point: RecCount20
+2019-07-07 12:26:46: Check Point: oRow Lenght: 20
+2019-07-07 12:26:46: Check Point: oRecCount: 20
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 01P20
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Project Director's office - Site staff P fund / MPF employer contribution
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I90
+2019-07-07 12:26:46: Check Point: RecCount21
+2019-07-07 12:26:46: Check Point: oRow Lenght: 21
+2019-07-07 12:26:46: Check Point: oRecCount: 21
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 01P21
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Project Director's office - Site staff other salary payments
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I90
+2019-07-07 12:26:46: Check Point: RecCount22
+2019-07-07 12:26:46: Check Point: oRow Lenght: 22
+2019-07-07 12:26:46: Check Point: oRecCount: 22
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P01
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Bond
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount23
+2019-07-07 12:26:46: Check Point: oRow Lenght: 23
+2019-07-07 12:26:46: Check Point: oRecCount: 23
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P02
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: CAR & third parties insurance
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount24
+2019-07-07 12:26:46: Check Point: oRow Lenght: 24
+2019-07-07 12:26:46: Check Point: oRecCount: 24
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (non-master EC)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount25
+2019-07-07 12:26:46: Check Point: oRow Lenght: 25
+2019-07-07 12:26:46: Check Point: oRecCount: 25
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03A
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (2003-04)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount26
+2019-07-07 12:26:46: Check Point: oRow Lenght: 26
+2019-07-07 12:26:46: Check Point: oRecCount: 26
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03B
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (2004)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount27
+2019-07-07 12:26:46: Check Point: oRow Lenght: 27
+2019-07-07 12:26:46: Check Point: oRecCount: 27
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03C
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (2005 run-off)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount28
+2019-07-07 12:26:46: Check Point: oRow Lenght: 28
+2019-07-07 12:26:46: Check Point: oRecCount: 28
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03D
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (2005-06)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount29
+2019-07-07 12:26:46: Check Point: oRow Lenght: 29
+2019-07-07 12:26:46: Check Point: oRecCount: 29
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03E
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (2006-07)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount30
+2019-07-07 12:26:46: Check Point: oRow Lenght: 30
+2019-07-07 12:26:46: Check Point: oRecCount: 30
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03F
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (2007-09)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount31
+2019-07-07 12:26:46: Check Point: oRow Lenght: 31
+2019-07-07 12:26:46: Check Point: oRecCount: 31
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:46: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:46: Check Point: Value: 02P03G
+2019-07-07 12:26:46: Check Point: Line: 1
+2019-07-07 12:26:46: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:46: Check Point: Value: Workmen compensation insurance - premium (2009-10)
+2019-07-07 12:26:46: Check Point: Line: 2
+2019-07-07 12:26:46: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:46: Check Point: Value: I75
+2019-07-07 12:26:46: Check Point: RecCount32
+2019-07-07 12:26:46: Check Point: oRow Lenght: 32
+2019-07-07 12:26:46: Check Point: oRecCount: 32
+2019-07-07 12:26:46: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03H
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: Workmen compensation insurance - premium (2010-11)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount33
+2019-07-07 12:26:47: Check Point: oRow Lenght: 33
+2019-07-07 12:26:47: Check Point: oRecCount: 33
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03I
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: Workmen compensation insurance-premium (2011-12)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount34
+2019-07-07 12:26:47: Check Point: oRow Lenght: 34
+2019-07-07 12:26:47: Check Point: oRecCount: 34
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03J
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: Workmen compensation insurance - premium (2012 -13)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount35
+2019-07-07 12:26:47: Check Point: oRow Lenght: 35
+2019-07-07 12:26:47: Check Point: oRecCount: 35
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03K
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: WC insurance - premium (2013-14)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount36
+2019-07-07 12:26:47: Check Point: oRow Lenght: 36
+2019-07-07 12:26:47: Check Point: oRecCount: 36
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03l
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: WC insurance - premium (2014-15)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount37
+2019-07-07 12:26:47: Check Point: oRow Lenght: 37
+2019-07-07 12:26:47: Check Point: oRecCount: 37
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03M
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: WC insurance - premium (2015-16)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount38
+2019-07-07 12:26:47: Check Point: oRow Lenght: 38
+2019-07-07 12:26:47: Check Point: oRecCount: 38
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03N
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: WC insurance - premium (2016-17)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount39
+2019-07-07 12:26:47: Check Point: oRow Lenght: 39
+2019-07-07 12:26:47: Check Point: oRecCount: 39
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03O
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: WC insurance - premium (2017-18)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount40
+2019-07-07 12:26:47: Check Point: oRow Lenght: 40
+2019-07-07 12:26:47: Check Point: oRecCount: 40
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P03P
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: WC insurance - premium (2018-19)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount41
+2019-07-07 12:26:47: Check Point: oRow Lenght: 41
+2019-07-07 12:26:47: Check Point: oRecCount: 41
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P04A
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: Workmen compensation insurance - claim fund (2003-04)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount42
+2019-07-07 12:26:47: Check Point: oRow Lenght: 42
+2019-07-07 12:26:47: Check Point: oRecCount: 42
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P04B
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: Workmen compensation insurance - claim fund (2004)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount43
+2019-07-07 12:26:47: Check Point: oRow Lenght: 43
+2019-07-07 12:26:47: Check Point: oRecCount: 43
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P04C
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: Workmen compensation insurance - claim fund (2005 run-off)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:47: Check Point: Value: I75
+2019-07-07 12:26:47: Check Point: RecCount44
+2019-07-07 12:26:47: Check Point: oRow Lenght: 44
+2019-07-07 12:26:47: Check Point: oRecCount: 44
+2019-07-07 12:26:47: Check Point: Line: 0
+2019-07-07 12:26:47: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:47: Check Point: Value: 02P04D
+2019-07-07 12:26:47: Check Point: Line: 1
+2019-07-07 12:26:47: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:47: Check Point: Value: Workmen compensation insurance - claim fund (2005-06)
+2019-07-07 12:26:47: Check Point: Line: 2
+2019-07-07 12:26:47: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount45
+2019-07-07 12:26:48: Check Point: oRow Lenght: 45
+2019-07-07 12:26:48: Check Point: oRecCount: 45
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04E
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: Workmen compensation insurance - claim fund (2006-07)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount46
+2019-07-07 12:26:48: Check Point: oRow Lenght: 46
+2019-07-07 12:26:48: Check Point: oRecCount: 46
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04F
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: Workmen compensation insurance - claim fund (2007-09)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount47
+2019-07-07 12:26:48: Check Point: oRow Lenght: 47
+2019-07-07 12:26:48: Check Point: oRecCount: 47
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04G
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: Workmen compensation insurance - claim fund (2009-10)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount48
+2019-07-07 12:26:48: Check Point: oRow Lenght: 48
+2019-07-07 12:26:48: Check Point: oRecCount: 48
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04H
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: Workmen compensation insurance - claim fund (20l0-11)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount49
+2019-07-07 12:26:48: Check Point: oRow Lenght: 49
+2019-07-07 12:26:48: Check Point: oRecCount: 49
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04I
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: Workmen compensation insurance - claim fund (2011-12)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount50
+2019-07-07 12:26:48: Check Point: oRow Lenght: 50
+2019-07-07 12:26:48: Check Point: oRecCount: 50
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04J
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: Workmen compensation insurance - claim fund (2012-13)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount51
+2019-07-07 12:26:48: Check Point: oRow Lenght: 51
+2019-07-07 12:26:48: Check Point: oRecCount: 51
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04K
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: WC insurance - claim fund (2013-14)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount52
+2019-07-07 12:26:48: Check Point: oRow Lenght: 52
+2019-07-07 12:26:48: Check Point: oRecCount: 52
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04l
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: WC insurance - claim fund (2014-15)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount53
+2019-07-07 12:26:48: Check Point: oRow Lenght: 53
+2019-07-07 12:26:48: Check Point: oRecCount: 53
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04M
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: WC insurance - claim fund (2015-16)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount54
+2019-07-07 12:26:48: Check Point: oRow Lenght: 54
+2019-07-07 12:26:48: Check Point: oRecCount: 54
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04N
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: WC insurance - claim fund (2016-17)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount55
+2019-07-07 12:26:48: Check Point: oRow Lenght: 55
+2019-07-07 12:26:48: Check Point: oRecCount: 55
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04O
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: WC insurance - claim fund (2017-18)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount56
+2019-07-07 12:26:48: Check Point: oRow Lenght: 56
+2019-07-07 12:26:48: Check Point: oRecCount: 56
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:48: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:48: Check Point: Value: 02P04P
+2019-07-07 12:26:48: Check Point: Line: 1
+2019-07-07 12:26:48: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:48: Check Point: Value: WC insurance - claim fund (2018-19)
+2019-07-07 12:26:48: Check Point: Line: 2
+2019-07-07 12:26:48: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:48: Check Point: Value: I75
+2019-07-07 12:26:48: Check Point: RecCount57
+2019-07-07 12:26:48: Check Point: oRow Lenght: 57
+2019-07-07 12:26:48: Check Point: oRecCount: 57
+2019-07-07 12:26:48: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05A
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2003-04)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount58
+2019-07-07 12:26:49: Check Point: oRow Lenght: 58
+2019-07-07 12:26:49: Check Point: oRecCount: 58
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05B
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2004)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount59
+2019-07-07 12:26:49: Check Point: oRow Lenght: 59
+2019-07-07 12:26:49: Check Point: oRecCount: 59
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05C
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2005 run-off)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount60
+2019-07-07 12:26:49: Check Point: oRow Lenght: 60
+2019-07-07 12:26:49: Check Point: oRecCount: 60
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05D
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2005-06)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount61
+2019-07-07 12:26:49: Check Point: oRow Lenght: 61
+2019-07-07 12:26:49: Check Point: oRecCount: 61
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05E
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2006-07)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount62
+2019-07-07 12:26:49: Check Point: oRow Lenght: 62
+2019-07-07 12:26:49: Check Point: oRecCount: 62
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05F
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2007-09)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount63
+2019-07-07 12:26:49: Check Point: oRow Lenght: 63
+2019-07-07 12:26:49: Check Point: oRecCount: 63
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05G
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2009-10)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount64
+2019-07-07 12:26:49: Check Point: oRow Lenght: 64
+2019-07-07 12:26:49: Check Point: oRecCount: 64
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05H
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2010-11)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount65
+2019-07-07 12:26:49: Check Point: oRow Lenght: 65
+2019-07-07 12:26:49: Check Point: oRecCount: 65
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05I
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2011-12)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount66
+2019-07-07 12:26:49: Check Point: oRow Lenght: 66
+2019-07-07 12:26:49: Check Point: oRecCount: 66
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05J
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: Workmen compensation insurance - deficit (surplus) (2012-13)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount67
+2019-07-07 12:26:49: Check Point: oRow Lenght: 67
+2019-07-07 12:26:49: Check Point: oRecCount: 67
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05K
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: WC insurance - deficit (surplus) (13-14)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount68
+2019-07-07 12:26:49: Check Point: oRow Lenght: 68
+2019-07-07 12:26:49: Check Point: oRecCount: 68
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05l
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:49: Check Point: Value: WC insurance - deficit (surplus) (14-15)
+2019-07-07 12:26:49: Check Point: Line: 2
+2019-07-07 12:26:49: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:49: Check Point: Value: I75
+2019-07-07 12:26:49: Check Point: RecCount69
+2019-07-07 12:26:49: Check Point: oRow Lenght: 69
+2019-07-07 12:26:49: Check Point: oRecCount: 69
+2019-07-07 12:26:49: Check Point: Line: 0
+2019-07-07 12:26:49: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:49: Check Point: Value: 02P05M
+2019-07-07 12:26:49: Check Point: Line: 1
+2019-07-07 12:26:49: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: WC insurance - deficit (surplus) (15-16)
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount70
+2019-07-07 12:26:50: Check Point: oRow Lenght: 70
+2019-07-07 12:26:50: Check Point: oRecCount: 70
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 02P05N
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: WC insurance - deficit (surplus) (16-17)
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount71
+2019-07-07 12:26:50: Check Point: oRow Lenght: 71
+2019-07-07 12:26:50: Check Point: oRecCount: 71
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 02P05O
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: WC insurance - deficit (surplus) (17-18)
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount72
+2019-07-07 12:26:50: Check Point: oRow Lenght: 72
+2019-07-07 12:26:50: Check Point: oRecCount: 72
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 02P05P
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: WC insurance - deficit (surplus) (18-19)
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount73
+2019-07-07 12:26:50: Check Point: oRow Lenght: 73
+2019-07-07 12:26:50: Check Point: oRecCount: 73
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 02P06
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Professional indemnity insurance
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount74
+2019-07-07 12:26:50: Check Point: oRow Lenght: 74
+2019-07-07 12:26:50: Check Point: oRecCount: 74
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 02P07
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Insurance for plant and materials
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount75
+2019-07-07 12:26:50: Check Point: oRow Lenght: 75
+2019-07-07 12:26:50: Check Point: oRecCount: 75
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 02P08
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Insurance excess
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount76
+2019-07-07 12:26:50: Check Point: oRow Lenght: 76
+2019-07-07 12:26:50: Check Point: oRecCount: 76
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 02P09
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Guarantee
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I75
+2019-07-07 12:26:50: Check Point: RecCount77
+2019-07-07 12:26:50: Check Point: oRow Lenght: 77
+2019-07-07 12:26:50: Check Point: oRecCount: 77
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 03P01
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Industrial training levy
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I80
+2019-07-07 12:26:50: Check Point: RecCount78
+2019-07-07 12:26:50: Check Point: oRow Lenght: 78
+2019-07-07 12:26:50: Check Point: oRecCount: 78
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 03P02
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Pneumoconiosis compensation levy
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I80
+2019-07-07 12:26:50: Check Point: RecCount79
+2019-07-07 12:26:50: Check Point: oRow Lenght: 79
+2019-07-07 12:26:50: Check Point: oRecCount: 79
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 03P99
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Other Levy
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I80
+2019-07-07 12:26:50: Check Point: RecCount80
+2019-07-07 12:26:50: Check Point: oRow Lenght: 80
+2019-07-07 12:26:50: Check Point: oRecCount: 80
+2019-07-07 12:26:50: Check Point: Line: 0
+2019-07-07 12:26:50: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:50: Check Point: Value: 04P01
+2019-07-07 12:26:50: Check Point: Line: 1
+2019-07-07 12:26:50: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:50: Check Point: Value: Engineer/Architect's Office establishment
+2019-07-07 12:26:50: Check Point: Line: 2
+2019-07-07 12:26:50: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:50: Check Point: Value: I40
+2019-07-07 12:26:50: Check Point: RecCount81
+2019-07-07 12:26:50: Check Point: oRow Lenght: 81
+2019-07-07 12:26:51: Check Point: oRecCount: 81
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P02
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Engineer/Architect's Office equipment / furniture
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I40
+2019-07-07 12:26:51: Check Point: RecCount82
+2019-07-07 12:26:51: Check Point: oRow Lenght: 82
+2019-07-07 12:26:51: Check Point: oRecCount: 82
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P03
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Engineer/Architect's Computer (IT equipment)
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I40
+2019-07-07 12:26:51: Check Point: RecCount83
+2019-07-07 12:26:51: Check Point: oRow Lenght: 83
+2019-07-07 12:26:51: Check Point: oRecCount: 83
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P04
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Engineer/Architect's Telephone - capital & running
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I65
+2019-07-07 12:26:51: Check Point: RecCount84
+2019-07-07 12:26:51: Check Point: oRow Lenght: 84
+2019-07-07 12:26:51: Check Point: oRecCount: 84
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P05
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Engineer/Architect's Mobile phone - capital & running
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I65
+2019-07-07 12:26:51: Check Point: RecCount85
+2019-07-07 12:26:51: Check Point: oRow Lenght: 85
+2019-07-07 12:26:51: Check Point: oRecCount: 85
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P06
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Contract car - capital & running
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I65
+2019-07-07 12:26:51: Check Point: RecCount86
+2019-07-07 12:26:51: Check Point: oRow Lenght: 86
+2019-07-07 12:26:51: Check Point: oRecCount: 86
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P07
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Engineer/Architect's Stationary and consumables
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I65
+2019-07-07 12:26:51: Check Point: RecCount87
+2019-07-07 12:26:51: Check Point: oRow Lenght: 87
+2019-07-07 12:26:51: Check Point: oRecCount: 87
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P08
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Engineer/Architect's Servicing and maintenance
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I65
+2019-07-07 12:26:51: Check Point: RecCount88
+2019-07-07 12:26:51: Check Point: oRow Lenght: 88
+2019-07-07 12:26:51: Check Point: oRecCount: 88
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P09
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Attendance to Engineer/Architect
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I10
+2019-07-07 12:26:51: Check Point: RecCount89
+2019-07-07 12:26:51: Check Point: oRow Lenght: 89
+2019-07-07 12:26:51: Check Point: oRecCount: 89
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P10
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Dismantle of Engineer/Architect/Consultant's site office
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I40
+2019-07-07 12:26:51: Check Point: RecCount90
+2019-07-07 12:26:51: Check Point: oRow Lenght: 90
+2019-07-07 12:26:51: Check Point: oRecCount: 90
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 04P11
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Engineer/Architect's Computer Softwares
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I40
+2019-07-07 12:26:51: Check Point: RecCount91
+2019-07-07 12:26:51: Check Point: oRow Lenght: 91
+2019-07-07 12:26:51: Check Point: oRecCount: 91
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 05P01
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: Contractor's Office establishment
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:51: Check Point: Value: I40
+2019-07-07 12:26:51: Check Point: RecCount92
+2019-07-07 12:26:51: Check Point: oRow Lenght: 92
+2019-07-07 12:26:51: Check Point: oRecCount: 92
+2019-07-07 12:26:51: Check Point: Line: 0
+2019-07-07 12:26:51: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:51: Check Point: Value: 05P02
+2019-07-07 12:26:51: Check Point: Line: 1
+2019-07-07 12:26:51: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:51: Check Point: Value: "Contractor's yard, workshop and other set up"
+2019-07-07 12:26:51: Check Point: Line: 2
+2019-07-07 12:26:51: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I40
+2019-07-07 12:26:52: Check Point: RecCount93
+2019-07-07 12:26:52: Check Point: oRow Lenght: 93
+2019-07-07 12:26:52: Check Point: oRecCount: 93
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 05P03
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: "Hoarding, fencing, gates, signboards & covered walkway"
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I40
+2019-07-07 12:26:52: Check Point: RecCount94
+2019-07-07 12:26:52: Check Point: oRow Lenght: 94
+2019-07-07 12:26:52: Check Point: oRecCount: 94
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 05P04
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: Contractor's Office equipment / furniture
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I40
+2019-07-07 12:26:52: Check Point: RecCount95
+2019-07-07 12:26:52: Check Point: oRow Lenght: 95
+2019-07-07 12:26:52: Check Point: oRecCount: 95
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 05P05
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: Contractor's Computer (IT equipment)
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I40
+2019-07-07 12:26:52: Check Point: RecCount96
+2019-07-07 12:26:52: Check Point: oRow Lenght: 96
+2019-07-07 12:26:52: Check Point: oRecCount: 96
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 05P06
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: "Dismantle of site office, yard and workshop"
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I40
+2019-07-07 12:26:52: Check Point: RecCount97
+2019-07-07 12:26:52: Check Point: oRow Lenght: 97
+2019-07-07 12:26:52: Check Point: oRecCount: 97
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 05P07
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: Contractor's Computer Softwares
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I40
+2019-07-07 12:26:52: Check Point: RecCount98
+2019-07-07 12:26:52: Check Point: oRow Lenght: 98
+2019-07-07 12:26:52: Check Point: oRecCount: 98
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 06P01
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: Electricity Supply Deposit
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I50
+2019-07-07 12:26:52: Check Point: RecCount99
+2019-07-07 12:26:52: Check Point: oRow Lenght: 99
+2019-07-07 12:26:52: Check Point: oRecCount: 99
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 06P02
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: "Temporary power supply setup, relocate and removal"
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I50
+2019-07-07 12:26:52: Check Point: RecCount100
+2019-07-07 12:26:52: Check Point: oRow Lenght: 100
+2019-07-07 12:26:52: Check Point: oRecCount: 100
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 06P03
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: Electricity material supply
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I50
+2019-07-07 12:26:52: Check Point: RecCount101
+2019-07-07 12:26:52: Check Point: oRow Lenght: 101
+2019-07-07 12:26:52: Check Point: oRecCount: 101
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 06P04
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: Electricity consumption
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I50
+2019-07-07 12:26:52: Check Point: RecCount102
+2019-07-07 12:26:52: Check Point: oRow Lenght: 102
+2019-07-07 12:26:52: Check Point: oRecCount: 102
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 06P05
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: "Temporary water supply setup, relocate and removal"
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I50
+2019-07-07 12:26:52: Check Point: RecCount103
+2019-07-07 12:26:52: Check Point: oRow Lenght: 103
+2019-07-07 12:26:52: Check Point: oRecCount: 103
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 06P06
+2019-07-07 12:26:52: Check Point: Line: 1
+2019-07-07 12:26:52: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:52: Check Point: Value: Plumbing material supply
+2019-07-07 12:26:52: Check Point: Line: 2
+2019-07-07 12:26:52: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:52: Check Point: Value: I50
+2019-07-07 12:26:52: Check Point: RecCount104
+2019-07-07 12:26:52: Check Point: oRow Lenght: 104
+2019-07-07 12:26:52: Check Point: oRecCount: 104
+2019-07-07 12:26:52: Check Point: Line: 0
+2019-07-07 12:26:52: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:52: Check Point: Value: 06P07
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Water consumption charge
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I50
+2019-07-07 12:26:53: Check Point: RecCount105
+2019-07-07 12:26:53: Check Point: oRow Lenght: 105
+2019-07-07 12:26:53: Check Point: oRecCount: 105
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 06P08
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: "Telephone setup, relocate and removal"
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount106
+2019-07-07 12:26:53: Check Point: oRow Lenght: 106
+2019-07-07 12:26:53: Check Point: oRecCount: 106
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 06P09
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Telephone running
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount107
+2019-07-07 12:26:53: Check Point: oRow Lenght: 107
+2019-07-07 12:26:53: Check Point: oRecCount: 107
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 06P10
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Mobile phone capital and running
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount108
+2019-07-07 12:26:53: Check Point: oRow Lenght: 108
+2019-07-07 12:26:53: Check Point: oRecCount: 108
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 06P11
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Walkie talkie capital and running
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount109
+2019-07-07 12:26:53: Check Point: oRow Lenght: 109
+2019-07-07 12:26:53: Check Point: oRecCount: 109
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 06P12
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Computer network and internet setup and running
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount110
+2019-07-07 12:26:53: Check Point: oRow Lenght: 110
+2019-07-07 12:26:53: Check Point: oRecCount: 110
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 06P13
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Temporary latrine
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount111
+2019-07-07 12:26:53: Check Point: oRow Lenght: 111
+2019-07-07 12:26:53: Check Point: oRecCount: 111
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 07P01
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Site transport capital cost
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I40
+2019-07-07 12:26:53: Check Point: RecCount112
+2019-07-07 12:26:53: Check Point: oRow Lenght: 112
+2019-07-07 12:26:53: Check Point: oRecCount: 112
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 07P02
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Insurance and licenses
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount113
+2019-07-07 12:26:53: Check Point: oRow Lenght: 113
+2019-07-07 12:26:53: Check Point: oRecCount: 113
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 07P03
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Fuel
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount114
+2019-07-07 12:26:53: Check Point: oRow Lenght: 114
+2019-07-07 12:26:53: Check Point: oRecCount: 114
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 07P04
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: "Parking, tolls and other running cost"
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:53: Check Point: Value: I65
+2019-07-07 12:26:53: Check Point: RecCount115
+2019-07-07 12:26:53: Check Point: oRow Lenght: 115
+2019-07-07 12:26:53: Check Point: oRecCount: 115
+2019-07-07 12:26:53: Check Point: Line: 0
+2019-07-07 12:26:53: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:53: Check Point: Value: 07P05
+2019-07-07 12:26:53: Check Point: Line: 1
+2019-07-07 12:26:53: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:53: Check Point: Value: Spares and Maintenance
+2019-07-07 12:26:53: Check Point: Line: 2
+2019-07-07 12:26:53: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I65
+2019-07-07 12:26:54: Check Point: RecCount116
+2019-07-07 12:26:54: Check Point: oRow Lenght: 116
+2019-07-07 12:26:54: Check Point: oRecCount: 116
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 07P06
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Transportation of goods
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I65
+2019-07-07 12:26:54: Check Point: RecCount117
+2019-07-07 12:26:54: Check Point: oRow Lenght: 117
+2019-07-07 12:26:54: Check Point: oRecCount: 117
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 07P07
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Modification of site transport
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I40
+2019-07-07 12:26:54: Check Point: RecCount118
+2019-07-07 12:26:54: Check Point: oRow Lenght: 118
+2019-07-07 12:26:54: Check Point: oRecCount: 118
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P01
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Protection of adjacent properties
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I65
+2019-07-07 12:26:54: Check Point: RecCount119
+2019-07-07 12:26:54: Check Point: oRow Lenght: 119
+2019-07-07 12:26:54: Check Point: oRecCount: 119
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P02
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Servicing and maintenance
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I65
+2019-07-07 12:26:54: Check Point: RecCount120
+2019-07-07 12:26:54: Check Point: oRow Lenght: 120
+2019-07-07 12:26:54: Check Point: oRecCount: 120
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P03
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: "Drawings, prints and photos"
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I65
+2019-07-07 12:26:54: Check Point: RecCount121
+2019-07-07 12:26:54: Check Point: oRow Lenght: 121
+2019-07-07 12:26:54: Check Point: oRecCount: 121
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P04
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Stationary and office consumables
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I65
+2019-07-07 12:26:54: Check Point: RecCount122
+2019-07-07 12:26:54: Check Point: oRow Lenght: 122
+2019-07-07 12:26:54: Check Point: oRecCount: 122
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P05
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Small tools and consumables
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I30
+2019-07-07 12:26:54: Check Point: RecCount123
+2019-07-07 12:26:54: Check Point: oRow Lenght: 123
+2019-07-07 12:26:54: Check Point: oRecCount: 123
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P06
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Watching and Security
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I45
+2019-07-07 12:26:54: Check Point: RecCount124
+2019-07-07 12:26:54: Check Point: oRow Lenght: 124
+2019-07-07 12:26:54: Check Point: oRecCount: 124
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P07
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Safety and fire precaution
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I45
+2019-07-07 12:26:54: Check Point: RecCount125
+2019-07-07 12:26:54: Check Point: oRow Lenght: 125
+2019-07-07 12:26:54: Check Point: oRecCount: 125
+2019-07-07 12:26:54: Check Point: Line: 0
+2019-07-07 12:26:54: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:54: Check Point: Value: 08P08
+2019-07-07 12:26:54: Check Point: Line: 1
+2019-07-07 12:26:54: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:54: Check Point: Value: Travel allowance
+2019-07-07 12:26:54: Check Point: Line: 2
+2019-07-07 12:26:54: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:54: Check Point: Value: I65
+2019-07-07 12:26:54: Check Point: RecCount126
+2019-07-07 12:26:55: Check Point: oRow Lenght: 126
+2019-07-07 12:26:55: Check Point: oRecCount: 126
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P09
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Messing & ceremony
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I60
+2019-07-07 12:26:55: Check Point: RecCount127
+2019-07-07 12:26:55: Check Point: oRow Lenght: 127
+2019-07-07 12:26:55: Check Point: oRecCount: 127
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P10
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Food provision
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I60
+2019-07-07 12:26:55: Check Point: RecCount128
+2019-07-07 12:26:55: Check Point: oRow Lenght: 128
+2019-07-07 12:26:55: Check Point: oRecCount: 128
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P11
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Statutory Fee
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I80
+2019-07-07 12:26:55: Check Point: RecCount129
+2019-07-07 12:26:55: Check Point: oRow Lenght: 129
+2019-07-07 12:26:55: Check Point: oRecCount: 129
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P12
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Progress photo
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I65
+2019-07-07 12:26:55: Check Point: RecCount130
+2019-07-07 12:26:55: Check Point: oRow Lenght: 130
+2019-07-07 12:26:55: Check Point: oRecCount: 130
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P13
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Quality control
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I65
+2019-07-07 12:26:55: Check Point: RecCount131
+2019-07-07 12:26:55: Check Point: oRow Lenght: 131
+2019-07-07 12:26:55: Check Point: oRecCount: 131
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P14
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Travelling - Oversea
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I65
+2019-07-07 12:26:55: Check Point: RecCount132
+2019-07-07 12:26:55: Check Point: oRow Lenght: 132
+2019-07-07 12:26:55: Check Point: oRecCount: 132
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P15
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Design support and System study
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I70
+2019-07-07 12:26:55: Check Point: RecCount133
+2019-07-07 12:26:55: Check Point: oRow Lenght: 133
+2019-07-07 12:26:55: Check Point: oRecCount: 133
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P16
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Safety incentive
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I45
+2019-07-07 12:26:55: Check Point: RecCount134
+2019-07-07 12:26:55: Check Point: oRow Lenght: 134
+2019-07-07 12:26:55: Check Point: oRecCount: 134
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P17
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Project Director's office - Seconded resources (Office expenses/ Consultants/ FF&E/ Consumables/ Adm
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:55: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:55: Check Point: Value: I90
+2019-07-07 12:26:55: Check Point: RecCount135
+2019-07-07 12:26:55: Check Point: oRow Lenght: 135
+2019-07-07 12:26:55: Check Point: oRecCount: 135
+2019-07-07 12:26:55: Check Point: Line: 0
+2019-07-07 12:26:55: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:55: Check Point: Value: 08P18
+2019-07-07 12:26:55: Check Point: Line: 1
+2019-07-07 12:26:55: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:55: Check Point: Value: Project Director's office - Employer's own staff/ Consultants/ Resources
+2019-07-07 12:26:55: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I90
+2019-07-07 12:26:56: Check Point: RecCount136
+2019-07-07 12:26:56: Check Point: oRow Lenght: 136
+2019-07-07 12:26:56: Check Point: oRecCount: 136
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 08P99
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: Sundry Site Other Cost
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I65
+2019-07-07 12:26:56: Check Point: RecCount137
+2019-07-07 12:26:56: Check Point: oRow Lenght: 137
+2019-07-07 12:26:56: Check Point: oRecCount: 137
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 09P01
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: Plant & machinery
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I25
+2019-07-07 12:26:56: Check Point: RecCount138
+2019-07-07 12:26:56: Check Point: oRow Lenght: 138
+2019-07-07 12:26:56: Check Point: oRecCount: 138
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 09P02
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: Fuel & Lubricant consumption
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I25
+2019-07-07 12:26:56: Check Point: RecCount139
+2019-07-07 12:26:56: Check Point: oRow Lenght: 139
+2019-07-07 12:26:56: Check Point: oRecCount: 139
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 09P03
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: "Oxygen, Acetylene & Related Materials"
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I25
+2019-07-07 12:26:56: Check Point: RecCount140
+2019-07-07 12:26:56: Check Point: oRow Lenght: 140
+2019-07-07 12:26:56: Check Point: oRecCount: 140
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 10P01
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: Temporary access / Platform
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I35
+2019-07-07 12:26:56: Check Point: RecCount141
+2019-07-07 12:26:56: Check Point: oRow Lenght: 141
+2019-07-07 12:26:56: Check Point: oRecCount: 141
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 10P02
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: Washing Facilitate pool
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I35
+2019-07-07 12:26:56: Check Point: RecCount142
+2019-07-07 12:26:56: Check Point: oRow Lenght: 142
+2019-07-07 12:26:56: Check Point: oRecCount: 142
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 10P03
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: "Scaffolding - bamboo , steel , scaffold bracket "
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I35
+2019-07-07 12:26:56: Check Point: RecCount143
+2019-07-07 12:26:56: Check Point: oRow Lenght: 143
+2019-07-07 12:26:56: Check Point: oRecCount: 143
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 10P04
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: Temporary work
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I35
+2019-07-07 12:26:56: Check Point: RecCount144
+2019-07-07 12:26:56: Check Point: oRow Lenght: 144
+2019-07-07 12:26:56: Check Point: oRecCount: 144
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:56: Check Point: Value: 10P05
+2019-07-07 12:26:56: Check Point: Line: 1
+2019-07-07 12:26:56: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:56: Check Point: Value: Mock up / Sample flat
+2019-07-07 12:26:56: Check Point: Line: 2
+2019-07-07 12:26:56: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:56: Check Point: Value: I35
+2019-07-07 12:26:56: Check Point: RecCount145
+2019-07-07 12:26:56: Check Point: oRow Lenght: 145
+2019-07-07 12:26:56: Check Point: oRecCount: 145
+2019-07-07 12:26:56: Check Point: Line: 0
+2019-07-07 12:26:56: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 10P06
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Temporary traffic management scheme
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I35
+2019-07-07 12:26:57: Check Point: RecCount146
+2019-07-07 12:26:57: Check Point: oRow Lenght: 146
+2019-07-07 12:26:57: Check Point: oRecCount: 146
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 11P01
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: General cleaning
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I55
+2019-07-07 12:26:57: Check Point: RecCount147
+2019-07-07 12:26:57: Check Point: oRow Lenght: 147
+2019-07-07 12:26:57: Check Point: oRecCount: 147
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 11P02
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Dry cleaning
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I55
+2019-07-07 12:26:57: Check Point: RecCount148
+2019-07-07 12:26:57: Check Point: oRow Lenght: 148
+2019-07-07 12:26:57: Check Point: oRecCount: 148
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 11P03
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Wet cleaning
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I55
+2019-07-07 12:26:57: Check Point: RecCount149
+2019-07-07 12:26:57: Check Point: oRow Lenght: 149
+2019-07-07 12:26:57: Check Point: oRecCount: 149
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 11P04
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Fine cleaning
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I55
+2019-07-07 12:26:57: Check Point: RecCount150
+2019-07-07 12:26:57: Check Point: oRow Lenght: 150
+2019-07-07 12:26:57: Check Point: oRecCount: 150
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 11P05
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Refuse chute
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I55
+2019-07-07 12:26:57: Check Point: RecCount151
+2019-07-07 12:26:57: Check Point: oRow Lenght: 151
+2019-07-07 12:26:57: Check Point: oRecCount: 151
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 11P06
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Removal of rubbish
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I55
+2019-07-07 12:26:57: Check Point: RecCount152
+2019-07-07 12:26:57: Check Point: oRow Lenght: 152
+2019-07-07 12:26:57: Check Point: oRecCount: 152
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 11P07
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Dumping charges
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I55
+2019-07-07 12:26:57: Check Point: RecCount153
+2019-07-07 12:26:57: Check Point: oRow Lenght: 153
+2019-07-07 12:26:57: Check Point: oRecCount: 153
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:57: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:57: Check Point: Value: 12P01
+2019-07-07 12:26:57: Check Point: Line: 1
+2019-07-07 12:26:57: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:57: Check Point: Value: Independent checking engineer
+2019-07-07 12:26:57: Check Point: Line: 2
+2019-07-07 12:26:57: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:57: Check Point: Value: I70
+2019-07-07 12:26:57: Check Point: RecCount154
+2019-07-07 12:26:57: Check Point: oRow Lenght: 154
+2019-07-07 12:26:57: Check Point: oRecCount: 154
+2019-07-07 12:26:57: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P02
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Combined Services Drawings
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount155
+2019-07-07 12:26:58: Check Point: oRow Lenght: 155
+2019-07-07 12:26:58: Check Point: oRecCount: 155
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P03
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Arborist
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount156
+2019-07-07 12:26:58: Check Point: oRow Lenght: 156
+2019-07-07 12:26:58: Check Point: oRecCount: 156
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P04
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Claim preparation
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount157
+2019-07-07 12:26:58: Check Point: oRow Lenght: 157
+2019-07-07 12:26:58: Check Point: oRecCount: 157
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P05
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Conservation Architect
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount158
+2019-07-07 12:26:58: Check Point: oRow Lenght: 158
+2019-07-07 12:26:58: Check Point: oRecCount: 158
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P06
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Design Consultant
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount159
+2019-07-07 12:26:58: Check Point: oRow Lenght: 159
+2019-07-07 12:26:58: Check Point: oRecCount: 159
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P07
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Legal Advice
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount160
+2019-07-07 12:26:58: Check Point: oRow Lenght: 160
+2019-07-07 12:26:58: Check Point: oRecCount: 160
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P08
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Measurement Service
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount161
+2019-07-07 12:26:58: Check Point: oRow Lenght: 161
+2019-07-07 12:26:58: Check Point: oRecCount: 161
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P09
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Management Fee for Design Contract
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount162
+2019-07-07 12:26:58: Check Point: oRow Lenght: 162
+2019-07-07 12:26:58: Check Point: oRecCount: 162
+2019-07-07 12:26:58: Check Point: Line: 0
+2019-07-07 12:26:58: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:58: Check Point: Value: 12P99
+2019-07-07 12:26:58: Check Point: Line: 1
+2019-07-07 12:26:58: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:58: Check Point: Value: Other professional consultant
+2019-07-07 12:26:58: Check Point: Line: 2
+2019-07-07 12:26:58: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:58: Check Point: Value: I70
+2019-07-07 12:26:58: Check Point: RecCount163
+2019-07-07 12:26:59: Check Point: oRow Lenght: 163
+2019-07-07 12:26:59: Check Point: oRecCount: 163
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P01
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Setting out & survey
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount164
+2019-07-07 12:26:59: Check Point: oRow Lenght: 164
+2019-07-07 12:26:59: Check Point: oRecCount: 164
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P02
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Survey Equipment purchasing and running cost
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount165
+2019-07-07 12:26:59: Check Point: oRow Lenght: 165
+2019-07-07 12:26:59: Check Point: oRecCount: 165
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P03
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Site investigation and ground monitoring points
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount166
+2019-07-07 12:26:59: Check Point: oRow Lenght: 166
+2019-07-07 12:26:59: Check Point: oRecCount: 166
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P04
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Environmental monitoring measures
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount167
+2019-07-07 12:26:59: Check Point: oRow Lenght: 167
+2019-07-07 12:26:59: Check Point: oRecCount: 167
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P05
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Test and calibration
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount168
+2019-07-07 12:26:59: Check Point: oRow Lenght: 168
+2019-07-07 12:26:59: Check Point: oRecCount: 168
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P06
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Concrete coring for Testing
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount169
+2019-07-07 12:26:59: Check Point: oRow Lenght: 169
+2019-07-07 12:26:59: Check Point: oRecCount: 169
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P07
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Asbestos Survey
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount170
+2019-07-07 12:26:59: Check Point: oRow Lenght: 170
+2019-07-07 12:26:59: Check Point: oRecCount: 170
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P08
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: CCTV Survey for pipeline
+2019-07-07 12:26:59: Check Point: Line: 2
+2019-07-07 12:26:59: Check Point: Column: LIST_RptCode
+2019-07-07 12:26:59: Check Point: Value: I65
+2019-07-07 12:26:59: Check Point: RecCount171
+2019-07-07 12:26:59: Check Point: oRow Lenght: 171
+2019-07-07 12:26:59: Check Point: oRecCount: 171
+2019-07-07 12:26:59: Check Point: Line: 0
+2019-07-07 12:26:59: Check Point: Column: LIST_CostCode
+2019-07-07 12:26:59: Check Point: Value: 13P09
+2019-07-07 12:26:59: Check Point: Line: 1
+2019-07-07 12:26:59: Check Point: Column: List_COSTDESC
+2019-07-07 12:26:59: Check Point: Value: Condition Survey
+2019-07-07 12:26:59: Check Point: Line: 2

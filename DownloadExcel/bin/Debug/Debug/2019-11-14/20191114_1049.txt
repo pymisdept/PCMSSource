@@ -1,0 +1,5 @@
+2019-11-14 10:49:20: Check Point: Import: Open Workbook
+2019-11-14 10:49:20: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI12.xlsm
+2019-11-14 10:49:36: Check Point: Import: UnProtectSheet
+2019-11-14 10:49:37: Check Point: Import: BreakLinked
+2019-11-14 10:49:40: Check Point: Import: ReplaceAllData

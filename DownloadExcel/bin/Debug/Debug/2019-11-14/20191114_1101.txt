@@ -1,0 +1,12 @@
+2019-11-14 11:01:06: Check Point: Next
+2019-11-14 11:01:08: Check Point: Now is replace: Sheet3
+2019-11-14 11:01:12: Check Point: Next
+2019-11-14 11:01:14: Check Point: Import: ProtectSheet
+2019-11-14 11:01:18: Check Point: Import: Save
+2019-11-14 11:01:18: Check Point: Import: Close
+2019-11-14 11:01:18: Check Point: Import: Closed
+2019-11-14 11:01:18: Check Point: QSI18_0003
+2019-11-14 11:01:20: Check Point: Update dlnmgr table path and filename field
+2019-11-14 11:01:20: Check Point: End
+2019-11-14 11:01:20: Check Point: Disconnect
+2019-11-14 11:01:20: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\

@@ -1,0 +1,3 @@
+2014-01-13 10:08:21: Check Point: End
+2014-01-13 10:08:21: Check Point: Disconnect
+2014-01-13 10:08:21: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

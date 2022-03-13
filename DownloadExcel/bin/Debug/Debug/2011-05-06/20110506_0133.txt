@@ -1,0 +1,3287 @@
+2011-05-06 01:33:12: Check Point: Import: RsToCollection
+2011-05-06 01:33:16: Check Point: Select * from QSI40_Cost('00000CVL','20110531')
+2011-05-06 01:33:24: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:33:24: Check Point: RecCount1
+2011-05-06 01:33:24: Check Point: oRow Lenght: 1
+2011-05-06 01:33:24: Check Point: oRecCount: 1
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 20M01
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Settlement marker
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D15
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Materials
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 192375.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 192375.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 192375.000000
+2011-05-06 01:33:24: Check Point: RecCount2
+2011-05-06 01:33:24: Check Point: oRow Lenght: 2
+2011-05-06 01:33:24: Check Point: oRecCount: 2
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 20M99
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Sundry Ground Investigation and Demolition material
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D15
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Materials
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 115140.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 115140.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 115140.000000
+2011-05-06 01:33:24: Check Point: RecCount3
+2011-05-06 01:33:24: Check Point: oRow Lenght: 3
+2011-05-06 01:33:24: Check Point: oRecCount: 3
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 21M01
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Chain link fence
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D15
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Materials
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 385605.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 385605.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 385605.000000
+2011-05-06 01:33:24: Check Point: RecCount4
+2011-05-06 01:33:24: Check Point: oRow Lenght: 4
+2011-05-06 01:33:24: Check Point: oRecCount: 4
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 21M02
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Steel mesh
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D15
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Materials
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 1357740.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 1357740.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 1357740.000000
+2011-05-06 01:33:24: Check Point: RecCount5
+2011-05-06 01:33:24: Check Point: oRow Lenght: 5
+2011-05-06 01:33:24: Check Point: oRecCount: 5
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 21M03
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: MS and SS railing for Hoarding
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D15
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Materials
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 4764.250000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 4764.250000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 4764.250000
+2011-05-06 01:33:24: Check Point: RecCount6
+2011-05-06 01:33:24: Check Point: oRow Lenght: 6
+2011-05-06 01:33:24: Check Point: oRecCount: 6
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 21M99
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Sundry Hoarding material
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D15
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Materials
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 56430.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 56430.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 56430.000000
+2011-05-06 01:33:24: Check Point: RecCount7
+2011-05-06 01:33:24: Check Point: oRow Lenght: 7
+2011-05-06 01:33:24: Check Point: oRecCount: 7
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 22E01
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Piling Plant
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D20
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Plant (incl. Fuel)
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 20140.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 20140.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 20140.000000
+2011-05-06 01:33:24: Check Point: RecCount8
+2011-05-06 01:33:24: Check Point: oRow Lenght: 8
+2011-05-06 01:33:24: Check Point: oRecCount: 8
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 20S01
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Ground investigation
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D25
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 931665.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 931665.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 931665.000000
+2011-05-06 01:33:24: Check Point: RecCount9
+2011-05-06 01:33:24: Check Point: oRow Lenght: 9
+2011-05-06 01:33:24: Check Point: oRecCount: 9
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 20S02
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Geotechnical
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D25
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 39615.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 39615.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 39615.000000
+2011-05-06 01:33:24: Check Point: RecCount10
+2011-05-06 01:33:24: Check Point: oRow Lenght: 10
+2011-05-06 01:33:24: Check Point: oRecCount: 10
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 20S03
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Demolition
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D25
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 8550.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 8550.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 8550.000000
+2011-05-06 01:33:24: Check Point: RecCount11
+2011-05-06 01:33:24: Check Point: oRow Lenght: 11
+2011-05-06 01:33:24: Check Point: oRecCount: 11
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 20S04
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Settlement monitoring
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D25
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 16
+2011-05-06 01:33:24: Check Point: Column: GRAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 17
+2011-05-06 01:33:24: Check Point: Column: SubConAmt
+2011-05-06 01:33:24: Check Point: Value: 254220.000000
+2011-05-06 01:33:24: Check Point: Line: 18
+2011-05-06 01:33:24: Check Point: Column: CommitAmt
+2011-05-06 01:33:24: Check Point: Value: 254220.000000
+2011-05-06 01:33:24: Check Point: Line: 19
+2011-05-06 01:33:24: Check Point: Column: ComBugAmt
+2011-05-06 01:33:24: Check Point: Value: 254220.000000
+2011-05-06 01:33:24: Check Point: RecCount12
+2011-05-06 01:33:24: Check Point: oRow Lenght: 12
+2011-05-06 01:33:24: Check Point: oRecCount: 12
+2011-05-06 01:33:24: Check Point: Line: 0
+2011-05-06 01:33:24: Check Point: Column: CutOffdate
+2011-05-06 01:33:24: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:24: Check Point: Line: 1
+2011-05-06 01:33:24: Check Point: Column: PrjCode
+2011-05-06 01:33:24: Check Point: Value: 00000CVL
+2011-05-06 01:33:24: Check Point: Line: 2
+2011-05-06 01:33:24: Check Point: Column: PrjName
+2011-05-06 01:33:24: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:24: Check Point: Line: 3
+2011-05-06 01:33:24: Check Point: Column: AcctCode
+2011-05-06 01:33:24: Check Point: Value: 21S01
+2011-05-06 01:33:24: Check Point: Line: 4
+2011-05-06 01:33:24: Check Point: Column: AcctName
+2011-05-06 01:33:24: Check Point: Value: Hoarding
+2011-05-06 01:33:24: Check Point: Line: 5
+2011-05-06 01:33:24: Check Point: Column: RptCode
+2011-05-06 01:33:24: Check Point: Value: D25
+2011-05-06 01:33:24: Check Point: Line: 6
+2011-05-06 01:33:24: Check Point: Column: RptName
+2011-05-06 01:33:24: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:24: Check Point: Line: 7
+2011-05-06 01:33:24: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:24: Check Point: Value: 16660022.920000
+2011-05-06 01:33:24: Check Point: Line: 8
+2011-05-06 01:33:24: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 9
+2011-05-06 01:33:24: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 10
+2011-05-06 01:33:24: Check Point: Column: PostedAmt
+2011-05-06 01:33:24: Check Point: Value: 0.000000
+2011-05-06 01:33:24: Check Point: Line: 11
+2011-05-06 01:33:24: Check Point: Column: OpenAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 12
+2011-05-06 01:33:24: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 13
+2011-05-06 01:33:24: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 14
+2011-05-06 01:33:24: Check Point: Column: POAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:24: Check Point: Line: 15
+2011-05-06 01:33:24: Check Point: Column: COAmt
+2011-05-06 01:33:24: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 37710.250000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 37710.250000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 37710.250000
+2011-05-06 01:33:25: Check Point: RecCount13
+2011-05-06 01:33:25: Check Point: oRow Lenght: 13
+2011-05-06 01:33:25: Check Point: oRecCount: 13
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 21S02
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Chain link fencing
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 8236.500000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 8236.500000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 8236.500000
+2011-05-06 01:33:25: Check Point: RecCount14
+2011-05-06 01:33:25: Check Point: oRow Lenght: 14
+2011-05-06 01:33:25: Check Point: oRecCount: 14
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 21S03
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Fencing and gate
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 1534.250000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 1534.250000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 1534.250000
+2011-05-06 01:33:25: Check Point: RecCount15
+2011-05-06 01:33:25: Check Point: oRow Lenght: 15
+2011-05-06 01:33:25: Check Point: oRecCount: 15
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 21S04
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Signboards
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 71535.000000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 71535.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 71535.000000
+2011-05-06 01:33:25: Check Point: RecCount16
+2011-05-06 01:33:25: Check Point: oRow Lenght: 16
+2011-05-06 01:33:25: Check Point: oRecCount: 16
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 21S05
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Protective screen and fence
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 6650.000000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 6650.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 6650.000000
+2011-05-06 01:33:25: Check Point: RecCount17
+2011-05-06 01:33:25: Check Point: oRow Lenght: 17
+2011-05-06 01:33:25: Check Point: oRecCount: 17
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 21S06
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Railing for Hoarding
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 2745.500000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 2745.500000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 2745.500000
+2011-05-06 01:33:25: Check Point: RecCount18
+2011-05-06 01:33:25: Check Point: oRow Lenght: 18
+2011-05-06 01:33:25: Check Point: oRecCount: 18
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 21S07
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: "Removal of hoarding, fencing, gates, signboards & covered walkway"
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 45600.000000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 45600.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 45600.000000
+2011-05-06 01:33:25: Check Point: RecCount19
+2011-05-06 01:33:25: Check Point: oRow Lenght: 19
+2011-05-06 01:33:25: Check Point: oRecCount: 19
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 21S08
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Covered walkway for Hoarding
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 11685.000000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 11685.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 11685.000000
+2011-05-06 01:33:25: Check Point: RecCount20
+2011-05-06 01:33:25: Check Point: oRow Lenght: 20
+2011-05-06 01:33:25: Check Point: oRecCount: 20
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 24S01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Concrete works
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 44805799.500000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount21
+2011-05-06 01:33:25: Check Point: oRow Lenght: 21
+2011-05-06 01:33:25: Check Point: oRecCount: 21
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 26S01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Roofing
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 1505943.960000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount22
+2011-05-06 01:33:25: Check Point: oRow Lenght: 22
+2011-05-06 01:33:25: Check Point: oRecCount: 22
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 26S04
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Skylight
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 2004200.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount23
+2011-05-06 01:33:25: Check Point: oRow Lenght: 23
+2011-05-06 01:33:25: Check Point: oRecCount: 23
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 28S01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Steel & metal works
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 6303900.350000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount24
+2011-05-06 01:33:25: Check Point: oRow Lenght: 24
+2011-05-06 01:33:25: Check Point: oRecCount: 24
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 29S01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Plastering
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 5402969.090000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount25
+2011-05-06 01:33:25: Check Point: oRow Lenght: 25
+2011-05-06 01:33:25: Check Point: oRecCount: 25
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 98S01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: General Contractor
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount26
+2011-05-06 01:33:25: Check Point: oRow Lenght: 26
+2011-05-06 01:33:25: Check Point: oRecCount: 26
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 98S02
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Maintenance
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 1050.200000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount27
+2011-05-06 01:33:25: Check Point: oRow Lenght: 27
+2011-05-06 01:33:25: Check Point: oRecCount: 27
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: CC.SC001
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Contra Charge to Subcontract SC001
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 5020.000000
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount28
+2011-05-06 01:33:25: Check Point: oRow Lenght: 28
+2011-05-06 01:33:25: Check Point: oRecCount: 28
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 36N18
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Electronic System Installation
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: D30
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: N/Sub-Contractors
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 1126975.500000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount29
+2011-05-06 01:33:25: Check Point: oRow Lenght: 29
+2011-05-06 01:33:25: Check Point: oRecCount: 29
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 01P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Site staff basic salary
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I10
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: On-site Staff (supervision)
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 995122.720000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount30
+2011-05-06 01:33:25: Check Point: oRow Lenght: 30
+2011-05-06 01:33:25: Check Point: oRecCount: 30
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 01P02
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Site staff O.T. & allowance
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I10
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: On-site Staff (supervision)
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 1000.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount31
+2011-05-06 01:33:25: Check Point: oRow Lenght: 31
+2011-05-06 01:33:25: Check Point: oRecCount: 31
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 01P06
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Direct labour basic wage
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I20
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Direct Labour (general)
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 1150000.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount32
+2011-05-06 01:33:25: Check Point: oRow Lenght: 32
+2011-05-06 01:33:25: Check Point: oRecCount: 32
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 09P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Plant & machinery
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I25
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Prelim. Plant & Machinery
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 1590180.380000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 12800.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 96730.000000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 96730.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 42136.110000
+2011-05-06 01:33:25: Check Point: RecCount33
+2011-05-06 01:33:25: Check Point: oRow Lenght: 33
+2011-05-06 01:33:25: Check Point: oRecCount: 33
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 10P03
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: "Scaffolding - bamboo , steel , scaffold bracket "
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I35
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Temp Access & Scaffolding
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 600000.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount34
+2011-05-06 01:33:25: Check Point: oRow Lenght: 34
+2011-05-06 01:33:25: Check Point: oRecCount: 34
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 10P04
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Temporary work
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I35
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Temp Access & Scaffolding
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 259000.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount35
+2011-05-06 01:33:25: Check Point: oRow Lenght: 35
+2011-05-06 01:33:25: Check Point: oRecCount: 35
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 05P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Contractor's Office establishment
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I40
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Fixed Site Costs (site set-up)
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 130500.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount36
+2011-05-06 01:33:25: Check Point: oRow Lenght: 36
+2011-05-06 01:33:25: Check Point: oRecCount: 36
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 08P06
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Watching and Security
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I45
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Safety & Environmental
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 17920.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount37
+2011-05-06 01:33:25: Check Point: oRow Lenght: 37
+2011-05-06 01:33:25: Check Point: oRecCount: 37
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 08P07
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Safety and fire precaution
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I45
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Safety & Environmental
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 152500.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount38
+2011-05-06 01:33:25: Check Point: oRow Lenght: 38
+2011-05-06 01:33:25: Check Point: oRecCount: 38
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 06P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Electricity Supply Deposit
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I50
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Temp Power/Water
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 88000.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 216000.000000
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 216000.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 8888.000000
+2011-05-06 01:33:25: Check Point: RecCount39
+2011-05-06 01:33:25: Check Point: oRow Lenght: 39
+2011-05-06 01:33:25: Check Point: oRecCount: 39
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 06P04
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Electricity consumption
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I50
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Temp Power/Water
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 72600.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount40
+2011-05-06 01:33:25: Check Point: oRow Lenght: 40
+2011-05-06 01:33:25: Check Point: oRecCount: 40
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 06P07
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Water consumption charge
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I50
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Temp Power/Water
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 43500.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount41
+2011-05-06 01:33:25: Check Point: oRow Lenght: 41
+2011-05-06 01:33:25: Check Point: oRecCount: 41
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 11P06
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Removal of rubbish
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I55
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Debris Removal/Disposal
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount42
+2011-05-06 01:33:25: Check Point: oRow Lenght: 42
+2011-05-06 01:33:25: Check Point: oRecCount: 42
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 04P06
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Contract car - capital & running
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I65
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Other Site Running Costs
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 300150.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount43
+2011-05-06 01:33:25: Check Point: oRow Lenght: 43
+2011-05-06 01:33:25: Check Point: oRecCount: 43
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 06P09
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Telephone running
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I65
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Other Site Running Costs
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 39719.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount44
+2011-05-06 01:33:25: Check Point: oRow Lenght: 44
+2011-05-06 01:33:25: Check Point: oRecCount: 44
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 08P03
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: "Drawings, prints and photos"
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I65
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Other Site Running Costs
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 30000.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount45
+2011-05-06 01:33:25: Check Point: oRow Lenght: 45
+2011-05-06 01:33:25: Check Point: oRecCount: 45
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 13P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Setting out & survey
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I65
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Other Site Running Costs
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount46
+2011-05-06 01:33:25: Check Point: oRow Lenght: 46
+2011-05-06 01:33:25: Check Point: oRecCount: 46
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 13P99
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: "Other Surveying, Monitoring and testing services"
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I65
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Other Site Running Costs
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 81000.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount47
+2011-05-06 01:33:25: Check Point: oRow Lenght: 47
+2011-05-06 01:33:25: Check Point: oRecCount: 47
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 12P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Independent checking engineer
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I70
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: External Consultants
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 9000.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount48
+2011-05-06 01:33:25: Check Point: oRow Lenght: 48
+2011-05-06 01:33:25: Check Point: oRecCount: 48
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 02P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Bond
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I75
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Financial/Securities/Insurance
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 202851.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount49
+2011-05-06 01:33:25: Check Point: oRow Lenght: 49
+2011-05-06 01:33:25: Check Point: oRecCount: 49
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 02P03
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Workmen compensation insurance - premium (non-master EC)
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I75
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Financial/Securities/Insurance
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 760179.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount50
+2011-05-06 01:33:25: Check Point: oRow Lenght: 50
+2011-05-06 01:33:25: Check Point: oRecCount: 50
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 03P01
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Industrial training levy
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I80
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Levies
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 297162.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: RecCount51
+2011-05-06 01:33:25: Check Point: oRow Lenght: 51
+2011-05-06 01:33:25: Check Point: oRecCount: 51
+2011-05-06 01:33:25: Check Point: Line: 0
+2011-05-06 01:33:25: Check Point: Column: CutOffdate
+2011-05-06 01:33:25: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:25: Check Point: Line: 1
+2011-05-06 01:33:25: Check Point: Column: PrjCode
+2011-05-06 01:33:25: Check Point: Value: 00000CVL
+2011-05-06 01:33:25: Check Point: Line: 2
+2011-05-06 01:33:25: Check Point: Column: PrjName
+2011-05-06 01:33:25: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:25: Check Point: Line: 3
+2011-05-06 01:33:25: Check Point: Column: AcctCode
+2011-05-06 01:33:25: Check Point: Value: 03P02
+2011-05-06 01:33:25: Check Point: Line: 4
+2011-05-06 01:33:25: Check Point: Column: AcctName
+2011-05-06 01:33:25: Check Point: Value: Pneumoconiosis compensation levy
+2011-05-06 01:33:25: Check Point: Line: 5
+2011-05-06 01:33:25: Check Point: Column: RptCode
+2011-05-06 01:33:25: Check Point: Value: I80
+2011-05-06 01:33:25: Check Point: Line: 6
+2011-05-06 01:33:25: Check Point: Column: RptName
+2011-05-06 01:33:25: Check Point: Value: Levies
+2011-05-06 01:33:25: Check Point: Line: 7
+2011-05-06 01:33:25: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:25: Check Point: Value: 172768.000000
+2011-05-06 01:33:25: Check Point: Line: 8
+2011-05-06 01:33:25: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 9
+2011-05-06 01:33:25: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 10
+2011-05-06 01:33:25: Check Point: Column: PostedAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 11
+2011-05-06 01:33:25: Check Point: Column: OpenAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 12
+2011-05-06 01:33:25: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 13
+2011-05-06 01:33:25: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 14
+2011-05-06 01:33:25: Check Point: Column: POAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 15
+2011-05-06 01:33:25: Check Point: Column: COAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 16
+2011-05-06 01:33:25: Check Point: Column: GRAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 17
+2011-05-06 01:33:25: Check Point: Column: SubConAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:25: Check Point: Line: 18
+2011-05-06 01:33:25: Check Point: Column: CommitAmt
+2011-05-06 01:33:25: Check Point: Value: 0.000000
+2011-05-06 01:33:25: Check Point: Line: 19
+2011-05-06 01:33:25: Check Point: Column: ComBugAmt
+2011-05-06 01:33:25: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: RecCount52
+2011-05-06 01:33:26: Check Point: oRow Lenght: 52
+2011-05-06 01:33:26: Check Point: oRecCount: 52
+2011-05-06 01:33:26: Check Point: Line: 0
+2011-05-06 01:33:26: Check Point: Column: CutOffdate
+2011-05-06 01:33:26: Check Point: Value: 5/31/2011 12:00:00 AM
+2011-05-06 01:33:26: Check Point: Line: 1
+2011-05-06 01:33:26: Check Point: Column: PrjCode
+2011-05-06 01:33:26: Check Point: Value: 00000CVL
+2011-05-06 01:33:26: Check Point: Line: 2
+2011-05-06 01:33:26: Check Point: Column: PrjName
+2011-05-06 01:33:26: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:33:26: Check Point: Line: 3
+2011-05-06 01:33:26: Check Point: Column: AcctCode
+2011-05-06 01:33:26: Check Point: Value: 03P99
+2011-05-06 01:33:26: Check Point: Line: 4
+2011-05-06 01:33:26: Check Point: Column: AcctName
+2011-05-06 01:33:26: Check Point: Value: Other Levy
+2011-05-06 01:33:26: Check Point: Line: 5
+2011-05-06 01:33:26: Check Point: Column: RptCode
+2011-05-06 01:33:26: Check Point: Value: I80
+2011-05-06 01:33:26: Check Point: Line: 6
+2011-05-06 01:33:26: Check Point: Column: RptName
+2011-05-06 01:33:26: Check Point: Value: Levies
+2011-05-06 01:33:26: Check Point: Line: 7
+2011-05-06 01:33:26: Check Point: Column: OrgBugAmt
+2011-05-06 01:33:26: Check Point: Value: 15000.000000
+2011-05-06 01:33:26: Check Point: Line: 8
+2011-05-06 01:33:26: Check Point: Column: AdjBugAmt
+2011-05-06 01:33:26: Check Point: Value: 0.000000
+2011-05-06 01:33:26: Check Point: Line: 9
+2011-05-06 01:33:26: Check Point: Column: ReleasedBugAmt
+2011-05-06 01:33:26: Check Point: Value: 0.000000
+2011-05-06 01:33:26: Check Point: Line: 10
+2011-05-06 01:33:26: Check Point: Column: PostedAmt
+2011-05-06 01:33:26: Check Point: Value: 0.000000
+2011-05-06 01:33:26: Check Point: Line: 11
+2011-05-06 01:33:26: Check Point: Column: OpenAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: Line: 12
+2011-05-06 01:33:26: Check Point: Column: AccrualsAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: Line: 13
+2011-05-06 01:33:26: Check Point: Column: OpenCCAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: Line: 14
+2011-05-06 01:33:26: Check Point: Column: POAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: Line: 15
+2011-05-06 01:33:26: Check Point: Column: COAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: Line: 16
+2011-05-06 01:33:26: Check Point: Column: GRAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: Line: 17
+2011-05-06 01:33:26: Check Point: Column: SubConAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:26: Check Point: Line: 18
+2011-05-06 01:33:26: Check Point: Column: CommitAmt
+2011-05-06 01:33:26: Check Point: Value: 0.000000
+2011-05-06 01:33:26: Check Point: Line: 19
+2011-05-06 01:33:26: Check Point: Column: ComBugAmt
+2011-05-06 01:33:26: Check Point: Value: 
+2011-05-06 01:33:31: Check Point: Select * from QSI40_PR2('00000CVL','20110531')
+2011-05-06 01:33:32: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:33:34: Check Point: RecCount1
+2011-05-06 01:33:34: Check Point: oRow Lenght: 53
+2011-05-06 01:33:34: Check Point: oRecCount: 1
+2011-05-06 01:33:34: Check Point: Line: 0
+2011-05-06 01:33:34: Check Point: Column: CutOffDate
+2011-05-06 01:33:34: Check Point: Value: 5/31/2011 12:00:00 AM

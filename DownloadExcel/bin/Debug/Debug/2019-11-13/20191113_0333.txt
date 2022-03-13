@@ -1,0 +1,2 @@
+2019-11-13 03:33:01: Check Point: select CardCode as List_SCCode, CardName as List_SCName From CPS_View_SubContractorList
+2019-11-13 03:33:01: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla

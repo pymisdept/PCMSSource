@@ -1,0 +1,75 @@
+2011-05-06 01:40:00: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:40:00: Check Point: Select * from QSI40_Fluctuations('00000CVL','20110531')
+2011-05-06 01:40:01: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:40:01: Check Point: RecCount1
+2011-05-06 01:40:01: Check Point: oRow Lenght: 53
+2011-05-06 01:40:01: Check Point: oRecCount: 1
+2011-05-06 01:40:01: Check Point: Line: 0
+2011-05-06 01:40:01: Check Point: Column: Fin_PrjCode
+2011-05-06 01:40:01: Check Point: Value: 00000CVL
+2011-05-06 01:40:01: Check Point: Line: 1
+2011-05-06 01:40:01: Check Point: Column: Fin_PrjName
+2011-05-06 01:40:01: Check Point: Value: PCMS testing project CVL
+2011-05-06 01:40:01: Check Point: Line: 2
+2011-05-06 01:40:01: Check Point: Column: Fin_Allowance
+2011-05-06 01:40:01: Check Point: Value: 
+2011-05-06 01:40:01: Check Point: Line: 3
+2011-05-06 01:40:01: Check Point: Column: Fin_AntiCert
+2011-05-06 01:40:01: Check Point: Value: 
+2011-05-06 01:40:01: Check Point: Line: 4
+2011-05-06 01:40:01: Check Point: Column: Fin_CertTotal
+2011-05-06 01:40:01: Check Point: Value: 0.000000
+2011-05-06 01:40:01: Check Point: Line: 5
+2011-05-06 01:40:01: Check Point: Column: Fin_BQTotal
+2011-05-06 01:40:01: Check Point: Value: 131622494.000000
+2011-05-06 01:40:01: Check Point: Line: 6
+2011-05-06 01:40:01: Check Point: Column: Fin_Budget
+2011-05-06 01:40:01: Check Point: Value: -84728963.420000
+2011-05-06 01:40:01: Check Point: Line: 7
+2011-05-06 01:40:01: Check Point: Column: Fin_VOTotal
+2011-05-06 01:40:01: Check Point: Value: 7100.000000
+2011-05-06 01:40:01: Check Point: Line: 8
+2011-05-06 01:40:01: Check Point: Column: Fin_ReTotal
+2011-05-06 01:40:01: Check Point: Value: 0.000000
+2011-05-06 01:40:01: Check Point: Line: 9
+2011-05-06 01:40:01: Check Point: Column: Fin_ProTotal
+2011-05-06 01:40:01: Check Point: Value: 0.000000
+2011-05-06 01:40:01: Check Point: Line: 10
+2011-05-06 01:40:01: Check Point: Column: Fin_CommittedCost
+2011-05-06 01:40:01: Check Point: Value: 
+2011-05-06 01:40:01: Check Point: Line: 11
+2011-05-06 01:40:01: Check Point: Column: Fin_DocEntry
+2011-05-06 01:40:01: Check Point: Value: 0
+2011-05-06 01:40:01: Check Point: Select * from QSI40_Cashflow('00000CVL','20110531')
+2011-05-06 01:40:01: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
+2011-05-06 01:40:03: Check Point: Import: Run Application
+2011-05-06 01:40:03: Check Point: Import: set FileName
+2011-05-06 01:40:03: Check Point: Import: Open Workbook
+2011-05-06 01:40:03: Check Point: File Names:C:\SAP\PCMS800\Excel Download Request Generate\Template\QSI40.xls
+2011-05-06 01:40:04: Check Point: Import: UnProtectSheet
+2011-05-06 01:40:04: Check Point: Import: BreakLinked
+2011-05-06 01:40:04: Check Point: Import: ReplaceAllData
+2011-05-06 01:40:04: Check Point: Now is replace: xxxxxx
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: PR1
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: PR2
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: LD
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: Provision
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: Fluctuations
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: Cashflow
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: Sheet1
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Now is replace: Sheet1 (2)
+2011-05-06 01:40:04: Check Point: Next
+2011-05-06 01:40:04: Check Point: Import: ProtectSheet
+2011-05-06 01:40:11: Check Point: Import: Save
+2011-05-06 01:40:11: Check Point: Import: Close
+2011-05-06 01:40:11: Check Point: Import: Closed
+2011-05-06 01:40:11: Check Point: End
+2011-05-06 01:40:11: Check Point: Disconnect

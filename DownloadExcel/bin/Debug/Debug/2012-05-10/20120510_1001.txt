@@ -1,0 +1,22 @@
+2012-05-10 10:01:01: Check Point: Import: ReplaceAllData
+2012-05-10 10:01:03: Check Point: Now is replace: Cover
+2012-05-10 10:01:03: Check Point: Next
+2012-05-10 10:01:03: Check Point: Now is replace: Works
+2012-05-10 10:01:03: Check Point: Next
+2012-05-10 10:01:03: Check Point: Now is replace: MOS
+2012-05-10 10:01:03: Check Point: Next
+2012-05-10 10:01:03: Check Point: Now is replace: VO
+2012-05-10 10:01:03: Check Point: Next
+2012-05-10 10:01:03: Check Point: Now is replace: Daywork
+2012-05-10 10:01:03: Check Point: Next
+2012-05-10 10:01:03: Check Point: Now is replace: Claims
+2012-05-10 10:01:03: Check Point: Next
+2012-05-10 10:01:03: Check Point: Now is replace: Bill Desc
+2012-05-10 10:01:03: Check Point: Next
+2012-05-10 10:01:11: Check Point: Import: ProtectSheet
+2012-05-10 10:01:40: Check Point: Import: Save
+2012-05-10 10:01:45: Check Point: Import: Close
+2012-05-10 10:01:47: Check Point: Import: Closed
+2012-05-10 10:01:49: Check Point: End
+2012-05-10 10:01:49: Check Point: Disconnect
+2012-05-10 10:01:49: Check Point: Log Path:E:\SAP\PCMS800\Excel Download Request Generate\Log

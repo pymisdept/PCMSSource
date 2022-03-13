@@ -1,0 +1,1536 @@
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: METTA RESOURCES LTD
+2015-11-09 04:18:00: Check Point: RecCount3744
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3744
+2015-11-09 04:18:00: Check Point: oRecCount: 3744
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MET04Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: METALINK ASIA LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3745
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3745
+2015-11-09 04:18:00: Check Point: oRecCount: 3745
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MET05Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: METANBER ENGINEERING LTD
+2015-11-09 04:18:00: Check Point: RecCount3746
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3746
+2015-11-09 04:18:00: Check Point: oRecCount: 3746
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MET06Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: METALART LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3747
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3747
+2015-11-09 04:18:00: Check Point: oRecCount: 3747
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MET07Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: METICULOUS DESIGN
+2015-11-09 04:18:00: Check Point: RecCount3748
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3748
+2015-11-09 04:18:00: Check Point: oRecCount: 3748
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MET08Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: METAPHOR DESIGN + ARCHITECTURE PTE LTD
+2015-11-09 04:18:00: Check Point: RecCount3749
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3749
+2015-11-09 04:18:00: Check Point: oRecCount: 3749
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MFT01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MF TREASURER LTD
+2015-11-09 04:18:00: Check Point: RecCount3750
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3750
+2015-11-09 04:18:00: Check Point: oRecCount: 3750
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MGE01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MGE CHINA / HONG KONG LTD.
+2015-11-09 04:18:00: Check Point: RecCount3751
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3751
+2015-11-09 04:18:00: Check Point: oRecCount: 3751
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MGI01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MGI (FAR EAST) LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3752
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3752
+2015-11-09 04:18:00: Check Point: oRecCount: 3752
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIA01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIAMI BLDG MAT'L LTD
+2015-11-09 04:18:00: Check Point: RecCount3753
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3753
+2015-11-09 04:18:00: Check Point: oRecCount: 3753
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICROWARE USA LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3754
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3754
+2015-11-09 04:18:00: Check Point: oRecCount: 3754
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICROWARE LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3755
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3755
+2015-11-09 04:18:00: Check Point: oRecCount: 3755
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC04Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICHAEL CHARLTON & CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3756
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3756
+2015-11-09 04:18:00: Check Point: oRecCount: 3756
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC05Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICRO-FILM CENTRE LTD
+2015-11-09 04:18:00: Check Point: RecCount3757
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3757
+2015-11-09 04:18:00: Check Point: oRecCount: 3757
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC06Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICHAEL PAGE INTERNATIONAL (HK) LTD
+2015-11-09 04:18:00: Check Point: RecCount3758
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3758
+2015-11-09 04:18:00: Check Point: oRecCount: 3758
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC07Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICHELLE ELECTRICAL SUPPLIES (HK) LTD
+2015-11-09 04:18:00: Check Point: RecCount3759
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3759
+2015-11-09 04:18:00: Check Point: oRecCount: 3759
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC08Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICRO RESEARCH TECHNOLOGY CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3760
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3760
+2015-11-09 04:18:00: Check Point: oRecCount: 3760
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC09Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICHAEL S. L. LIU
+2015-11-09 04:18:00: Check Point: RecCount3761
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3761
+2015-11-09 04:18:00: Check Point: oRecCount: 3761
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIC10Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MICROS-FIDELIO HONG KONG LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3762
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3762
+2015-11-09 04:18:00: Check Point: oRecCount: 3762
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MID01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIDI ALUMINIUM FABRICATOR LTD
+2015-11-09 04:18:00: Check Point: RecCount3763
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3763
+2015-11-09 04:18:00: Check Point: oRecCount: 3763
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MID02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIDAR COMPANY LTD
+2015-11-09 04:18:00: Check Point: RecCount3764
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3764
+2015-11-09 04:18:00: Check Point: oRecCount: 3764
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MID03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIDORI CREATION INTERNATIONAL LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3765
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3765
+2015-11-09 04:18:00: Check Point: oRecCount: 3765
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIE01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIELE (HONG KONG) LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3766
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3766
+2015-11-09 04:18:00: Check Point: oRecCount: 3766
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIG01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIGHTFORT ENGINEERING (HK) LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3767
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3767
+2015-11-09 04:18:00: Check Point: oRecCount: 3767
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIH01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIH ENGINEERING & SUPPLY CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3768
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3768
+2015-11-09 04:18:00: Check Point: oRecCount: 3768
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIL01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MILLENNIUM ENGINEERING LTD
+2015-11-09 04:18:00: Check Point: RecCount3769
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3769
+2015-11-09 04:18:00: Check Point: oRecCount: 3769
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIL02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MILLION GOOD LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3770
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3770
+2015-11-09 04:18:00: Check Point: oRecCount: 3770
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIL03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MILLION HOPE INDUSTRIES LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3771
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3771
+2015-11-09 04:18:00: Check Point: oRecCount: 3771
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIL04Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MILLION TARGET ENTERPRISES LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3772
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3772
+2015-11-09 04:18:00: Check Point: oRecCount: 3772
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE HARDWARE & SHIP-CHANDLER CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3773
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3773
+2015-11-09 04:18:00: Check Point: oRecCount: 3773
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING LEE WATER ELECTRIC AIR CON. ENG
+2015-11-09 04:18:00: Check Point: RecCount3774
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3774
+2015-11-09 04:18:00: Check Point: oRecCount: 3774
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING FAT ELECTRICAL CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3775
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3775
+2015-11-09 04:18:00: Check Point: oRecCount: 3775
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN04Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE HARDWARE
+2015-11-09 04:18:00: Check Point: RecCount3776
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3776
+2015-11-09 04:18:00: Check Point: oRecCount: 3776
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN05Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE WOOD
+2015-11-09 04:18:00: Check Point: RecCount3777
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3777
+2015-11-09 04:18:00: Check Point: oRecCount: 3777
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN06Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE CONSTRUCTION & REPAIRING ENG CO
+2015-11-09 04:18:00: Check Point: RecCount3778
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3778
+2015-11-09 04:18:00: Check Point: oRecCount: 3778
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN07Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING CHUN CONST
+2015-11-09 04:18:00: Check Point: RecCount3779
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3779
+2015-11-09 04:18:00: Check Point: oRecCount: 3779
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN08Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE SCAFFOLD FTY
+2015-11-09 04:18:00: Check Point: RecCount3780
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3780
+2015-11-09 04:18:00: Check Point: oRecCount: 3780
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN09Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEUNG (H.K.) CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3781
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3781
+2015-11-09 04:18:00: Check Point: oRecCount: 3781
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN10Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3782
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3782
+2015-11-09 04:18:00: Check Point: oRecCount: 3782
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN11Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING ON CONSTRUCTION ENGINEERING CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3783
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3783
+2015-11-09 04:18:00: Check Point: oRecCount: 3783
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN12Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE CONSTRUCTION ENGINEERING LTD
+2015-11-09 04:18:00: Check Point: RecCount3784
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3784
+2015-11-09 04:18:00: Check Point: oRecCount: 3784
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN13Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING LEE ENGINEERING COMPANY
+2015-11-09 04:18:00: Check Point: RecCount3785
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3785
+2015-11-09 04:18:00: Check Point: oRecCount: 3785
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN14Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MINOLTA HONG KONG LTD
+2015-11-09 04:18:00: Check Point: RecCount3786
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3786
+2015-11-09 04:18:00: Check Point: oRecCount: 3786
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN15Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE ASPHALT ENGINEERING LTD
+2015-11-09 04:18:00: Check Point: RecCount3787
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3787
+2015-11-09 04:18:00: Check Point: oRecCount: 3787
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN16Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING PAO NEWSPAPERS LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3788
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3788
+2015-11-09 04:18:00: Check Point: oRecCount: 3788
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN17Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MINTER ELLISON
+2015-11-09 04:18:00: Check Point: RecCount3789
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3789
+2015-11-09 04:18:00: Check Point: oRecCount: 3789
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN18Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MINGCHY MOTORS SERVICE CENTRE
+2015-11-09 04:18:00: Check Point: RecCount3790
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3790
+2015-11-09 04:18:00: Check Point: oRecCount: 3790
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN19Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING FAI CONSTRUCTION ENG (HK) LTD
+2015-11-09 04:18:00: Check Point: RecCount3791
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3791
+2015-11-09 04:18:00: Check Point: oRecCount: 3791
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN20Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING LEE METAL FOUNDRY LTD
+2015-11-09 04:18:00: Check Point: RecCount3792
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3792
+2015-11-09 04:18:00: Check Point: oRecCount: 3792
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN21Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING KEE CONST (STEELWORK) ENG LTD
+2015-11-09 04:18:00: Check Point: RecCount3793
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3793
+2015-11-09 04:18:00: Check Point: oRecCount: 3793
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN22Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING HOP COMPANY LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3794
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3794
+2015-11-09 04:18:00: Check Point: oRecCount: 3794
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN23Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MINTO PROPERTIES LTD
+2015-11-09 04:18:00: Check Point: RecCount3795
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3795
+2015-11-09 04:18:00: Check Point: oRecCount: 3795
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN24Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING SHING ENGINEERING
+2015-11-09 04:18:00: Check Point: RecCount3796
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3796
+2015-11-09 04:18:00: Check Point: oRecCount: 3796
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN25Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MINMETALS CONDO (HK) ENGINEERING CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3797
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3797
+2015-11-09 04:18:00: Check Point: oRecCount: 3797
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN26Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING WAH FOUNDATIONS LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3798
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3798
+2015-11-09 04:18:00: Check Point: oRecCount: 3798
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN27Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING SHAN PROPERTY CONSULTANT COMPANY
+2015-11-09 04:18:00: Check Point: RecCount3799
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3799
+2015-11-09 04:18:00: Check Point: oRecCount: 3799
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN28Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING SUN (E & M) ENGINEERING COMPANY LTD
+2015-11-09 04:18:00: Check Point: RecCount3800
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3800
+2015-11-09 04:18:00: Check Point: oRecCount: 3800
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN29Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING MUN STEEL GATE ENGINEERING
+2015-11-09 04:18:00: Check Point: RecCount3801
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3801
+2015-11-09 04:18:00: Check Point: oRecCount: 3801
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN30Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MING TAI CONSTRUCTION ENGINEERING CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3802
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3802
+2015-11-09 04:18:00: Check Point: oRecCount: 3802
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN31Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIN OF FINANCE OF KIN OF SAUDI ARABIA
+2015-11-09 04:18:00: Check Point: RecCount3803
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3803
+2015-11-09 04:18:00: Check Point: oRecCount: 3803
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIN32Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MINISTRY OF MANPOWER
+2015-11-09 04:18:00: Check Point: RecCount3804
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3804
+2015-11-09 04:18:00: Check Point: oRecCount: 3804
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIP01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: M.I.P. INTERNATIONAL LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3805
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3805
+2015-11-09 04:18:00: Check Point: oRecCount: 3805
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIQ01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIQ LOGISTICS HONG KONG LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3806
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3806
+2015-11-09 04:18:00: Check Point: oRecCount: 3806
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIR01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIRACLE INVESTMENTS LTD
+2015-11-09 04:18:00: Check Point: RecCount3807
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3807
+2015-11-09 04:18:00: Check Point: oRecCount: 3807
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIR02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIRAMAR TRAVEL LTD
+2015-11-09 04:18:00: Check Point: RecCount3808
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3808
+2015-11-09 04:18:00: Check Point: oRecCount: 3808
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIR03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIRAMAR HOTEL & INVESTMENT (EXPRESS) LTD
+2015-11-09 04:18:00: Check Point: RecCount3809
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3809
+2015-11-09 04:18:00: Check Point: oRecCount: 3809
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIS01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MISCELLANEOUS
+2015-11-09 04:18:00: Check Point: RecCount3810
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3810
+2015-11-09 04:18:00: Check Point: oRecCount: 3810
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIS02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MISTER FURNITURE (APEX) LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3811
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3811
+2015-11-09 04:18:00: Check Point: oRecCount: 3811
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIS03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MISSION (TRADING) ENGINEERING CO.
+2015-11-09 04:18:00: Check Point: RecCount3812
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3812
+2015-11-09 04:18:00: Check Point: oRecCount: 3812
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIT01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MITSUBISHI ELEVATOR HK CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3813
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3813
+2015-11-09 04:18:00: Check Point: oRecCount: 3813
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIT02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MITSUBISHI ELECTRIC ASIA PTE LTD
+2015-11-09 04:18:00: Check Point: RecCount3814
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3814
+2015-11-09 04:18:00: Check Point: oRecCount: 3814
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIZ01Z51C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIZUHO CORPORATE BANK, LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3815
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3815
+2015-11-09 04:18:00: Check Point: oRecCount: 3815
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MIZ02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MIZIKER ENTERTAINMENT GROUP
+2015-11-09 04:18:00: Check Point: RecCount3816
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3816
+2015-11-09 04:18:00: Check Point: oRecCount: 3816
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MJC01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MJ CONSULTANTS LTD
+2015-11-09 04:18:00: Check Point: RecCount3817
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3817
+2015-11-09 04:18:00: Check Point: oRecCount: 3817
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MJK01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MJK CONSULTANCY
+2015-11-09 04:18:00: Check Point: RecCount3818
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3818
+2015-11-09 04:18:00: Check Point: oRecCount: 3818
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MLA01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MLA ARCHITECTS (HK) LTD
+2015-11-09 04:18:00: Check Point: RecCount3819
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3819
+2015-11-09 04:18:00: Check Point: oRecCount: 3819
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MLA02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: M.L'AGENT COMPTABLE DU MUSEE DU LOUVRE
+2015-11-09 04:18:00: Check Point: RecCount3820
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3820
+2015-11-09 04:18:00: Check Point: oRecCount: 3820
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MLC01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: ML CONSULTANTS
+2015-11-09 04:18:00: Check Point: RecCount3821
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3821
+2015-11-09 04:18:00: Check Point: oRecCount: 3821
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MMP01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MM POWERPLUS BUSWAY (HONG KONG) LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3822
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3822
+2015-11-09 04:18:00: Check Point: oRecCount: 3822
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOB01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MOBILIAS UNION
+2015-11-09 04:18:00: Check Point: RecCount3823
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3823
+2015-11-09 04:18:00: Check Point: oRecCount: 3823
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOB02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MOBILIA ON HENG
+2015-11-09 04:18:00: Check Point: RecCount3824
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3824
+2015-11-09 04:18:00: Check Point: oRecCount: 3824
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOB03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MOBICOOL INTERNATIONAL LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3825
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3825
+2015-11-09 04:18:00: Check Point: oRecCount: 3825
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN CONCRETE DRILL CUT CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3826
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3826
+2015-11-09 04:18:00: Check Point: oRecCount: 3826
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD02Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN (INT'L) ACCESS & SCAFFOLDING LTD
+2015-11-09 04:18:00: Check Point: RecCount3827
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3827
+2015-11-09 04:18:00: Check Point: oRecCount: 3827
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD03Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN AIR COND & ENG(HK)
+2015-11-09 04:18:00: Check Point: RecCount3828
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3828
+2015-11-09 04:18:00: Check Point: oRecCount: 3828
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD04Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN (INTERNATIONAL) ENG CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3829
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3829
+2015-11-09 04:18:00: Check Point: oRecCount: 3829
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD05Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN PRINTING LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3830
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3830
+2015-11-09 04:18:00: Check Point: oRecCount: 3830
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD06Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN CONCRETE DRILL CUT (MACAU) CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3831
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3831
+2015-11-09 04:18:00: Check Point: oRecCount: 3831
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD07Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN MANUFACTURE LTD
+2015-11-09 04:18:00: Check Point: RecCount3832
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3832
+2015-11-09 04:18:00: Check Point: oRecCount: 3832
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD08Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODULAR SPACE LTD
+2015-11-09 04:18:00: Check Point: RecCount3833
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3833
+2015-11-09 04:18:00: Check Point: oRecCount: 3833
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD09Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN AGE AIR CONDITIONING ENG LTD
+2015-11-09 04:18:00: Check Point: RecCount3834
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3834
+2015-11-09 04:18:00: Check Point: oRecCount: 3834
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD10Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN FIRE PREVENTION LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3835
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3835
+2015-11-09 04:18:00: Check Point: oRecCount: 3835
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD11Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN (M) ACCESS & SCAFFOLDING LTD
+2015-11-09 04:18:00: Check Point: RecCount3836
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3836
+2015-11-09 04:18:00: Check Point: oRecCount: 3836
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD12Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN (ENVIRO-DEMOLITION) CO., LIMITED
+2015-11-09 04:18:00: Check Point: RecCount3837
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3837
+2015-11-09 04:18:00: Check Point: oRecCount: 3837
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD13Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODISTA WO KEI
+2015-11-09 04:18:00: Check Point: RecCount3838
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3838
+2015-11-09 04:18:00: Check Point: oRecCount: 3838
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD14Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN POOLS PTE LTD
+2015-11-09 04:18:00: Check Point: RecCount3839
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3839
+2015-11-09 04:18:00: Check Point: oRecCount: 3839
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOD41EA4C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MODERN FRONT HOLDINGS LTD
+2015-11-09 04:18:00: Check Point: RecCount3840
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3840
+2015-11-09 04:18:00: Check Point: oRecCount: 3840
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOK01Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MOK SUM KEE CONSTRUCTION CO LTD
+2015-11-09 04:18:00: Check Point: RecCount3841
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3841
+2015-11-09 04:18:00: Check Point: oRecCount: 3841
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOK02Z83C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MOK YAT FAN, EDMOND
+2015-11-09 04:18:00: Check Point: RecCount3842
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3842
+2015-11-09 04:18:00: Check Point: oRecCount: 3842
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOK03Z83C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MOK KA LEUNG ANTHONY
+2015-11-09 04:18:00: Check Point: RecCount3843
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3843
+2015-11-09 04:18:00: Check Point: oRecCount: 3843
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOK04Z00C
+2015-11-09 04:18:00: Check Point: Line: 1
+2015-11-09 04:18:00: Check Point: Column: List_CardName
+2015-11-09 04:18:00: Check Point: Value: MOK PAK CHEUNG (莫伯祥)
+2015-11-09 04:18:00: Check Point: RecCount3844
+2015-11-09 04:18:00: Check Point: oRow Lenght: 3844
+2015-11-09 04:18:00: Check Point: oRecCount: 3844
+2015-11-09 04:18:00: Check Point: Line: 0
+2015-11-09 04:18:00: Check Point: Column: List_CardCode
+2015-11-09 04:18:00: Check Point: Value: MOM01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOMANTUM FURNITURE
+2015-11-09 04:18:01: Check Point: RecCount3845
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3845
+2015-11-09 04:18:01: Check Point: oRecCount: 3845
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MON01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MONTACO LTD
+2015-11-09 04:18:01: Check Point: RecCount3846
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3846
+2015-11-09 04:18:01: Check Point: oRecCount: 3846
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MON02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MONG KAM CHUEN
+2015-11-09 04:18:01: Check Point: RecCount3847
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3847
+2015-11-09 04:18:01: Check Point: oRecCount: 3847
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOO01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOORE RUBLE YUDELL
+2015-11-09 04:18:01: Check Point: RecCount3848
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3848
+2015-11-09 04:18:01: Check Point: oRecCount: 3848
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOR01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MORETON ENGINEERING & EQUIPMENT CO LTD
+2015-11-09 04:18:01: Check Point: RecCount3849
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3849
+2015-11-09 04:18:01: Check Point: oRecCount: 3849
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOR02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOREWELL FURNITURE
+2015-11-09 04:18:01: Check Point: RecCount3850
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3850
+2015-11-09 04:18:01: Check Point: oRecCount: 3850
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOR03Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MORETON ENGINEERING
+2015-11-09 04:18:01: Check Point: RecCount3851
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3851
+2015-11-09 04:18:01: Check Point: oRecCount: 3851
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOR04Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MORETON (MACAU) LTD
+2015-11-09 04:18:01: Check Point: RecCount3852
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3852
+2015-11-09 04:18:01: Check Point: oRecCount: 3852
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOR05Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MORRIS SCHAEFER ASIA PACIFIC PTE LTD
+2015-11-09 04:18:01: Check Point: RecCount3853
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3853
+2015-11-09 04:18:01: Check Point: oRecCount: 3853
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOS01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOSSACK FONSECA & CO.
+2015-11-09 04:18:01: Check Point: RecCount3854
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3854
+2015-11-09 04:18:01: Check Point: oRecCount: 3854
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOT01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOTT CONNELL LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3855
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3855
+2015-11-09 04:18:01: Check Point: oRecCount: 3855
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOT02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOTION WASTE MANAGEMENT LTD
+2015-11-09 04:18:01: Check Point: RecCount3856
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3856
+2015-11-09 04:18:01: Check Point: oRecCount: 3856
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOT03Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOTOR GEMINI
+2015-11-09 04:18:01: Check Point: RecCount3857
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3857
+2015-11-09 04:18:01: Check Point: oRecCount: 3857
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOT04Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOTT MACDONALD HONG KONG LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3858
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3858
+2015-11-09 04:18:01: Check Point: oRecCount: 3858
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOW01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOW SHING METAL
+2015-11-09 04:18:01: Check Point: RecCount3859
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3859
+2015-11-09 04:18:01: Check Point: oRecCount: 3859
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MOX01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MOXA DESIGN ARTS LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3860
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3860
+2015-11-09 04:18:01: Check Point: oRecCount: 3860
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MPE01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MP ENGINEERING CO LTD
+2015-11-09 04:18:01: Check Point: RecCount3861
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3861
+2015-11-09 04:18:01: Check Point: oRecCount: 3861
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MPF01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MPFA ADMINISTRATION ACCOUNT
+2015-11-09 04:18:01: Check Point: RecCount3862
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3862
+2015-11-09 04:18:01: Check Point: oRecCount: 3862
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MRS01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MRS FOK C/O HWP LTD
+2015-11-09 04:18:01: Check Point: RecCount3863
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3863
+2015-11-09 04:18:01: Check Point: oRecCount: 3863
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MSI01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MSIG INSURANCE (HONG KONG) LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3864
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3864
+2015-11-09 04:18:01: Check Point: oRecCount: 3864
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MSO01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MSOLUTION CONSULTANTS LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3865
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3865
+2015-11-09 04:18:01: Check Point: oRecCount: 3865
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MST01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MSTATION PRODUCTION COMPANY
+2015-11-09 04:18:01: Check Point: RecCount3866
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3866
+2015-11-09 04:18:01: Check Point: oRecCount: 3866
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MSY01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MSY ENGINEERING LTD
+2015-11-09 04:18:01: Check Point: RecCount3867
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3867
+2015-11-09 04:18:01: Check Point: oRecCount: 3867
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MTA01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: M TAY & CO PTE LTD
+2015-11-09 04:18:01: Check Point: RecCount3868
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3868
+2015-11-09 04:18:01: Check Point: oRecCount: 3868
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MTR01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MTR CORPORATION LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3869
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3869
+2015-11-09 04:18:01: Check Point: oRecCount: 3869
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUI01Z83C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUI CHING HUNG, JOANNA
+2015-11-09 04:18:01: Check Point: RecCount3870
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3870
+2015-11-09 04:18:01: Check Point: oRecCount: 3870
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUI02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUI WO TRANSPORTATION (C.M.) COMPANY LTD
+2015-11-09 04:18:01: Check Point: RecCount3871
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3871
+2015-11-09 04:18:01: Check Point: oRecCount: 3871
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUK01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUK KEE ENGINEERING
+2015-11-09 04:18:01: Check Point: RecCount3872
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3872
+2015-11-09 04:18:01: Check Point: oRecCount: 3872
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTI BASE LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3873
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3873
+2015-11-09 04:18:01: Check Point: oRecCount: 3873
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTIPIPE RENOVATION (HK) LTD
+2015-11-09 04:18:01: Check Point: RecCount3874
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3874
+2015-11-09 04:18:01: Check Point: oRecCount: 3874
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL03Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTI-CHAMPION LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3875
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3875
+2015-11-09 04:18:01: Check Point: oRecCount: 3875
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL04Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTI MATERIAL CONSTRUCTION CO LTD
+2015-11-09 04:18:01: Check Point: RecCount3876
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3876
+2015-11-09 04:18:01: Check Point: oRecCount: 3876
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL05Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTI-WAY INDUSTRIES LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3877
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3877
+2015-11-09 04:18:01: Check Point: oRecCount: 3877
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL06Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTIPIPE RENOVATION LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3878
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3878
+2015-11-09 04:18:01: Check Point: oRecCount: 3878
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL07Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTISOFT LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3879
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3879
+2015-11-09 04:18:01: Check Point: oRecCount: 3879
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUL08Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MULTIPIPE ENGINEERING (MACAU) CO., LTD
+2015-11-09 04:18:01: Check Point: RecCount3880
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3880
+2015-11-09 04:18:01: Check Point: oRecCount: 3880
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUN01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUN HEAN ELECTRICAL ENG (HK) CO LTD
+2015-11-09 04:18:01: Check Point: RecCount3881
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3881
+2015-11-09 04:18:01: Check Point: oRecCount: 3881
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUS01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUSE CONSULTANCY LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3882
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3882
+2015-11-09 04:18:01: Check Point: oRecCount: 3882
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUS02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUSA HORTICULTURE SERVICES PTE LTD
+2015-11-09 04:18:01: Check Point: RecCount3883
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3883
+2015-11-09 04:18:01: Check Point: oRecCount: 3883
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUT01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUTUAL FAITH ENGINEERING LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3884
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3884
+2015-11-09 04:18:01: Check Point: oRecCount: 3884
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MUT02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MUTUAL FAITH BLDG MATERIAL SUPPLY LTD
+2015-11-09 04:18:01: Check Point: RecCount3885
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3885
+2015-11-09 04:18:01: Check Point: oRecCount: 3885
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MVA01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: MVA HONG KONG LTD.
+2015-11-09 04:18:01: Check Point: RecCount3886
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3886
+2015-11-09 04:18:01: Check Point: oRecCount: 3886
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: MYC01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: M.Y. CHENG & CO (ENGINEERING) LTD
+2015-11-09 04:18:01: Check Point: RecCount3887
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3887
+2015-11-09 04:18:01: Check Point: oRecCount: 3887
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: N.T.
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: 
+2015-11-09 04:18:01: Check Point: RecCount3888
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3888
+2015-11-09 04:18:01: Check Point: oRecCount: 3888
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAK01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NAKA KOGYO KABUSHIKI KAISHA (NAKA CORP)
+2015-11-09 04:18:01: Check Point: RecCount3889
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3889
+2015-11-09 04:18:01: Check Point: oRecCount: 3889
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAM01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NAM KEE BATTERY CO.
+2015-11-09 04:18:01: Check Point: RecCount3890
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3890
+2015-11-09 04:18:01: Check Point: oRecCount: 3890
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAM02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NAM SOK BUILDING MAT & PLASTIC PDT (SZ)
+2015-11-09 04:18:01: Check Point: RecCount3891
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3891
+2015-11-09 04:18:01: Check Point: oRecCount: 3891
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAM03Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NAM FONG STANDARD CONCRETE LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3892
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3892
+2015-11-09 04:18:01: Check Point: oRecCount: 3892
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAM04Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NAM WAH INTELLIGENT AUTOMATION LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3893
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3893
+2015-11-09 04:18:01: Check Point: oRecCount: 3893
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAN01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NANJING TRAVEL (H.K.) COMPANY LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3894
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3894
+2015-11-09 04:18:01: Check Point: oRecCount: 3894
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAN02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NANYANG COTTON MILL LTD
+2015-11-09 04:18:01: Check Point: RecCount3895
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3895
+2015-11-09 04:18:01: Check Point: oRecCount: 3895
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAN03Z51C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NANYANG COMMERCIAL BANK (CHINA), LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3896
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3896
+2015-11-09 04:18:01: Check Point: oRecCount: 3896
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAN04Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: 南龍回收鐵五金
+2015-11-09 04:18:01: Check Point: RecCount3897
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3897
+2015-11-09 04:18:01: Check Point: oRecCount: 3897
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAN05Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: 南豐鐵器工程
+2015-11-09 04:18:01: Check Point: RecCount3898
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3898
+2015-11-09 04:18:01: Check Point: oRecCount: 3898
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAN06Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NANYANG MANUFACTURING IND PTE. LTD.
+2015-11-09 04:18:01: Check Point: RecCount3899
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3899
+2015-11-09 04:18:01: Check Point: oRecCount: 3899
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAP01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NAP ACOUSTICS (FAR EAST) LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3900
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3900
+2015-11-09 04:18:01: Check Point: oRecCount: 3900
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAR01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NARDONE LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3901
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3901
+2015-11-09 04:18:01: Check Point: oRecCount: 3901
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAT01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NATURAL CHOICES LTD
+2015-11-09 04:18:01: Check Point: RecCount3902
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3902
+2015-11-09 04:18:01: Check Point: oRecCount: 3902
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAT02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NATIONAL CONCORD ENGINEERING LTD
+2015-11-09 04:18:01: Check Point: RecCount3903
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3903
+2015-11-09 04:18:01: Check Point: oRecCount: 3903
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAT03Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NATION SOURCE (HONG KONG) COMPANY
+2015-11-09 04:18:01: Check Point: RecCount3904
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3904
+2015-11-09 04:18:01: Check Point: oRecCount: 3904
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAT04Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NATURE COMPUTER ENGRAVING COMPANY
+2015-11-09 04:18:01: Check Point: RecCount3905
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3905
+2015-11-09 04:18:01: Check Point: oRecCount: 3905
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAT05Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NATION FIELD LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3906
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3906
+2015-11-09 04:18:01: Check Point: oRecCount: 3906
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NAT06Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NATIONAL ENVIRONMENT AGENCY
+2015-11-09 04:18:01: Check Point: RecCount3907
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3907
+2015-11-09 04:18:01: Check Point: oRecCount: 3907
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NCK01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NCK ENTERPRISE PTE LTD
+2015-11-09 04:18:01: Check Point: RecCount3908
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3908
+2015-11-09 04:18:01: Check Point: oRecCount: 3908
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NCL01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NCL TECHNOLOGY LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3909
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3909
+2015-11-09 04:18:01: Check Point: oRecCount: 3909
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NCP01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NCPK COMPANY LIMITED
+2015-11-09 04:18:01: Check Point: RecCount3910
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3910
+2015-11-09 04:18:01: Check Point: oRecCount: 3910
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NEC01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NEC
+2015-11-09 04:18:01: Check Point: RecCount3911
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3911
+2015-11-09 04:18:01: Check Point: oRecCount: 3911
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NEC02Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NEC TELECOM.(YAT HING COMM. NETWORK ENG)
+2015-11-09 04:18:01: Check Point: RecCount3912
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3912
+2015-11-09 04:18:01: Check Point: oRecCount: 3912
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NEE01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NEE LEE CONSTRUCTION PTE LTD
+2015-11-09 04:18:01: Check Point: RecCount3913
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3913
+2015-11-09 04:18:01: Check Point: oRecCount: 3913
+2015-11-09 04:18:01: Check Point: Line: 0
+2015-11-09 04:18:01: Check Point: Column: List_CardCode
+2015-11-09 04:18:01: Check Point: Value: NEH01Z00C
+2015-11-09 04:18:01: Check Point: Line: 1
+2015-11-09 04:18:01: Check Point: Column: List_CardName
+2015-11-09 04:18:01: Check Point: Value: NEHLSEN HONG KONG LTD
+2015-11-09 04:18:01: Check Point: RecCount3914
+2015-11-09 04:18:01: Check Point: oRow Lenght: 3914
+2015-11-09 04:18:01: Check Point: oRecCount: 3914

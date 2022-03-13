@@ -1,0 +1,3 @@
+2019-07-07 12:50:57: Check Point: Import: RsToCollection
+2019-07-07 12:50:57: Check Point: select *, 'HK-T' AS PCMSSERV from QSI12_Cert('19042B1H', 'PES04Z00S', '19042B1H/SC090') 
+2019-07-07 12:50:59: Check Point: C:\Program Files\SAP\Enhance Add-ins\CPS-Addin.xla
