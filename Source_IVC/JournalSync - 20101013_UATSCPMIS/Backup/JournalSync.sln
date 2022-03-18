@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JournalSync", "JournalSync\JournalSync.vbproj", "{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DILibrary", "..\DILibrary - 1.1.3\DILibrary\DILibrary.vbproj", "{EAF19F19-C514-4915-BE5F-56084B81A81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Debug|x86.ActiveCfg = Debug|x86
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Debug|x86.Build.0 = Debug|x86
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Release|x86.ActiveCfg = Debug|x86
+		{3B1D75A2-81EC-4DB2-B751-BA9B239C9717}.Release|x86.Build.0 = Debug|x86
+		{EAF19F19-C514-4915-BE5F-56084B81A81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF19F19-C514-4915-BE5F-56084B81A81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF19F19-C514-4915-BE5F-56084B81A81C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EAF19F19-C514-4915-BE5F-56084B81A81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF19F19-C514-4915-BE5F-56084B81A81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF19F19-C514-4915-BE5F-56084B81A81C}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
