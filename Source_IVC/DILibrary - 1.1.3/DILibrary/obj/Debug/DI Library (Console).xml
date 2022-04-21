@@ -6,20 +6,7 @@ DILibrary(Console)
 </name>
 </assembly>
 <members>
-<member name="M:CPS.Global.Setting.Company.#ctor(System.Int32)">
-	<summary>
- To Define the Login setting in SAP, the 
- class only support for background batch job
- </summary>
-	<param name="pConnects">Insert the total Connect company variable here</param>
-	<remarks></remarks>
-</member><member name="M:CPS.Global.Setting.Company.chkVariable_Syndex(System.String)">
-	<summary>
- Check the connection parameter is enough for pass in total connected company or not
- </summary>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:CPS.Global.Setting.LogMessage.#ctor(SAPbobsCOM.Company)">
+<member name="M:CPS.Global.Setting.LogMessage.#ctor(SAPbobsCOM.Company)">
 	<summary>
  Log Message Standard format
  </summary>
@@ -52,6 +39,19 @@ DILibrary(Console)
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="M:CPS.Global.Setting.Company.#ctor(System.Int32)">
+	<summary>
+ To Define the Login setting in SAP, the 
+ class only support for background batch job
+ </summary>
+	<param name="pConnects">Insert the total Connect company variable here</param>
+	<remarks></remarks>
+</member><member name="M:CPS.Global.Setting.Company.chkVariable_Syndex(System.String)">
+	<summary>
+ Check the connection parameter is enough for pass in total connected company or not
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
 </member><member name="P:CPS.DI.Console.Company.CompanyList">
 	<summary>
  If connection request is 1, then system will automatic copy this object to Current Company

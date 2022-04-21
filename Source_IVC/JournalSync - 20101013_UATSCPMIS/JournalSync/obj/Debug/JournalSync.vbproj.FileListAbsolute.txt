@@ -104,3 +104,19 @@ D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug
 D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\JournalSync.exe
 D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\JournalSync.xml
 D:\1. Compass Project\PaulY\Program\JournalSync - 20090922\JournalSync\obj\Debug\JournalSync.pdb
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\JournalSync.exe.config
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\Interop.SAPbobsCOM.dll
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\JournalSync.vbproj.ResolveComReference.cache
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\JournalSync.exe
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\JournalSync.xml
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\JournalSync.pdb
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\JournalSync.exe
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\JournalSync.pdb
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\JournalSync.xml
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\DI Library (Console).dll
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\Interop.SAPbobsCOM.dll
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\DI Library (Console).pdb
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\Debug\DI Library (Console).xml
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\ResolveAssemblyReference.cache
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\JournalSync.Resources.resources
+D:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\obj\Debug\JournalSync.vbproj.GenerateResource.Cache

@@ -1,0 +1,44 @@
+2022-04-19 18:22:00: Check Point: setDraftToAPDocument: Failure
+2022-04-19 18:22:04: Check Point: Setup SAP Transaction
+2022-04-19 18:22:04: Check Point: Setup StartTransaction:False
+2022-04-19 18:22:04: Check Point: Start SAP Transaction
+2022-04-19 18:22:04: Check Point: Setup Flex Transaction
+2022-04-19 18:22:04: Check Point: Start Flex Transaction
+2022-04-19 18:22:04: Check Point: setDraftToAPDocument: 104372
+2022-04-19 18:22:04: Check Point: SaveXML Path: E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\TEMP\bf944977-b92f-4cae-9930-81645f2e1c14.xml
+2022-04-19 18:22:04: Check Point: Validate Quantity
+2022-04-19 18:22:04: Check Point: setDraftToAPDocument: Success
+2022-04-19 18:22:04: Check Point: NewObjKey: 134775
+2022-04-19 18:22:04: Check Point: Update_ApprovalStatus_Y, SQL Query: Update OPCH Set DraftKey = '104372', WddStatus = 'P' Where DocEntry = '134775'
+2022-04-19 18:22:10: Check Point: Setup SAP Transaction
+2022-04-19 18:22:10: Check Point: Setup StartTransaction:False
+2022-04-19 18:22:10: Check Point: Start SAP Transaction
+2022-04-19 18:22:10: Check Point: Setup Flex Transaction
+2022-04-19 18:22:10: Check Point: Start Flex Transaction
+2022-04-19 18:22:10: Check Point: setDraftToAPDocument: 105622
+2022-04-19 18:22:10: Check Point: SaveXML Path: E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\TEMP\3aa91dc0-9d58-45cb-81ce-21cab9a2ea21.xml
+2022-04-19 18:22:10: Check Point: Validate Quantity
+2022-04-19 18:22:10: Check Point: setDraftToAPDocument: Failure
+2022-04-19 18:22:10: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'E') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2022-04-19 18:22:10: Check Point: Supplier Payment Cert, Import_Reject SQL Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'R') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2022-04-19 18:22:10: Check Point: Supplier Payment Cert Import Exception Query: Select Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'D') 
+ AND ( PIVOU_BCH_ID Like 'M%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2022-04-19 18:22:10: Check Point: oDataTable is nothing : True
+2022-04-19 18:22:10: Check Point: Export Log To Text Files

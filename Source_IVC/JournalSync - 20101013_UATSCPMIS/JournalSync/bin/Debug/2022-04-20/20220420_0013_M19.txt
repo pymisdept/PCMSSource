@@ -1,0 +1,15 @@
+2022-04-20 00:13:06: Check Point: AP Credit Memo, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'R%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2022-04-20 00:13:22: Check Point: Setup SAP Transaction
+2022-04-20 00:13:22: Check Point: Setup StartTransaction:False
+2022-04-20 00:13:22: Check Point: Start SAP Transaction
+2022-04-20 00:13:22: Check Point: Setup Flex Transaction
+2022-04-20 00:13:22: Check Point: Start Flex Transaction
+2022-04-20 00:13:26: Check Point: setDraftToAPCMDocument: 104328
+2022-04-20 00:13:26: Check Point: SaveXML Path: E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\TEMP\1fa762d3-476c-4969-9d26-544be3a64661.xml
+2022-04-20 00:13:26: Check Point: Validate Quantity

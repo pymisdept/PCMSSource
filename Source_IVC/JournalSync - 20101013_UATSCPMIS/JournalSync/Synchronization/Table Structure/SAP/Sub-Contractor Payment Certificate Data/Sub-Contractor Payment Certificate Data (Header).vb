@@ -217,8 +217,12 @@ Namespace Datatable.SAP.AP
             sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".DocTotal <> 0" & vbCrLf
 
             sqlStr &= " AND ((" & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project <> '19067B3H'" & vbCrLf
-            sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project <> '15008B3H')" & vbCrLf
-            sqlStr &= " OR (" & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project IN ('19067B3H','15008B3H')" & vbCrLf
+            sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project <> '15008B3H'" & vbCrLf
+            sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project <> '03085B1H'" & vbCrLf
+            sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project <> '04011C3H'" & vbCrLf
+            sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project <> '16028B1H'" & vbCrLf
+            sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project <> '20092BAH')" & vbCrLf
+            sqlStr &= " OR (" & Datatable.SAP.AP.SubCon_Hdr.TableName & ".Project IN ('19067B3H','15008B3H','03085B1H','04011C3H','16028B1H','20092BAH')" & vbCrLf
             sqlStr &= " AND " & Datatable.SAP.AP.SubCon_Hdr.TableName & ".DocEntry IN (SELECT A.DocEntry from PCMS_FE.PCMS800.dbo.DocumentProperty A where A.DocStatus = 'PPPS' and A.Type = 1012 and exists (select * from PMIS_BE.SPMMLPYE.dbo.[cmdocument] where convert(int, quantity2) = A.ID and cmdocumentstatus IN (21, 147) and alternativeno COLLATE LATIN1_GENERAL_BIN2 = A.DocNum))))" & vbCrLf
 
             Me.AdvanceFilter("And " & sqlStr)

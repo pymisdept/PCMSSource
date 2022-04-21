@@ -1,0 +1,53 @@
+2022-04-19 18:35:02: Check Point: AP Credit Memo Header Qeuery:  Select DocEntry, DocNum, DocType, CANCELED, DocStatus, WddStatus, ObjType, DocDate, DocDueDate, TaxDate, CardCode, CardName, Project, DocCur, DocRate, DiscPrcnt, Indicator, DocTotal, DocTotalFC, U_DelIns, U_CntctName, U_CntctTel, U_PCMSDocNum, U_DocSubject, U_RefDate1, U_RefDate2, U_PayTermDesc, U_SubsiCode, U_SlpName, U_SlpTel, Address2, Address, U_AppWork, U_AppMOS, U_AppDW, U_AppClaim, U_AppVO, U_AppCC, U_RetenMaxAmt, U_RetenPrcnt, U_PurchaseAgreement, U_PONo, U_CONo, U_MRNo From [dbo].[ODRF]  WHERE 
+  ( ObjType = '19') 
+And 	Not Exists(Select 1 From [PAY800].[dbo].[CPSFSP]	
+	           Where	
+	           ODRF.DocEntry = [CPSFSP].DocEntry And 	
+	           CPSFSP.ObjType  = '112' And	
+	           ODRF.ObjType  = '19'	And 
+	           ODRF.DocStatus = 'O'	And 
+	           [CPSFSP].ReasonCode='R112' 
+	)	
+   And   
+	Exists(Select 1 From [PAY800].[dbo].[OWDD] 	 
+	       Where	 
+	       [ODRF].DocEntry = [OWDD].[DocEntry] And	 
+	       [OWDD].[Status] = 'W'	 
+	)	 
+
+ 
+2022-04-19 18:35:02: Check Point: AP Credit Memo, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'R%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
+2022-04-19 18:35:02: Check Point: Setup SAP Transaction
+2022-04-19 18:35:02: Check Point: Setup StartTransaction:False
+2022-04-19 18:35:02: Check Point: Start SAP Transaction
+2022-04-19 18:35:02: Check Point: Setup Flex Transaction
+2022-04-19 18:35:02: Check Point: Start Flex Transaction
+2022-04-19 18:35:02: Check Point: setDraftToAPCMDocument: 104328
+2022-04-19 18:35:02: Check Point: SaveXML Path: E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\TEMP\50eb79e4-8825-41bf-865f-762fa0c35842.xml
+2022-04-19 18:35:03: Check Point: Validate Quantity
+2022-04-19 18:35:03: Check Point: setDraftToAPCMDocument: Failure
+2022-04-19 18:35:03: Check Point: Setup SAP Transaction
+2022-04-19 18:35:03: Check Point: Setup StartTransaction:False
+2022-04-19 18:35:03: Check Point: Start SAP Transaction
+2022-04-19 18:35:03: Check Point: Setup Flex Transaction
+2022-04-19 18:35:03: Check Point: Start Flex Transaction
+2022-04-19 18:35:03: Check Point: setDraftToAPCMDocument: 105862
+2022-04-19 18:35:03: Check Point: SaveXML Path: E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\TEMP\899bec8a-b70e-4ea3-9d60-1e416155c04c.xml
+2022-04-19 18:35:03: Check Point: Validate Quantity
+2022-04-19 18:35:04: Check Point: setDraftToAPCMDocument: Failure
+2022-04-19 18:35:04: Check Point: Setup SAP Transaction
+2022-04-19 18:35:04: Check Point: Setup StartTransaction:False
+2022-04-19 18:35:04: Check Point: Start SAP Transaction
+2022-04-19 18:35:04: Check Point: Setup Flex Transaction
+2022-04-19 18:35:04: Check Point: Start Flex Transaction
+2022-04-19 18:35:04: Check Point: setDraftToAPCMDocument: 105863
+2022-04-19 18:35:04: Check Point: SaveXML Path: E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\TEMP\4a90d2ae-38e9-4eea-8348-8ac8cb3e6b57.xml
+2022-04-19 18:35:04: Check Point: Validate Quantity
+2022-04-19 18:35:04: Check Point: setDraftToAPCMDocument: Failure
+2022-04-19 18:35:04: Check Point: Export Log To Text Files

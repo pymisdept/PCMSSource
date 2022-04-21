@@ -48,3 +48,16 @@ F:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DILibrary.vbpr
 F:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DI Library (Console).dll
 F:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DI Library (Console).xml
 F:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DI Library (Console).pdb
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\bin\Debug\DI Library (Console).dll
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\bin\Debug\DI Library (Console).pdb
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\bin\Debug\DI Library (Console).xml
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\bin\Debug\Interop.SAPbobsCOM.dll
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\Interop.SAPbobsCOM.dll
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DILibrary.vbproj.ResolveComReference.cache
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\CPS.SrvSetting.resources
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\CPS.Resources.resources
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DILibrary.vbproj.GenerateResource.Cache
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DI Library (Console).dll
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DI Library (Console).xml
+D:\ProgramSource\Source_IVC\DILibrary - 1.1.3\DILibrary\obj\Debug\DI Library (Console).pdb

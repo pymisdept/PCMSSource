@@ -1,0 +1,2 @@
+2022-04-19 23:51:42: Check Point: SaveXML Path: E:\ProgramSource\Source_IVC\JournalSync - 20101013_UATSCPMIS\JournalSync\bin\TEMP\4fd30a0a-da8c-437d-9b8d-78db2d687ceb.xml
+2022-04-19 23:51:42: Check Point: Validate Quantity

@@ -1,0 +1,7 @@
+2022-04-19 23:44:20: Check Point: AP Credit Memo, Import_Posted: SQL QuerySelect Distinct PIVOU_BCH_ID From [COM].[dbo].[PIVOU] WHERE 
+  (( PIVOU_FLX_STA = 'P') 
+ AND ( PIVOU_BCH_ID Like 'R%') 
+ AND (( PIVOU_PCMS_STA = '') 
+ OR ( PIVOU_PCMS_STA Is Null ))) 
+
+
